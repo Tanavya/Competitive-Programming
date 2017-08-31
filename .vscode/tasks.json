@@ -1,0 +1,21 @@
+{
+    "version": "0.1.0",
+    "command": "python",
+    "isShellCommand": true,
+    "showOutput": "always",
+    "suppressTaskName": true,
+    "tasks": [
+        {
+            "taskName": "build",
+            "args": ["/Users/tanavya.dimri/Documents/RunSublimeText/compile.py"],
+            "isBuildCommand": true,
+            "echoCommand": true
+        },
+        {
+            "taskName": "run",
+            "args": ["/Users/tanavya.dimri/Documents/RunSublimeText/compile_and_run.py"],
+            "isTestCommand": true,
+            "echoCommand": true,
+        }
+    ]
+}
