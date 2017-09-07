@@ -45,7 +45,7 @@ void rec(int n, int w) {
 int main() {
     while (scanf("%d", &N) != EOF) {
         best = -1;
-        ans = {};
+        ans.clear();
         scanf("%d", &T);
         for (int i = 0; i < T; i++) {
             scanf("%d", &tracks[i]);

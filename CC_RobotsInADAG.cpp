@@ -34,7 +34,6 @@ using namespace std;
 
 int main() {
 
-
     int T, N, M, K, u, v;
     scanf("%d", &T);
     while (T--) {

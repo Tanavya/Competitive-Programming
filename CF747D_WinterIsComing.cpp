@@ -1,3 +1,4 @@
+//STUPID QUESTION. Should have mentioned we have only ONE set of Winter and Summer tires. Wastedforeveronthis. :(
 #include <iostream>
 #include <vector>
 #include <algorithm>
@@ -33,6 +34,9 @@ const ld EPS = 1e-9, PI = 3.1415926535897932384626433832795;
 using namespace std;
  
 int main() {
+    #ifndef ONLINE_JUDGE
+        freopen("inp.txt", "r", stdin);
+    #endif
     int N, K, temp;
     scanf("%d %d", &N, &K);
     vi A (N + 7, -INF);
@@ -40,7 +44,9 @@ int main() {
         scanf("%d", &temp);
         A[i] = (temp >= 0);
     }
-    int max_pos = 0, tire = 1, k = 0, changed = 0;
+    int max_pos = 0, tire = 1, k = 0, changed = 0, impossible = 0, k_here = 0;
+    //1 -> summer tire
+    //0 -> winter tire
     for (int i = 1; i <= N; i++) {
         if (tire) {
             if (!A[i]) {
@@ -60,12 +66,19 @@ int main() {
                     k = 0;
                 }
                 else {
+                    cout << k_here << endl;
                     changed += 2;
-                    k = i - max_pos - 2;
+                    k = k_here + i - max_pos;
+                    if (k >= K) {
+                        impossible = true;
+                        break;
+                    }
                 }
             }
+            if (!A[i] && k != K) k_here = k;
             k++;
         }
     }
-    printf("%d\n", changed);
+    if (impossible) cout << -1 << endl;
+    else printf("%d\n", changed);
 }
