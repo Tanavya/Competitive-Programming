@@ -26,31 +26,58 @@
 typedef long long int ll;
 using namespace std;
 
+void gentcs (int T) {
+    srand(time(NULL));
+    cout << T << endl;
+    while (T--) {
+        int p = (rand() % 21);
+        int r = (rand() % 21);
+        int q = (rand() % 21) * -1;
+        int s = (rand() % 21) * -1;
+        int t = (rand() % 21) * -1;
+        assert (p <= 20);
+        cout << p << " " << q << " " << r << " " << s << " " << t << endl;
+    }
+}
+
+
 int main() {
-    //2100 * 40 * 
+    /*
+    for (int i = 0; i <= 5; i++) {
+        string loc = "input/" + to_string(i) + ".txt";
+        freopen(loc.c_str(), "w", stdout);
+        if (i == 0) {
+            cout << 3 << endl;
+            cout << "0 0 0 0 -2 1\n
+1 0 0 0 -1 2\n
+1 -1 1 -1 -1 1\n";
+        }
+        if (i == 1)
+            gentcs(800);
+        else
+            gentcs(1e6);
+    }
+    for (int i = 0; i <= 5; i++) {
+        freopen("")
+    }
+
+    #ifndef ONLINE_JUDGE 
+        freopen("inp.txt", "r", stdin);
+    #endif
+    */
     int p,q,r,s,t,u;
-    //cout << log2(1/EPS) << endl;
     while (scanf("%d %d %d %d %d %d", &p, &q, &r, &s, &t, &u) != EOF) {
-        //double x = 0.7554;
-        //double val = p * exp(-x) + q * sin(x) + r * cos(x) + s * tan(x) + t * x * x + u;
-        //cout << val << endl;
-        //p∗e^−x +q∗sin(x)+r∗cos(x)+s∗tan(x)+t∗x2 +u=0
-        
         
         double lo = 0.0, hi = 1.0, x, val;
         for (int i = 0; i < 50; i++) {
             x = (lo + hi) / 2;
             val = p * exp(-x) + q * sin(x) + r * cos(x) + s * tan(x) + t * x * x + u;
-            //cout << "x: " << x << " val: " << val << endl;
             if (val > 0) lo = x;
             else hi = x;
         }
         
         if (val > EPS || val < -EPS) printf("No solution\n");
         else cout << setprecision(4) << fixed << x << endl;
-
-        //cout << p * exp(-x) + q * sin(x) + r * cos(x) + s * tan(x) + t * x * x + u << endl;
-        
 
     }
 }

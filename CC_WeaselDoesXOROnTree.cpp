@@ -91,7 +91,6 @@ int main() {
 	for (int i = 1; i <= rep; i++) {
 		vll iter;
 		int block_size = size[i], prev = i - block_size/2;
-		if (prev < 0) assert(false);
 		int prev_size = size[prev];
 		ll tot = 0;
 		for (int j = 0; j < len; j += block_size) {
