@@ -1,0 +1,9 @@
+Subtask 1: N <= 20 and L,B,H <= 100
+Subtask 2: N <= 300
+Subtask 3: N <= 1e5
+
+testcases:-
+0 -> sample
+1-4 -> subtask 1
+6-9 -> subtask 2
+10-14 -> subtask 3

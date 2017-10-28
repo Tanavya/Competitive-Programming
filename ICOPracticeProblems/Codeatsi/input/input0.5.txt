@@ -1,0 +1,26 @@
+2
+8 2
+ab1
+ab2
+user1 ab1 10
+user2 ab2 50
+user2 ab2 40
+user1 ab1 50
+user2 ab1 20
+user1 ab2 20
+user3 ab1 100
+user2 ab1 50
+10 3
+ab1
+ab2
+ab3
+user1 ab1 100
+user2 ab2 100
+user1 ab3 50
+user3 ab3 100
+user4 ab3 100
+user4 ab2 100
+user1 ab3 100
+user2 ab1 100
+user3 ab1 100
+user1 ab1 10

@@ -1,6 +1,3 @@
-//Problem Link: https://www.hackerearth.com/challenge/competitive/march-clash-15/algorithm/counting-on-tree-1/description/
-//Problem type: Dynamic Programming On Trees
-
 #include <iostream>
 #include <vector>
 #include <algorithm>
