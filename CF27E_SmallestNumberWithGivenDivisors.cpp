@@ -34,7 +34,7 @@ const ld EPS = 1e-9, PI = 3.1415926535897932384626433832795;
 using namespace std;
 
 
-ull dp[15][1007];
+ull dp[15][2000];
 ull power[50][60];
 vector <int> primes = {2,3,5,7,11,13,17,19,23,29,31,37,41};
 ull rec(int pf, int div) {
@@ -44,7 +44,7 @@ ull rec(int pf, int div) {
     for (int i = 0; i <= 60; i++) {
         if (power[primes[pf]][i] != 0) {
             if (pf == 0) {
-                if (div % (i+1) == 0 && div / (i+1) == 1)
+                if (div == (i+1))
                     ret = min(ret, power[primes[pf]][i]);
             }
             else {
@@ -70,7 +70,8 @@ int main() {
     }
     memset(dp, 0, sizeof(dp));
     int n;
-    scanf("%d", &n);
+    //scanf("%d", &n);
+    n = 1600;
     cout << rec(9, n) << endl;
 
 }
