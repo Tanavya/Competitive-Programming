@@ -52,23 +52,22 @@ void kmpPreprocess() {
     while (i < m) {
         while (j >= 0 && P[i] != P[j])
             j = b[j];
-        i++;
+        //while different, reset j using b
+        i++; //when same, advance both pointers
         j++;
         b[i] = j;
     }
-    for (int i = 0; i < m; i++) cout << setw(2) << i << " ";
-    cout << endl;
-
-    for (int i = 0; i < m; i++) cout << setw(2) << b[i] << " ";
-    cout << endl;
+    for (int i = 0; i < m; i++) cout << setw(2) << i << " "; cout << endl;
+    for (int i = 0; i < m; i++) cout << setw(2) << b[i] << " "; cout << endl;
 }
 void kmpSearch() {
     int i = 0, j = 0;
     while (i < n) {
         while (j >= 0 && T[i] != P[j])
             j = b[j];
+        //while different, reset j using b
         i++;
-        j++;
+        j++; //when same, advance both pointers
         if (j == m) {
             printf("P is found at index %d in T\n", i-j);
             j = b[j];

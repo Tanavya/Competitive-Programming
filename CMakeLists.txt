@@ -251,10 +251,22 @@ set(SOURCE_FILES
         UVa_TourDeFrance.cpp
         UVa_Y2KAccountingBug.cpp
         UVa_Zones.cpp
-        YogesMM.cpp OtherAlgorithms/Knuth-Morris-Pratt-Algorithm.cpp CC_ChefGoesLeftRight.cpp)
+        YogesMM.cpp OtherAlgorithms/Knuth-Morris-Pratt-Algorithm.cpp CC_ChefGoesLeftRight.cpp DataStructures/CC_ChefAndSubarrayQueries.cpp DataStructures/CC_ChefAndSubarrayQueries2.cpp DataStructures/SPOJ_GSS1.cpp GraphTheory/Implementation/DFSConnectedComponents.cpp CC_ProductOnSegment.cpp DataStructures/SPOJ_QTREE1.cpp DataStructures/CC_LoversGift.cpp DynamicProgramming/CF495D_ObsessiveString.cpp DynamicProgramming/CF383D_Antimatter.cpp CF525E_AnyaAndCubes.cpp OtherAlgorithms/Bitmasks.cpp CF688E_TheValuesYouCanMake.cpp GraphTheory/CF659E_NewReform.cpp DataStructures/CC_LoversGift2.cpp.cpp)
 
 add_executable(Competitive_Programming ${SOURCE_FILES})
 add_executable(CF347D_LuckyCommonSubsequence2 DynamicProgramming/CF347D_LuckyCommonSubsequence2.cpp)
 add_executable(Knuth-Morris-Pratt-Algorithm OtherAlgorithms/Knuth-Morris-Pratt-Algorithm.cpp)
 add_executable(ManachersAlgo OtherAlgorithms/ManachersAlgo.cpp)
 add_executable(CC_ChefGoesLeftRight CC_ChefGoesLeftRight.cpp)
+add_executable(CC_ChefAndSubarrayQueries DataStructures/CC_ChefAndSubarrayQueries.cpp)
+add_executable(CC_ChefAndSubarrayQueries2 DataStructures/CC_ChefAndSubarrayQueries2.cpp)
+add_executable(SPOJ_GSS1 DataStructures/SPOJ_GSS1.cpp)
+add_executable(DFSConnectedComponents GraphTheory/Implementation/DFSConnectedComponents.cpp)
+add_executable(CC_ProductOnSegment CC_ProductOnSegment.cpp)
+add_executable(SPOJ_QTREE1 DataStructures/SPOJ_QTREE1.cpp)
+add_executable(CC_LoversGift DataStructures/CC_LoversGift.cpp)
+add_executable(CF495D_ObsessiveString DynamicProgramming/CF495D_ObsessiveString.cpp)
+add_executable(CF383D_Antimatter DynamicProgramming/CF383D_Antimatter.cpp)
+add_executable(CF525E_AnyaAndCubes CF525E_AnyaAndCubes.cpp)
+add_executable(CF688E_TheValuesYouCanMake CF688E_TheValuesYouCanMake.cpp)
+add_executable(CF659E_NewReform GraphTheory/CF659E_NewReform.cpp)

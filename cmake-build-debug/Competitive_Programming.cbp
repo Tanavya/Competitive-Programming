@@ -17,6 +17,436 @@
 					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CF659E_NewReform">
+				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CF659E_NewReform" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 CF659E_NewReform"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CF659E_NewReform/fast">
+				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CF659E_NewReform" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 CF659E_NewReform/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CF688E_TheValuesYouCanMake">
+				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CF688E_TheValuesYouCanMake" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 CF688E_TheValuesYouCanMake"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CF688E_TheValuesYouCanMake/fast">
+				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CF688E_TheValuesYouCanMake" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 CF688E_TheValuesYouCanMake/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CF495D_ObsessiveString">
+				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CF495D_ObsessiveString" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 CF495D_ObsessiveString"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CF495D_ObsessiveString/fast">
+				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CF495D_ObsessiveString" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 CF495D_ObsessiveString/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SPOJ_QTREE1">
+				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/SPOJ_QTREE1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 SPOJ_QTREE1"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SPOJ_QTREE1/fast">
+				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/SPOJ_QTREE1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 SPOJ_QTREE1/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CC_ProductOnSegment">
+				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CC_ProductOnSegment" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 CC_ProductOnSegment"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CC_ProductOnSegment/fast">
+				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CC_ProductOnSegment" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 CC_ProductOnSegment/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CC_LoversGift">
+				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CC_LoversGift" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 CC_LoversGift"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CC_LoversGift/fast">
+				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CC_LoversGift" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 CC_LoversGift/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SPOJ_GSS1">
+				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/SPOJ_GSS1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 SPOJ_GSS1"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SPOJ_GSS1/fast">
+				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/SPOJ_GSS1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 SPOJ_GSS1/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CC_ChefAndSubarrayQueries">
+				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CC_ChefAndSubarrayQueries" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 CC_ChefAndSubarrayQueries"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CC_ChefAndSubarrayQueries/fast">
+				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CC_ChefAndSubarrayQueries" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 CC_ChefAndSubarrayQueries/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CF525E_AnyaAndCubes">
+				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CF525E_AnyaAndCubes" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 CF525E_AnyaAndCubes"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CF525E_AnyaAndCubes/fast">
+				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CF525E_AnyaAndCubes" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 CF525E_AnyaAndCubes/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DFSConnectedComponents">
+				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/DFSConnectedComponents" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 DFSConnectedComponents"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DFSConnectedComponents/fast">
+				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/DFSConnectedComponents" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 DFSConnectedComponents/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="rebuild_cache">
 				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
 				<Option type="4"/>
@@ -111,6 +541,90 @@
 					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="Competitive_Programming">
+				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Competitive_Programming" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 Competitive_Programming"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Competitive_Programming/fast">
+				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Competitive_Programming" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 Competitive_Programming/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CC_ChefAndSubarrayQueries2">
+				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CC_ChefAndSubarrayQueries2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 CC_ChefAndSubarrayQueries2"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CC_ChefAndSubarrayQueries2/fast">
+				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CC_ChefAndSubarrayQueries2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 CC_ChefAndSubarrayQueries2/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="CC_ChefGoesLeftRight">
 				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CC_ChefGoesLeftRight" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
@@ -153,6 +667,48 @@
 					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="CF383D_Antimatter">
+				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CF383D_Antimatter" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 CF383D_Antimatter"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CF383D_Antimatter/fast">
+				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CF383D_Antimatter" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 CF383D_Antimatter/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="CF347D_LuckyCommonSubsequence2">
 				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CF347D_LuckyCommonSubsequence2" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
@@ -190,58 +746,6 @@
 				</Compiler>
 				<MakeCommands>
 					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 CF347D_LuckyCommonSubsequence2/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="edit_cache">
-				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
-				<Option type="4"/>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="Competitive_Programming">
-				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Competitive_Programming" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
-					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
-					<Add directory="/System/Library/Frameworks"/>
-					<Add directory="/Library/Frameworks"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 Competitive_Programming"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="Competitive_Programming/fast">
-				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Competitive_Programming" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
-					<Add directory="/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
-					<Add directory="/System/Library/Frameworks"/>
-					<Add directory="/Library/Frameworks"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 Competitive_Programming/fast"/>
 					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
@@ -297,8 +801,8 @@
 			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefGoesLeftRight.cpp">
-			<Option target="CC_ChefGoesLeftRight"/>
 			<Option target="Competitive_Programming"/>
+			<Option target="CC_ChefGoesLeftRight"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefandCycledCycles.cpp">
 			<Option target="Competitive_Programming"/>
@@ -325,6 +829,10 @@
 			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/CC_PairWiseUnionOfSet.cpp">
+			<Option target="Competitive_Programming"/>
+		</Unit>
+		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ProductOnSegment.cpp">
+			<Option target="CC_ProductOnSegment"/>
 			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/CC_PyramidFalls.cpp">
@@ -372,6 +880,14 @@
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/CF27E_SmallestNumberWithGivenDivisors.cpp">
 			<Option target="Competitive_Programming"/>
 		</Unit>
+		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/CF525E_AnyaAndCubes.cpp">
+			<Option target="CF525E_AnyaAndCubes"/>
+			<Option target="Competitive_Programming"/>
+		</Unit>
+		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/CF688E_TheValuesYouCanMake.cpp">
+			<Option target="CF688E_TheValuesYouCanMake"/>
+			<Option target="Competitive_Programming"/>
+		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/CF747C_Servers.cpp">
 			<Option target="Competitive_Programming"/>
 		</Unit>
@@ -394,6 +910,21 @@
 			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_BlockedWebsites.cpp">
+			<Option target="Competitive_Programming"/>
+		</Unit>
+		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_ChefAndSubarrayQueries.cpp">
+			<Option target="CC_ChefAndSubarrayQueries"/>
+			<Option target="Competitive_Programming"/>
+		</Unit>
+		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_ChefAndSubarrayQueries2.cpp">
+			<Option target="Competitive_Programming"/>
+			<Option target="CC_ChefAndSubarrayQueries2"/>
+		</Unit>
+		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_LoversGift.cpp">
+			<Option target="CC_LoversGift"/>
+			<Option target="Competitive_Programming"/>
+		</Unit>
+		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_LoversGift2.cpp.cpp">
 			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_MultiplesOf3.cpp">
@@ -444,6 +975,10 @@
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_DQuery.cpp">
 			<Option target="Competitive_Programming"/>
 		</Unit>
+		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_GSS1.cpp">
+			<Option target="SPOJ_GSS1"/>
+			<Option target="Competitive_Programming"/>
+		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_KQuery.cpp">
 			<Option target="Competitive_Programming"/>
 		</Unit>
@@ -456,6 +991,10 @@
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_OrderStatisticSet.cpp">
 			<Option target="Competitive_Programming"/>
 		</Unit>
+		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_QTREE1.cpp">
+			<Option target="SPOJ_QTREE1"/>
+			<Option target="Competitive_Programming"/>
+		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CC_SealingUp.cpp">
 			<Option target="Competitive_Programming"/>
 		</Unit>
@@ -466,8 +1005,12 @@
 			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF347D_LuckyCommonSubsequence2.cpp">
-			<Option target="CF347D_LuckyCommonSubsequence2"/>
 			<Option target="Competitive_Programming"/>
+			<Option target="CF347D_LuckyCommonSubsequence2"/>
+		</Unit>
+		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF383D_Antimatter.cpp">
+			<Option target="Competitive_Programming"/>
+			<Option target="CF383D_Antimatter"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF385C_BearAndPrimeNumbers.cpp">
 			<Option target="Competitive_Programming"/>
@@ -485,6 +1028,10 @@
 			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF478D_RedGreenTowers.cpp">
+			<Option target="Competitive_Programming"/>
+		</Unit>
+		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF495D_ObsessiveString.cpp">
+			<Option target="CF495D_ObsessiveString"/>
 			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF4D_MysteriousPresent.cpp">
@@ -652,6 +1199,10 @@
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/CC_KingdomUnity.cpp">
 			<Option target="Competitive_Programming"/>
 		</Unit>
+		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/CF659E_NewReform.cpp">
+			<Option target="CF659E_NewReform"/>
+			<Option target="Competitive_Programming"/>
+		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/CF764C_TimofeyAndTree.cpp">
 			<Option target="Competitive_Programming"/>
 		</Unit>
@@ -671,6 +1222,10 @@
 			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/ArticulationPointsAndBridges.cpp">
+			<Option target="Competitive_Programming"/>
+		</Unit>
+		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/DFSConnectedComponents.cpp">
+			<Option target="DFSConnectedComponents"/>
 			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/LowestCommonAncestor(BinaryLifting).cpp">
@@ -764,6 +1319,9 @@
 			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/OPC_SiruseriMetro.cpp">
+			<Option target="Competitive_Programming"/>
+		</Unit>
+		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/Bitmasks.cpp">
 			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/GreatestCommonDivisor.cpp">

@@ -39,7 +39,7 @@ inline int right(int p) { return (p << 1) + 1; }
 void build(int p, int L, int R) { //O(N)
     if (L == R) {
         tree[p] = A[L];
-    
+    }
     else {
         int mid = (L+R) / 2;
         build(left(p), L, mid);
