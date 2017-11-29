@@ -34,10 +34,10 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = /Volumes/x10ded/Applications/CLion.app/Contents/bin/cmake/bin/cmake
+CMAKE_COMMAND = /Applications/CLion.app/Contents/bin/cmake/bin/cmake
 
 # The command to remove a file.
-RM = /Volumes/x10ded/Applications/CLion.app/Contents/bin/cmake/bin/cmake -E remove -f
+RM = /Applications/CLion.app/Contents/bin/cmake/bin/cmake -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
@@ -60,15 +60,15 @@ include CMakeFiles/CC_ChefAndSubarrayQueries2.dir/flags.make
 CMakeFiles/CC_ChefAndSubarrayQueries2.dir/DataStructures/CC_ChefAndSubarrayQueries2.cpp.o: CMakeFiles/CC_ChefAndSubarrayQueries2.dir/flags.make
 CMakeFiles/CC_ChefAndSubarrayQueries2.dir/DataStructures/CC_ChefAndSubarrayQueries2.cpp.o: ../DataStructures/CC_ChefAndSubarrayQueries2.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CC_ChefAndSubarrayQueries2.dir/DataStructures/CC_ChefAndSubarrayQueries2.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CC_ChefAndSubarrayQueries2.dir/DataStructures/CC_ChefAndSubarrayQueries2.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_ChefAndSubarrayQueries2.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CC_ChefAndSubarrayQueries2.dir/DataStructures/CC_ChefAndSubarrayQueries2.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_ChefAndSubarrayQueries2.cpp
 
 CMakeFiles/CC_ChefAndSubarrayQueries2.dir/DataStructures/CC_ChefAndSubarrayQueries2.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CC_ChefAndSubarrayQueries2.dir/DataStructures/CC_ChefAndSubarrayQueries2.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_ChefAndSubarrayQueries2.cpp > CMakeFiles/CC_ChefAndSubarrayQueries2.dir/DataStructures/CC_ChefAndSubarrayQueries2.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_ChefAndSubarrayQueries2.cpp > CMakeFiles/CC_ChefAndSubarrayQueries2.dir/DataStructures/CC_ChefAndSubarrayQueries2.cpp.i
 
 CMakeFiles/CC_ChefAndSubarrayQueries2.dir/DataStructures/CC_ChefAndSubarrayQueries2.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CC_ChefAndSubarrayQueries2.dir/DataStructures/CC_ChefAndSubarrayQueries2.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_ChefAndSubarrayQueries2.cpp -o CMakeFiles/CC_ChefAndSubarrayQueries2.dir/DataStructures/CC_ChefAndSubarrayQueries2.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_ChefAndSubarrayQueries2.cpp -o CMakeFiles/CC_ChefAndSubarrayQueries2.dir/DataStructures/CC_ChefAndSubarrayQueries2.cpp.s
 
 CMakeFiles/CC_ChefAndSubarrayQueries2.dir/DataStructures/CC_ChefAndSubarrayQueries2.cpp.o.requires:
 

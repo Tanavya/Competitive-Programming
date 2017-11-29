@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/IOI96_AGame.dir/DynamicProgramming/IOI96_AGame.cpp.o  -o IOI96_AGame 

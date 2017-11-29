@@ -1,5 +1,6 @@
 //Initial solution for Lovers Gift. Was getting TLE in-contest because I used sets to find max1, max2. :(
 //Offline DSU + Segtree
+//Segtree for Query 2 - finding max1, max2 of all sets excluding current set of query node i.e 1 to C-1 and C+1 to N
 
 #include <iostream>
 #include <vector>
@@ -306,6 +307,9 @@ int main() {
         }
         int i = 0;
         while (!ans.empty()) {
+            //cout << "Mine: " << ans.back() << endl;
+            //cout << "AC  : " << AC[i] << endl;
+            //assert(AC[i] == ans.back());
             //cout << "Mine: " << ans.back() << endl;
             //cout << "AC  : " << AC[i] << endl;
             //assert(AC[i] == ans.back());

@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/CF892E_Envy.dir/GraphTheory/CF892E_Envy.cpp.o  -o CF892E_Envy 

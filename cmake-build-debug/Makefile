@@ -39,10 +39,10 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = /Volumes/x10ded/Applications/CLion.app/Contents/bin/cmake/bin/cmake
+CMAKE_COMMAND = /Applications/CLion.app/Contents/bin/cmake/bin/cmake
 
 # The command to remove a file.
-RM = /Volumes/x10ded/Applications/CLion.app/Contents/bin/cmake/bin/cmake -E remove -f
+RM = /Applications/CLion.app/Contents/bin/cmake/bin/cmake -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
@@ -56,27 +56,27 @@ CMAKE_BINARY_DIR = /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-bu
 #=============================================================================
 # Targets provided globally by CMake.
 
-# Special rule for the target edit_cache
-edit_cache:
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
-	/Volumes/x10ded/Applications/CLion.app/Contents/bin/cmake/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
-.PHONY : edit_cache
-
-# Special rule for the target edit_cache
-edit_cache/fast: edit_cache
-
-.PHONY : edit_cache/fast
-
 # Special rule for the target rebuild_cache
 rebuild_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
-	/Volumes/x10ded/Applications/CLion.app/Contents/bin/cmake/bin/cmake -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
+	/Applications/CLion.app/Contents/bin/cmake/bin/cmake -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
 .PHONY : rebuild_cache
 
 # Special rule for the target rebuild_cache
 rebuild_cache/fast: rebuild_cache
 
 .PHONY : rebuild_cache/fast
+
+# Special rule for the target edit_cache
+edit_cache:
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
+	/Applications/CLion.app/Contents/bin/cmake/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
+.PHONY : edit_cache
+
+# Special rule for the target edit_cache
+edit_cache/fast: edit_cache
+
+.PHONY : edit_cache/fast
 
 # The main all target
 all: cmake_check_build_system
@@ -111,6 +111,136 @@ depend:
 .PHONY : depend
 
 #=============================================================================
+# Target rules for targets named IOI2000_PostOffices
+
+# Build rule for target.
+IOI2000_PostOffices: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 IOI2000_PostOffices
+.PHONY : IOI2000_PostOffices
+
+# fast build rule for target.
+IOI2000_PostOffices/fast:
+	$(MAKE) -f CMakeFiles/IOI2000_PostOffices.dir/build.make CMakeFiles/IOI2000_PostOffices.dir/build
+.PHONY : IOI2000_PostOffices/fast
+
+#=============================================================================
+# Target rules for targets named Exun2017_Digex
+
+# Build rule for target.
+Exun2017_Digex: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 Exun2017_Digex
+.PHONY : Exun2017_Digex
+
+# fast build rule for target.
+Exun2017_Digex/fast:
+	$(MAKE) -f CMakeFiles/Exun2017_Digex.dir/build.make CMakeFiles/Exun2017_Digex.dir/build
+.PHONY : Exun2017_Digex/fast
+
+#=============================================================================
+# Target rules for targets named CF519E_AAndBLectureRooms
+
+# Build rule for target.
+CF519E_AAndBLectureRooms: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 CF519E_AAndBLectureRooms
+.PHONY : CF519E_AAndBLectureRooms
+
+# fast build rule for target.
+CF519E_AAndBLectureRooms/fast:
+	$(MAKE) -f CMakeFiles/CF519E_AAndBLectureRooms.dir/build.make CMakeFiles/CF519E_AAndBLectureRooms.dir/build
+.PHONY : CF519E_AAndBLectureRooms/fast
+
+#=============================================================================
+# Target rules for targets named CF495D_ObsessiveString
+
+# Build rule for target.
+CF495D_ObsessiveString: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 CF495D_ObsessiveString
+.PHONY : CF495D_ObsessiveString
+
+# fast build rule for target.
+CF495D_ObsessiveString/fast:
+	$(MAKE) -f CMakeFiles/CF495D_ObsessiveString.dir/build.make CMakeFiles/CF495D_ObsessiveString.dir/build
+.PHONY : CF495D_ObsessiveString/fast
+
+#=============================================================================
+# Target rules for targets named CF892E_Envy
+
+# Build rule for target.
+CF892E_Envy: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 CF892E_Envy
+.PHONY : CF892E_Envy
+
+# fast build rule for target.
+CF892E_Envy/fast:
+	$(MAKE) -f CMakeFiles/CF892E_Envy.dir/build.make CMakeFiles/CF892E_Envy.dir/build
+.PHONY : CF892E_Envy/fast
+
+#=============================================================================
+# Target rules for targets named IOI96_AGame
+
+# Build rule for target.
+IOI96_AGame: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 IOI96_AGame
+.PHONY : IOI96_AGame
+
+# fast build rule for target.
+IOI96_AGame/fast:
+	$(MAKE) -f CMakeFiles/IOI96_AGame.dir/build.make CMakeFiles/IOI96_AGame.dir/build
+.PHONY : IOI96_AGame/fast
+
+#=============================================================================
+# Target rules for targets named CC_ChefAndSubarrayQueries
+
+# Build rule for target.
+CC_ChefAndSubarrayQueries: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 CC_ChefAndSubarrayQueries
+.PHONY : CC_ChefAndSubarrayQueries
+
+# fast build rule for target.
+CC_ChefAndSubarrayQueries/fast:
+	$(MAKE) -f CMakeFiles/CC_ChefAndSubarrayQueries.dir/build.make CMakeFiles/CC_ChefAndSubarrayQueries.dir/build
+.PHONY : CC_ChefAndSubarrayQueries/fast
+
+#=============================================================================
+# Target rules for targets named ExunPrelimsP2
+
+# Build rule for target.
+ExunPrelimsP2: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 ExunPrelimsP2
+.PHONY : ExunPrelimsP2
+
+# fast build rule for target.
+ExunPrelimsP2/fast:
+	$(MAKE) -f CMakeFiles/ExunPrelimsP2.dir/build.make CMakeFiles/ExunPrelimsP2.dir/build
+.PHONY : ExunPrelimsP2/fast
+
+#=============================================================================
+# Target rules for targets named CF340D_BubbleSortGraph
+
+# Build rule for target.
+CF340D_BubbleSortGraph: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 CF340D_BubbleSortGraph
+.PHONY : CF340D_BubbleSortGraph
+
+# fast build rule for target.
+CF340D_BubbleSortGraph/fast:
+	$(MAKE) -f CMakeFiles/CF340D_BubbleSortGraph.dir/build.make CMakeFiles/CF340D_BubbleSortGraph.dir/build
+.PHONY : CF340D_BubbleSortGraph/fast
+
+#=============================================================================
+# Target rules for targets named CF479D_RidingInALift
+
+# Build rule for target.
+CF479D_RidingInALift: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 CF479D_RidingInALift
+.PHONY : CF479D_RidingInALift
+
+# fast build rule for target.
+CF479D_RidingInALift/fast:
+	$(MAKE) -f CMakeFiles/CF479D_RidingInALift.dir/build.make CMakeFiles/CF479D_RidingInALift.dir/build
+.PHONY : CF479D_RidingInALift/fast
+
+#=============================================================================
 # Target rules for targets named CF659E_NewReform
 
 # Build rule for target.
@@ -135,19 +265,6 @@ CF688E_TheValuesYouCanMake: cmake_check_build_system
 CF688E_TheValuesYouCanMake/fast:
 	$(MAKE) -f CMakeFiles/CF688E_TheValuesYouCanMake.dir/build.make CMakeFiles/CF688E_TheValuesYouCanMake.dir/build
 .PHONY : CF688E_TheValuesYouCanMake/fast
-
-#=============================================================================
-# Target rules for targets named CF495D_ObsessiveString
-
-# Build rule for target.
-CF495D_ObsessiveString: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 CF495D_ObsessiveString
-.PHONY : CF495D_ObsessiveString
-
-# fast build rule for target.
-CF495D_ObsessiveString/fast:
-	$(MAKE) -f CMakeFiles/CF495D_ObsessiveString.dir/build.make CMakeFiles/CF495D_ObsessiveString.dir/build
-.PHONY : CF495D_ObsessiveString/fast
 
 #=============================================================================
 # Target rules for targets named SPOJ_QTREE1
@@ -176,6 +293,19 @@ CC_ProductOnSegment/fast:
 .PHONY : CC_ProductOnSegment/fast
 
 #=============================================================================
+# Target rules for targets named CF525E_AnyaAndCubes
+
+# Build rule for target.
+CF525E_AnyaAndCubes: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 CF525E_AnyaAndCubes
+.PHONY : CF525E_AnyaAndCubes
+
+# fast build rule for target.
+CF525E_AnyaAndCubes/fast:
+	$(MAKE) -f CMakeFiles/CF525E_AnyaAndCubes.dir/build.make CMakeFiles/CF525E_AnyaAndCubes.dir/build
+.PHONY : CF525E_AnyaAndCubes/fast
+
+#=============================================================================
 # Target rules for targets named CC_LoversGift
 
 # Build rule for target.
@@ -187,6 +317,32 @@ CC_LoversGift: cmake_check_build_system
 CC_LoversGift/fast:
 	$(MAKE) -f CMakeFiles/CC_LoversGift.dir/build.make CMakeFiles/CC_LoversGift.dir/build
 .PHONY : CC_LoversGift/fast
+
+#=============================================================================
+# Target rules for targets named CF383D_Antimatter
+
+# Build rule for target.
+CF383D_Antimatter: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 CF383D_Antimatter
+.PHONY : CF383D_Antimatter
+
+# fast build rule for target.
+CF383D_Antimatter/fast:
+	$(MAKE) -f CMakeFiles/CF383D_Antimatter.dir/build.make CMakeFiles/CF383D_Antimatter.dir/build
+.PHONY : CF383D_Antimatter/fast
+
+#=============================================================================
+# Target rules for targets named CC_ChefAndMediumProblem2
+
+# Build rule for target.
+CC_ChefAndMediumProblem2: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 CC_ChefAndMediumProblem2
+.PHONY : CC_ChefAndMediumProblem2
+
+# fast build rule for target.
+CC_ChefAndMediumProblem2/fast:
+	$(MAKE) -f CMakeFiles/CC_ChefAndMediumProblem2.dir/build.make CMakeFiles/CC_ChefAndMediumProblem2.dir/build
+.PHONY : CC_ChefAndMediumProblem2/fast
 
 #=============================================================================
 # Target rules for targets named SPOJ_GSS1
@@ -202,30 +358,17 @@ SPOJ_GSS1/fast:
 .PHONY : SPOJ_GSS1/fast
 
 #=============================================================================
-# Target rules for targets named CC_ChefAndSubarrayQueries
+# Target rules for targets named Exun2017_DigexReturns
 
 # Build rule for target.
-CC_ChefAndSubarrayQueries: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 CC_ChefAndSubarrayQueries
-.PHONY : CC_ChefAndSubarrayQueries
+Exun2017_DigexReturns: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 Exun2017_DigexReturns
+.PHONY : Exun2017_DigexReturns
 
 # fast build rule for target.
-CC_ChefAndSubarrayQueries/fast:
-	$(MAKE) -f CMakeFiles/CC_ChefAndSubarrayQueries.dir/build.make CMakeFiles/CC_ChefAndSubarrayQueries.dir/build
-.PHONY : CC_ChefAndSubarrayQueries/fast
-
-#=============================================================================
-# Target rules for targets named CF525E_AnyaAndCubes
-
-# Build rule for target.
-CF525E_AnyaAndCubes: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 CF525E_AnyaAndCubes
-.PHONY : CF525E_AnyaAndCubes
-
-# fast build rule for target.
-CF525E_AnyaAndCubes/fast:
-	$(MAKE) -f CMakeFiles/CF525E_AnyaAndCubes.dir/build.make CMakeFiles/CF525E_AnyaAndCubes.dir/build
-.PHONY : CF525E_AnyaAndCubes/fast
+Exun2017_DigexReturns/fast:
+	$(MAKE) -f CMakeFiles/Exun2017_DigexReturns.dir/build.make CMakeFiles/Exun2017_DigexReturns.dir/build
+.PHONY : Exun2017_DigexReturns/fast
 
 #=============================================================================
 # Target rules for targets named DFSConnectedComponents
@@ -254,6 +397,19 @@ ManachersAlgo/fast:
 .PHONY : ManachersAlgo/fast
 
 #=============================================================================
+# Target rules for targets named CF342E_XeniaAndTree
+
+# Build rule for target.
+CF342E_XeniaAndTree: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 CF342E_XeniaAndTree
+.PHONY : CF342E_XeniaAndTree
+
+# fast build rule for target.
+CF342E_XeniaAndTree/fast:
+	$(MAKE) -f CMakeFiles/CF342E_XeniaAndTree.dir/build.make CMakeFiles/CF342E_XeniaAndTree.dir/build
+.PHONY : CF342E_XeniaAndTree/fast
+
+#=============================================================================
 # Target rules for targets named Knuth-Morris-Pratt-Algorithm
 
 # Build rule for target.
@@ -265,6 +421,19 @@ Knuth-Morris-Pratt-Algorithm: cmake_check_build_system
 Knuth-Morris-Pratt-Algorithm/fast:
 	$(MAKE) -f CMakeFiles/Knuth-Morris-Pratt-Algorithm.dir/build.make CMakeFiles/Knuth-Morris-Pratt-Algorithm.dir/build
 .PHONY : Knuth-Morris-Pratt-Algorithm/fast
+
+#=============================================================================
+# Target rules for targets named CF686D_KayAndSnowflake
+
+# Build rule for target.
+CF686D_KayAndSnowflake: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 CF686D_KayAndSnowflake
+.PHONY : CF686D_KayAndSnowflake
+
+# fast build rule for target.
+CF686D_KayAndSnowflake/fast:
+	$(MAKE) -f CMakeFiles/CF686D_KayAndSnowflake.dir/build.make CMakeFiles/CF686D_KayAndSnowflake.dir/build
+.PHONY : CF686D_KayAndSnowflake/fast
 
 #=============================================================================
 # Target rules for targets named Competitive_Programming
@@ -304,19 +473,6 @@ CC_ChefGoesLeftRight: cmake_check_build_system
 CC_ChefGoesLeftRight/fast:
 	$(MAKE) -f CMakeFiles/CC_ChefGoesLeftRight.dir/build.make CMakeFiles/CC_ChefGoesLeftRight.dir/build
 .PHONY : CC_ChefGoesLeftRight/fast
-
-#=============================================================================
-# Target rules for targets named CF383D_Antimatter
-
-# Build rule for target.
-CF383D_Antimatter: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 CF383D_Antimatter
-.PHONY : CF383D_Antimatter
-
-# fast build rule for target.
-CF383D_Antimatter/fast:
-	$(MAKE) -f CMakeFiles/CF383D_Antimatter.dir/build.make CMakeFiles/CF383D_Antimatter.dir/build
-.PHONY : CF383D_Antimatter/fast
 
 #=============================================================================
 # Target rules for targets named CF347D_LuckyCommonSubsequence2
@@ -1471,6 +1627,66 @@ CF27E_SmallestNumberWithGivenDivisors.cpp.s:
 	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CF27E_SmallestNumberWithGivenDivisors.cpp.s
 .PHONY : CF27E_SmallestNumberWithGivenDivisors.cpp.s
 
+CF340D_BubbleSortGraph.o: CF340D_BubbleSortGraph.cpp.o
+
+.PHONY : CF340D_BubbleSortGraph.o
+
+# target to build an object file
+CF340D_BubbleSortGraph.cpp.o:
+	$(MAKE) -f CMakeFiles/CF340D_BubbleSortGraph.dir/build.make CMakeFiles/CF340D_BubbleSortGraph.dir/CF340D_BubbleSortGraph.cpp.o
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CF340D_BubbleSortGraph.cpp.o
+.PHONY : CF340D_BubbleSortGraph.cpp.o
+
+CF340D_BubbleSortGraph.i: CF340D_BubbleSortGraph.cpp.i
+
+.PHONY : CF340D_BubbleSortGraph.i
+
+# target to preprocess a source file
+CF340D_BubbleSortGraph.cpp.i:
+	$(MAKE) -f CMakeFiles/CF340D_BubbleSortGraph.dir/build.make CMakeFiles/CF340D_BubbleSortGraph.dir/CF340D_BubbleSortGraph.cpp.i
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CF340D_BubbleSortGraph.cpp.i
+.PHONY : CF340D_BubbleSortGraph.cpp.i
+
+CF340D_BubbleSortGraph.s: CF340D_BubbleSortGraph.cpp.s
+
+.PHONY : CF340D_BubbleSortGraph.s
+
+# target to generate assembly for a file
+CF340D_BubbleSortGraph.cpp.s:
+	$(MAKE) -f CMakeFiles/CF340D_BubbleSortGraph.dir/build.make CMakeFiles/CF340D_BubbleSortGraph.dir/CF340D_BubbleSortGraph.cpp.s
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CF340D_BubbleSortGraph.cpp.s
+.PHONY : CF340D_BubbleSortGraph.cpp.s
+
+CF519E_AAndBLectureRooms.o: CF519E_AAndBLectureRooms.cpp.o
+
+.PHONY : CF519E_AAndBLectureRooms.o
+
+# target to build an object file
+CF519E_AAndBLectureRooms.cpp.o:
+	$(MAKE) -f CMakeFiles/CF519E_AAndBLectureRooms.dir/build.make CMakeFiles/CF519E_AAndBLectureRooms.dir/CF519E_AAndBLectureRooms.cpp.o
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CF519E_AAndBLectureRooms.cpp.o
+.PHONY : CF519E_AAndBLectureRooms.cpp.o
+
+CF519E_AAndBLectureRooms.i: CF519E_AAndBLectureRooms.cpp.i
+
+.PHONY : CF519E_AAndBLectureRooms.i
+
+# target to preprocess a source file
+CF519E_AAndBLectureRooms.cpp.i:
+	$(MAKE) -f CMakeFiles/CF519E_AAndBLectureRooms.dir/build.make CMakeFiles/CF519E_AAndBLectureRooms.dir/CF519E_AAndBLectureRooms.cpp.i
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CF519E_AAndBLectureRooms.cpp.i
+.PHONY : CF519E_AAndBLectureRooms.cpp.i
+
+CF519E_AAndBLectureRooms.s: CF519E_AAndBLectureRooms.cpp.s
+
+.PHONY : CF519E_AAndBLectureRooms.s
+
+# target to generate assembly for a file
+CF519E_AAndBLectureRooms.cpp.s:
+	$(MAKE) -f CMakeFiles/CF519E_AAndBLectureRooms.dir/build.make CMakeFiles/CF519E_AAndBLectureRooms.dir/CF519E_AAndBLectureRooms.cpp.s
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CF519E_AAndBLectureRooms.cpp.s
+.PHONY : CF519E_AAndBLectureRooms.cpp.s
+
 CF525E_AnyaAndCubes.o: CF525E_AnyaAndCubes.cpp.o
 
 .PHONY : CF525E_AnyaAndCubes.o
@@ -1747,6 +1963,36 @@ DataStructures/CC_BlockedWebsites.cpp.s:
 	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CC_BlockedWebsites.cpp.s
 .PHONY : DataStructures/CC_BlockedWebsites.cpp.s
 
+DataStructures/CC_ChefAndMediumProblem2.o: DataStructures/CC_ChefAndMediumProblem2.cpp.o
+
+.PHONY : DataStructures/CC_ChefAndMediumProblem2.o
+
+# target to build an object file
+DataStructures/CC_ChefAndMediumProblem2.cpp.o:
+	$(MAKE) -f CMakeFiles/CC_ChefAndMediumProblem2.dir/build.make CMakeFiles/CC_ChefAndMediumProblem2.dir/DataStructures/CC_ChefAndMediumProblem2.cpp.o
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndMediumProblem2.cpp.o
+.PHONY : DataStructures/CC_ChefAndMediumProblem2.cpp.o
+
+DataStructures/CC_ChefAndMediumProblem2.i: DataStructures/CC_ChefAndMediumProblem2.cpp.i
+
+.PHONY : DataStructures/CC_ChefAndMediumProblem2.i
+
+# target to preprocess a source file
+DataStructures/CC_ChefAndMediumProblem2.cpp.i:
+	$(MAKE) -f CMakeFiles/CC_ChefAndMediumProblem2.dir/build.make CMakeFiles/CC_ChefAndMediumProblem2.dir/DataStructures/CC_ChefAndMediumProblem2.cpp.i
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndMediumProblem2.cpp.i
+.PHONY : DataStructures/CC_ChefAndMediumProblem2.cpp.i
+
+DataStructures/CC_ChefAndMediumProblem2.s: DataStructures/CC_ChefAndMediumProblem2.cpp.s
+
+.PHONY : DataStructures/CC_ChefAndMediumProblem2.s
+
+# target to generate assembly for a file
+DataStructures/CC_ChefAndMediumProblem2.cpp.s:
+	$(MAKE) -f CMakeFiles/CC_ChefAndMediumProblem2.dir/build.make CMakeFiles/CC_ChefAndMediumProblem2.dir/DataStructures/CC_ChefAndMediumProblem2.cpp.s
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndMediumProblem2.cpp.s
+.PHONY : DataStructures/CC_ChefAndMediumProblem2.cpp.s
+
 DataStructures/CC_ChefAndSubarrayQueries.o: DataStructures/CC_ChefAndSubarrayQueries.cpp.o
 
 .PHONY : DataStructures/CC_ChefAndSubarrayQueries.o
@@ -1890,6 +2136,66 @@ DataStructures/CC_MultiplesOf3.s: DataStructures/CC_MultiplesOf3.cpp.s
 DataStructures/CC_MultiplesOf3.cpp.s:
 	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CC_MultiplesOf3.cpp.s
 .PHONY : DataStructures/CC_MultiplesOf3.cpp.s
+
+DataStructures/CF342E_XeniaAndTree.o: DataStructures/CF342E_XeniaAndTree.cpp.o
+
+.PHONY : DataStructures/CF342E_XeniaAndTree.o
+
+# target to build an object file
+DataStructures/CF342E_XeniaAndTree.cpp.o:
+	$(MAKE) -f CMakeFiles/CF342E_XeniaAndTree.dir/build.make CMakeFiles/CF342E_XeniaAndTree.dir/DataStructures/CF342E_XeniaAndTree.cpp.o
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CF342E_XeniaAndTree.cpp.o
+.PHONY : DataStructures/CF342E_XeniaAndTree.cpp.o
+
+DataStructures/CF342E_XeniaAndTree.i: DataStructures/CF342E_XeniaAndTree.cpp.i
+
+.PHONY : DataStructures/CF342E_XeniaAndTree.i
+
+# target to preprocess a source file
+DataStructures/CF342E_XeniaAndTree.cpp.i:
+	$(MAKE) -f CMakeFiles/CF342E_XeniaAndTree.dir/build.make CMakeFiles/CF342E_XeniaAndTree.dir/DataStructures/CF342E_XeniaAndTree.cpp.i
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CF342E_XeniaAndTree.cpp.i
+.PHONY : DataStructures/CF342E_XeniaAndTree.cpp.i
+
+DataStructures/CF342E_XeniaAndTree.s: DataStructures/CF342E_XeniaAndTree.cpp.s
+
+.PHONY : DataStructures/CF342E_XeniaAndTree.s
+
+# target to generate assembly for a file
+DataStructures/CF342E_XeniaAndTree.cpp.s:
+	$(MAKE) -f CMakeFiles/CF342E_XeniaAndTree.dir/build.make CMakeFiles/CF342E_XeniaAndTree.dir/DataStructures/CF342E_XeniaAndTree.cpp.s
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CF342E_XeniaAndTree.cpp.s
+.PHONY : DataStructures/CF342E_XeniaAndTree.cpp.s
+
+DataStructures/CF686D_KayAndSnowflake.o: DataStructures/CF686D_KayAndSnowflake.cpp.o
+
+.PHONY : DataStructures/CF686D_KayAndSnowflake.o
+
+# target to build an object file
+DataStructures/CF686D_KayAndSnowflake.cpp.o:
+	$(MAKE) -f CMakeFiles/CF686D_KayAndSnowflake.dir/build.make CMakeFiles/CF686D_KayAndSnowflake.dir/DataStructures/CF686D_KayAndSnowflake.cpp.o
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CF686D_KayAndSnowflake.cpp.o
+.PHONY : DataStructures/CF686D_KayAndSnowflake.cpp.o
+
+DataStructures/CF686D_KayAndSnowflake.i: DataStructures/CF686D_KayAndSnowflake.cpp.i
+
+.PHONY : DataStructures/CF686D_KayAndSnowflake.i
+
+# target to preprocess a source file
+DataStructures/CF686D_KayAndSnowflake.cpp.i:
+	$(MAKE) -f CMakeFiles/CF686D_KayAndSnowflake.dir/build.make CMakeFiles/CF686D_KayAndSnowflake.dir/DataStructures/CF686D_KayAndSnowflake.cpp.i
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CF686D_KayAndSnowflake.cpp.i
+.PHONY : DataStructures/CF686D_KayAndSnowflake.cpp.i
+
+DataStructures/CF686D_KayAndSnowflake.s: DataStructures/CF686D_KayAndSnowflake.cpp.s
+
+.PHONY : DataStructures/CF686D_KayAndSnowflake.s
+
+# target to generate assembly for a file
+DataStructures/CF686D_KayAndSnowflake.cpp.s:
+	$(MAKE) -f CMakeFiles/CF686D_KayAndSnowflake.dir/build.make CMakeFiles/CF686D_KayAndSnowflake.dir/DataStructures/CF686D_KayAndSnowflake.cpp.s
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CF686D_KayAndSnowflake.cpp.s
+.PHONY : DataStructures/CF686D_KayAndSnowflake.cpp.s
 
 DataStructures/HackerEarth_CityAndCampers2.o: DataStructures/HackerEarth_CityAndCampers2.cpp.o
 
@@ -2581,8 +2887,8 @@ DynamicProgramming/CF383D_Antimatter.o: DynamicProgramming/CF383D_Antimatter.cpp
 
 # target to build an object file
 DynamicProgramming/CF383D_Antimatter.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF383D_Antimatter.cpp.o
 	$(MAKE) -f CMakeFiles/CF383D_Antimatter.dir/build.make CMakeFiles/CF383D_Antimatter.dir/DynamicProgramming/CF383D_Antimatter.cpp.o
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF383D_Antimatter.cpp.o
 .PHONY : DynamicProgramming/CF383D_Antimatter.cpp.o
 
 DynamicProgramming/CF383D_Antimatter.i: DynamicProgramming/CF383D_Antimatter.cpp.i
@@ -2591,8 +2897,8 @@ DynamicProgramming/CF383D_Antimatter.i: DynamicProgramming/CF383D_Antimatter.cpp
 
 # target to preprocess a source file
 DynamicProgramming/CF383D_Antimatter.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF383D_Antimatter.cpp.i
 	$(MAKE) -f CMakeFiles/CF383D_Antimatter.dir/build.make CMakeFiles/CF383D_Antimatter.dir/DynamicProgramming/CF383D_Antimatter.cpp.i
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF383D_Antimatter.cpp.i
 .PHONY : DynamicProgramming/CF383D_Antimatter.cpp.i
 
 DynamicProgramming/CF383D_Antimatter.s: DynamicProgramming/CF383D_Antimatter.cpp.s
@@ -2601,8 +2907,8 @@ DynamicProgramming/CF383D_Antimatter.s: DynamicProgramming/CF383D_Antimatter.cpp
 
 # target to generate assembly for a file
 DynamicProgramming/CF383D_Antimatter.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF383D_Antimatter.cpp.s
 	$(MAKE) -f CMakeFiles/CF383D_Antimatter.dir/build.make CMakeFiles/CF383D_Antimatter.dir/DynamicProgramming/CF383D_Antimatter.cpp.s
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF383D_Antimatter.cpp.s
 .PHONY : DynamicProgramming/CF383D_Antimatter.cpp.s
 
 DynamicProgramming/CF385C_BearAndPrimeNumbers.o: DynamicProgramming/CF385C_BearAndPrimeNumbers.cpp.o
@@ -2766,6 +3072,36 @@ DynamicProgramming/CF478D_RedGreenTowers.s: DynamicProgramming/CF478D_RedGreenTo
 DynamicProgramming/CF478D_RedGreenTowers.cpp.s:
 	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF478D_RedGreenTowers.cpp.s
 .PHONY : DynamicProgramming/CF478D_RedGreenTowers.cpp.s
+
+DynamicProgramming/CF479D_RidingInALift.o: DynamicProgramming/CF479D_RidingInALift.cpp.o
+
+.PHONY : DynamicProgramming/CF479D_RidingInALift.o
+
+# target to build an object file
+DynamicProgramming/CF479D_RidingInALift.cpp.o:
+	$(MAKE) -f CMakeFiles/CF479D_RidingInALift.dir/build.make CMakeFiles/CF479D_RidingInALift.dir/DynamicProgramming/CF479D_RidingInALift.cpp.o
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF479D_RidingInALift.cpp.o
+.PHONY : DynamicProgramming/CF479D_RidingInALift.cpp.o
+
+DynamicProgramming/CF479D_RidingInALift.i: DynamicProgramming/CF479D_RidingInALift.cpp.i
+
+.PHONY : DynamicProgramming/CF479D_RidingInALift.i
+
+# target to preprocess a source file
+DynamicProgramming/CF479D_RidingInALift.cpp.i:
+	$(MAKE) -f CMakeFiles/CF479D_RidingInALift.dir/build.make CMakeFiles/CF479D_RidingInALift.dir/DynamicProgramming/CF479D_RidingInALift.cpp.i
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF479D_RidingInALift.cpp.i
+.PHONY : DynamicProgramming/CF479D_RidingInALift.cpp.i
+
+DynamicProgramming/CF479D_RidingInALift.s: DynamicProgramming/CF479D_RidingInALift.cpp.s
+
+.PHONY : DynamicProgramming/CF479D_RidingInALift.s
+
+# target to generate assembly for a file
+DynamicProgramming/CF479D_RidingInALift.cpp.s:
+	$(MAKE) -f CMakeFiles/CF479D_RidingInALift.dir/build.make CMakeFiles/CF479D_RidingInALift.dir/DynamicProgramming/CF479D_RidingInALift.cpp.s
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF479D_RidingInALift.cpp.s
+.PHONY : DynamicProgramming/CF479D_RidingInALift.cpp.s
 
 DynamicProgramming/CF495D_ObsessiveString.o: DynamicProgramming/CF495D_ObsessiveString.cpp.o
 
@@ -3148,6 +3484,96 @@ DynamicProgramming/CoinChange.cpp.s:
 	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CoinChange.cpp.s
 .PHONY : DynamicProgramming/CoinChange.cpp.s
 
+DynamicProgramming/Exun2017_Digex.o: DynamicProgramming/Exun2017_Digex.cpp.o
+
+.PHONY : DynamicProgramming/Exun2017_Digex.o
+
+# target to build an object file
+DynamicProgramming/Exun2017_Digex.cpp.o:
+	$(MAKE) -f CMakeFiles/Exun2017_Digex.dir/build.make CMakeFiles/Exun2017_Digex.dir/DynamicProgramming/Exun2017_Digex.cpp.o
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/Exun2017_Digex.cpp.o
+.PHONY : DynamicProgramming/Exun2017_Digex.cpp.o
+
+DynamicProgramming/Exun2017_Digex.i: DynamicProgramming/Exun2017_Digex.cpp.i
+
+.PHONY : DynamicProgramming/Exun2017_Digex.i
+
+# target to preprocess a source file
+DynamicProgramming/Exun2017_Digex.cpp.i:
+	$(MAKE) -f CMakeFiles/Exun2017_Digex.dir/build.make CMakeFiles/Exun2017_Digex.dir/DynamicProgramming/Exun2017_Digex.cpp.i
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/Exun2017_Digex.cpp.i
+.PHONY : DynamicProgramming/Exun2017_Digex.cpp.i
+
+DynamicProgramming/Exun2017_Digex.s: DynamicProgramming/Exun2017_Digex.cpp.s
+
+.PHONY : DynamicProgramming/Exun2017_Digex.s
+
+# target to generate assembly for a file
+DynamicProgramming/Exun2017_Digex.cpp.s:
+	$(MAKE) -f CMakeFiles/Exun2017_Digex.dir/build.make CMakeFiles/Exun2017_Digex.dir/DynamicProgramming/Exun2017_Digex.cpp.s
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/Exun2017_Digex.cpp.s
+.PHONY : DynamicProgramming/Exun2017_Digex.cpp.s
+
+DynamicProgramming/Exun2017_DigexReturns.o: DynamicProgramming/Exun2017_DigexReturns.cpp.o
+
+.PHONY : DynamicProgramming/Exun2017_DigexReturns.o
+
+# target to build an object file
+DynamicProgramming/Exun2017_DigexReturns.cpp.o:
+	$(MAKE) -f CMakeFiles/Exun2017_DigexReturns.dir/build.make CMakeFiles/Exun2017_DigexReturns.dir/DynamicProgramming/Exun2017_DigexReturns.cpp.o
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/Exun2017_DigexReturns.cpp.o
+.PHONY : DynamicProgramming/Exun2017_DigexReturns.cpp.o
+
+DynamicProgramming/Exun2017_DigexReturns.i: DynamicProgramming/Exun2017_DigexReturns.cpp.i
+
+.PHONY : DynamicProgramming/Exun2017_DigexReturns.i
+
+# target to preprocess a source file
+DynamicProgramming/Exun2017_DigexReturns.cpp.i:
+	$(MAKE) -f CMakeFiles/Exun2017_DigexReturns.dir/build.make CMakeFiles/Exun2017_DigexReturns.dir/DynamicProgramming/Exun2017_DigexReturns.cpp.i
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/Exun2017_DigexReturns.cpp.i
+.PHONY : DynamicProgramming/Exun2017_DigexReturns.cpp.i
+
+DynamicProgramming/Exun2017_DigexReturns.s: DynamicProgramming/Exun2017_DigexReturns.cpp.s
+
+.PHONY : DynamicProgramming/Exun2017_DigexReturns.s
+
+# target to generate assembly for a file
+DynamicProgramming/Exun2017_DigexReturns.cpp.s:
+	$(MAKE) -f CMakeFiles/Exun2017_DigexReturns.dir/build.make CMakeFiles/Exun2017_DigexReturns.dir/DynamicProgramming/Exun2017_DigexReturns.cpp.s
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/Exun2017_DigexReturns.cpp.s
+.PHONY : DynamicProgramming/Exun2017_DigexReturns.cpp.s
+
+DynamicProgramming/ExunPrelimsP2.o: DynamicProgramming/ExunPrelimsP2.cpp.o
+
+.PHONY : DynamicProgramming/ExunPrelimsP2.o
+
+# target to build an object file
+DynamicProgramming/ExunPrelimsP2.cpp.o:
+	$(MAKE) -f CMakeFiles/ExunPrelimsP2.dir/build.make CMakeFiles/ExunPrelimsP2.dir/DynamicProgramming/ExunPrelimsP2.cpp.o
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/ExunPrelimsP2.cpp.o
+.PHONY : DynamicProgramming/ExunPrelimsP2.cpp.o
+
+DynamicProgramming/ExunPrelimsP2.i: DynamicProgramming/ExunPrelimsP2.cpp.i
+
+.PHONY : DynamicProgramming/ExunPrelimsP2.i
+
+# target to preprocess a source file
+DynamicProgramming/ExunPrelimsP2.cpp.i:
+	$(MAKE) -f CMakeFiles/ExunPrelimsP2.dir/build.make CMakeFiles/ExunPrelimsP2.dir/DynamicProgramming/ExunPrelimsP2.cpp.i
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/ExunPrelimsP2.cpp.i
+.PHONY : DynamicProgramming/ExunPrelimsP2.cpp.i
+
+DynamicProgramming/ExunPrelimsP2.s: DynamicProgramming/ExunPrelimsP2.cpp.s
+
+.PHONY : DynamicProgramming/ExunPrelimsP2.s
+
+# target to generate assembly for a file
+DynamicProgramming/ExunPrelimsP2.cpp.s:
+	$(MAKE) -f CMakeFiles/ExunPrelimsP2.dir/build.make CMakeFiles/ExunPrelimsP2.dir/DynamicProgramming/ExunPrelimsP2.cpp.s
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/ExunPrelimsP2.cpp.s
+.PHONY : DynamicProgramming/ExunPrelimsP2.cpp.s
+
 DynamicProgramming/INOI_Brackets.o: DynamicProgramming/INOI_Brackets.cpp.o
 
 .PHONY : DynamicProgramming/INOI_Brackets.o
@@ -3228,6 +3654,66 @@ DynamicProgramming/INOI_SpecialSums.s: DynamicProgramming/INOI_SpecialSums.cpp.s
 DynamicProgramming/INOI_SpecialSums.cpp.s:
 	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/INOI_SpecialSums.cpp.s
 .PHONY : DynamicProgramming/INOI_SpecialSums.cpp.s
+
+DynamicProgramming/IOI2000_PostOffices.o: DynamicProgramming/IOI2000_PostOffices.cpp.o
+
+.PHONY : DynamicProgramming/IOI2000_PostOffices.o
+
+# target to build an object file
+DynamicProgramming/IOI2000_PostOffices.cpp.o:
+	$(MAKE) -f CMakeFiles/IOI2000_PostOffices.dir/build.make CMakeFiles/IOI2000_PostOffices.dir/DynamicProgramming/IOI2000_PostOffices.cpp.o
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOI2000_PostOffices.cpp.o
+.PHONY : DynamicProgramming/IOI2000_PostOffices.cpp.o
+
+DynamicProgramming/IOI2000_PostOffices.i: DynamicProgramming/IOI2000_PostOffices.cpp.i
+
+.PHONY : DynamicProgramming/IOI2000_PostOffices.i
+
+# target to preprocess a source file
+DynamicProgramming/IOI2000_PostOffices.cpp.i:
+	$(MAKE) -f CMakeFiles/IOI2000_PostOffices.dir/build.make CMakeFiles/IOI2000_PostOffices.dir/DynamicProgramming/IOI2000_PostOffices.cpp.i
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOI2000_PostOffices.cpp.i
+.PHONY : DynamicProgramming/IOI2000_PostOffices.cpp.i
+
+DynamicProgramming/IOI2000_PostOffices.s: DynamicProgramming/IOI2000_PostOffices.cpp.s
+
+.PHONY : DynamicProgramming/IOI2000_PostOffices.s
+
+# target to generate assembly for a file
+DynamicProgramming/IOI2000_PostOffices.cpp.s:
+	$(MAKE) -f CMakeFiles/IOI2000_PostOffices.dir/build.make CMakeFiles/IOI2000_PostOffices.dir/DynamicProgramming/IOI2000_PostOffices.cpp.s
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOI2000_PostOffices.cpp.s
+.PHONY : DynamicProgramming/IOI2000_PostOffices.cpp.s
+
+DynamicProgramming/IOI96_AGame.o: DynamicProgramming/IOI96_AGame.cpp.o
+
+.PHONY : DynamicProgramming/IOI96_AGame.o
+
+# target to build an object file
+DynamicProgramming/IOI96_AGame.cpp.o:
+	$(MAKE) -f CMakeFiles/IOI96_AGame.dir/build.make CMakeFiles/IOI96_AGame.dir/DynamicProgramming/IOI96_AGame.cpp.o
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOI96_AGame.cpp.o
+.PHONY : DynamicProgramming/IOI96_AGame.cpp.o
+
+DynamicProgramming/IOI96_AGame.i: DynamicProgramming/IOI96_AGame.cpp.i
+
+.PHONY : DynamicProgramming/IOI96_AGame.i
+
+# target to preprocess a source file
+DynamicProgramming/IOI96_AGame.cpp.i:
+	$(MAKE) -f CMakeFiles/IOI96_AGame.dir/build.make CMakeFiles/IOI96_AGame.dir/DynamicProgramming/IOI96_AGame.cpp.i
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOI96_AGame.cpp.i
+.PHONY : DynamicProgramming/IOI96_AGame.cpp.i
+
+DynamicProgramming/IOI96_AGame.s: DynamicProgramming/IOI96_AGame.cpp.s
+
+.PHONY : DynamicProgramming/IOI96_AGame.s
+
+# target to generate assembly for a file
+DynamicProgramming/IOI96_AGame.cpp.s:
+	$(MAKE) -f CMakeFiles/IOI96_AGame.dir/build.make CMakeFiles/IOI96_AGame.dir/DynamicProgramming/IOI96_AGame.cpp.s
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOI96_AGame.cpp.s
+.PHONY : DynamicProgramming/IOI96_AGame.cpp.s
 
 DynamicProgramming/OPC_LongestPalindrome.o: DynamicProgramming/OPC_LongestPalindrome.cpp.o
 
@@ -4338,6 +4824,36 @@ GraphTheory/CF764C_TimofeyAndTree.s: GraphTheory/CF764C_TimofeyAndTree.cpp.s
 GraphTheory/CF764C_TimofeyAndTree.cpp.s:
 	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/CF764C_TimofeyAndTree.cpp.s
 .PHONY : GraphTheory/CF764C_TimofeyAndTree.cpp.s
+
+GraphTheory/CF892E_Envy.o: GraphTheory/CF892E_Envy.cpp.o
+
+.PHONY : GraphTheory/CF892E_Envy.o
+
+# target to build an object file
+GraphTheory/CF892E_Envy.cpp.o:
+	$(MAKE) -f CMakeFiles/CF892E_Envy.dir/build.make CMakeFiles/CF892E_Envy.dir/GraphTheory/CF892E_Envy.cpp.o
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/CF892E_Envy.cpp.o
+.PHONY : GraphTheory/CF892E_Envy.cpp.o
+
+GraphTheory/CF892E_Envy.i: GraphTheory/CF892E_Envy.cpp.i
+
+.PHONY : GraphTheory/CF892E_Envy.i
+
+# target to preprocess a source file
+GraphTheory/CF892E_Envy.cpp.i:
+	$(MAKE) -f CMakeFiles/CF892E_Envy.dir/build.make CMakeFiles/CF892E_Envy.dir/GraphTheory/CF892E_Envy.cpp.i
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/CF892E_Envy.cpp.i
+.PHONY : GraphTheory/CF892E_Envy.cpp.i
+
+GraphTheory/CF892E_Envy.s: GraphTheory/CF892E_Envy.cpp.s
+
+.PHONY : GraphTheory/CF892E_Envy.s
+
+# target to generate assembly for a file
+GraphTheory/CF892E_Envy.cpp.s:
+	$(MAKE) -f CMakeFiles/CF892E_Envy.dir/build.make CMakeFiles/CF892E_Envy.dir/GraphTheory/CF892E_Envy.cpp.s
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/CF892E_Envy.cpp.s
+.PHONY : GraphTheory/CF892E_Envy.cpp.s
 
 GraphTheory/IOI2009_Mecho.o: GraphTheory/IOI2009_Mecho.cpp.o
 
@@ -7486,24 +8002,36 @@ help:
 	@echo "... all (the default if no target is provided)"
 	@echo "... clean"
 	@echo "... depend"
-	@echo "... edit_cache"
-	@echo "... CF659E_NewReform"
-	@echo "... CF688E_TheValuesYouCanMake"
+	@echo "... rebuild_cache"
+	@echo "... IOI2000_PostOffices"
+	@echo "... Exun2017_Digex"
+	@echo "... CF519E_AAndBLectureRooms"
 	@echo "... CF495D_ObsessiveString"
+	@echo "... CF892E_Envy"
+	@echo "... IOI96_AGame"
+	@echo "... CC_ChefAndSubarrayQueries"
+	@echo "... ExunPrelimsP2"
+	@echo "... CF340D_BubbleSortGraph"
+	@echo "... CF479D_RidingInALift"
+	@echo "... CF659E_NewReform"
+	@echo "... edit_cache"
+	@echo "... CF688E_TheValuesYouCanMake"
 	@echo "... SPOJ_QTREE1"
 	@echo "... CC_ProductOnSegment"
-	@echo "... CC_LoversGift"
-	@echo "... SPOJ_GSS1"
-	@echo "... CC_ChefAndSubarrayQueries"
 	@echo "... CF525E_AnyaAndCubes"
+	@echo "... CC_LoversGift"
+	@echo "... CF383D_Antimatter"
+	@echo "... CC_ChefAndMediumProblem2"
+	@echo "... SPOJ_GSS1"
+	@echo "... Exun2017_DigexReturns"
 	@echo "... DFSConnectedComponents"
-	@echo "... rebuild_cache"
 	@echo "... ManachersAlgo"
+	@echo "... CF342E_XeniaAndTree"
 	@echo "... Knuth-Morris-Pratt-Algorithm"
+	@echo "... CF686D_KayAndSnowflake"
 	@echo "... Competitive_Programming"
 	@echo "... CC_ChefAndSubarrayQueries2"
 	@echo "... CC_ChefGoesLeftRight"
-	@echo "... CF383D_Antimatter"
 	@echo "... CF347D_LuckyCommonSubsequence2"
 	@echo "... BitMasking.o"
 	@echo "... BitMasking.i"
@@ -7631,6 +8159,12 @@ help:
 	@echo "... CF27E_SmallestNumberWithGivenDivisors.o"
 	@echo "... CF27E_SmallestNumberWithGivenDivisors.i"
 	@echo "... CF27E_SmallestNumberWithGivenDivisors.s"
+	@echo "... CF340D_BubbleSortGraph.o"
+	@echo "... CF340D_BubbleSortGraph.i"
+	@echo "... CF340D_BubbleSortGraph.s"
+	@echo "... CF519E_AAndBLectureRooms.o"
+	@echo "... CF519E_AAndBLectureRooms.i"
+	@echo "... CF519E_AAndBLectureRooms.s"
 	@echo "... CF525E_AnyaAndCubes.o"
 	@echo "... CF525E_AnyaAndCubes.i"
 	@echo "... CF525E_AnyaAndCubes.s"
@@ -7661,6 +8195,9 @@ help:
 	@echo "... DataStructures/CC_BlockedWebsites.o"
 	@echo "... DataStructures/CC_BlockedWebsites.i"
 	@echo "... DataStructures/CC_BlockedWebsites.s"
+	@echo "... DataStructures/CC_ChefAndMediumProblem2.o"
+	@echo "... DataStructures/CC_ChefAndMediumProblem2.i"
+	@echo "... DataStructures/CC_ChefAndMediumProblem2.s"
 	@echo "... DataStructures/CC_ChefAndSubarrayQueries.o"
 	@echo "... DataStructures/CC_ChefAndSubarrayQueries.i"
 	@echo "... DataStructures/CC_ChefAndSubarrayQueries.s"
@@ -7676,6 +8213,12 @@ help:
 	@echo "... DataStructures/CC_MultiplesOf3.o"
 	@echo "... DataStructures/CC_MultiplesOf3.i"
 	@echo "... DataStructures/CC_MultiplesOf3.s"
+	@echo "... DataStructures/CF342E_XeniaAndTree.o"
+	@echo "... DataStructures/CF342E_XeniaAndTree.i"
+	@echo "... DataStructures/CF342E_XeniaAndTree.s"
+	@echo "... DataStructures/CF686D_KayAndSnowflake.o"
+	@echo "... DataStructures/CF686D_KayAndSnowflake.i"
+	@echo "... DataStructures/CF686D_KayAndSnowflake.s"
 	@echo "... DataStructures/HackerEarth_CityAndCampers2.o"
 	@echo "... DataStructures/HackerEarth_CityAndCampers2.i"
 	@echo "... DataStructures/HackerEarth_CityAndCampers2.s"
@@ -7772,6 +8315,9 @@ help:
 	@echo "... DynamicProgramming/CF478D_RedGreenTowers.o"
 	@echo "... DynamicProgramming/CF478D_RedGreenTowers.i"
 	@echo "... DynamicProgramming/CF478D_RedGreenTowers.s"
+	@echo "... DynamicProgramming/CF479D_RidingInALift.o"
+	@echo "... DynamicProgramming/CF479D_RidingInALift.i"
+	@echo "... DynamicProgramming/CF479D_RidingInALift.s"
 	@echo "... DynamicProgramming/CF495D_ObsessiveString.o"
 	@echo "... DynamicProgramming/CF495D_ObsessiveString.i"
 	@echo "... DynamicProgramming/CF495D_ObsessiveString.s"
@@ -7814,6 +8360,15 @@ help:
 	@echo "... DynamicProgramming/CoinChange.o"
 	@echo "... DynamicProgramming/CoinChange.i"
 	@echo "... DynamicProgramming/CoinChange.s"
+	@echo "... DynamicProgramming/Exun2017_Digex.o"
+	@echo "... DynamicProgramming/Exun2017_Digex.i"
+	@echo "... DynamicProgramming/Exun2017_Digex.s"
+	@echo "... DynamicProgramming/Exun2017_DigexReturns.o"
+	@echo "... DynamicProgramming/Exun2017_DigexReturns.i"
+	@echo "... DynamicProgramming/Exun2017_DigexReturns.s"
+	@echo "... DynamicProgramming/ExunPrelimsP2.o"
+	@echo "... DynamicProgramming/ExunPrelimsP2.i"
+	@echo "... DynamicProgramming/ExunPrelimsP2.s"
 	@echo "... DynamicProgramming/INOI_Brackets.o"
 	@echo "... DynamicProgramming/INOI_Brackets.i"
 	@echo "... DynamicProgramming/INOI_Brackets.s"
@@ -7823,6 +8378,12 @@ help:
 	@echo "... DynamicProgramming/INOI_SpecialSums.o"
 	@echo "... DynamicProgramming/INOI_SpecialSums.i"
 	@echo "... DynamicProgramming/INOI_SpecialSums.s"
+	@echo "... DynamicProgramming/IOI2000_PostOffices.o"
+	@echo "... DynamicProgramming/IOI2000_PostOffices.i"
+	@echo "... DynamicProgramming/IOI2000_PostOffices.s"
+	@echo "... DynamicProgramming/IOI96_AGame.o"
+	@echo "... DynamicProgramming/IOI96_AGame.i"
+	@echo "... DynamicProgramming/IOI96_AGame.s"
 	@echo "... DynamicProgramming/OPC_LongestPalindrome.o"
 	@echo "... DynamicProgramming/OPC_LongestPalindrome.i"
 	@echo "... DynamicProgramming/OPC_LongestPalindrome.s"
@@ -7946,6 +8507,9 @@ help:
 	@echo "... GraphTheory/CF764C_TimofeyAndTree.o"
 	@echo "... GraphTheory/CF764C_TimofeyAndTree.i"
 	@echo "... GraphTheory/CF764C_TimofeyAndTree.s"
+	@echo "... GraphTheory/CF892E_Envy.o"
+	@echo "... GraphTheory/CF892E_Envy.i"
+	@echo "... GraphTheory/CF892E_Envy.s"
 	@echo "... GraphTheory/IOI2009_Mecho.o"
 	@echo "... GraphTheory/IOI2009_Mecho.i"
 	@echo "... GraphTheory/IOI2009_Mecho.s"

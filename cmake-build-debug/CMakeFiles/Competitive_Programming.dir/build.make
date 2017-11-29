@@ -34,10 +34,10 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = /Volumes/x10ded/Applications/CLion.app/Contents/bin/cmake/bin/cmake
+CMAKE_COMMAND = /Applications/CLion.app/Contents/bin/cmake/bin/cmake
 
 # The command to remove a file.
-RM = /Volumes/x10ded/Applications/CLion.app/Contents/bin/cmake/bin/cmake -E remove -f
+RM = /Applications/CLion.app/Contents/bin/cmake/bin/cmake -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
@@ -60,15 +60,15 @@ include CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/ComputationalGeometry/Implementation/PointsLinesAndStuff.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/ComputationalGeometry/Implementation/PointsLinesAndStuff.cpp.o: ../ComputationalGeometry/Implementation/PointsLinesAndStuff.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Competitive_Programming.dir/ComputationalGeometry/Implementation/PointsLinesAndStuff.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/ComputationalGeometry/Implementation/PointsLinesAndStuff.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/ComputationalGeometry/Implementation/PointsLinesAndStuff.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/ComputationalGeometry/Implementation/PointsLinesAndStuff.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/ComputationalGeometry/Implementation/PointsLinesAndStuff.cpp
 
 CMakeFiles/Competitive_Programming.dir/ComputationalGeometry/Implementation/PointsLinesAndStuff.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/ComputationalGeometry/Implementation/PointsLinesAndStuff.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/ComputationalGeometry/Implementation/PointsLinesAndStuff.cpp > CMakeFiles/Competitive_Programming.dir/ComputationalGeometry/Implementation/PointsLinesAndStuff.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/ComputationalGeometry/Implementation/PointsLinesAndStuff.cpp > CMakeFiles/Competitive_Programming.dir/ComputationalGeometry/Implementation/PointsLinesAndStuff.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/ComputationalGeometry/Implementation/PointsLinesAndStuff.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/ComputationalGeometry/Implementation/PointsLinesAndStuff.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/ComputationalGeometry/Implementation/PointsLinesAndStuff.cpp -o CMakeFiles/Competitive_Programming.dir/ComputationalGeometry/Implementation/PointsLinesAndStuff.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/ComputationalGeometry/Implementation/PointsLinesAndStuff.cpp -o CMakeFiles/Competitive_Programming.dir/ComputationalGeometry/Implementation/PointsLinesAndStuff.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/ComputationalGeometry/Implementation/PointsLinesAndStuff.cpp.o.requires:
 
@@ -84,15 +84,15 @@ CMakeFiles/Competitive_Programming.dir/ComputationalGeometry/Implementation/Poin
 CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/BinaryIndexedTrees.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/BinaryIndexedTrees.cpp.o: ../DataStructures/Implementation/BinaryIndexedTrees.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/BinaryIndexedTrees.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/BinaryIndexedTrees.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/Implementation/BinaryIndexedTrees.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/BinaryIndexedTrees.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/Implementation/BinaryIndexedTrees.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/BinaryIndexedTrees.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/BinaryIndexedTrees.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/Implementation/BinaryIndexedTrees.cpp > CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/BinaryIndexedTrees.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/Implementation/BinaryIndexedTrees.cpp > CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/BinaryIndexedTrees.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/BinaryIndexedTrees.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/BinaryIndexedTrees.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/Implementation/BinaryIndexedTrees.cpp -o CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/BinaryIndexedTrees.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/Implementation/BinaryIndexedTrees.cpp -o CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/BinaryIndexedTrees.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/BinaryIndexedTrees.cpp.o.requires:
 
@@ -108,15 +108,15 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/BinaryIndex
 CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/DisjointSets.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/DisjointSets.cpp.o: ../DataStructures/Implementation/DisjointSets.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/DisjointSets.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/DisjointSets.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/Implementation/DisjointSets.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/DisjointSets.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/Implementation/DisjointSets.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/DisjointSets.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/DisjointSets.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/Implementation/DisjointSets.cpp > CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/DisjointSets.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/Implementation/DisjointSets.cpp > CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/DisjointSets.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/DisjointSets.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/DisjointSets.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/Implementation/DisjointSets.cpp -o CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/DisjointSets.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/Implementation/DisjointSets.cpp -o CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/DisjointSets.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/DisjointSets.cpp.o.requires:
 
@@ -132,15 +132,15 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/DisjointSet
 CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/LazyPropSegmentTree_IntervalSum.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/LazyPropSegmentTree_IntervalSum.cpp.o: ../DataStructures/Implementation/LazyPropSegmentTree_IntervalSum.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/LazyPropSegmentTree_IntervalSum.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/LazyPropSegmentTree_IntervalSum.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/Implementation/LazyPropSegmentTree_IntervalSum.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/LazyPropSegmentTree_IntervalSum.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/Implementation/LazyPropSegmentTree_IntervalSum.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/LazyPropSegmentTree_IntervalSum.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/LazyPropSegmentTree_IntervalSum.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/Implementation/LazyPropSegmentTree_IntervalSum.cpp > CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/LazyPropSegmentTree_IntervalSum.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/Implementation/LazyPropSegmentTree_IntervalSum.cpp > CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/LazyPropSegmentTree_IntervalSum.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/LazyPropSegmentTree_IntervalSum.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/LazyPropSegmentTree_IntervalSum.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/Implementation/LazyPropSegmentTree_IntervalSum.cpp -o CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/LazyPropSegmentTree_IntervalSum.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/Implementation/LazyPropSegmentTree_IntervalSum.cpp -o CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/LazyPropSegmentTree_IntervalSum.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/LazyPropSegmentTree_IntervalSum.cpp.o.requires:
 
@@ -156,15 +156,15 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/LazyPropSeg
 CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/MergeSortTree.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/MergeSortTree.cpp.o: ../DataStructures/Implementation/MergeSortTree.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/MergeSortTree.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/MergeSortTree.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/Implementation/MergeSortTree.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/MergeSortTree.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/Implementation/MergeSortTree.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/MergeSortTree.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/MergeSortTree.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/Implementation/MergeSortTree.cpp > CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/MergeSortTree.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/Implementation/MergeSortTree.cpp > CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/MergeSortTree.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/MergeSortTree.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/MergeSortTree.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/Implementation/MergeSortTree.cpp -o CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/MergeSortTree.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/Implementation/MergeSortTree.cpp -o CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/MergeSortTree.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/MergeSortTree.cpp.o.requires:
 
@@ -180,15 +180,15 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/MergeSortTr
 CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/PersistentSegmentTree.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/PersistentSegmentTree.cpp.o: ../DataStructures/Implementation/PersistentSegmentTree.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/PersistentSegmentTree.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/PersistentSegmentTree.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/Implementation/PersistentSegmentTree.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/PersistentSegmentTree.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/Implementation/PersistentSegmentTree.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/PersistentSegmentTree.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/PersistentSegmentTree.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/Implementation/PersistentSegmentTree.cpp > CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/PersistentSegmentTree.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/Implementation/PersistentSegmentTree.cpp > CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/PersistentSegmentTree.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/PersistentSegmentTree.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/PersistentSegmentTree.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/Implementation/PersistentSegmentTree.cpp -o CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/PersistentSegmentTree.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/Implementation/PersistentSegmentTree.cpp -o CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/PersistentSegmentTree.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/PersistentSegmentTree.cpp.o.requires:
 
@@ -204,15 +204,15 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/PersistentS
 CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/Pointers.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/Pointers.cpp.o: ../DataStructures/Implementation/Pointers.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/Pointers.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/Pointers.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/Implementation/Pointers.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/Pointers.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/Implementation/Pointers.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/Pointers.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/Pointers.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/Implementation/Pointers.cpp > CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/Pointers.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/Implementation/Pointers.cpp > CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/Pointers.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/Pointers.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/Pointers.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/Implementation/Pointers.cpp -o CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/Pointers.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/Implementation/Pointers.cpp -o CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/Pointers.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/Pointers.cpp.o.requires:
 
@@ -228,15 +228,15 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/Pointers.cp
 CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/SegmentTree_RMQ.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/SegmentTree_RMQ.cpp.o: ../DataStructures/Implementation/SegmentTree_RMQ.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/SegmentTree_RMQ.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/SegmentTree_RMQ.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/Implementation/SegmentTree_RMQ.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/SegmentTree_RMQ.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/Implementation/SegmentTree_RMQ.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/SegmentTree_RMQ.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/SegmentTree_RMQ.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/Implementation/SegmentTree_RMQ.cpp > CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/SegmentTree_RMQ.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/Implementation/SegmentTree_RMQ.cpp > CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/SegmentTree_RMQ.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/SegmentTree_RMQ.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/SegmentTree_RMQ.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/Implementation/SegmentTree_RMQ.cpp -o CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/SegmentTree_RMQ.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/Implementation/SegmentTree_RMQ.cpp -o CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/SegmentTree_RMQ.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/SegmentTree_RMQ.cpp.o.requires:
 
@@ -252,15 +252,15 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/SegmentTree
 CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)HackerEarth_LittleDeepuAndArray.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)HackerEarth_LittleDeepuAndArray.cpp.o: ../DataStructures/(TODO)HackerEarth_LittleDeepuAndArray.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)HackerEarth_LittleDeepuAndArray.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)HackerEarth_LittleDeepuAndArray.cpp.o" -c "/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/(TODO)HackerEarth_LittleDeepuAndArray.cpp"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)HackerEarth_LittleDeepuAndArray.cpp.o" -c "/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/(TODO)HackerEarth_LittleDeepuAndArray.cpp"
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)HackerEarth_LittleDeepuAndArray.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)HackerEarth_LittleDeepuAndArray.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/(TODO)HackerEarth_LittleDeepuAndArray.cpp" > "CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)HackerEarth_LittleDeepuAndArray.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/(TODO)HackerEarth_LittleDeepuAndArray.cpp" > "CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)HackerEarth_LittleDeepuAndArray.cpp.i"
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)HackerEarth_LittleDeepuAndArray.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)HackerEarth_LittleDeepuAndArray.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/(TODO)HackerEarth_LittleDeepuAndArray.cpp" -o "CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)HackerEarth_LittleDeepuAndArray.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/(TODO)HackerEarth_LittleDeepuAndArray.cpp" -o "CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)HackerEarth_LittleDeepuAndArray.cpp.s"
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)HackerEarth_LittleDeepuAndArray.cpp.o.requires:
 
@@ -276,15 +276,15 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)HackerEarth_LittleDe
 CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)OPC_FindThePermutation.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)OPC_FindThePermutation.cpp.o: ../DataStructures/(TODO)OPC_FindThePermutation.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)OPC_FindThePermutation.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)OPC_FindThePermutation.cpp.o" -c "/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/(TODO)OPC_FindThePermutation.cpp"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)OPC_FindThePermutation.cpp.o" -c "/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/(TODO)OPC_FindThePermutation.cpp"
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)OPC_FindThePermutation.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)OPC_FindThePermutation.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/(TODO)OPC_FindThePermutation.cpp" > "CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)OPC_FindThePermutation.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/(TODO)OPC_FindThePermutation.cpp" > "CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)OPC_FindThePermutation.cpp.i"
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)OPC_FindThePermutation.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)OPC_FindThePermutation.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/(TODO)OPC_FindThePermutation.cpp" -o "CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)OPC_FindThePermutation.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/(TODO)OPC_FindThePermutation.cpp" -o "CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)OPC_FindThePermutation.cpp.s"
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)OPC_FindThePermutation.cpp.o.requires:
 
@@ -300,15 +300,15 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)OPC_FindThePermutati
 CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)SPOJ_DynamicGraphConnectivity.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)SPOJ_DynamicGraphConnectivity.cpp.o: ../DataStructures/(TODO)SPOJ_DynamicGraphConnectivity.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)SPOJ_DynamicGraphConnectivity.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)SPOJ_DynamicGraphConnectivity.cpp.o" -c "/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/(TODO)SPOJ_DynamicGraphConnectivity.cpp"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)SPOJ_DynamicGraphConnectivity.cpp.o" -c "/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/(TODO)SPOJ_DynamicGraphConnectivity.cpp"
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)SPOJ_DynamicGraphConnectivity.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)SPOJ_DynamicGraphConnectivity.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/(TODO)SPOJ_DynamicGraphConnectivity.cpp" > "CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)SPOJ_DynamicGraphConnectivity.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/(TODO)SPOJ_DynamicGraphConnectivity.cpp" > "CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)SPOJ_DynamicGraphConnectivity.cpp.i"
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)SPOJ_DynamicGraphConnectivity.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)SPOJ_DynamicGraphConnectivity.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/(TODO)SPOJ_DynamicGraphConnectivity.cpp" -o "CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)SPOJ_DynamicGraphConnectivity.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/(TODO)SPOJ_DynamicGraphConnectivity.cpp" -o "CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)SPOJ_DynamicGraphConnectivity.cpp.s"
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)SPOJ_DynamicGraphConnectivity.cpp.o.requires:
 
@@ -324,15 +324,15 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)SPOJ_DynamicGraphCon
 CMakeFiles/Competitive_Programming.dir/DataStructures/CC_BlockedWebsites.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/CC_BlockedWebsites.cpp.o: ../DataStructures/CC_BlockedWebsites.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/CC_BlockedWebsites.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/CC_BlockedWebsites.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_BlockedWebsites.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/CC_BlockedWebsites.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_BlockedWebsites.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CC_BlockedWebsites.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DataStructures/CC_BlockedWebsites.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_BlockedWebsites.cpp > CMakeFiles/Competitive_Programming.dir/DataStructures/CC_BlockedWebsites.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_BlockedWebsites.cpp > CMakeFiles/Competitive_Programming.dir/DataStructures/CC_BlockedWebsites.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CC_BlockedWebsites.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DataStructures/CC_BlockedWebsites.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_BlockedWebsites.cpp -o CMakeFiles/Competitive_Programming.dir/DataStructures/CC_BlockedWebsites.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_BlockedWebsites.cpp -o CMakeFiles/Competitive_Programming.dir/DataStructures/CC_BlockedWebsites.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CC_BlockedWebsites.cpp.o.requires:
 
@@ -348,15 +348,15 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/CC_BlockedWebsites.cpp.o.p
 CMakeFiles/Competitive_Programming.dir/DataStructures/CC_MultiplesOf3.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/CC_MultiplesOf3.cpp.o: ../DataStructures/CC_MultiplesOf3.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/CC_MultiplesOf3.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/CC_MultiplesOf3.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_MultiplesOf3.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/CC_MultiplesOf3.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_MultiplesOf3.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CC_MultiplesOf3.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DataStructures/CC_MultiplesOf3.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_MultiplesOf3.cpp > CMakeFiles/Competitive_Programming.dir/DataStructures/CC_MultiplesOf3.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_MultiplesOf3.cpp > CMakeFiles/Competitive_Programming.dir/DataStructures/CC_MultiplesOf3.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CC_MultiplesOf3.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DataStructures/CC_MultiplesOf3.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_MultiplesOf3.cpp -o CMakeFiles/Competitive_Programming.dir/DataStructures/CC_MultiplesOf3.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_MultiplesOf3.cpp -o CMakeFiles/Competitive_Programming.dir/DataStructures/CC_MultiplesOf3.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CC_MultiplesOf3.cpp.o.requires:
 
@@ -372,15 +372,15 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/CC_MultiplesOf3.cpp.o.prov
 CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_CityAndCampers2.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_CityAndCampers2.cpp.o: ../DataStructures/HackerEarth_CityAndCampers2.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_CityAndCampers2.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_CityAndCampers2.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/HackerEarth_CityAndCampers2.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_CityAndCampers2.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/HackerEarth_CityAndCampers2.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_CityAndCampers2.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_CityAndCampers2.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/HackerEarth_CityAndCampers2.cpp > CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_CityAndCampers2.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/HackerEarth_CityAndCampers2.cpp > CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_CityAndCampers2.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_CityAndCampers2.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_CityAndCampers2.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/HackerEarth_CityAndCampers2.cpp -o CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_CityAndCampers2.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/HackerEarth_CityAndCampers2.cpp -o CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_CityAndCampers2.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_CityAndCampers2.cpp.o.requires:
 
@@ -396,15 +396,15 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_CityAndCampers
 CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_CityAndSoldiers.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_CityAndSoldiers.cpp.o: ../DataStructures/HackerEarth_CityAndSoldiers.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_CityAndSoldiers.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_CityAndSoldiers.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/HackerEarth_CityAndSoldiers.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_CityAndSoldiers.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/HackerEarth_CityAndSoldiers.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_CityAndSoldiers.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_CityAndSoldiers.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/HackerEarth_CityAndSoldiers.cpp > CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_CityAndSoldiers.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/HackerEarth_CityAndSoldiers.cpp > CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_CityAndSoldiers.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_CityAndSoldiers.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_CityAndSoldiers.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/HackerEarth_CityAndSoldiers.cpp -o CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_CityAndSoldiers.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/HackerEarth_CityAndSoldiers.cpp -o CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_CityAndSoldiers.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_CityAndSoldiers.cpp.o.requires:
 
@@ -420,15 +420,15 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_CityAndSoldier
 CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_FightInNinjaWorld.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_FightInNinjaWorld.cpp.o: ../DataStructures/HackerEarth_FightInNinjaWorld.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_FightInNinjaWorld.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_FightInNinjaWorld.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/HackerEarth_FightInNinjaWorld.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_FightInNinjaWorld.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/HackerEarth_FightInNinjaWorld.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_FightInNinjaWorld.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_FightInNinjaWorld.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/HackerEarth_FightInNinjaWorld.cpp > CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_FightInNinjaWorld.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/HackerEarth_FightInNinjaWorld.cpp > CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_FightInNinjaWorld.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_FightInNinjaWorld.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_FightInNinjaWorld.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/HackerEarth_FightInNinjaWorld.cpp -o CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_FightInNinjaWorld.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/HackerEarth_FightInNinjaWorld.cpp -o CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_FightInNinjaWorld.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_FightInNinjaWorld.cpp.o.requires:
 
@@ -444,15 +444,15 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_FightInNinjaWo
 CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_HelpAshu.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_HelpAshu.cpp.o: ../DataStructures/HackerEarth_HelpAshu.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_HelpAshu.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_HelpAshu.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/HackerEarth_HelpAshu.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_HelpAshu.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/HackerEarth_HelpAshu.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_HelpAshu.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_HelpAshu.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/HackerEarth_HelpAshu.cpp > CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_HelpAshu.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/HackerEarth_HelpAshu.cpp > CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_HelpAshu.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_HelpAshu.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_HelpAshu.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/HackerEarth_HelpAshu.cpp -o CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_HelpAshu.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/HackerEarth_HelpAshu.cpp -o CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_HelpAshu.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_HelpAshu.cpp.o.requires:
 
@@ -468,15 +468,15 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_HelpAshu.cpp.o
 CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_ModifiedLIS.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_ModifiedLIS.cpp.o: ../DataStructures/HackerEarth_ModifiedLIS.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_ModifiedLIS.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_ModifiedLIS.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/HackerEarth_ModifiedLIS.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_ModifiedLIS.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/HackerEarth_ModifiedLIS.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_ModifiedLIS.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_ModifiedLIS.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/HackerEarth_ModifiedLIS.cpp > CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_ModifiedLIS.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/HackerEarth_ModifiedLIS.cpp > CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_ModifiedLIS.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_ModifiedLIS.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_ModifiedLIS.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/HackerEarth_ModifiedLIS.cpp -o CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_ModifiedLIS.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/HackerEarth_ModifiedLIS.cpp -o CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_ModifiedLIS.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_ModifiedLIS.cpp.o.requires:
 
@@ -492,15 +492,15 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_ModifiedLIS.cp
 CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_MonkAndOtakuland.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_MonkAndOtakuland.cpp.o: ../DataStructures/HackerEarth_MonkAndOtakuland.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_MonkAndOtakuland.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_MonkAndOtakuland.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/HackerEarth_MonkAndOtakuland.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_MonkAndOtakuland.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/HackerEarth_MonkAndOtakuland.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_MonkAndOtakuland.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_MonkAndOtakuland.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/HackerEarth_MonkAndOtakuland.cpp > CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_MonkAndOtakuland.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/HackerEarth_MonkAndOtakuland.cpp > CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_MonkAndOtakuland.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_MonkAndOtakuland.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_MonkAndOtakuland.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/HackerEarth_MonkAndOtakuland.cpp -o CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_MonkAndOtakuland.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/HackerEarth_MonkAndOtakuland.cpp -o CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_MonkAndOtakuland.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_MonkAndOtakuland.cpp.o.requires:
 
@@ -516,15 +516,15 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_MonkAndOtakula
 CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_RoyAndCoinBoxes.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_RoyAndCoinBoxes.cpp.o: ../DataStructures/HackerEarth_RoyAndCoinBoxes.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_RoyAndCoinBoxes.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_RoyAndCoinBoxes.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/HackerEarth_RoyAndCoinBoxes.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_RoyAndCoinBoxes.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/HackerEarth_RoyAndCoinBoxes.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_RoyAndCoinBoxes.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_RoyAndCoinBoxes.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/HackerEarth_RoyAndCoinBoxes.cpp > CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_RoyAndCoinBoxes.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/HackerEarth_RoyAndCoinBoxes.cpp > CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_RoyAndCoinBoxes.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_RoyAndCoinBoxes.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_RoyAndCoinBoxes.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/HackerEarth_RoyAndCoinBoxes.cpp -o CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_RoyAndCoinBoxes.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/HackerEarth_RoyAndCoinBoxes.cpp -o CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_RoyAndCoinBoxes.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_RoyAndCoinBoxes.cpp.o.requires:
 
@@ -540,15 +540,15 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_RoyAndCoinBoxe
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_DQuery.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_DQuery.cpp.o: ../DataStructures/SPOJ_DQuery.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_DQuery.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_DQuery.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_DQuery.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_DQuery.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_DQuery.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_DQuery.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_DQuery.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_DQuery.cpp > CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_DQuery.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_DQuery.cpp > CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_DQuery.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_DQuery.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_DQuery.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_DQuery.cpp -o CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_DQuery.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_DQuery.cpp -o CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_DQuery.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_DQuery.cpp.o.requires:
 
@@ -564,15 +564,15 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_DQuery.cpp.o.provides
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_KQuery.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_KQuery.cpp.o: ../DataStructures/SPOJ_KQuery.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_KQuery.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_KQuery.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_KQuery.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_KQuery.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_KQuery.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_KQuery.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_KQuery.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_KQuery.cpp > CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_KQuery.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_KQuery.cpp > CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_KQuery.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_KQuery.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_KQuery.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_KQuery.cpp -o CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_KQuery.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_KQuery.cpp -o CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_KQuery.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_KQuery.cpp.o.requires:
 
@@ -588,15 +588,15 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_KQuery.cpp.o.provides
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_KQuery2.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_KQuery2.cpp.o: ../DataStructures/SPOJ_KQuery2.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_KQuery2.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_KQuery2.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_KQuery2.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_KQuery2.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_KQuery2.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_KQuery2.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_KQuery2.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_KQuery2.cpp > CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_KQuery2.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_KQuery2.cpp > CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_KQuery2.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_KQuery2.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_KQuery2.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_KQuery2.cpp -o CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_KQuery2.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_KQuery2.cpp -o CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_KQuery2.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_KQuery2.cpp.o.requires:
 
@@ -612,15 +612,15 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_KQuery2.cpp.o.provide
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_KthNumber.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_KthNumber.cpp.o: ../DataStructures/SPOJ_KthNumber.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_KthNumber.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_KthNumber.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_KthNumber.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_KthNumber.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_KthNumber.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_KthNumber.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_KthNumber.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_KthNumber.cpp > CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_KthNumber.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_KthNumber.cpp > CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_KthNumber.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_KthNumber.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_KthNumber.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_KthNumber.cpp -o CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_KthNumber.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_KthNumber.cpp -o CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_KthNumber.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_KthNumber.cpp.o.requires:
 
@@ -636,15 +636,15 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_KthNumber.cpp.o.provi
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_OrderStatisticSet.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_OrderStatisticSet.cpp.o: ../DataStructures/SPOJ_OrderStatisticSet.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_OrderStatisticSet.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_OrderStatisticSet.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_OrderStatisticSet.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_OrderStatisticSet.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_OrderStatisticSet.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_OrderStatisticSet.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_OrderStatisticSet.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_OrderStatisticSet.cpp > CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_OrderStatisticSet.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_OrderStatisticSet.cpp > CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_OrderStatisticSet.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_OrderStatisticSet.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_OrderStatisticSet.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_OrderStatisticSet.cpp -o CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_OrderStatisticSet.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_OrderStatisticSet.cpp -o CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_OrderStatisticSet.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_OrderStatisticSet.cpp.o.requires:
 
@@ -660,15 +660,15 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_OrderStatisticSet.cpp
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF161D_DistanceTree.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF161D_DistanceTree.cpp.o: ../DynamicProgramming/OnTrees/CF161D_DistanceTree.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF161D_DistanceTree.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF161D_DistanceTree.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/CF161D_DistanceTree.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF161D_DistanceTree.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/CF161D_DistanceTree.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF161D_DistanceTree.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF161D_DistanceTree.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/CF161D_DistanceTree.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF161D_DistanceTree.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/CF161D_DistanceTree.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF161D_DistanceTree.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF161D_DistanceTree.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF161D_DistanceTree.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/CF161D_DistanceTree.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF161D_DistanceTree.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/CF161D_DistanceTree.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF161D_DistanceTree.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF161D_DistanceTree.cpp.o.requires:
 
@@ -684,15 +684,15 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF161D_Distanc
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF337D_BookOfEvil.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF337D_BookOfEvil.cpp.o: ../DynamicProgramming/OnTrees/CF337D_BookOfEvil.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF337D_BookOfEvil.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF337D_BookOfEvil.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/CF337D_BookOfEvil.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF337D_BookOfEvil.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/CF337D_BookOfEvil.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF337D_BookOfEvil.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF337D_BookOfEvil.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/CF337D_BookOfEvil.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF337D_BookOfEvil.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/CF337D_BookOfEvil.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF337D_BookOfEvil.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF337D_BookOfEvil.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF337D_BookOfEvil.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/CF337D_BookOfEvil.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF337D_BookOfEvil.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/CF337D_BookOfEvil.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF337D_BookOfEvil.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF337D_BookOfEvil.cpp.o.requires:
 
@@ -708,15 +708,15 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF337D_BookOfE
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF440D_BerlandFederalization.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF440D_BerlandFederalization.cpp.o: ../DynamicProgramming/OnTrees/CF440D_BerlandFederalization.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF440D_BerlandFederalization.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF440D_BerlandFederalization.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/CF440D_BerlandFederalization.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF440D_BerlandFederalization.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/CF440D_BerlandFederalization.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF440D_BerlandFederalization.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF440D_BerlandFederalization.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/CF440D_BerlandFederalization.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF440D_BerlandFederalization.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/CF440D_BerlandFederalization.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF440D_BerlandFederalization.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF440D_BerlandFederalization.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF440D_BerlandFederalization.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/CF440D_BerlandFederalization.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF440D_BerlandFederalization.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/CF440D_BerlandFederalization.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF440D_BerlandFederalization.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF440D_BerlandFederalization.cpp.o.requires:
 
@@ -732,15 +732,15 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF440D_Berland
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF462D_ApplemanAndTree.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF462D_ApplemanAndTree.cpp.o: ../DynamicProgramming/OnTrees/CF462D_ApplemanAndTree.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF462D_ApplemanAndTree.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF462D_ApplemanAndTree.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/CF462D_ApplemanAndTree.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF462D_ApplemanAndTree.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/CF462D_ApplemanAndTree.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF462D_ApplemanAndTree.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF462D_ApplemanAndTree.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/CF462D_ApplemanAndTree.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF462D_ApplemanAndTree.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/CF462D_ApplemanAndTree.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF462D_ApplemanAndTree.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF462D_ApplemanAndTree.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF462D_ApplemanAndTree.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/CF462D_ApplemanAndTree.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF462D_ApplemanAndTree.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/CF462D_ApplemanAndTree.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF462D_ApplemanAndTree.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF462D_ApplemanAndTree.cpp.o.requires:
 
@@ -756,15 +756,15 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF462D_Applema
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF682C_AlyonaAndTheTree.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF682C_AlyonaAndTheTree.cpp.o: ../DynamicProgramming/OnTrees/CF682C_AlyonaAndTheTree.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF682C_AlyonaAndTheTree.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF682C_AlyonaAndTheTree.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/CF682C_AlyonaAndTheTree.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF682C_AlyonaAndTheTree.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/CF682C_AlyonaAndTheTree.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF682C_AlyonaAndTheTree.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF682C_AlyonaAndTheTree.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/CF682C_AlyonaAndTheTree.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF682C_AlyonaAndTheTree.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/CF682C_AlyonaAndTheTree.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF682C_AlyonaAndTheTree.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF682C_AlyonaAndTheTree.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF682C_AlyonaAndTheTree.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/CF682C_AlyonaAndTheTree.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF682C_AlyonaAndTheTree.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/CF682C_AlyonaAndTheTree.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF682C_AlyonaAndTheTree.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF682C_AlyonaAndTheTree.cpp.o.requires:
 
@@ -780,15 +780,15 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF682C_AlyonaA
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF758E_BrokenTree.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF758E_BrokenTree.cpp.o: ../DynamicProgramming/OnTrees/CF758E_BrokenTree.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF758E_BrokenTree.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF758E_BrokenTree.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/CF758E_BrokenTree.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF758E_BrokenTree.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/CF758E_BrokenTree.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF758E_BrokenTree.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF758E_BrokenTree.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/CF758E_BrokenTree.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF758E_BrokenTree.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/CF758E_BrokenTree.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF758E_BrokenTree.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF758E_BrokenTree.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF758E_BrokenTree.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/CF758E_BrokenTree.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF758E_BrokenTree.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/CF758E_BrokenTree.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF758E_BrokenTree.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF758E_BrokenTree.cpp.o.requires:
 
@@ -804,15 +804,15 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF758E_BrokenT
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF771C_BearAndTreeJumps.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF771C_BearAndTreeJumps.cpp.o: ../DynamicProgramming/OnTrees/CF771C_BearAndTreeJumps.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF771C_BearAndTreeJumps.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF771C_BearAndTreeJumps.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/CF771C_BearAndTreeJumps.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF771C_BearAndTreeJumps.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/CF771C_BearAndTreeJumps.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF771C_BearAndTreeJumps.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF771C_BearAndTreeJumps.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/CF771C_BearAndTreeJumps.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF771C_BearAndTreeJumps.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/CF771C_BearAndTreeJumps.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF771C_BearAndTreeJumps.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF771C_BearAndTreeJumps.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF771C_BearAndTreeJumps.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/CF771C_BearAndTreeJumps.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF771C_BearAndTreeJumps.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/CF771C_BearAndTreeJumps.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF771C_BearAndTreeJumps.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF771C_BearAndTreeJumps.cpp.o.requires:
 
@@ -828,15 +828,15 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF771C_BearAnd
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CFDPOnTreesTutP3b.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CFDPOnTreesTutP3b.cpp.o: ../DynamicProgramming/OnTrees/CFDPOnTreesTutP3b.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CFDPOnTreesTutP3b.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CFDPOnTreesTutP3b.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/CFDPOnTreesTutP3b.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CFDPOnTreesTutP3b.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/CFDPOnTreesTutP3b.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CFDPOnTreesTutP3b.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CFDPOnTreesTutP3b.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/CFDPOnTreesTutP3b.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CFDPOnTreesTutP3b.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/CFDPOnTreesTutP3b.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CFDPOnTreesTutP3b.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CFDPOnTreesTutP3b.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CFDPOnTreesTutP3b.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/CFDPOnTreesTutP3b.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CFDPOnTreesTutP3b.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/CFDPOnTreesTutP3b.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CFDPOnTreesTutP3b.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CFDPOnTreesTutP3b.cpp.o.requires:
 
@@ -852,15 +852,15 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CFDPOnTreesTut
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CFDPOnTreesTutP4.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CFDPOnTreesTutP4.cpp.o: ../DynamicProgramming/OnTrees/CFDPOnTreesTutP4.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CFDPOnTreesTutP4.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CFDPOnTreesTutP4.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/CFDPOnTreesTutP4.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CFDPOnTreesTutP4.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/CFDPOnTreesTutP4.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CFDPOnTreesTutP4.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CFDPOnTreesTutP4.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/CFDPOnTreesTutP4.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CFDPOnTreesTutP4.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/CFDPOnTreesTutP4.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CFDPOnTreesTutP4.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CFDPOnTreesTutP4.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CFDPOnTreesTutP4.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/CFDPOnTreesTutP4.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CFDPOnTreesTutP4.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/CFDPOnTreesTutP4.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CFDPOnTreesTutP4.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CFDPOnTreesTutP4.cpp.o.requires:
 
@@ -876,15 +876,15 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CFDPOnTreesTut
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/HackerEarth_CountingOnTree.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/HackerEarth_CountingOnTree.cpp.o: ../DynamicProgramming/OnTrees/HackerEarth_CountingOnTree.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/HackerEarth_CountingOnTree.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/HackerEarth_CountingOnTree.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/HackerEarth_CountingOnTree.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/HackerEarth_CountingOnTree.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/HackerEarth_CountingOnTree.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/HackerEarth_CountingOnTree.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/HackerEarth_CountingOnTree.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/HackerEarth_CountingOnTree.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/HackerEarth_CountingOnTree.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/HackerEarth_CountingOnTree.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/HackerEarth_CountingOnTree.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/HackerEarth_CountingOnTree.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/HackerEarth_CountingOnTree.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/HackerEarth_CountingOnTree.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/HackerEarth_CountingOnTree.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/HackerEarth_CountingOnTree.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/HackerEarth_CountingOnTree.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/HackerEarth_CountingOnTree.cpp.o.requires:
 
@@ -900,15 +900,15 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/HackerEarth_Co
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOI2005_Rivers.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOI2005_Rivers.cpp.o: ../DynamicProgramming/OnTrees/IOI2005_Rivers.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOI2005_Rivers.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOI2005_Rivers.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/IOI2005_Rivers.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOI2005_Rivers.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/IOI2005_Rivers.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOI2005_Rivers.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOI2005_Rivers.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/IOI2005_Rivers.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOI2005_Rivers.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/IOI2005_Rivers.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOI2005_Rivers.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOI2005_Rivers.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOI2005_Rivers.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/IOI2005_Rivers.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOI2005_Rivers.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/IOI2005_Rivers.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOI2005_Rivers.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOI2005_Rivers.cpp.o.requires:
 
@@ -924,15 +924,15 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOI2005_Rivers
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC_CateringContracts.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC_CateringContracts.cpp.o: ../DynamicProgramming/OnTrees/IOITC_CateringContracts.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC_CateringContracts.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC_CateringContracts.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/IOITC_CateringContracts.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC_CateringContracts.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/IOITC_CateringContracts.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC_CateringContracts.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC_CateringContracts.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/IOITC_CateringContracts.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC_CateringContracts.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/IOITC_CateringContracts.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC_CateringContracts.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC_CateringContracts.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC_CateringContracts.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/IOITC_CateringContracts.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC_CateringContracts.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/IOITC_CateringContracts.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC_CateringContracts.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC_CateringContracts.cpp.o.requires:
 
@@ -948,15 +948,15 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC_Catering
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/OPC_3WaySplit.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/OPC_3WaySplit.cpp.o: ../DynamicProgramming/OnTrees/OPC_3WaySplit.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/OPC_3WaySplit.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/OPC_3WaySplit.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/OPC_3WaySplit.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/OPC_3WaySplit.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/OPC_3WaySplit.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/OPC_3WaySplit.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/OPC_3WaySplit.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/OPC_3WaySplit.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/OPC_3WaySplit.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/OPC_3WaySplit.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/OPC_3WaySplit.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/OPC_3WaySplit.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/OPC_3WaySplit.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/OPC_3WaySplit.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/OPC_3WaySplit.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/OPC_3WaySplit.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/OPC_3WaySplit.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/OPC_3WaySplit.cpp.o.requires:
 
@@ -972,15 +972,15 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/OPC_3WaySplit.
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/OPC_CateringContracts.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/OPC_CateringContracts.cpp.o: ../DynamicProgramming/OnTrees/OPC_CateringContracts.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/OPC_CateringContracts.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/OPC_CateringContracts.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/OPC_CateringContracts.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/OPC_CateringContracts.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/OPC_CateringContracts.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/OPC_CateringContracts.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/OPC_CateringContracts.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/OPC_CateringContracts.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/OPC_CateringContracts.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/OPC_CateringContracts.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/OPC_CateringContracts.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/OPC_CateringContracts.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/OPC_CateringContracts.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/OPC_CateringContracts.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/OPC_CateringContracts.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/OPC_CateringContracts.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/OPC_CateringContracts.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/OPC_CateringContracts.cpp.o.requires:
 
@@ -996,15 +996,15 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/OPC_CateringCo
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/SubtreesWithKNodes.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/SubtreesWithKNodes.cpp.o: ../DynamicProgramming/OnTrees/SubtreesWithKNodes.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/SubtreesWithKNodes.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/SubtreesWithKNodes.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/SubtreesWithKNodes.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/SubtreesWithKNodes.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/SubtreesWithKNodes.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/SubtreesWithKNodes.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/SubtreesWithKNodes.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/SubtreesWithKNodes.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/SubtreesWithKNodes.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/SubtreesWithKNodes.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/SubtreesWithKNodes.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/SubtreesWithKNodes.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/SubtreesWithKNodes.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/SubtreesWithKNodes.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/SubtreesWithKNodes.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/SubtreesWithKNodes.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/SubtreesWithKNodes.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/SubtreesWithKNodes.cpp.o.requires:
 
@@ -1020,15 +1020,15 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/SubtreesWithKN
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/TIMUS_BinaryAppleTree.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/TIMUS_BinaryAppleTree.cpp.o: ../DynamicProgramming/OnTrees/TIMUS_BinaryAppleTree.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/TIMUS_BinaryAppleTree.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/TIMUS_BinaryAppleTree.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/TIMUS_BinaryAppleTree.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/TIMUS_BinaryAppleTree.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/TIMUS_BinaryAppleTree.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/TIMUS_BinaryAppleTree.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/TIMUS_BinaryAppleTree.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/TIMUS_BinaryAppleTree.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/TIMUS_BinaryAppleTree.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/TIMUS_BinaryAppleTree.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/TIMUS_BinaryAppleTree.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/TIMUS_BinaryAppleTree.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/TIMUS_BinaryAppleTree.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/TIMUS_BinaryAppleTree.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/TIMUS_BinaryAppleTree.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/TIMUS_BinaryAppleTree.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/TIMUS_BinaryAppleTree.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/TIMUS_BinaryAppleTree.cpp.o.requires:
 
@@ -1044,15 +1044,15 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/TIMUS_BinaryAp
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CC_SealingUp.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CC_SealingUp.cpp.o: ../DynamicProgramming/CC_SealingUp.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CC_SealingUp.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CC_SealingUp.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CC_SealingUp.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CC_SealingUp.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CC_SealingUp.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CC_SealingUp.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CC_SealingUp.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CC_SealingUp.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CC_SealingUp.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CC_SealingUp.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CC_SealingUp.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CC_SealingUp.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CC_SealingUp.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CC_SealingUp.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CC_SealingUp.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CC_SealingUp.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CC_SealingUp.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CC_SealingUp.cpp.o.requires:
 
@@ -1068,15 +1068,15 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CC_SealingUp.cpp.o.pro
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CC_TiduAndFrustratedTeacher.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CC_TiduAndFrustratedTeacher.cpp.o: ../DynamicProgramming/CC_TiduAndFrustratedTeacher.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CC_TiduAndFrustratedTeacher.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CC_TiduAndFrustratedTeacher.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CC_TiduAndFrustratedTeacher.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CC_TiduAndFrustratedTeacher.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CC_TiduAndFrustratedTeacher.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CC_TiduAndFrustratedTeacher.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CC_TiduAndFrustratedTeacher.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CC_TiduAndFrustratedTeacher.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CC_TiduAndFrustratedTeacher.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CC_TiduAndFrustratedTeacher.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CC_TiduAndFrustratedTeacher.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CC_TiduAndFrustratedTeacher.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CC_TiduAndFrustratedTeacher.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CC_TiduAndFrustratedTeacher.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CC_TiduAndFrustratedTeacher.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CC_TiduAndFrustratedTeacher.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CC_TiduAndFrustratedTeacher.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CC_TiduAndFrustratedTeacher.cpp.o.requires:
 
@@ -1092,15 +1092,15 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CC_TiduAndFrustratedTe
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF347D_LuckyCommonSubsequence.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF347D_LuckyCommonSubsequence.cpp.o: ../DynamicProgramming/CF347D_LuckyCommonSubsequence.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF347D_LuckyCommonSubsequence.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF347D_LuckyCommonSubsequence.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF347D_LuckyCommonSubsequence.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF347D_LuckyCommonSubsequence.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF347D_LuckyCommonSubsequence.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF347D_LuckyCommonSubsequence.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF347D_LuckyCommonSubsequence.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF347D_LuckyCommonSubsequence.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF347D_LuckyCommonSubsequence.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF347D_LuckyCommonSubsequence.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF347D_LuckyCommonSubsequence.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF347D_LuckyCommonSubsequence.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF347D_LuckyCommonSubsequence.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF347D_LuckyCommonSubsequence.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF347D_LuckyCommonSubsequence.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF347D_LuckyCommonSubsequence.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF347D_LuckyCommonSubsequence.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF347D_LuckyCommonSubsequence.cpp.o.requires:
 
@@ -1116,15 +1116,15 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF347D_LuckyCommonSubs
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF347D_LuckyCommonSubsequence2.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF347D_LuckyCommonSubsequence2.cpp.o: ../DynamicProgramming/CF347D_LuckyCommonSubsequence2.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF347D_LuckyCommonSubsequence2.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF347D_LuckyCommonSubsequence2.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF347D_LuckyCommonSubsequence2.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF347D_LuckyCommonSubsequence2.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF347D_LuckyCommonSubsequence2.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF347D_LuckyCommonSubsequence2.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF347D_LuckyCommonSubsequence2.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF347D_LuckyCommonSubsequence2.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF347D_LuckyCommonSubsequence2.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF347D_LuckyCommonSubsequence2.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF347D_LuckyCommonSubsequence2.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF347D_LuckyCommonSubsequence2.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF347D_LuckyCommonSubsequence2.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF347D_LuckyCommonSubsequence2.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF347D_LuckyCommonSubsequence2.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF347D_LuckyCommonSubsequence2.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF347D_LuckyCommonSubsequence2.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF347D_LuckyCommonSubsequence2.cpp.o.requires:
 
@@ -1140,15 +1140,15 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF347D_LuckyCommonSubs
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF385C_BearAndPrimeNumbers.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF385C_BearAndPrimeNumbers.cpp.o: ../DynamicProgramming/CF385C_BearAndPrimeNumbers.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF385C_BearAndPrimeNumbers.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF385C_BearAndPrimeNumbers.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF385C_BearAndPrimeNumbers.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF385C_BearAndPrimeNumbers.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF385C_BearAndPrimeNumbers.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF385C_BearAndPrimeNumbers.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF385C_BearAndPrimeNumbers.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF385C_BearAndPrimeNumbers.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF385C_BearAndPrimeNumbers.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF385C_BearAndPrimeNumbers.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF385C_BearAndPrimeNumbers.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF385C_BearAndPrimeNumbers.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF385C_BearAndPrimeNumbers.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF385C_BearAndPrimeNumbers.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF385C_BearAndPrimeNumbers.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF385C_BearAndPrimeNumbers.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF385C_BearAndPrimeNumbers.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF385C_BearAndPrimeNumbers.cpp.o.requires:
 
@@ -1164,15 +1164,15 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF385C_BearAndPrimeNum
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF414B_MashmokhAndACM.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF414B_MashmokhAndACM.cpp.o: ../DynamicProgramming/CF414B_MashmokhAndACM.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF414B_MashmokhAndACM.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF414B_MashmokhAndACM.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF414B_MashmokhAndACM.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF414B_MashmokhAndACM.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF414B_MashmokhAndACM.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF414B_MashmokhAndACM.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF414B_MashmokhAndACM.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF414B_MashmokhAndACM.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF414B_MashmokhAndACM.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF414B_MashmokhAndACM.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF414B_MashmokhAndACM.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF414B_MashmokhAndACM.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF414B_MashmokhAndACM.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF414B_MashmokhAndACM.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF414B_MashmokhAndACM.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF414B_MashmokhAndACM.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF414B_MashmokhAndACM.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF414B_MashmokhAndACM.cpp.o.requires:
 
@@ -1188,15 +1188,15 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF414B_MashmokhAndACM.
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF416C_BookingSystem.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF416C_BookingSystem.cpp.o: ../DynamicProgramming/CF416C_BookingSystem.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_48) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF416C_BookingSystem.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF416C_BookingSystem.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF416C_BookingSystem.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF416C_BookingSystem.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF416C_BookingSystem.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF416C_BookingSystem.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF416C_BookingSystem.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF416C_BookingSystem.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF416C_BookingSystem.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF416C_BookingSystem.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF416C_BookingSystem.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF416C_BookingSystem.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF416C_BookingSystem.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF416C_BookingSystem.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF416C_BookingSystem.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF416C_BookingSystem.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF416C_BookingSystem.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF416C_BookingSystem.cpp.o.requires:
 
@@ -1212,15 +1212,15 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF416C_BookingSystem.c
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF430D_WorkingOut.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF430D_WorkingOut.cpp.o: ../DynamicProgramming/CF430D_WorkingOut.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF430D_WorkingOut.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF430D_WorkingOut.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF430D_WorkingOut.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF430D_WorkingOut.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF430D_WorkingOut.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF430D_WorkingOut.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF430D_WorkingOut.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF430D_WorkingOut.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF430D_WorkingOut.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF430D_WorkingOut.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF430D_WorkingOut.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF430D_WorkingOut.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF430D_WorkingOut.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF430D_WorkingOut.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF430D_WorkingOut.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF430D_WorkingOut.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF430D_WorkingOut.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF430D_WorkingOut.cpp.o.requires:
 
@@ -1236,15 +1236,15 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF430D_WorkingOut.cpp.
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF474D_Flowers.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF474D_Flowers.cpp.o: ../DynamicProgramming/CF474D_Flowers.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_50) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF474D_Flowers.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF474D_Flowers.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF474D_Flowers.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF474D_Flowers.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF474D_Flowers.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF474D_Flowers.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF474D_Flowers.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF474D_Flowers.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF474D_Flowers.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF474D_Flowers.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF474D_Flowers.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF474D_Flowers.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF474D_Flowers.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF474D_Flowers.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF474D_Flowers.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF474D_Flowers.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF474D_Flowers.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF474D_Flowers.cpp.o.requires:
 
@@ -1260,15 +1260,15 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF474D_Flowers.cpp.o.p
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF478D_RedGreenTowers.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF478D_RedGreenTowers.cpp.o: ../DynamicProgramming/CF478D_RedGreenTowers.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_51) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF478D_RedGreenTowers.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF478D_RedGreenTowers.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF478D_RedGreenTowers.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF478D_RedGreenTowers.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF478D_RedGreenTowers.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF478D_RedGreenTowers.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF478D_RedGreenTowers.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF478D_RedGreenTowers.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF478D_RedGreenTowers.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF478D_RedGreenTowers.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF478D_RedGreenTowers.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF478D_RedGreenTowers.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF478D_RedGreenTowers.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF478D_RedGreenTowers.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF478D_RedGreenTowers.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF478D_RedGreenTowers.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF478D_RedGreenTowers.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF478D_RedGreenTowers.cpp.o.requires:
 
@@ -1284,15 +1284,15 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF478D_RedGreenTowers.
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF4D_MysteriousPresent.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF4D_MysteriousPresent.cpp.o: ../DynamicProgramming/CF4D_MysteriousPresent.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_52) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF4D_MysteriousPresent.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF4D_MysteriousPresent.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF4D_MysteriousPresent.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF4D_MysteriousPresent.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF4D_MysteriousPresent.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF4D_MysteriousPresent.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF4D_MysteriousPresent.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF4D_MysteriousPresent.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF4D_MysteriousPresent.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF4D_MysteriousPresent.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF4D_MysteriousPresent.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF4D_MysteriousPresent.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF4D_MysteriousPresent.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF4D_MysteriousPresent.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF4D_MysteriousPresent.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF4D_MysteriousPresent.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF4D_MysteriousPresent.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF4D_MysteriousPresent.cpp.o.requires:
 
@@ -1308,15 +1308,15 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF4D_MysteriousPresent
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF507D_TheMathsLecture.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF507D_TheMathsLecture.cpp.o: ../DynamicProgramming/CF507D_TheMathsLecture.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_53) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF507D_TheMathsLecture.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF507D_TheMathsLecture.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF507D_TheMathsLecture.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF507D_TheMathsLecture.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF507D_TheMathsLecture.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF507D_TheMathsLecture.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF507D_TheMathsLecture.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF507D_TheMathsLecture.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF507D_TheMathsLecture.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF507D_TheMathsLecture.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF507D_TheMathsLecture.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF507D_TheMathsLecture.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF507D_TheMathsLecture.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF507D_TheMathsLecture.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF507D_TheMathsLecture.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF507D_TheMathsLecture.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF507D_TheMathsLecture.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF507D_TheMathsLecture.cpp.o.requires:
 
@@ -1332,15 +1332,15 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF507D_TheMathsLecture
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF544C_WritingCode.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF544C_WritingCode.cpp.o: ../DynamicProgramming/CF544C_WritingCode.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_54) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF544C_WritingCode.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF544C_WritingCode.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF544C_WritingCode.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF544C_WritingCode.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF544C_WritingCode.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF544C_WritingCode.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF544C_WritingCode.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF544C_WritingCode.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF544C_WritingCode.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF544C_WritingCode.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF544C_WritingCode.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF544C_WritingCode.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF544C_WritingCode.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF544C_WritingCode.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF544C_WritingCode.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF544C_WritingCode.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF544C_WritingCode.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF544C_WritingCode.cpp.o.requires:
 
@@ -1356,15 +1356,15 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF544C_WritingCode.cpp
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF580D_KefaAndDishes.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF580D_KefaAndDishes.cpp.o: ../DynamicProgramming/CF580D_KefaAndDishes.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_55) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF580D_KefaAndDishes.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF580D_KefaAndDishes.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF580D_KefaAndDishes.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF580D_KefaAndDishes.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF580D_KefaAndDishes.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF580D_KefaAndDishes.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF580D_KefaAndDishes.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF580D_KefaAndDishes.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF580D_KefaAndDishes.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF580D_KefaAndDishes.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF580D_KefaAndDishes.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF580D_KefaAndDishes.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF580D_KefaAndDishes.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF580D_KefaAndDishes.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF580D_KefaAndDishes.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF580D_KefaAndDishes.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF580D_KefaAndDishes.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF580D_KefaAndDishes.cpp.o.requires:
 
@@ -1380,15 +1380,15 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF580D_KefaAndDishes.c
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF588D_DuffInBeach.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF588D_DuffInBeach.cpp.o: ../DynamicProgramming/CF588D_DuffInBeach.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_56) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF588D_DuffInBeach.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF588D_DuffInBeach.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF588D_DuffInBeach.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF588D_DuffInBeach.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF588D_DuffInBeach.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF588D_DuffInBeach.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF588D_DuffInBeach.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF588D_DuffInBeach.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF588D_DuffInBeach.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF588D_DuffInBeach.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF588D_DuffInBeach.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF588D_DuffInBeach.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF588D_DuffInBeach.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF588D_DuffInBeach.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF588D_DuffInBeach.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF588D_DuffInBeach.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF588D_DuffInBeach.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF588D_DuffInBeach.cpp.o.requires:
 
@@ -1404,15 +1404,15 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF588D_DuffInBeach.cpp
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF61D_EternalVictory.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF61D_EternalVictory.cpp.o: ../DynamicProgramming/CF61D_EternalVictory.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_57) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF61D_EternalVictory.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF61D_EternalVictory.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF61D_EternalVictory.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF61D_EternalVictory.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF61D_EternalVictory.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF61D_EternalVictory.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF61D_EternalVictory.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF61D_EternalVictory.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF61D_EternalVictory.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF61D_EternalVictory.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF61D_EternalVictory.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF61D_EternalVictory.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF61D_EternalVictory.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF61D_EternalVictory.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF61D_EternalVictory.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF61D_EternalVictory.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF61D_EternalVictory.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF61D_EternalVictory.cpp.o.requires:
 
@@ -1428,15 +1428,15 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF61D_EternalVictory.c
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF628B_NewSkateboard.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF628B_NewSkateboard.cpp.o: ../DynamicProgramming/CF628B_NewSkateboard.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_58) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF628B_NewSkateboard.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF628B_NewSkateboard.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF628B_NewSkateboard.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF628B_NewSkateboard.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF628B_NewSkateboard.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF628B_NewSkateboard.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF628B_NewSkateboard.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF628B_NewSkateboard.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF628B_NewSkateboard.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF628B_NewSkateboard.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF628B_NewSkateboard.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF628B_NewSkateboard.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF628B_NewSkateboard.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF628B_NewSkateboard.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF628B_NewSkateboard.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF628B_NewSkateboard.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF628B_NewSkateboard.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF628B_NewSkateboard.cpp.o.requires:
 
@@ -1452,15 +1452,15 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF628B_NewSkateboard.c
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF706C_HardProblem.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF706C_HardProblem.cpp.o: ../DynamicProgramming/CF706C_HardProblem.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_59) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF706C_HardProblem.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF706C_HardProblem.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF706C_HardProblem.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF706C_HardProblem.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF706C_HardProblem.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF706C_HardProblem.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF706C_HardProblem.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF706C_HardProblem.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF706C_HardProblem.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF706C_HardProblem.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF706C_HardProblem.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF706C_HardProblem.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF706C_HardProblem.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF706C_HardProblem.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF706C_HardProblem.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF706C_HardProblem.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF706C_HardProblem.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF706C_HardProblem.cpp.o.requires:
 
@@ -1476,15 +1476,15 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF706C_HardProblem.cpp
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF711C_ColoringTrees.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF711C_ColoringTrees.cpp.o: ../DynamicProgramming/CF711C_ColoringTrees.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_60) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF711C_ColoringTrees.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF711C_ColoringTrees.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF711C_ColoringTrees.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF711C_ColoringTrees.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF711C_ColoringTrees.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF711C_ColoringTrees.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF711C_ColoringTrees.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF711C_ColoringTrees.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF711C_ColoringTrees.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF711C_ColoringTrees.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF711C_ColoringTrees.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF711C_ColoringTrees.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF711C_ColoringTrees.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF711C_ColoringTrees.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF711C_ColoringTrees.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF711C_ColoringTrees.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF711C_ColoringTrees.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF711C_ColoringTrees.cpp.o.requires:
 
@@ -1500,15 +1500,15 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF711C_ColoringTrees.c
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF762D_MaximumPath.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF762D_MaximumPath.cpp.o: ../DynamicProgramming/CF762D_MaximumPath.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_61) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF762D_MaximumPath.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF762D_MaximumPath.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF762D_MaximumPath.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF762D_MaximumPath.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF762D_MaximumPath.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF762D_MaximumPath.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF762D_MaximumPath.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF762D_MaximumPath.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF762D_MaximumPath.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF762D_MaximumPath.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF762D_MaximumPath.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF762D_MaximumPath.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF762D_MaximumPath.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF762D_MaximumPath.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF762D_MaximumPath.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF762D_MaximumPath.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF762D_MaximumPath.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF762D_MaximumPath.cpp.o.requires:
 
@@ -1524,15 +1524,15 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF762D_MaximumPath.cpp
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF789C_FunctionsAgain.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF789C_FunctionsAgain.cpp.o: ../DynamicProgramming/CF789C_FunctionsAgain.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_62) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF789C_FunctionsAgain.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF789C_FunctionsAgain.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF789C_FunctionsAgain.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF789C_FunctionsAgain.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF789C_FunctionsAgain.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF789C_FunctionsAgain.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF789C_FunctionsAgain.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF789C_FunctionsAgain.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF789C_FunctionsAgain.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF789C_FunctionsAgain.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF789C_FunctionsAgain.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF789C_FunctionsAgain.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF789C_FunctionsAgain.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF789C_FunctionsAgain.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF789C_FunctionsAgain.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF789C_FunctionsAgain.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF789C_FunctionsAgain.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF789C_FunctionsAgain.cpp.o.requires:
 
@@ -1548,15 +1548,15 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF789C_FunctionsAgain.
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF837D_RoundSubset.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF837D_RoundSubset.cpp.o: ../DynamicProgramming/CF837D_RoundSubset.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_63) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF837D_RoundSubset.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF837D_RoundSubset.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF837D_RoundSubset.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF837D_RoundSubset.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF837D_RoundSubset.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF837D_RoundSubset.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF837D_RoundSubset.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF837D_RoundSubset.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF837D_RoundSubset.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF837D_RoundSubset.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF837D_RoundSubset.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF837D_RoundSubset.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF837D_RoundSubset.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF837D_RoundSubset.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF837D_RoundSubset.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF837D_RoundSubset.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF837D_RoundSubset.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF837D_RoundSubset.cpp.o.requires:
 
@@ -1572,15 +1572,15 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF837D_RoundSubset.cpp
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CoinChange.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CoinChange.cpp.o: ../DynamicProgramming/CoinChange.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_64) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CoinChange.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CoinChange.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CoinChange.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CoinChange.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CoinChange.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CoinChange.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CoinChange.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CoinChange.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CoinChange.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CoinChange.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CoinChange.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CoinChange.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CoinChange.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CoinChange.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CoinChange.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CoinChange.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CoinChange.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CoinChange.cpp.o.requires:
 
@@ -1596,15 +1596,15 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CoinChange.cpp.o.provi
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/INOI_Brackets.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/INOI_Brackets.cpp.o: ../DynamicProgramming/INOI_Brackets.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_65) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/INOI_Brackets.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/INOI_Brackets.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/INOI_Brackets.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/INOI_Brackets.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/INOI_Brackets.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/INOI_Brackets.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/INOI_Brackets.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/INOI_Brackets.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/INOI_Brackets.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/INOI_Brackets.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/INOI_Brackets.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/INOI_Brackets.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/INOI_Brackets.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/INOI_Brackets.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/INOI_Brackets.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/INOI_Brackets.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/INOI_Brackets.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/INOI_Brackets.cpp.o.requires:
 
@@ -1620,15 +1620,15 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/INOI_Brackets.cpp.o.pr
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/INOI_CalvinsGame.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/INOI_CalvinsGame.cpp.o: ../DynamicProgramming/INOI_CalvinsGame.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_66) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/INOI_CalvinsGame.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/INOI_CalvinsGame.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/INOI_CalvinsGame.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/INOI_CalvinsGame.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/INOI_CalvinsGame.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/INOI_CalvinsGame.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/INOI_CalvinsGame.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/INOI_CalvinsGame.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/INOI_CalvinsGame.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/INOI_CalvinsGame.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/INOI_CalvinsGame.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/INOI_CalvinsGame.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/INOI_CalvinsGame.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/INOI_CalvinsGame.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/INOI_CalvinsGame.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/INOI_CalvinsGame.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/INOI_CalvinsGame.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/INOI_CalvinsGame.cpp.o.requires:
 
@@ -1644,15 +1644,15 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/INOI_CalvinsGame.cpp.o
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/INOI_SpecialSums.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/INOI_SpecialSums.cpp.o: ../DynamicProgramming/INOI_SpecialSums.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_67) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/INOI_SpecialSums.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/INOI_SpecialSums.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/INOI_SpecialSums.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/INOI_SpecialSums.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/INOI_SpecialSums.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/INOI_SpecialSums.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/INOI_SpecialSums.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/INOI_SpecialSums.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/INOI_SpecialSums.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/INOI_SpecialSums.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/INOI_SpecialSums.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/INOI_SpecialSums.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/INOI_SpecialSums.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/INOI_SpecialSums.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/INOI_SpecialSums.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/INOI_SpecialSums.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/INOI_SpecialSums.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/INOI_SpecialSums.cpp.o.requires:
 
@@ -1668,15 +1668,15 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/INOI_SpecialSums.cpp.o
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OPC_LongestPalindrome.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OPC_LongestPalindrome.cpp.o: ../DynamicProgramming/OPC_LongestPalindrome.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_68) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OPC_LongestPalindrome.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OPC_LongestPalindrome.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OPC_LongestPalindrome.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OPC_LongestPalindrome.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OPC_LongestPalindrome.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OPC_LongestPalindrome.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OPC_LongestPalindrome.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OPC_LongestPalindrome.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OPC_LongestPalindrome.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OPC_LongestPalindrome.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OPC_LongestPalindrome.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OPC_LongestPalindrome.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OPC_LongestPalindrome.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OPC_LongestPalindrome.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OPC_LongestPalindrome.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OPC_LongestPalindrome.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OPC_LongestPalindrome.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OPC_LongestPalindrome.cpp.o.requires:
 
@@ -1692,15 +1692,15 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OPC_LongestPalindrome.
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OPC_NumberOfTilings.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OPC_NumberOfTilings.cpp.o: ../DynamicProgramming/OPC_NumberOfTilings.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_69) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OPC_NumberOfTilings.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OPC_NumberOfTilings.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OPC_NumberOfTilings.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OPC_NumberOfTilings.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OPC_NumberOfTilings.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OPC_NumberOfTilings.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OPC_NumberOfTilings.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OPC_NumberOfTilings.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OPC_NumberOfTilings.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OPC_NumberOfTilings.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OPC_NumberOfTilings.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OPC_NumberOfTilings.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OPC_NumberOfTilings.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OPC_NumberOfTilings.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OPC_NumberOfTilings.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OPC_NumberOfTilings.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OPC_NumberOfTilings.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OPC_NumberOfTilings.cpp.o.requires:
 
@@ -1716,15 +1716,15 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OPC_NumberOfTilings.cp
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_ACMaker.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_ACMaker.cpp.o: ../DynamicProgramming/SPOJ_ACMaker.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_70) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_ACMaker.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_ACMaker.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/SPOJ_ACMaker.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_ACMaker.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/SPOJ_ACMaker.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_ACMaker.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_ACMaker.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/SPOJ_ACMaker.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_ACMaker.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/SPOJ_ACMaker.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_ACMaker.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_ACMaker.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_ACMaker.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/SPOJ_ACMaker.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_ACMaker.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/SPOJ_ACMaker.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_ACMaker.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_ACMaker.cpp.o.requires:
 
@@ -1740,15 +1740,15 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_ACMaker.cpp.o.pro
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_Activities.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_Activities.cpp.o: ../DynamicProgramming/SPOJ_Activities.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_71) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_Activities.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_Activities.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/SPOJ_Activities.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_Activities.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/SPOJ_Activities.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_Activities.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_Activities.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/SPOJ_Activities.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_Activities.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/SPOJ_Activities.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_Activities.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_Activities.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_Activities.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/SPOJ_Activities.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_Activities.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/SPOJ_Activities.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_Activities.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_Activities.cpp.o.requires:
 
@@ -1764,15 +1764,15 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_Activities.cpp.o.
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_Aibohphobia.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_Aibohphobia.cpp.o: ../DynamicProgramming/SPOJ_Aibohphobia.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_72) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_Aibohphobia.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_Aibohphobia.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/SPOJ_Aibohphobia.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_Aibohphobia.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/SPOJ_Aibohphobia.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_Aibohphobia.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_Aibohphobia.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/SPOJ_Aibohphobia.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_Aibohphobia.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/SPOJ_Aibohphobia.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_Aibohphobia.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_Aibohphobia.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_Aibohphobia.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/SPOJ_Aibohphobia.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_Aibohphobia.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/SPOJ_Aibohphobia.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_Aibohphobia.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_Aibohphobia.cpp.o.requires:
 
@@ -1788,15 +1788,15 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_Aibohphobia.cpp.o
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_Alphacode.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_Alphacode.cpp.o: ../DynamicProgramming/SPOJ_Alphacode.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_73) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_Alphacode.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_Alphacode.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/SPOJ_Alphacode.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_Alphacode.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/SPOJ_Alphacode.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_Alphacode.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_Alphacode.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/SPOJ_Alphacode.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_Alphacode.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/SPOJ_Alphacode.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_Alphacode.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_Alphacode.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_Alphacode.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/SPOJ_Alphacode.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_Alphacode.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/SPOJ_Alphacode.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_Alphacode.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_Alphacode.cpp.o.requires:
 
@@ -1812,15 +1812,15 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_Alphacode.cpp.o.p
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_BuyingApples.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_BuyingApples.cpp.o: ../DynamicProgramming/SPOJ_BuyingApples.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_74) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_BuyingApples.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_BuyingApples.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/SPOJ_BuyingApples.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_BuyingApples.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/SPOJ_BuyingApples.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_BuyingApples.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_BuyingApples.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/SPOJ_BuyingApples.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_BuyingApples.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/SPOJ_BuyingApples.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_BuyingApples.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_BuyingApples.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_BuyingApples.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/SPOJ_BuyingApples.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_BuyingApples.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/SPOJ_BuyingApples.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_BuyingApples.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_BuyingApples.cpp.o.requires:
 
@@ -1836,15 +1836,15 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_BuyingApples.cpp.
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/USACO2017P2.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/USACO2017P2.cpp.o: ../DynamicProgramming/USACO2017P2.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_75) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/USACO2017P2.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/USACO2017P2.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/USACO2017P2.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/USACO2017P2.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/USACO2017P2.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/USACO2017P2.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/USACO2017P2.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/USACO2017P2.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/USACO2017P2.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/USACO2017P2.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/USACO2017P2.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/USACO2017P2.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/USACO2017P2.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/USACO2017P2.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/USACO2017P2.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/USACO2017P2.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/USACO2017P2.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/USACO2017P2.cpp.o.requires:
 
@@ -1860,15 +1860,15 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/USACO2017P2.cpp.o.prov
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10306_eCoins.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10306_eCoins.cpp.o: ../DynamicProgramming/UVa10306_eCoins.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_76) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10306_eCoins.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10306_eCoins.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/UVa10306_eCoins.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10306_eCoins.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/UVa10306_eCoins.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10306_eCoins.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10306_eCoins.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/UVa10306_eCoins.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10306_eCoins.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/UVa10306_eCoins.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10306_eCoins.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10306_eCoins.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10306_eCoins.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/UVa10306_eCoins.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10306_eCoins.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/UVa10306_eCoins.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10306_eCoins.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10306_eCoins.cpp.o.requires:
 
@@ -1884,15 +1884,15 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10306_eCoins.cpp.o.
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10337_FlightPlanner.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10337_FlightPlanner.cpp.o: ../DynamicProgramming/UVa10337_FlightPlanner.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_77) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10337_FlightPlanner.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10337_FlightPlanner.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/UVa10337_FlightPlanner.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10337_FlightPlanner.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/UVa10337_FlightPlanner.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10337_FlightPlanner.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10337_FlightPlanner.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/UVa10337_FlightPlanner.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10337_FlightPlanner.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/UVa10337_FlightPlanner.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10337_FlightPlanner.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10337_FlightPlanner.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10337_FlightPlanner.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/UVa10337_FlightPlanner.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10337_FlightPlanner.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/UVa10337_FlightPlanner.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10337_FlightPlanner.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10337_FlightPlanner.cpp.o.requires:
 
@@ -1908,15 +1908,15 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10337_FlightPlanner
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10496_CollectingBeepers.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10496_CollectingBeepers.cpp.o: ../DynamicProgramming/UVa10496_CollectingBeepers.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_78) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10496_CollectingBeepers.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10496_CollectingBeepers.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/UVa10496_CollectingBeepers.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10496_CollectingBeepers.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/UVa10496_CollectingBeepers.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10496_CollectingBeepers.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10496_CollectingBeepers.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/UVa10496_CollectingBeepers.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10496_CollectingBeepers.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/UVa10496_CollectingBeepers.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10496_CollectingBeepers.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10496_CollectingBeepers.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10496_CollectingBeepers.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/UVa10496_CollectingBeepers.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10496_CollectingBeepers.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/UVa10496_CollectingBeepers.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10496_CollectingBeepers.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10496_CollectingBeepers.cpp.o.requires:
 
@@ -1932,15 +1932,15 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10496_CollectingBee
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10616_DivisibleGroupSums.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10616_DivisibleGroupSums.cpp.o: ../DynamicProgramming/UVa10616_DivisibleGroupSums.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_79) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10616_DivisibleGroupSums.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10616_DivisibleGroupSums.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/UVa10616_DivisibleGroupSums.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10616_DivisibleGroupSums.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/UVa10616_DivisibleGroupSums.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10616_DivisibleGroupSums.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10616_DivisibleGroupSums.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/UVa10616_DivisibleGroupSums.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10616_DivisibleGroupSums.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/UVa10616_DivisibleGroupSums.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10616_DivisibleGroupSums.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10616_DivisibleGroupSums.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10616_DivisibleGroupSums.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/UVa10616_DivisibleGroupSums.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10616_DivisibleGroupSums.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/UVa10616_DivisibleGroupSums.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10616_DivisibleGroupSums.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10616_DivisibleGroupSums.cpp.o.requires:
 
@@ -1956,15 +1956,15 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10616_DivisibleGrou
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10721_BarCodes.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10721_BarCodes.cpp.o: ../DynamicProgramming/UVa10721_BarCodes.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_80) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10721_BarCodes.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10721_BarCodes.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/UVa10721_BarCodes.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10721_BarCodes.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/UVa10721_BarCodes.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10721_BarCodes.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10721_BarCodes.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/UVa10721_BarCodes.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10721_BarCodes.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/UVa10721_BarCodes.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10721_BarCodes.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10721_BarCodes.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10721_BarCodes.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/UVa10721_BarCodes.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10721_BarCodes.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/UVa10721_BarCodes.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10721_BarCodes.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10721_BarCodes.cpp.o.requires:
 
@@ -1980,15 +1980,15 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10721_BarCodes.cpp.
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10819_TroubleOf13Dots.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10819_TroubleOf13Dots.cpp.o: ../DynamicProgramming/UVa10819_TroubleOf13Dots.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_81) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10819_TroubleOf13Dots.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10819_TroubleOf13Dots.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/UVa10819_TroubleOf13Dots.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10819_TroubleOf13Dots.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/UVa10819_TroubleOf13Dots.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10819_TroubleOf13Dots.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10819_TroubleOf13Dots.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/UVa10819_TroubleOf13Dots.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10819_TroubleOf13Dots.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/UVa10819_TroubleOf13Dots.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10819_TroubleOf13Dots.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10819_TroubleOf13Dots.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10819_TroubleOf13Dots.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/UVa10819_TroubleOf13Dots.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10819_TroubleOf13Dots.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/UVa10819_TroubleOf13Dots.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10819_TroubleOf13Dots.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10819_TroubleOf13Dots.cpp.o.requires:
 
@@ -2004,15 +2004,15 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10819_TroubleOf13Do
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa11284_ShoppingTrip.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa11284_ShoppingTrip.cpp.o: ../DynamicProgramming/UVa11284_ShoppingTrip.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_82) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa11284_ShoppingTrip.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa11284_ShoppingTrip.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/UVa11284_ShoppingTrip.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa11284_ShoppingTrip.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/UVa11284_ShoppingTrip.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa11284_ShoppingTrip.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa11284_ShoppingTrip.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/UVa11284_ShoppingTrip.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa11284_ShoppingTrip.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/UVa11284_ShoppingTrip.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa11284_ShoppingTrip.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa11284_ShoppingTrip.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa11284_ShoppingTrip.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/UVa11284_ShoppingTrip.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa11284_ShoppingTrip.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/UVa11284_ShoppingTrip.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa11284_ShoppingTrip.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa11284_ShoppingTrip.cpp.o.requires:
 
@@ -2028,15 +2028,15 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa11284_ShoppingTrip.
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa11517_ExactChange.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa11517_ExactChange.cpp.o: ../DynamicProgramming/UVa11517_ExactChange.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_83) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa11517_ExactChange.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa11517_ExactChange.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/UVa11517_ExactChange.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa11517_ExactChange.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/UVa11517_ExactChange.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa11517_ExactChange.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa11517_ExactChange.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/UVa11517_ExactChange.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa11517_ExactChange.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/UVa11517_ExactChange.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa11517_ExactChange.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa11517_ExactChange.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa11517_ExactChange.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/UVa11517_ExactChange.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa11517_ExactChange.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/UVa11517_ExactChange.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa11517_ExactChange.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa11517_ExactChange.cpp.o.requires:
 
@@ -2052,15 +2052,15 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa11517_ExactChange.c
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa11566_LetsYumCha.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa11566_LetsYumCha.cpp.o: ../DynamicProgramming/UVa11566_LetsYumCha.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_84) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa11566_LetsYumCha.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa11566_LetsYumCha.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/UVa11566_LetsYumCha.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa11566_LetsYumCha.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/UVa11566_LetsYumCha.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa11566_LetsYumCha.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa11566_LetsYumCha.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/UVa11566_LetsYumCha.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa11566_LetsYumCha.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/UVa11566_LetsYumCha.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa11566_LetsYumCha.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa11566_LetsYumCha.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa11566_LetsYumCha.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/UVa11566_LetsYumCha.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa11566_LetsYumCha.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/UVa11566_LetsYumCha.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa11566_LetsYumCha.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa11566_LetsYumCha.cpp.o.requires:
 
@@ -2076,15 +2076,15 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa11566_LetsYumCha.cp
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa216_GettingInLine.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa216_GettingInLine.cpp.o: ../DynamicProgramming/UVa216_GettingInLine.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_85) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa216_GettingInLine.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa216_GettingInLine.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/UVa216_GettingInLine.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa216_GettingInLine.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/UVa216_GettingInLine.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa216_GettingInLine.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa216_GettingInLine.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/UVa216_GettingInLine.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa216_GettingInLine.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/UVa216_GettingInLine.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa216_GettingInLine.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa216_GettingInLine.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa216_GettingInLine.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/UVa216_GettingInLine.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa216_GettingInLine.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/UVa216_GettingInLine.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa216_GettingInLine.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa216_GettingInLine.cpp.o.requires:
 
@@ -2100,15 +2100,15 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa216_GettingInLine.c
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa357_LetMeCountTheWays.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa357_LetMeCountTheWays.cpp.o: ../DynamicProgramming/UVa357_LetMeCountTheWays.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_86) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa357_LetMeCountTheWays.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa357_LetMeCountTheWays.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/UVa357_LetMeCountTheWays.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa357_LetMeCountTheWays.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/UVa357_LetMeCountTheWays.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa357_LetMeCountTheWays.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa357_LetMeCountTheWays.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/UVa357_LetMeCountTheWays.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa357_LetMeCountTheWays.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/UVa357_LetMeCountTheWays.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa357_LetMeCountTheWays.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa357_LetMeCountTheWays.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa357_LetMeCountTheWays.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/UVa357_LetMeCountTheWays.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa357_LetMeCountTheWays.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/UVa357_LetMeCountTheWays.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa357_LetMeCountTheWays.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa357_LetMeCountTheWays.cpp.o.requires:
 
@@ -2124,15 +2124,15 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa357_LetMeCountTheWa
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/ZCO_Rectangle.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/ZCO_Rectangle.cpp.o: ../DynamicProgramming/ZCO_Rectangle.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_87) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/ZCO_Rectangle.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/ZCO_Rectangle.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/ZCO_Rectangle.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/ZCO_Rectangle.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/ZCO_Rectangle.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/ZCO_Rectangle.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/ZCO_Rectangle.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/ZCO_Rectangle.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/ZCO_Rectangle.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/ZCO_Rectangle.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/ZCO_Rectangle.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/ZCO_Rectangle.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/ZCO_Rectangle.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/ZCO_Rectangle.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/ZCO_Rectangle.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/ZCO_Rectangle.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/ZCO_Rectangle.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/ZCO_Rectangle.cpp.o.requires:
 
@@ -2148,15 +2148,15 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/ZCO_Rectangle.cpp.o.pr
 CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/Algorithm_BellmanFord.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/Algorithm_BellmanFord.cpp.o: ../GraphTheory/Implementation/Algorithm_BellmanFord.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_88) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/Algorithm_BellmanFord.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/Algorithm_BellmanFord.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/Algorithm_BellmanFord.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/Algorithm_BellmanFord.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/Algorithm_BellmanFord.cpp
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/Algorithm_BellmanFord.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/Algorithm_BellmanFord.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/Algorithm_BellmanFord.cpp > CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/Algorithm_BellmanFord.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/Algorithm_BellmanFord.cpp > CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/Algorithm_BellmanFord.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/Algorithm_BellmanFord.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/Algorithm_BellmanFord.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/Algorithm_BellmanFord.cpp -o CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/Algorithm_BellmanFord.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/Algorithm_BellmanFord.cpp -o CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/Algorithm_BellmanFord.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/Algorithm_BellmanFord.cpp.o.requires:
 
@@ -2172,15 +2172,15 @@ CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/Algorithm_Bell
 CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/Algorithm_Dijkstra.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/Algorithm_Dijkstra.cpp.o: ../GraphTheory/Implementation/Algorithm_Dijkstra.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_89) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/Algorithm_Dijkstra.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/Algorithm_Dijkstra.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/Algorithm_Dijkstra.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/Algorithm_Dijkstra.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/Algorithm_Dijkstra.cpp
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/Algorithm_Dijkstra.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/Algorithm_Dijkstra.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/Algorithm_Dijkstra.cpp > CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/Algorithm_Dijkstra.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/Algorithm_Dijkstra.cpp > CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/Algorithm_Dijkstra.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/Algorithm_Dijkstra.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/Algorithm_Dijkstra.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/Algorithm_Dijkstra.cpp -o CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/Algorithm_Dijkstra.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/Algorithm_Dijkstra.cpp -o CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/Algorithm_Dijkstra.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/Algorithm_Dijkstra.cpp.o.requires:
 
@@ -2196,15 +2196,15 @@ CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/Algorithm_Dijk
 CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/Algorithm_FloydWarshall.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/Algorithm_FloydWarshall.cpp.o: ../GraphTheory/Implementation/Algorithm_FloydWarshall.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_90) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/Algorithm_FloydWarshall.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/Algorithm_FloydWarshall.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/Algorithm_FloydWarshall.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/Algorithm_FloydWarshall.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/Algorithm_FloydWarshall.cpp
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/Algorithm_FloydWarshall.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/Algorithm_FloydWarshall.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/Algorithm_FloydWarshall.cpp > CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/Algorithm_FloydWarshall.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/Algorithm_FloydWarshall.cpp > CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/Algorithm_FloydWarshall.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/Algorithm_FloydWarshall.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/Algorithm_FloydWarshall.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/Algorithm_FloydWarshall.cpp -o CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/Algorithm_FloydWarshall.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/Algorithm_FloydWarshall.cpp -o CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/Algorithm_FloydWarshall.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/Algorithm_FloydWarshall.cpp.o.requires:
 
@@ -2220,15 +2220,15 @@ CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/Algorithm_Floy
 CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/Algorithm_Kruskals.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/Algorithm_Kruskals.cpp.o: ../GraphTheory/Implementation/Algorithm_Kruskals.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_91) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/Algorithm_Kruskals.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/Algorithm_Kruskals.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/Algorithm_Kruskals.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/Algorithm_Kruskals.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/Algorithm_Kruskals.cpp
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/Algorithm_Kruskals.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/Algorithm_Kruskals.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/Algorithm_Kruskals.cpp > CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/Algorithm_Kruskals.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/Algorithm_Kruskals.cpp > CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/Algorithm_Kruskals.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/Algorithm_Kruskals.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/Algorithm_Kruskals.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/Algorithm_Kruskals.cpp -o CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/Algorithm_Kruskals.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/Algorithm_Kruskals.cpp -o CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/Algorithm_Kruskals.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/Algorithm_Kruskals.cpp.o.requires:
 
@@ -2244,15 +2244,15 @@ CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/Algorithm_Krus
 CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/ArticulationPointsAndBridges.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/ArticulationPointsAndBridges.cpp.o: ../GraphTheory/Implementation/ArticulationPointsAndBridges.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_92) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/ArticulationPointsAndBridges.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/ArticulationPointsAndBridges.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/ArticulationPointsAndBridges.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/ArticulationPointsAndBridges.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/ArticulationPointsAndBridges.cpp
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/ArticulationPointsAndBridges.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/ArticulationPointsAndBridges.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/ArticulationPointsAndBridges.cpp > CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/ArticulationPointsAndBridges.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/ArticulationPointsAndBridges.cpp > CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/ArticulationPointsAndBridges.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/ArticulationPointsAndBridges.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/ArticulationPointsAndBridges.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/ArticulationPointsAndBridges.cpp -o CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/ArticulationPointsAndBridges.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/ArticulationPointsAndBridges.cpp -o CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/ArticulationPointsAndBridges.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/ArticulationPointsAndBridges.cpp.o.requires:
 
@@ -2268,15 +2268,15 @@ CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/ArticulationPo
 CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/LowestCommonAncestor(BinaryLifting).cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/LowestCommonAncestor(BinaryLifting).cpp.o: ../GraphTheory/Implementation/LowestCommonAncestor(BinaryLifting).cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_93) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/LowestCommonAncestor(BinaryLifting).cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/LowestCommonAncestor(BinaryLifting).cpp.o" -c "/Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/LowestCommonAncestor(BinaryLifting).cpp"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/LowestCommonAncestor(BinaryLifting).cpp.o" -c "/Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/LowestCommonAncestor(BinaryLifting).cpp"
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/LowestCommonAncestor(BinaryLifting).cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/LowestCommonAncestor(BinaryLifting).cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/LowestCommonAncestor(BinaryLifting).cpp" > "CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/LowestCommonAncestor(BinaryLifting).cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/LowestCommonAncestor(BinaryLifting).cpp" > "CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/LowestCommonAncestor(BinaryLifting).cpp.i"
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/LowestCommonAncestor(BinaryLifting).cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/LowestCommonAncestor(BinaryLifting).cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/LowestCommonAncestor(BinaryLifting).cpp" -o "CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/LowestCommonAncestor(BinaryLifting).cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/LowestCommonAncestor(BinaryLifting).cpp" -o "CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/LowestCommonAncestor(BinaryLifting).cpp.s"
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/LowestCommonAncestor(BinaryLifting).cpp.o.requires:
 
@@ -2292,15 +2292,15 @@ CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/LowestCommonAn
 CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/LowestCommonAncestor.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/LowestCommonAncestor.cpp.o: ../GraphTheory/Implementation/LowestCommonAncestor.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_94) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/LowestCommonAncestor.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/LowestCommonAncestor.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/LowestCommonAncestor.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/LowestCommonAncestor.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/LowestCommonAncestor.cpp
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/LowestCommonAncestor.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/LowestCommonAncestor.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/LowestCommonAncestor.cpp > CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/LowestCommonAncestor.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/LowestCommonAncestor.cpp > CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/LowestCommonAncestor.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/LowestCommonAncestor.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/LowestCommonAncestor.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/LowestCommonAncestor.cpp -o CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/LowestCommonAncestor.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/LowestCommonAncestor.cpp -o CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/LowestCommonAncestor.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/LowestCommonAncestor.cpp.o.requires:
 
@@ -2316,15 +2316,15 @@ CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/LowestCommonAn
 CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/SCCTarjan.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/SCCTarjan.cpp.o: ../GraphTheory/Implementation/SCCTarjan.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_95) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/SCCTarjan.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/SCCTarjan.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/SCCTarjan.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/SCCTarjan.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/SCCTarjan.cpp
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/SCCTarjan.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/SCCTarjan.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/SCCTarjan.cpp > CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/SCCTarjan.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/SCCTarjan.cpp > CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/SCCTarjan.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/SCCTarjan.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/SCCTarjan.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/SCCTarjan.cpp -o CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/SCCTarjan.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/SCCTarjan.cpp -o CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/SCCTarjan.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/SCCTarjan.cpp.o.requires:
 
@@ -2340,15 +2340,15 @@ CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/SCCTarjan.cpp.
 CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/TopologicalSort.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/TopologicalSort.cpp.o: ../GraphTheory/Implementation/TopologicalSort.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_96) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/TopologicalSort.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/TopologicalSort.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/TopologicalSort.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/TopologicalSort.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/TopologicalSort.cpp
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/TopologicalSort.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/TopologicalSort.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/TopologicalSort.cpp > CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/TopologicalSort.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/TopologicalSort.cpp > CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/TopologicalSort.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/TopologicalSort.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/TopologicalSort.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/TopologicalSort.cpp -o CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/TopologicalSort.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/TopologicalSort.cpp -o CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/TopologicalSort.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/TopologicalSort.cpp.o.requires:
 
@@ -2364,15 +2364,15 @@ CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/TopologicalSor
 CMakeFiles/Competitive_Programming.dir/GraphTheory/APIO2009_ATMRobbery.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/GraphTheory/APIO2009_ATMRobbery.cpp.o: ../GraphTheory/APIO2009_ATMRobbery.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_97) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/APIO2009_ATMRobbery.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/GraphTheory/APIO2009_ATMRobbery.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/APIO2009_ATMRobbery.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/GraphTheory/APIO2009_ATMRobbery.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/APIO2009_ATMRobbery.cpp
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/APIO2009_ATMRobbery.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/GraphTheory/APIO2009_ATMRobbery.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/APIO2009_ATMRobbery.cpp > CMakeFiles/Competitive_Programming.dir/GraphTheory/APIO2009_ATMRobbery.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/APIO2009_ATMRobbery.cpp > CMakeFiles/Competitive_Programming.dir/GraphTheory/APIO2009_ATMRobbery.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/APIO2009_ATMRobbery.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/GraphTheory/APIO2009_ATMRobbery.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/APIO2009_ATMRobbery.cpp -o CMakeFiles/Competitive_Programming.dir/GraphTheory/APIO2009_ATMRobbery.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/APIO2009_ATMRobbery.cpp -o CMakeFiles/Competitive_Programming.dir/GraphTheory/APIO2009_ATMRobbery.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/APIO2009_ATMRobbery.cpp.o.requires:
 
@@ -2388,15 +2388,15 @@ CMakeFiles/Competitive_Programming.dir/GraphTheory/APIO2009_ATMRobbery.cpp.o.pro
 CMakeFiles/Competitive_Programming.dir/GraphTheory/CC_KingdomUnity.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/GraphTheory/CC_KingdomUnity.cpp.o: ../GraphTheory/CC_KingdomUnity.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_98) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/CC_KingdomUnity.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/GraphTheory/CC_KingdomUnity.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/CC_KingdomUnity.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/GraphTheory/CC_KingdomUnity.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/CC_KingdomUnity.cpp
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/CC_KingdomUnity.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/GraphTheory/CC_KingdomUnity.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/CC_KingdomUnity.cpp > CMakeFiles/Competitive_Programming.dir/GraphTheory/CC_KingdomUnity.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/CC_KingdomUnity.cpp > CMakeFiles/Competitive_Programming.dir/GraphTheory/CC_KingdomUnity.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/CC_KingdomUnity.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/GraphTheory/CC_KingdomUnity.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/CC_KingdomUnity.cpp -o CMakeFiles/Competitive_Programming.dir/GraphTheory/CC_KingdomUnity.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/CC_KingdomUnity.cpp -o CMakeFiles/Competitive_Programming.dir/GraphTheory/CC_KingdomUnity.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/CC_KingdomUnity.cpp.o.requires:
 
@@ -2412,15 +2412,15 @@ CMakeFiles/Competitive_Programming.dir/GraphTheory/CC_KingdomUnity.cpp.o.provide
 CMakeFiles/Competitive_Programming.dir/GraphTheory/CF764C_TimofeyAndTree.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/GraphTheory/CF764C_TimofeyAndTree.cpp.o: ../GraphTheory/CF764C_TimofeyAndTree.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_99) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/CF764C_TimofeyAndTree.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/GraphTheory/CF764C_TimofeyAndTree.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/CF764C_TimofeyAndTree.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/GraphTheory/CF764C_TimofeyAndTree.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/CF764C_TimofeyAndTree.cpp
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/CF764C_TimofeyAndTree.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/GraphTheory/CF764C_TimofeyAndTree.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/CF764C_TimofeyAndTree.cpp > CMakeFiles/Competitive_Programming.dir/GraphTheory/CF764C_TimofeyAndTree.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/CF764C_TimofeyAndTree.cpp > CMakeFiles/Competitive_Programming.dir/GraphTheory/CF764C_TimofeyAndTree.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/CF764C_TimofeyAndTree.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/GraphTheory/CF764C_TimofeyAndTree.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/CF764C_TimofeyAndTree.cpp -o CMakeFiles/Competitive_Programming.dir/GraphTheory/CF764C_TimofeyAndTree.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/CF764C_TimofeyAndTree.cpp -o CMakeFiles/Competitive_Programming.dir/GraphTheory/CF764C_TimofeyAndTree.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/CF764C_TimofeyAndTree.cpp.o.requires:
 
@@ -2436,15 +2436,15 @@ CMakeFiles/Competitive_Programming.dir/GraphTheory/CF764C_TimofeyAndTree.cpp.o.p
 CMakeFiles/Competitive_Programming.dir/GraphTheory/IOI2009_Mecho.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/GraphTheory/IOI2009_Mecho.cpp.o: ../GraphTheory/IOI2009_Mecho.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_100) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/IOI2009_Mecho.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/GraphTheory/IOI2009_Mecho.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/IOI2009_Mecho.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/GraphTheory/IOI2009_Mecho.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/IOI2009_Mecho.cpp
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/IOI2009_Mecho.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/GraphTheory/IOI2009_Mecho.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/IOI2009_Mecho.cpp > CMakeFiles/Competitive_Programming.dir/GraphTheory/IOI2009_Mecho.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/IOI2009_Mecho.cpp > CMakeFiles/Competitive_Programming.dir/GraphTheory/IOI2009_Mecho.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/IOI2009_Mecho.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/GraphTheory/IOI2009_Mecho.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/IOI2009_Mecho.cpp -o CMakeFiles/Competitive_Programming.dir/GraphTheory/IOI2009_Mecho.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/IOI2009_Mecho.cpp -o CMakeFiles/Competitive_Programming.dir/GraphTheory/IOI2009_Mecho.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/IOI2009_Mecho.cpp.o.requires:
 
@@ -2460,15 +2460,15 @@ CMakeFiles/Competitive_Programming.dir/GraphTheory/IOI2009_Mecho.cpp.o.provides.
 CMakeFiles/Competitive_Programming.dir/GraphTheory/OPC_HighSpeedNetwork.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/GraphTheory/OPC_HighSpeedNetwork.cpp.o: ../GraphTheory/OPC_HighSpeedNetwork.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_101) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/OPC_HighSpeedNetwork.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/GraphTheory/OPC_HighSpeedNetwork.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/OPC_HighSpeedNetwork.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/GraphTheory/OPC_HighSpeedNetwork.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/OPC_HighSpeedNetwork.cpp
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/OPC_HighSpeedNetwork.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/GraphTheory/OPC_HighSpeedNetwork.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/OPC_HighSpeedNetwork.cpp > CMakeFiles/Competitive_Programming.dir/GraphTheory/OPC_HighSpeedNetwork.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/OPC_HighSpeedNetwork.cpp > CMakeFiles/Competitive_Programming.dir/GraphTheory/OPC_HighSpeedNetwork.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/OPC_HighSpeedNetwork.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/GraphTheory/OPC_HighSpeedNetwork.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/OPC_HighSpeedNetwork.cpp -o CMakeFiles/Competitive_Programming.dir/GraphTheory/OPC_HighSpeedNetwork.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/OPC_HighSpeedNetwork.cpp -o CMakeFiles/Competitive_Programming.dir/GraphTheory/OPC_HighSpeedNetwork.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/OPC_HighSpeedNetwork.cpp.o.requires:
 
@@ -2484,15 +2484,15 @@ CMakeFiles/Competitive_Programming.dir/GraphTheory/OPC_HighSpeedNetwork.cpp.o.pr
 CMakeFiles/Competitive_Programming.dir/GraphTheory/SPOJ_LCA.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/GraphTheory/SPOJ_LCA.cpp.o: ../GraphTheory/SPOJ_LCA.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_102) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/SPOJ_LCA.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/GraphTheory/SPOJ_LCA.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/SPOJ_LCA.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/GraphTheory/SPOJ_LCA.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/SPOJ_LCA.cpp
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/SPOJ_LCA.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/GraphTheory/SPOJ_LCA.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/SPOJ_LCA.cpp > CMakeFiles/Competitive_Programming.dir/GraphTheory/SPOJ_LCA.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/SPOJ_LCA.cpp > CMakeFiles/Competitive_Programming.dir/GraphTheory/SPOJ_LCA.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/SPOJ_LCA.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/GraphTheory/SPOJ_LCA.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/SPOJ_LCA.cpp -o CMakeFiles/Competitive_Programming.dir/GraphTheory/SPOJ_LCA.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/SPOJ_LCA.cpp -o CMakeFiles/Competitive_Programming.dir/GraphTheory/SPOJ_LCA.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/SPOJ_LCA.cpp.o.requires:
 
@@ -2508,15 +2508,15 @@ CMakeFiles/Competitive_Programming.dir/GraphTheory/SPOJ_LCA.cpp.o.provides.build
 CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/AbsolutelyIncreasingSubsequence/AbsolutelyIncreasingSubsequence.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/AbsolutelyIncreasingSubsequence/AbsolutelyIncreasingSubsequence.cpp.o: ../ICOPracticeProblems/AbsolutelyIncreasingSubsequence/AbsolutelyIncreasingSubsequence.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_103) "Building CXX object CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/AbsolutelyIncreasingSubsequence/AbsolutelyIncreasingSubsequence.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/AbsolutelyIncreasingSubsequence/AbsolutelyIncreasingSubsequence.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/ICOPracticeProblems/AbsolutelyIncreasingSubsequence/AbsolutelyIncreasingSubsequence.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/AbsolutelyIncreasingSubsequence/AbsolutelyIncreasingSubsequence.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/ICOPracticeProblems/AbsolutelyIncreasingSubsequence/AbsolutelyIncreasingSubsequence.cpp
 
 CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/AbsolutelyIncreasingSubsequence/AbsolutelyIncreasingSubsequence.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/AbsolutelyIncreasingSubsequence/AbsolutelyIncreasingSubsequence.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/ICOPracticeProblems/AbsolutelyIncreasingSubsequence/AbsolutelyIncreasingSubsequence.cpp > CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/AbsolutelyIncreasingSubsequence/AbsolutelyIncreasingSubsequence.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/ICOPracticeProblems/AbsolutelyIncreasingSubsequence/AbsolutelyIncreasingSubsequence.cpp > CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/AbsolutelyIncreasingSubsequence/AbsolutelyIncreasingSubsequence.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/AbsolutelyIncreasingSubsequence/AbsolutelyIncreasingSubsequence.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/AbsolutelyIncreasingSubsequence/AbsolutelyIncreasingSubsequence.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/ICOPracticeProblems/AbsolutelyIncreasingSubsequence/AbsolutelyIncreasingSubsequence.cpp -o CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/AbsolutelyIncreasingSubsequence/AbsolutelyIncreasingSubsequence.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/ICOPracticeProblems/AbsolutelyIncreasingSubsequence/AbsolutelyIncreasingSubsequence.cpp -o CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/AbsolutelyIncreasingSubsequence/AbsolutelyIncreasingSubsequence.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/AbsolutelyIncreasingSubsequence/AbsolutelyIncreasingSubsequence.cpp.o.requires:
 
@@ -2532,15 +2532,15 @@ CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/AbsolutelyIncreasingS
 CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/AStandardTreeProblem/AStandardTreeProblem.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/AStandardTreeProblem/AStandardTreeProblem.cpp.o: ../ICOPracticeProblems/AStandardTreeProblem/AStandardTreeProblem.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_104) "Building CXX object CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/AStandardTreeProblem/AStandardTreeProblem.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/AStandardTreeProblem/AStandardTreeProblem.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/ICOPracticeProblems/AStandardTreeProblem/AStandardTreeProblem.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/AStandardTreeProblem/AStandardTreeProblem.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/ICOPracticeProblems/AStandardTreeProblem/AStandardTreeProblem.cpp
 
 CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/AStandardTreeProblem/AStandardTreeProblem.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/AStandardTreeProblem/AStandardTreeProblem.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/ICOPracticeProblems/AStandardTreeProblem/AStandardTreeProblem.cpp > CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/AStandardTreeProblem/AStandardTreeProblem.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/ICOPracticeProblems/AStandardTreeProblem/AStandardTreeProblem.cpp > CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/AStandardTreeProblem/AStandardTreeProblem.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/AStandardTreeProblem/AStandardTreeProblem.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/AStandardTreeProblem/AStandardTreeProblem.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/ICOPracticeProblems/AStandardTreeProblem/AStandardTreeProblem.cpp -o CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/AStandardTreeProblem/AStandardTreeProblem.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/ICOPracticeProblems/AStandardTreeProblem/AStandardTreeProblem.cpp -o CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/AStandardTreeProblem/AStandardTreeProblem.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/AStandardTreeProblem/AStandardTreeProblem.cpp.o.requires:
 
@@ -2556,15 +2556,15 @@ CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/AStandardTreeProblem/
 CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/Codeatsi/Codeatsi.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/Codeatsi/Codeatsi.cpp.o: ../ICOPracticeProblems/Codeatsi/Codeatsi.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_105) "Building CXX object CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/Codeatsi/Codeatsi.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/Codeatsi/Codeatsi.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/ICOPracticeProblems/Codeatsi/Codeatsi.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/Codeatsi/Codeatsi.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/ICOPracticeProblems/Codeatsi/Codeatsi.cpp
 
 CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/Codeatsi/Codeatsi.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/Codeatsi/Codeatsi.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/ICOPracticeProblems/Codeatsi/Codeatsi.cpp > CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/Codeatsi/Codeatsi.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/ICOPracticeProblems/Codeatsi/Codeatsi.cpp > CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/Codeatsi/Codeatsi.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/Codeatsi/Codeatsi.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/Codeatsi/Codeatsi.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/ICOPracticeProblems/Codeatsi/Codeatsi.cpp -o CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/Codeatsi/Codeatsi.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/ICOPracticeProblems/Codeatsi/Codeatsi.cpp -o CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/Codeatsi/Codeatsi.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/Codeatsi/Codeatsi.cpp.o.requires:
 
@@ -2580,15 +2580,15 @@ CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/Codeatsi/Codeatsi.cpp
 CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/NinjaCake/NinjaCake.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/NinjaCake/NinjaCake.cpp.o: ../ICOPracticeProblems/NinjaCake/NinjaCake.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_106) "Building CXX object CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/NinjaCake/NinjaCake.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/NinjaCake/NinjaCake.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/ICOPracticeProblems/NinjaCake/NinjaCake.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/NinjaCake/NinjaCake.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/ICOPracticeProblems/NinjaCake/NinjaCake.cpp
 
 CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/NinjaCake/NinjaCake.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/NinjaCake/NinjaCake.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/ICOPracticeProblems/NinjaCake/NinjaCake.cpp > CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/NinjaCake/NinjaCake.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/ICOPracticeProblems/NinjaCake/NinjaCake.cpp > CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/NinjaCake/NinjaCake.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/NinjaCake/NinjaCake.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/NinjaCake/NinjaCake.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/ICOPracticeProblems/NinjaCake/NinjaCake.cpp -o CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/NinjaCake/NinjaCake.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/ICOPracticeProblems/NinjaCake/NinjaCake.cpp -o CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/NinjaCake/NinjaCake.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/NinjaCake/NinjaCake.cpp.o.requires:
 
@@ -2604,15 +2604,15 @@ CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/NinjaCake/NinjaCake.c
 CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/PyramidFalls/PyramidFalls.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/PyramidFalls/PyramidFalls.cpp.o: ../ICOPracticeProblems/PyramidFalls/PyramidFalls.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_107) "Building CXX object CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/PyramidFalls/PyramidFalls.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/PyramidFalls/PyramidFalls.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/ICOPracticeProblems/PyramidFalls/PyramidFalls.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/PyramidFalls/PyramidFalls.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/ICOPracticeProblems/PyramidFalls/PyramidFalls.cpp
 
 CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/PyramidFalls/PyramidFalls.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/PyramidFalls/PyramidFalls.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/ICOPracticeProblems/PyramidFalls/PyramidFalls.cpp > CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/PyramidFalls/PyramidFalls.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/ICOPracticeProblems/PyramidFalls/PyramidFalls.cpp > CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/PyramidFalls/PyramidFalls.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/PyramidFalls/PyramidFalls.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/PyramidFalls/PyramidFalls.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/ICOPracticeProblems/PyramidFalls/PyramidFalls.cpp -o CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/PyramidFalls/PyramidFalls.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/ICOPracticeProblems/PyramidFalls/PyramidFalls.cpp -o CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/PyramidFalls/PyramidFalls.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/PyramidFalls/PyramidFalls.cpp.o.requires:
 
@@ -2628,15 +2628,15 @@ CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/PyramidFalls/PyramidF
 CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/YetAnotherGeometryProblem/YetAnotherGeometryProblem.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/YetAnotherGeometryProblem/YetAnotherGeometryProblem.cpp.o: ../ICOPracticeProblems/YetAnotherGeometryProblem/YetAnotherGeometryProblem.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_108) "Building CXX object CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/YetAnotherGeometryProblem/YetAnotherGeometryProblem.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/YetAnotherGeometryProblem/YetAnotherGeometryProblem.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/ICOPracticeProblems/YetAnotherGeometryProblem/YetAnotherGeometryProblem.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/YetAnotherGeometryProblem/YetAnotherGeometryProblem.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/ICOPracticeProblems/YetAnotherGeometryProblem/YetAnotherGeometryProblem.cpp
 
 CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/YetAnotherGeometryProblem/YetAnotherGeometryProblem.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/YetAnotherGeometryProblem/YetAnotherGeometryProblem.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/ICOPracticeProblems/YetAnotherGeometryProblem/YetAnotherGeometryProblem.cpp > CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/YetAnotherGeometryProblem/YetAnotherGeometryProblem.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/ICOPracticeProblems/YetAnotherGeometryProblem/YetAnotherGeometryProblem.cpp > CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/YetAnotherGeometryProblem/YetAnotherGeometryProblem.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/YetAnotherGeometryProblem/YetAnotherGeometryProblem.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/YetAnotherGeometryProblem/YetAnotherGeometryProblem.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/ICOPracticeProblems/YetAnotherGeometryProblem/YetAnotherGeometryProblem.cpp -o CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/YetAnotherGeometryProblem/YetAnotherGeometryProblem.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/ICOPracticeProblems/YetAnotherGeometryProblem/YetAnotherGeometryProblem.cpp -o CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/YetAnotherGeometryProblem/YetAnotherGeometryProblem.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/YetAnotherGeometryProblem/YetAnotherGeometryProblem.cpp.o.requires:
 
@@ -2652,15 +2652,15 @@ CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/YetAnotherGeometryPro
 CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/YetAnotherGeometryProblem.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/YetAnotherGeometryProblem.cpp.o: ../ICOPracticeProblems/YetAnotherGeometryProblem.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_109) "Building CXX object CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/YetAnotherGeometryProblem.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/YetAnotherGeometryProblem.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/ICOPracticeProblems/YetAnotherGeometryProblem.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/YetAnotherGeometryProblem.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/ICOPracticeProblems/YetAnotherGeometryProblem.cpp
 
 CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/YetAnotherGeometryProblem.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/YetAnotherGeometryProblem.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/ICOPracticeProblems/YetAnotherGeometryProblem.cpp > CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/YetAnotherGeometryProblem.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/ICOPracticeProblems/YetAnotherGeometryProblem.cpp > CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/YetAnotherGeometryProblem.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/YetAnotherGeometryProblem.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/YetAnotherGeometryProblem.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/ICOPracticeProblems/YetAnotherGeometryProblem.cpp -o CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/YetAnotherGeometryProblem.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/ICOPracticeProblems/YetAnotherGeometryProblem.cpp -o CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/YetAnotherGeometryProblem.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/YetAnotherGeometryProblem.cpp.o.requires:
 
@@ -2676,15 +2676,15 @@ CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/YetAnotherGeometryPro
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/GreatestCommonDivisor.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/GreatestCommonDivisor.cpp.o: ../OtherAlgorithms/GreatestCommonDivisor.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_110) "Building CXX object CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/GreatestCommonDivisor.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/GreatestCommonDivisor.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/GreatestCommonDivisor.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/GreatestCommonDivisor.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/GreatestCommonDivisor.cpp
 
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/GreatestCommonDivisor.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/GreatestCommonDivisor.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/GreatestCommonDivisor.cpp > CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/GreatestCommonDivisor.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/GreatestCommonDivisor.cpp > CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/GreatestCommonDivisor.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/GreatestCommonDivisor.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/GreatestCommonDivisor.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/GreatestCommonDivisor.cpp -o CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/GreatestCommonDivisor.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/GreatestCommonDivisor.cpp -o CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/GreatestCommonDivisor.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/GreatestCommonDivisor.cpp.o.requires:
 
@@ -2700,15 +2700,15 @@ CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/GreatestCommonDivisor.cpp
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/IntervalPartitioning.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/IntervalPartitioning.cpp.o: ../OtherAlgorithms/IntervalPartitioning.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_111) "Building CXX object CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/IntervalPartitioning.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/IntervalPartitioning.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/IntervalPartitioning.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/IntervalPartitioning.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/IntervalPartitioning.cpp
 
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/IntervalPartitioning.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/IntervalPartitioning.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/IntervalPartitioning.cpp > CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/IntervalPartitioning.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/IntervalPartitioning.cpp > CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/IntervalPartitioning.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/IntervalPartitioning.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/IntervalPartitioning.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/IntervalPartitioning.cpp -o CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/IntervalPartitioning.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/IntervalPartitioning.cpp -o CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/IntervalPartitioning.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/IntervalPartitioning.cpp.o.requires:
 
@@ -2724,15 +2724,15 @@ CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/IntervalPartitioning.cpp.
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/IntervalScheduling.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/IntervalScheduling.cpp.o: ../OtherAlgorithms/IntervalScheduling.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_112) "Building CXX object CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/IntervalScheduling.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/IntervalScheduling.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/IntervalScheduling.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/IntervalScheduling.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/IntervalScheduling.cpp
 
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/IntervalScheduling.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/IntervalScheduling.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/IntervalScheduling.cpp > CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/IntervalScheduling.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/IntervalScheduling.cpp > CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/IntervalScheduling.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/IntervalScheduling.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/IntervalScheduling.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/IntervalScheduling.cpp -o CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/IntervalScheduling.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/IntervalScheduling.cpp -o CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/IntervalScheduling.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/IntervalScheduling.cpp.o.requires:
 
@@ -2748,15 +2748,15 @@ CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/IntervalScheduling.cpp.o.
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/KnapsackProblem.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/KnapsackProblem.cpp.o: ../OtherAlgorithms/KnapsackProblem.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_113) "Building CXX object CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/KnapsackProblem.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/KnapsackProblem.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/KnapsackProblem.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/KnapsackProblem.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/KnapsackProblem.cpp
 
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/KnapsackProblem.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/KnapsackProblem.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/KnapsackProblem.cpp > CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/KnapsackProblem.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/KnapsackProblem.cpp > CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/KnapsackProblem.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/KnapsackProblem.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/KnapsackProblem.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/KnapsackProblem.cpp -o CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/KnapsackProblem.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/KnapsackProblem.cpp -o CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/KnapsackProblem.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/KnapsackProblem.cpp.o.requires:
 
@@ -2772,15 +2772,15 @@ CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/KnapsackProblem.cpp.o.pro
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/LongestIncreasingSubsequence.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/LongestIncreasingSubsequence.cpp.o: ../OtherAlgorithms/LongestIncreasingSubsequence.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_114) "Building CXX object CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/LongestIncreasingSubsequence.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/LongestIncreasingSubsequence.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/LongestIncreasingSubsequence.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/LongestIncreasingSubsequence.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/LongestIncreasingSubsequence.cpp
 
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/LongestIncreasingSubsequence.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/LongestIncreasingSubsequence.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/LongestIncreasingSubsequence.cpp > CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/LongestIncreasingSubsequence.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/LongestIncreasingSubsequence.cpp > CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/LongestIncreasingSubsequence.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/LongestIncreasingSubsequence.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/LongestIncreasingSubsequence.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/LongestIncreasingSubsequence.cpp -o CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/LongestIncreasingSubsequence.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/LongestIncreasingSubsequence.cpp -o CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/LongestIncreasingSubsequence.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/LongestIncreasingSubsequence.cpp.o.requires:
 
@@ -2796,15 +2796,15 @@ CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/LongestIncreasingSubseque
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/ManachersAlgo.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/ManachersAlgo.cpp.o: ../OtherAlgorithms/ManachersAlgo.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_115) "Building CXX object CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/ManachersAlgo.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/ManachersAlgo.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/ManachersAlgo.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/ManachersAlgo.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/ManachersAlgo.cpp
 
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/ManachersAlgo.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/ManachersAlgo.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/ManachersAlgo.cpp > CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/ManachersAlgo.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/ManachersAlgo.cpp > CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/ManachersAlgo.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/ManachersAlgo.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/ManachersAlgo.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/ManachersAlgo.cpp -o CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/ManachersAlgo.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/ManachersAlgo.cpp -o CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/ManachersAlgo.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/ManachersAlgo.cpp.o.requires:
 
@@ -2820,15 +2820,15 @@ CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/ManachersAlgo.cpp.o.provi
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/MatrixExponentiation-FibSequence.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/MatrixExponentiation-FibSequence.cpp.o: ../OtherAlgorithms/MatrixExponentiation-FibSequence.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_116) "Building CXX object CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/MatrixExponentiation-FibSequence.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/MatrixExponentiation-FibSequence.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/MatrixExponentiation-FibSequence.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/MatrixExponentiation-FibSequence.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/MatrixExponentiation-FibSequence.cpp
 
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/MatrixExponentiation-FibSequence.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/MatrixExponentiation-FibSequence.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/MatrixExponentiation-FibSequence.cpp > CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/MatrixExponentiation-FibSequence.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/MatrixExponentiation-FibSequence.cpp > CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/MatrixExponentiation-FibSequence.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/MatrixExponentiation-FibSequence.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/MatrixExponentiation-FibSequence.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/MatrixExponentiation-FibSequence.cpp -o CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/MatrixExponentiation-FibSequence.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/MatrixExponentiation-FibSequence.cpp -o CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/MatrixExponentiation-FibSequence.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/MatrixExponentiation-FibSequence.cpp.o.requires:
 
@@ -2844,15 +2844,15 @@ CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/MatrixExponentiation-FibS
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/MatrixExponentiation.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/MatrixExponentiation.cpp.o: ../OtherAlgorithms/MatrixExponentiation.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_117) "Building CXX object CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/MatrixExponentiation.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/MatrixExponentiation.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/MatrixExponentiation.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/MatrixExponentiation.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/MatrixExponentiation.cpp
 
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/MatrixExponentiation.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/MatrixExponentiation.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/MatrixExponentiation.cpp > CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/MatrixExponentiation.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/MatrixExponentiation.cpp > CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/MatrixExponentiation.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/MatrixExponentiation.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/MatrixExponentiation.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/MatrixExponentiation.cpp -o CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/MatrixExponentiation.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/MatrixExponentiation.cpp -o CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/MatrixExponentiation.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/MatrixExponentiation.cpp.o.requires:
 
@@ -2868,15 +2868,15 @@ CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/MatrixExponentiation.cpp.
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/Max2DRangeSum.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/Max2DRangeSum.cpp.o: ../OtherAlgorithms/Max2DRangeSum.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_118) "Building CXX object CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/Max2DRangeSum.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/Max2DRangeSum.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/Max2DRangeSum.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/Max2DRangeSum.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/Max2DRangeSum.cpp
 
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/Max2DRangeSum.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/Max2DRangeSum.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/Max2DRangeSum.cpp > CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/Max2DRangeSum.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/Max2DRangeSum.cpp > CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/Max2DRangeSum.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/Max2DRangeSum.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/Max2DRangeSum.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/Max2DRangeSum.cpp -o CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/Max2DRangeSum.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/Max2DRangeSum.cpp -o CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/Max2DRangeSum.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/Max2DRangeSum.cpp.o.requires:
 
@@ -2892,15 +2892,15 @@ CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/Max2DRangeSum.cpp.o.provi
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/TernarySearch.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/TernarySearch.cpp.o: ../OtherAlgorithms/TernarySearch.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_119) "Building CXX object CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/TernarySearch.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/TernarySearch.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/TernarySearch.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/TernarySearch.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/TernarySearch.cpp
 
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/TernarySearch.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/TernarySearch.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/TernarySearch.cpp > CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/TernarySearch.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/TernarySearch.cpp > CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/TernarySearch.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/TernarySearch.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/TernarySearch.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/TernarySearch.cpp -o CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/TernarySearch.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/TernarySearch.cpp -o CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/TernarySearch.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/TernarySearch.cpp.o.requires:
 
@@ -2916,15 +2916,15 @@ CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/TernarySearch.cpp.o.provi
 CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/CheapTravel.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/CheapTravel.cpp.o: ../SyntaxProgrammingProblems/CheapTravel.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_120) "Building CXX object CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/CheapTravel.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/CheapTravel.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/SyntaxProgrammingProblems/CheapTravel.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/CheapTravel.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/SyntaxProgrammingProblems/CheapTravel.cpp
 
 CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/CheapTravel.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/CheapTravel.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/SyntaxProgrammingProblems/CheapTravel.cpp > CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/CheapTravel.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/SyntaxProgrammingProblems/CheapTravel.cpp > CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/CheapTravel.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/CheapTravel.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/CheapTravel.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/SyntaxProgrammingProblems/CheapTravel.cpp -o CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/CheapTravel.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/SyntaxProgrammingProblems/CheapTravel.cpp -o CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/CheapTravel.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/CheapTravel.cpp.o.requires:
 
@@ -2940,15 +2940,15 @@ CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/CheapTravel.cpp
 CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/FancyFence.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/FancyFence.cpp.o: ../SyntaxProgrammingProblems/FancyFence.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_121) "Building CXX object CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/FancyFence.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/FancyFence.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/SyntaxProgrammingProblems/FancyFence.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/FancyFence.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/SyntaxProgrammingProblems/FancyFence.cpp
 
 CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/FancyFence.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/FancyFence.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/SyntaxProgrammingProblems/FancyFence.cpp > CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/FancyFence.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/SyntaxProgrammingProblems/FancyFence.cpp > CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/FancyFence.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/FancyFence.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/FancyFence.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/SyntaxProgrammingProblems/FancyFence.cpp -o CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/FancyFence.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/SyntaxProgrammingProblems/FancyFence.cpp -o CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/FancyFence.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/FancyFence.cpp.o.requires:
 
@@ -2964,15 +2964,15 @@ CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/FancyFence.cpp.
 CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/GoodSequences.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/GoodSequences.cpp.o: ../SyntaxProgrammingProblems/GoodSequences.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_122) "Building CXX object CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/GoodSequences.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/GoodSequences.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/SyntaxProgrammingProblems/GoodSequences.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/GoodSequences.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/SyntaxProgrammingProblems/GoodSequences.cpp
 
 CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/GoodSequences.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/GoodSequences.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/SyntaxProgrammingProblems/GoodSequences.cpp > CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/GoodSequences.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/SyntaxProgrammingProblems/GoodSequences.cpp > CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/GoodSequences.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/GoodSequences.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/GoodSequences.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/SyntaxProgrammingProblems/GoodSequences.cpp -o CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/GoodSequences.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/SyntaxProgrammingProblems/GoodSequences.cpp -o CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/GoodSequences.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/GoodSequences.cpp.o.requires:
 
@@ -2988,15 +2988,15 @@ CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/GoodSequences.c
 CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/GraphReversal.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/GraphReversal.cpp.o: ../SyntaxProgrammingProblems/GraphReversal.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_123) "Building CXX object CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/GraphReversal.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/GraphReversal.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/SyntaxProgrammingProblems/GraphReversal.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/GraphReversal.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/SyntaxProgrammingProblems/GraphReversal.cpp
 
 CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/GraphReversal.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/GraphReversal.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/SyntaxProgrammingProblems/GraphReversal.cpp > CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/GraphReversal.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/SyntaxProgrammingProblems/GraphReversal.cpp > CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/GraphReversal.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/GraphReversal.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/GraphReversal.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/SyntaxProgrammingProblems/GraphReversal.cpp -o CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/GraphReversal.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/SyntaxProgrammingProblems/GraphReversal.cpp -o CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/GraphReversal.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/GraphReversal.cpp.o.requires:
 
@@ -3012,15 +3012,15 @@ CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/GraphReversal.c
 CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/HelpTheSplitCorgis.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/HelpTheSplitCorgis.cpp.o: ../SyntaxProgrammingProblems/HelpTheSplitCorgis.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_124) "Building CXX object CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/HelpTheSplitCorgis.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/HelpTheSplitCorgis.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/SyntaxProgrammingProblems/HelpTheSplitCorgis.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/HelpTheSplitCorgis.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/SyntaxProgrammingProblems/HelpTheSplitCorgis.cpp
 
 CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/HelpTheSplitCorgis.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/HelpTheSplitCorgis.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/SyntaxProgrammingProblems/HelpTheSplitCorgis.cpp > CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/HelpTheSplitCorgis.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/SyntaxProgrammingProblems/HelpTheSplitCorgis.cpp > CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/HelpTheSplitCorgis.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/HelpTheSplitCorgis.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/HelpTheSplitCorgis.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/SyntaxProgrammingProblems/HelpTheSplitCorgis.cpp -o CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/HelpTheSplitCorgis.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/SyntaxProgrammingProblems/HelpTheSplitCorgis.cpp -o CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/HelpTheSplitCorgis.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/HelpTheSplitCorgis.cpp.o.requires:
 
@@ -3036,15 +3036,15 @@ CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/HelpTheSplitCor
 CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/HowManyRoutes.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/HowManyRoutes.cpp.o: ../SyntaxProgrammingProblems/HowManyRoutes.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_125) "Building CXX object CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/HowManyRoutes.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/HowManyRoutes.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/SyntaxProgrammingProblems/HowManyRoutes.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/HowManyRoutes.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/SyntaxProgrammingProblems/HowManyRoutes.cpp
 
 CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/HowManyRoutes.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/HowManyRoutes.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/SyntaxProgrammingProblems/HowManyRoutes.cpp > CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/HowManyRoutes.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/SyntaxProgrammingProblems/HowManyRoutes.cpp > CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/HowManyRoutes.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/HowManyRoutes.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/HowManyRoutes.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/SyntaxProgrammingProblems/HowManyRoutes.cpp -o CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/HowManyRoutes.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/SyntaxProgrammingProblems/HowManyRoutes.cpp -o CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/HowManyRoutes.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/HowManyRoutes.cpp.o.requires:
 
@@ -3060,15 +3060,15 @@ CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/HowManyRoutes.c
 CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/MinimumPossibleTraverse.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/MinimumPossibleTraverse.cpp.o: ../SyntaxProgrammingProblems/MinimumPossibleTraverse.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_126) "Building CXX object CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/MinimumPossibleTraverse.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/MinimumPossibleTraverse.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/SyntaxProgrammingProblems/MinimumPossibleTraverse.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/MinimumPossibleTraverse.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/SyntaxProgrammingProblems/MinimumPossibleTraverse.cpp
 
 CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/MinimumPossibleTraverse.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/MinimumPossibleTraverse.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/SyntaxProgrammingProblems/MinimumPossibleTraverse.cpp > CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/MinimumPossibleTraverse.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/SyntaxProgrammingProblems/MinimumPossibleTraverse.cpp > CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/MinimumPossibleTraverse.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/MinimumPossibleTraverse.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/MinimumPossibleTraverse.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/SyntaxProgrammingProblems/MinimumPossibleTraverse.cpp -o CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/MinimumPossibleTraverse.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/SyntaxProgrammingProblems/MinimumPossibleTraverse.cpp -o CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/MinimumPossibleTraverse.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/MinimumPossibleTraverse.cpp.o.requires:
 
@@ -3084,15 +3084,15 @@ CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/MinimumPossible
 CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/ModifiedLCS.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/ModifiedLCS.cpp.o: ../SyntaxProgrammingProblems/ModifiedLCS.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_127) "Building CXX object CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/ModifiedLCS.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/ModifiedLCS.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/SyntaxProgrammingProblems/ModifiedLCS.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/ModifiedLCS.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/SyntaxProgrammingProblems/ModifiedLCS.cpp
 
 CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/ModifiedLCS.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/ModifiedLCS.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/SyntaxProgrammingProblems/ModifiedLCS.cpp > CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/ModifiedLCS.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/SyntaxProgrammingProblems/ModifiedLCS.cpp > CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/ModifiedLCS.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/ModifiedLCS.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/ModifiedLCS.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/SyntaxProgrammingProblems/ModifiedLCS.cpp -o CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/ModifiedLCS.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/SyntaxProgrammingProblems/ModifiedLCS.cpp -o CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/ModifiedLCS.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/ModifiedLCS.cpp.o.requires:
 
@@ -3108,15 +3108,15 @@ CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/ModifiedLCS.cpp
 CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/SolveTheGivenEquation.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/SolveTheGivenEquation.cpp.o: ../SyntaxProgrammingProblems/SolveTheGivenEquation.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_128) "Building CXX object CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/SolveTheGivenEquation.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/SolveTheGivenEquation.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/SyntaxProgrammingProblems/SolveTheGivenEquation.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/SolveTheGivenEquation.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/SyntaxProgrammingProblems/SolveTheGivenEquation.cpp
 
 CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/SolveTheGivenEquation.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/SolveTheGivenEquation.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/SyntaxProgrammingProblems/SolveTheGivenEquation.cpp > CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/SolveTheGivenEquation.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/SyntaxProgrammingProblems/SolveTheGivenEquation.cpp > CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/SolveTheGivenEquation.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/SolveTheGivenEquation.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/SolveTheGivenEquation.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/SyntaxProgrammingProblems/SolveTheGivenEquation.cpp -o CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/SolveTheGivenEquation.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/SyntaxProgrammingProblems/SolveTheGivenEquation.cpp -o CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/SolveTheGivenEquation.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/SolveTheGivenEquation.cpp.o.requires:
 
@@ -3132,15 +3132,15 @@ CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/SolveTheGivenEq
 CMakeFiles/Competitive_Programming.dir/BitMasking.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/BitMasking.cpp.o: ../BitMasking.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_129) "Building CXX object CMakeFiles/Competitive_Programming.dir/BitMasking.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/BitMasking.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/BitMasking.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/BitMasking.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/BitMasking.cpp
 
 CMakeFiles/Competitive_Programming.dir/BitMasking.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/BitMasking.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/BitMasking.cpp > CMakeFiles/Competitive_Programming.dir/BitMasking.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/BitMasking.cpp > CMakeFiles/Competitive_Programming.dir/BitMasking.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/BitMasking.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/BitMasking.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/BitMasking.cpp -o CMakeFiles/Competitive_Programming.dir/BitMasking.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/BitMasking.cpp -o CMakeFiles/Competitive_Programming.dir/BitMasking.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/BitMasking.cpp.o.requires:
 
@@ -3156,15 +3156,15 @@ CMakeFiles/Competitive_Programming.dir/BitMasking.cpp.o.provides.build: CMakeFil
 CMakeFiles/Competitive_Programming.dir/BlownGarland.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/BlownGarland.cpp.o: ../BlownGarland.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_130) "Building CXX object CMakeFiles/Competitive_Programming.dir/BlownGarland.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/BlownGarland.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/BlownGarland.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/BlownGarland.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/BlownGarland.cpp
 
 CMakeFiles/Competitive_Programming.dir/BlownGarland.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/BlownGarland.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/BlownGarland.cpp > CMakeFiles/Competitive_Programming.dir/BlownGarland.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/BlownGarland.cpp > CMakeFiles/Competitive_Programming.dir/BlownGarland.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/BlownGarland.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/BlownGarland.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/BlownGarland.cpp -o CMakeFiles/Competitive_Programming.dir/BlownGarland.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/BlownGarland.cpp -o CMakeFiles/Competitive_Programming.dir/BlownGarland.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/BlownGarland.cpp.o.requires:
 
@@ -3180,15 +3180,15 @@ CMakeFiles/Competitive_Programming.dir/BlownGarland.cpp.o.provides.build: CMakeF
 CMakeFiles/Competitive_Programming.dir/CC__CHEFPCHF.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/CC__CHEFPCHF.cpp.o: ../CC_\ CHEFPCHF.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_131) "Building CXX object CMakeFiles/Competitive_Programming.dir/CC__CHEFPCHF.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CC__CHEFPCHF.cpp.o -c "/Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ CHEFPCHF.cpp"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CC__CHEFPCHF.cpp.o -c "/Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ CHEFPCHF.cpp"
 
 CMakeFiles/Competitive_Programming.dir/CC__CHEFPCHF.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/CC__CHEFPCHF.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ CHEFPCHF.cpp" > CMakeFiles/Competitive_Programming.dir/CC__CHEFPCHF.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ CHEFPCHF.cpp" > CMakeFiles/Competitive_Programming.dir/CC__CHEFPCHF.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/CC__CHEFPCHF.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/CC__CHEFPCHF.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ CHEFPCHF.cpp" -o CMakeFiles/Competitive_Programming.dir/CC__CHEFPCHF.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ CHEFPCHF.cpp" -o CMakeFiles/Competitive_Programming.dir/CC__CHEFPCHF.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/CC__CHEFPCHF.cpp.o.requires:
 
@@ -3204,15 +3204,15 @@ CMakeFiles/Competitive_Programming.dir/CC__CHEFPCHF.cpp.o.provides.build: CMakeF
 CMakeFiles/Competitive_Programming.dir/CC_Calculator.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/CC_Calculator.cpp.o: ../CC_Calculator.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_132) "Building CXX object CMakeFiles/Competitive_Programming.dir/CC_Calculator.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CC_Calculator.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_Calculator.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CC_Calculator.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_Calculator.cpp
 
 CMakeFiles/Competitive_Programming.dir/CC_Calculator.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/CC_Calculator.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_Calculator.cpp > CMakeFiles/Competitive_Programming.dir/CC_Calculator.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_Calculator.cpp > CMakeFiles/Competitive_Programming.dir/CC_Calculator.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/CC_Calculator.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/CC_Calculator.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_Calculator.cpp -o CMakeFiles/Competitive_Programming.dir/CC_Calculator.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_Calculator.cpp -o CMakeFiles/Competitive_Programming.dir/CC_Calculator.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/CC_Calculator.cpp.o.requires:
 
@@ -3228,15 +3228,15 @@ CMakeFiles/Competitive_Programming.dir/CC_Calculator.cpp.o.provides.build: CMake
 CMakeFiles/Competitive_Programming.dir/CC_CAPTCITI.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/CC_CAPTCITI.cpp.o: ../CC_CAPTCITI.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_133) "Building CXX object CMakeFiles/Competitive_Programming.dir/CC_CAPTCITI.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CC_CAPTCITI.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_CAPTCITI.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CC_CAPTCITI.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_CAPTCITI.cpp
 
 CMakeFiles/Competitive_Programming.dir/CC_CAPTCITI.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/CC_CAPTCITI.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_CAPTCITI.cpp > CMakeFiles/Competitive_Programming.dir/CC_CAPTCITI.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_CAPTCITI.cpp > CMakeFiles/Competitive_Programming.dir/CC_CAPTCITI.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/CC_CAPTCITI.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/CC_CAPTCITI.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_CAPTCITI.cpp -o CMakeFiles/Competitive_Programming.dir/CC_CAPTCITI.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_CAPTCITI.cpp -o CMakeFiles/Competitive_Programming.dir/CC_CAPTCITI.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/CC_CAPTCITI.cpp.o.requires:
 
@@ -3252,15 +3252,15 @@ CMakeFiles/Competitive_Programming.dir/CC_CAPTCITI.cpp.o.provides.build: CMakeFi
 CMakeFiles/Competitive_Programming.dir/CC_ChefandCycledCycles.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/CC_ChefandCycledCycles.cpp.o: ../CC_ChefandCycledCycles.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_134) "Building CXX object CMakeFiles/Competitive_Programming.dir/CC_ChefandCycledCycles.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CC_ChefandCycledCycles.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefandCycledCycles.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CC_ChefandCycledCycles.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefandCycledCycles.cpp
 
 CMakeFiles/Competitive_Programming.dir/CC_ChefandCycledCycles.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/CC_ChefandCycledCycles.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefandCycledCycles.cpp > CMakeFiles/Competitive_Programming.dir/CC_ChefandCycledCycles.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefandCycledCycles.cpp > CMakeFiles/Competitive_Programming.dir/CC_ChefandCycledCycles.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/CC_ChefandCycledCycles.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/CC_ChefandCycledCycles.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefandCycledCycles.cpp -o CMakeFiles/Competitive_Programming.dir/CC_ChefandCycledCycles.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefandCycledCycles.cpp -o CMakeFiles/Competitive_Programming.dir/CC_ChefandCycledCycles.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/CC_ChefandCycledCycles.cpp.o.requires:
 
@@ -3276,15 +3276,15 @@ CMakeFiles/Competitive_Programming.dir/CC_ChefandCycledCycles.cpp.o.provides.bui
 CMakeFiles/Competitive_Programming.dir/CC_ChefAndDice.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/CC_ChefAndDice.cpp.o: ../CC_ChefAndDice.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_135) "Building CXX object CMakeFiles/Competitive_Programming.dir/CC_ChefAndDice.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CC_ChefAndDice.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefAndDice.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CC_ChefAndDice.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefAndDice.cpp
 
 CMakeFiles/Competitive_Programming.dir/CC_ChefAndDice.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/CC_ChefAndDice.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefAndDice.cpp > CMakeFiles/Competitive_Programming.dir/CC_ChefAndDice.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefAndDice.cpp > CMakeFiles/Competitive_Programming.dir/CC_ChefAndDice.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/CC_ChefAndDice.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/CC_ChefAndDice.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefAndDice.cpp -o CMakeFiles/Competitive_Programming.dir/CC_ChefAndDice.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefAndDice.cpp -o CMakeFiles/Competitive_Programming.dir/CC_ChefAndDice.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/CC_ChefAndDice.cpp.o.requires:
 
@@ -3300,15 +3300,15 @@ CMakeFiles/Competitive_Programming.dir/CC_ChefAndDice.cpp.o.provides.build: CMak
 CMakeFiles/Competitive_Programming.dir/CC_ChefAndFeast.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/CC_ChefAndFeast.cpp.o: ../CC_ChefAndFeast.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_136) "Building CXX object CMakeFiles/Competitive_Programming.dir/CC_ChefAndFeast.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CC_ChefAndFeast.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefAndFeast.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CC_ChefAndFeast.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefAndFeast.cpp
 
 CMakeFiles/Competitive_Programming.dir/CC_ChefAndFeast.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/CC_ChefAndFeast.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefAndFeast.cpp > CMakeFiles/Competitive_Programming.dir/CC_ChefAndFeast.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefAndFeast.cpp > CMakeFiles/Competitive_Programming.dir/CC_ChefAndFeast.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/CC_ChefAndFeast.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/CC_ChefAndFeast.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefAndFeast.cpp -o CMakeFiles/Competitive_Programming.dir/CC_ChefAndFeast.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefAndFeast.cpp -o CMakeFiles/Competitive_Programming.dir/CC_ChefAndFeast.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/CC_ChefAndFeast.cpp.o.requires:
 
@@ -3324,15 +3324,15 @@ CMakeFiles/Competitive_Programming.dir/CC_ChefAndFeast.cpp.o.provides.build: CMa
 CMakeFiles/Competitive_Programming.dir/CC_ChefAndFibonacciArray.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/CC_ChefAndFibonacciArray.cpp.o: ../CC_ChefAndFibonacciArray.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_137) "Building CXX object CMakeFiles/Competitive_Programming.dir/CC_ChefAndFibonacciArray.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CC_ChefAndFibonacciArray.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefAndFibonacciArray.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CC_ChefAndFibonacciArray.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefAndFibonacciArray.cpp
 
 CMakeFiles/Competitive_Programming.dir/CC_ChefAndFibonacciArray.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/CC_ChefAndFibonacciArray.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefAndFibonacciArray.cpp > CMakeFiles/Competitive_Programming.dir/CC_ChefAndFibonacciArray.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefAndFibonacciArray.cpp > CMakeFiles/Competitive_Programming.dir/CC_ChefAndFibonacciArray.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/CC_ChefAndFibonacciArray.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/CC_ChefAndFibonacciArray.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefAndFibonacciArray.cpp -o CMakeFiles/Competitive_Programming.dir/CC_ChefAndFibonacciArray.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefAndFibonacciArray.cpp -o CMakeFiles/Competitive_Programming.dir/CC_ChefAndFibonacciArray.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/CC_ChefAndFibonacciArray.cpp.o.requires:
 
@@ -3348,15 +3348,15 @@ CMakeFiles/Competitive_Programming.dir/CC_ChefAndFibonacciArray.cpp.o.provides.b
 CMakeFiles/Competitive_Programming.dir/CC_ChefAndMagicArrays.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/CC_ChefAndMagicArrays.cpp.o: ../CC_ChefAndMagicArrays.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_138) "Building CXX object CMakeFiles/Competitive_Programming.dir/CC_ChefAndMagicArrays.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CC_ChefAndMagicArrays.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefAndMagicArrays.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CC_ChefAndMagicArrays.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefAndMagicArrays.cpp
 
 CMakeFiles/Competitive_Programming.dir/CC_ChefAndMagicArrays.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/CC_ChefAndMagicArrays.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefAndMagicArrays.cpp > CMakeFiles/Competitive_Programming.dir/CC_ChefAndMagicArrays.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefAndMagicArrays.cpp > CMakeFiles/Competitive_Programming.dir/CC_ChefAndMagicArrays.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/CC_ChefAndMagicArrays.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/CC_ChefAndMagicArrays.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefAndMagicArrays.cpp -o CMakeFiles/Competitive_Programming.dir/CC_ChefAndMagicArrays.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefAndMagicArrays.cpp -o CMakeFiles/Competitive_Programming.dir/CC_ChefAndMagicArrays.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/CC_ChefAndMagicArrays.cpp.o.requires:
 
@@ -3372,15 +3372,15 @@ CMakeFiles/Competitive_Programming.dir/CC_ChefAndMagicArrays.cpp.o.provides.buil
 CMakeFiles/Competitive_Programming.dir/CC_ChefAndPrimeQueries.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/CC_ChefAndPrimeQueries.cpp.o: ../CC_ChefAndPrimeQueries.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_139) "Building CXX object CMakeFiles/Competitive_Programming.dir/CC_ChefAndPrimeQueries.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CC_ChefAndPrimeQueries.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefAndPrimeQueries.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CC_ChefAndPrimeQueries.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefAndPrimeQueries.cpp
 
 CMakeFiles/Competitive_Programming.dir/CC_ChefAndPrimeQueries.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/CC_ChefAndPrimeQueries.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefAndPrimeQueries.cpp > CMakeFiles/Competitive_Programming.dir/CC_ChefAndPrimeQueries.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefAndPrimeQueries.cpp > CMakeFiles/Competitive_Programming.dir/CC_ChefAndPrimeQueries.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/CC_ChefAndPrimeQueries.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/CC_ChefAndPrimeQueries.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefAndPrimeQueries.cpp -o CMakeFiles/Competitive_Programming.dir/CC_ChefAndPrimeQueries.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefAndPrimeQueries.cpp -o CMakeFiles/Competitive_Programming.dir/CC_ChefAndPrimeQueries.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/CC_ChefAndPrimeQueries.cpp.o.requires:
 
@@ -3396,15 +3396,15 @@ CMakeFiles/Competitive_Programming.dir/CC_ChefAndPrimeQueries.cpp.o.provides.bui
 CMakeFiles/Competitive_Programming.dir/CC_ChefAndSubarray.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/CC_ChefAndSubarray.cpp.o: ../CC_ChefAndSubarray.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_140) "Building CXX object CMakeFiles/Competitive_Programming.dir/CC_ChefAndSubarray.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CC_ChefAndSubarray.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefAndSubarray.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CC_ChefAndSubarray.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefAndSubarray.cpp
 
 CMakeFiles/Competitive_Programming.dir/CC_ChefAndSubarray.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/CC_ChefAndSubarray.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefAndSubarray.cpp > CMakeFiles/Competitive_Programming.dir/CC_ChefAndSubarray.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefAndSubarray.cpp > CMakeFiles/Competitive_Programming.dir/CC_ChefAndSubarray.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/CC_ChefAndSubarray.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/CC_ChefAndSubarray.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefAndSubarray.cpp -o CMakeFiles/Competitive_Programming.dir/CC_ChefAndSubarray.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefAndSubarray.cpp -o CMakeFiles/Competitive_Programming.dir/CC_ChefAndSubarray.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/CC_ChefAndSubarray.cpp.o.requires:
 
@@ -3420,15 +3420,15 @@ CMakeFiles/Competitive_Programming.dir/CC_ChefAndSubarray.cpp.o.provides.build: 
 CMakeFiles/Competitive_Programming.dir/CC_ChefAndSubsequences.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/CC_ChefAndSubsequences.cpp.o: ../CC_ChefAndSubsequences.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_141) "Building CXX object CMakeFiles/Competitive_Programming.dir/CC_ChefAndSubsequences.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CC_ChefAndSubsequences.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefAndSubsequences.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CC_ChefAndSubsequences.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefAndSubsequences.cpp
 
 CMakeFiles/Competitive_Programming.dir/CC_ChefAndSubsequences.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/CC_ChefAndSubsequences.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefAndSubsequences.cpp > CMakeFiles/Competitive_Programming.dir/CC_ChefAndSubsequences.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefAndSubsequences.cpp > CMakeFiles/Competitive_Programming.dir/CC_ChefAndSubsequences.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/CC_ChefAndSubsequences.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/CC_ChefAndSubsequences.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefAndSubsequences.cpp -o CMakeFiles/Competitive_Programming.dir/CC_ChefAndSubsequences.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefAndSubsequences.cpp -o CMakeFiles/Competitive_Programming.dir/CC_ChefAndSubsequences.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/CC_ChefAndSubsequences.cpp.o.requires:
 
@@ -3444,15 +3444,15 @@ CMakeFiles/Competitive_Programming.dir/CC_ChefAndSubsequences.cpp.o.provides.bui
 CMakeFiles/Competitive_Programming.dir/CC_ChefAndTraingles.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/CC_ChefAndTraingles.cpp.o: ../CC_ChefAndTraingles.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_142) "Building CXX object CMakeFiles/Competitive_Programming.dir/CC_ChefAndTraingles.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CC_ChefAndTraingles.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefAndTraingles.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CC_ChefAndTraingles.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefAndTraingles.cpp
 
 CMakeFiles/Competitive_Programming.dir/CC_ChefAndTraingles.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/CC_ChefAndTraingles.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefAndTraingles.cpp > CMakeFiles/Competitive_Programming.dir/CC_ChefAndTraingles.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefAndTraingles.cpp > CMakeFiles/Competitive_Programming.dir/CC_ChefAndTraingles.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/CC_ChefAndTraingles.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/CC_ChefAndTraingles.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefAndTraingles.cpp -o CMakeFiles/Competitive_Programming.dir/CC_ChefAndTraingles.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefAndTraingles.cpp -o CMakeFiles/Competitive_Programming.dir/CC_ChefAndTraingles.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/CC_ChefAndTraingles.cpp.o.requires:
 
@@ -3468,15 +3468,15 @@ CMakeFiles/Competitive_Programming.dir/CC_ChefAndTraingles.cpp.o.provides.build:
 CMakeFiles/Competitive_Programming.dir/CC_ChefAndVolunteerService.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/CC_ChefAndVolunteerService.cpp.o: ../CC_ChefAndVolunteerService.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_143) "Building CXX object CMakeFiles/Competitive_Programming.dir/CC_ChefAndVolunteerService.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CC_ChefAndVolunteerService.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefAndVolunteerService.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CC_ChefAndVolunteerService.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefAndVolunteerService.cpp
 
 CMakeFiles/Competitive_Programming.dir/CC_ChefAndVolunteerService.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/CC_ChefAndVolunteerService.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefAndVolunteerService.cpp > CMakeFiles/Competitive_Programming.dir/CC_ChefAndVolunteerService.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefAndVolunteerService.cpp > CMakeFiles/Competitive_Programming.dir/CC_ChefAndVolunteerService.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/CC_ChefAndVolunteerService.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/CC_ChefAndVolunteerService.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefAndVolunteerService.cpp -o CMakeFiles/Competitive_Programming.dir/CC_ChefAndVolunteerService.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefAndVolunteerService.cpp -o CMakeFiles/Competitive_Programming.dir/CC_ChefAndVolunteerService.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/CC_ChefAndVolunteerService.cpp.o.requires:
 
@@ -3492,15 +3492,15 @@ CMakeFiles/Competitive_Programming.dir/CC_ChefAndVolunteerService.cpp.o.provides
 CMakeFiles/Competitive_Programming.dir/CC_CHEFSIGN.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/CC_CHEFSIGN.cpp.o: ../CC_CHEFSIGN.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_144) "Building CXX object CMakeFiles/Competitive_Programming.dir/CC_CHEFSIGN.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CC_CHEFSIGN.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_CHEFSIGN.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CC_CHEFSIGN.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_CHEFSIGN.cpp
 
 CMakeFiles/Competitive_Programming.dir/CC_CHEFSIGN.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/CC_CHEFSIGN.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_CHEFSIGN.cpp > CMakeFiles/Competitive_Programming.dir/CC_CHEFSIGN.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_CHEFSIGN.cpp > CMakeFiles/Competitive_Programming.dir/CC_CHEFSIGN.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/CC_CHEFSIGN.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/CC_CHEFSIGN.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_CHEFSIGN.cpp -o CMakeFiles/Competitive_Programming.dir/CC_CHEFSIGN.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_CHEFSIGN.cpp -o CMakeFiles/Competitive_Programming.dir/CC_CHEFSIGN.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/CC_CHEFSIGN.cpp.o.requires:
 
@@ -3516,15 +3516,15 @@ CMakeFiles/Competitive_Programming.dir/CC_CHEFSIGN.cpp.o.provides.build: CMakeFi
 CMakeFiles/Competitive_Programming.dir/CC_CleaningTheSpace.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/CC_CleaningTheSpace.cpp.o: ../CC_CleaningTheSpace.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_145) "Building CXX object CMakeFiles/Competitive_Programming.dir/CC_CleaningTheSpace.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CC_CleaningTheSpace.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_CleaningTheSpace.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CC_CleaningTheSpace.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_CleaningTheSpace.cpp
 
 CMakeFiles/Competitive_Programming.dir/CC_CleaningTheSpace.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/CC_CleaningTheSpace.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_CleaningTheSpace.cpp > CMakeFiles/Competitive_Programming.dir/CC_CleaningTheSpace.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_CleaningTheSpace.cpp > CMakeFiles/Competitive_Programming.dir/CC_CleaningTheSpace.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/CC_CleaningTheSpace.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/CC_CleaningTheSpace.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_CleaningTheSpace.cpp -o CMakeFiles/Competitive_Programming.dir/CC_CleaningTheSpace.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_CleaningTheSpace.cpp -o CMakeFiles/Competitive_Programming.dir/CC_CleaningTheSpace.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/CC_CleaningTheSpace.cpp.o.requires:
 
@@ -3540,15 +3540,15 @@ CMakeFiles/Competitive_Programming.dir/CC_CleaningTheSpace.cpp.o.provides.build:
 CMakeFiles/Competitive_Programming.dir/CC_ConnectingComputers.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/CC_ConnectingComputers.cpp.o: ../CC_ConnectingComputers.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_146) "Building CXX object CMakeFiles/Competitive_Programming.dir/CC_ConnectingComputers.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CC_ConnectingComputers.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ConnectingComputers.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CC_ConnectingComputers.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ConnectingComputers.cpp
 
 CMakeFiles/Competitive_Programming.dir/CC_ConnectingComputers.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/CC_ConnectingComputers.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ConnectingComputers.cpp > CMakeFiles/Competitive_Programming.dir/CC_ConnectingComputers.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ConnectingComputers.cpp > CMakeFiles/Competitive_Programming.dir/CC_ConnectingComputers.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/CC_ConnectingComputers.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/CC_ConnectingComputers.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ConnectingComputers.cpp -o CMakeFiles/Competitive_Programming.dir/CC_ConnectingComputers.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ConnectingComputers.cpp -o CMakeFiles/Competitive_Programming.dir/CC_ConnectingComputers.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/CC_ConnectingComputers.cpp.o.requires:
 
@@ -3564,15 +3564,15 @@ CMakeFiles/Competitive_Programming.dir/CC_ConnectingComputers.cpp.o.provides.bui
 CMakeFiles/Competitive_Programming.dir/CC_ConsecutiveSnakes.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/CC_ConsecutiveSnakes.cpp.o: ../CC_ConsecutiveSnakes.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_147) "Building CXX object CMakeFiles/Competitive_Programming.dir/CC_ConsecutiveSnakes.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CC_ConsecutiveSnakes.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ConsecutiveSnakes.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CC_ConsecutiveSnakes.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ConsecutiveSnakes.cpp
 
 CMakeFiles/Competitive_Programming.dir/CC_ConsecutiveSnakes.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/CC_ConsecutiveSnakes.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ConsecutiveSnakes.cpp > CMakeFiles/Competitive_Programming.dir/CC_ConsecutiveSnakes.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ConsecutiveSnakes.cpp > CMakeFiles/Competitive_Programming.dir/CC_ConsecutiveSnakes.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/CC_ConsecutiveSnakes.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/CC_ConsecutiveSnakes.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ConsecutiveSnakes.cpp -o CMakeFiles/Competitive_Programming.dir/CC_ConsecutiveSnakes.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ConsecutiveSnakes.cpp -o CMakeFiles/Competitive_Programming.dir/CC_ConsecutiveSnakes.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/CC_ConsecutiveSnakes.cpp.o.requires:
 
@@ -3588,15 +3588,15 @@ CMakeFiles/Competitive_Programming.dir/CC_ConsecutiveSnakes.cpp.o.provides.build
 CMakeFiles/Competitive_Programming.dir/CC_FillTheMatrix.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/CC_FillTheMatrix.cpp.o: ../CC_FillTheMatrix.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_148) "Building CXX object CMakeFiles/Competitive_Programming.dir/CC_FillTheMatrix.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CC_FillTheMatrix.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_FillTheMatrix.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CC_FillTheMatrix.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_FillTheMatrix.cpp
 
 CMakeFiles/Competitive_Programming.dir/CC_FillTheMatrix.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/CC_FillTheMatrix.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_FillTheMatrix.cpp > CMakeFiles/Competitive_Programming.dir/CC_FillTheMatrix.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_FillTheMatrix.cpp > CMakeFiles/Competitive_Programming.dir/CC_FillTheMatrix.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/CC_FillTheMatrix.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/CC_FillTheMatrix.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_FillTheMatrix.cpp -o CMakeFiles/Competitive_Programming.dir/CC_FillTheMatrix.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_FillTheMatrix.cpp -o CMakeFiles/Competitive_Programming.dir/CC_FillTheMatrix.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/CC_FillTheMatrix.cpp.o.requires:
 
@@ -3612,15 +3612,15 @@ CMakeFiles/Competitive_Programming.dir/CC_FillTheMatrix.cpp.o.provides.build: CM
 CMakeFiles/Competitive_Programming.dir/CC_Impersonating.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/CC_Impersonating.cpp.o: ../CC_Impersonating.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_149) "Building CXX object CMakeFiles/Competitive_Programming.dir/CC_Impersonating.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CC_Impersonating.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_Impersonating.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CC_Impersonating.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_Impersonating.cpp
 
 CMakeFiles/Competitive_Programming.dir/CC_Impersonating.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/CC_Impersonating.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_Impersonating.cpp > CMakeFiles/Competitive_Programming.dir/CC_Impersonating.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_Impersonating.cpp > CMakeFiles/Competitive_Programming.dir/CC_Impersonating.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/CC_Impersonating.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/CC_Impersonating.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_Impersonating.cpp -o CMakeFiles/Competitive_Programming.dir/CC_Impersonating.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_Impersonating.cpp -o CMakeFiles/Competitive_Programming.dir/CC_Impersonating.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/CC_Impersonating.cpp.o.requires:
 
@@ -3636,15 +3636,15 @@ CMakeFiles/Competitive_Programming.dir/CC_Impersonating.cpp.o.provides.build: CM
 CMakeFiles/Competitive_Programming.dir/CC_IPCTrainers.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/CC_IPCTrainers.cpp.o: ../CC_IPCTrainers.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_150) "Building CXX object CMakeFiles/Competitive_Programming.dir/CC_IPCTrainers.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CC_IPCTrainers.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_IPCTrainers.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CC_IPCTrainers.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_IPCTrainers.cpp
 
 CMakeFiles/Competitive_Programming.dir/CC_IPCTrainers.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/CC_IPCTrainers.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_IPCTrainers.cpp > CMakeFiles/Competitive_Programming.dir/CC_IPCTrainers.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_IPCTrainers.cpp > CMakeFiles/Competitive_Programming.dir/CC_IPCTrainers.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/CC_IPCTrainers.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/CC_IPCTrainers.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_IPCTrainers.cpp -o CMakeFiles/Competitive_Programming.dir/CC_IPCTrainers.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_IPCTrainers.cpp -o CMakeFiles/Competitive_Programming.dir/CC_IPCTrainers.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/CC_IPCTrainers.cpp.o.requires:
 
@@ -3660,15 +3660,15 @@ CMakeFiles/Competitive_Programming.dir/CC_IPCTrainers.cpp.o.provides.build: CMak
 CMakeFiles/Competitive_Programming.dir/CC_JosephLand.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/CC_JosephLand.cpp.o: ../CC_JosephLand.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_151) "Building CXX object CMakeFiles/Competitive_Programming.dir/CC_JosephLand.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CC_JosephLand.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_JosephLand.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CC_JosephLand.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_JosephLand.cpp
 
 CMakeFiles/Competitive_Programming.dir/CC_JosephLand.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/CC_JosephLand.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_JosephLand.cpp > CMakeFiles/Competitive_Programming.dir/CC_JosephLand.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_JosephLand.cpp > CMakeFiles/Competitive_Programming.dir/CC_JosephLand.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/CC_JosephLand.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/CC_JosephLand.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_JosephLand.cpp -o CMakeFiles/Competitive_Programming.dir/CC_JosephLand.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_JosephLand.cpp -o CMakeFiles/Competitive_Programming.dir/CC_JosephLand.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/CC_JosephLand.cpp.o.requires:
 
@@ -3684,15 +3684,15 @@ CMakeFiles/Competitive_Programming.dir/CC_JosephLand.cpp.o.provides.build: CMake
 CMakeFiles/Competitive_Programming.dir/CC_PairWiseUnionOfSet.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/CC_PairWiseUnionOfSet.cpp.o: ../CC_PairWiseUnionOfSet.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_152) "Building CXX object CMakeFiles/Competitive_Programming.dir/CC_PairWiseUnionOfSet.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CC_PairWiseUnionOfSet.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_PairWiseUnionOfSet.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CC_PairWiseUnionOfSet.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_PairWiseUnionOfSet.cpp
 
 CMakeFiles/Competitive_Programming.dir/CC_PairWiseUnionOfSet.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/CC_PairWiseUnionOfSet.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_PairWiseUnionOfSet.cpp > CMakeFiles/Competitive_Programming.dir/CC_PairWiseUnionOfSet.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_PairWiseUnionOfSet.cpp > CMakeFiles/Competitive_Programming.dir/CC_PairWiseUnionOfSet.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/CC_PairWiseUnionOfSet.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/CC_PairWiseUnionOfSet.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_PairWiseUnionOfSet.cpp -o CMakeFiles/Competitive_Programming.dir/CC_PairWiseUnionOfSet.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_PairWiseUnionOfSet.cpp -o CMakeFiles/Competitive_Programming.dir/CC_PairWiseUnionOfSet.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/CC_PairWiseUnionOfSet.cpp.o.requires:
 
@@ -3708,15 +3708,15 @@ CMakeFiles/Competitive_Programming.dir/CC_PairWiseUnionOfSet.cpp.o.provides.buil
 CMakeFiles/Competitive_Programming.dir/CC_PyramidFalls.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/CC_PyramidFalls.cpp.o: ../CC_PyramidFalls.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_153) "Building CXX object CMakeFiles/Competitive_Programming.dir/CC_PyramidFalls.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CC_PyramidFalls.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_PyramidFalls.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CC_PyramidFalls.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_PyramidFalls.cpp
 
 CMakeFiles/Competitive_Programming.dir/CC_PyramidFalls.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/CC_PyramidFalls.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_PyramidFalls.cpp > CMakeFiles/Competitive_Programming.dir/CC_PyramidFalls.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_PyramidFalls.cpp > CMakeFiles/Competitive_Programming.dir/CC_PyramidFalls.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/CC_PyramidFalls.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/CC_PyramidFalls.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_PyramidFalls.cpp -o CMakeFiles/Competitive_Programming.dir/CC_PyramidFalls.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_PyramidFalls.cpp -o CMakeFiles/Competitive_Programming.dir/CC_PyramidFalls.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/CC_PyramidFalls.cpp.o.requires:
 
@@ -3732,15 +3732,15 @@ CMakeFiles/Competitive_Programming.dir/CC_PyramidFalls.cpp.o.provides.build: CMa
 CMakeFiles/Competitive_Programming.dir/CC_RobotsInADAG.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/CC_RobotsInADAG.cpp.o: ../CC_RobotsInADAG.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_154) "Building CXX object CMakeFiles/Competitive_Programming.dir/CC_RobotsInADAG.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CC_RobotsInADAG.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_RobotsInADAG.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CC_RobotsInADAG.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_RobotsInADAG.cpp
 
 CMakeFiles/Competitive_Programming.dir/CC_RobotsInADAG.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/CC_RobotsInADAG.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_RobotsInADAG.cpp > CMakeFiles/Competitive_Programming.dir/CC_RobotsInADAG.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_RobotsInADAG.cpp > CMakeFiles/Competitive_Programming.dir/CC_RobotsInADAG.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/CC_RobotsInADAG.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/CC_RobotsInADAG.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_RobotsInADAG.cpp -o CMakeFiles/Competitive_Programming.dir/CC_RobotsInADAG.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_RobotsInADAG.cpp -o CMakeFiles/Competitive_Programming.dir/CC_RobotsInADAG.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/CC_RobotsInADAG.cpp.o.requires:
 
@@ -3756,15 +3756,15 @@ CMakeFiles/Competitive_Programming.dir/CC_RobotsInADAG.cpp.o.provides.build: CMa
 CMakeFiles/Competitive_Programming.dir/CC_SerejaAndCommands.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/CC_SerejaAndCommands.cpp.o: ../CC_SerejaAndCommands.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_155) "Building CXX object CMakeFiles/Competitive_Programming.dir/CC_SerejaAndCommands.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CC_SerejaAndCommands.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_SerejaAndCommands.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CC_SerejaAndCommands.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_SerejaAndCommands.cpp
 
 CMakeFiles/Competitive_Programming.dir/CC_SerejaAndCommands.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/CC_SerejaAndCommands.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_SerejaAndCommands.cpp > CMakeFiles/Competitive_Programming.dir/CC_SerejaAndCommands.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_SerejaAndCommands.cpp > CMakeFiles/Competitive_Programming.dir/CC_SerejaAndCommands.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/CC_SerejaAndCommands.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/CC_SerejaAndCommands.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_SerejaAndCommands.cpp -o CMakeFiles/Competitive_Programming.dir/CC_SerejaAndCommands.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_SerejaAndCommands.cpp -o CMakeFiles/Competitive_Programming.dir/CC_SerejaAndCommands.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/CC_SerejaAndCommands.cpp.o.requires:
 
@@ -3780,15 +3780,15 @@ CMakeFiles/Competitive_Programming.dir/CC_SerejaAndCommands.cpp.o.provides.build
 CMakeFiles/Competitive_Programming.dir/CC_ShootingOnTheArray.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/CC_ShootingOnTheArray.cpp.o: ../CC_ShootingOnTheArray.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_156) "Building CXX object CMakeFiles/Competitive_Programming.dir/CC_ShootingOnTheArray.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CC_ShootingOnTheArray.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ShootingOnTheArray.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CC_ShootingOnTheArray.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ShootingOnTheArray.cpp
 
 CMakeFiles/Competitive_Programming.dir/CC_ShootingOnTheArray.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/CC_ShootingOnTheArray.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ShootingOnTheArray.cpp > CMakeFiles/Competitive_Programming.dir/CC_ShootingOnTheArray.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ShootingOnTheArray.cpp > CMakeFiles/Competitive_Programming.dir/CC_ShootingOnTheArray.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/CC_ShootingOnTheArray.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/CC_ShootingOnTheArray.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ShootingOnTheArray.cpp -o CMakeFiles/Competitive_Programming.dir/CC_ShootingOnTheArray.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ShootingOnTheArray.cpp -o CMakeFiles/Competitive_Programming.dir/CC_ShootingOnTheArray.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/CC_ShootingOnTheArray.cpp.o.requires:
 
@@ -3804,15 +3804,15 @@ CMakeFiles/Competitive_Programming.dir/CC_ShootingOnTheArray.cpp.o.provides.buil
 CMakeFiles/Competitive_Programming.dir/CC_SnakesAndDiscussion.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/CC_SnakesAndDiscussion.cpp.o: ../CC_SnakesAndDiscussion.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_157) "Building CXX object CMakeFiles/Competitive_Programming.dir/CC_SnakesAndDiscussion.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CC_SnakesAndDiscussion.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_SnakesAndDiscussion.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CC_SnakesAndDiscussion.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_SnakesAndDiscussion.cpp
 
 CMakeFiles/Competitive_Programming.dir/CC_SnakesAndDiscussion.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/CC_SnakesAndDiscussion.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_SnakesAndDiscussion.cpp > CMakeFiles/Competitive_Programming.dir/CC_SnakesAndDiscussion.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_SnakesAndDiscussion.cpp > CMakeFiles/Competitive_Programming.dir/CC_SnakesAndDiscussion.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/CC_SnakesAndDiscussion.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/CC_SnakesAndDiscussion.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_SnakesAndDiscussion.cpp -o CMakeFiles/Competitive_Programming.dir/CC_SnakesAndDiscussion.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_SnakesAndDiscussion.cpp -o CMakeFiles/Competitive_Programming.dir/CC_SnakesAndDiscussion.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/CC_SnakesAndDiscussion.cpp.o.requires:
 
@@ -3828,15 +3828,15 @@ CMakeFiles/Competitive_Programming.dir/CC_SnakesAndDiscussion.cpp.o.provides.bui
 CMakeFiles/Competitive_Programming.dir/CC_SnakesAndGraph.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/CC_SnakesAndGraph.cpp.o: ../CC_SnakesAndGraph.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_158) "Building CXX object CMakeFiles/Competitive_Programming.dir/CC_SnakesAndGraph.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CC_SnakesAndGraph.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_SnakesAndGraph.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CC_SnakesAndGraph.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_SnakesAndGraph.cpp
 
 CMakeFiles/Competitive_Programming.dir/CC_SnakesAndGraph.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/CC_SnakesAndGraph.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_SnakesAndGraph.cpp > CMakeFiles/Competitive_Programming.dir/CC_SnakesAndGraph.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_SnakesAndGraph.cpp > CMakeFiles/Competitive_Programming.dir/CC_SnakesAndGraph.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/CC_SnakesAndGraph.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/CC_SnakesAndGraph.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_SnakesAndGraph.cpp -o CMakeFiles/Competitive_Programming.dir/CC_SnakesAndGraph.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_SnakesAndGraph.cpp -o CMakeFiles/Competitive_Programming.dir/CC_SnakesAndGraph.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/CC_SnakesAndGraph.cpp.o.requires:
 
@@ -3852,15 +3852,15 @@ CMakeFiles/Competitive_Programming.dir/CC_SnakesAndGraph.cpp.o.provides.build: C
 CMakeFiles/Competitive_Programming.dir/CC_SNCOUP.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/CC_SNCOUP.cpp.o: ../CC_SNCOUP.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_159) "Building CXX object CMakeFiles/Competitive_Programming.dir/CC_SNCOUP.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CC_SNCOUP.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_SNCOUP.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CC_SNCOUP.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_SNCOUP.cpp
 
 CMakeFiles/Competitive_Programming.dir/CC_SNCOUP.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/CC_SNCOUP.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_SNCOUP.cpp > CMakeFiles/Competitive_Programming.dir/CC_SNCOUP.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_SNCOUP.cpp > CMakeFiles/Competitive_Programming.dir/CC_SNCOUP.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/CC_SNCOUP.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/CC_SNCOUP.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_SNCOUP.cpp -o CMakeFiles/Competitive_Programming.dir/CC_SNCOUP.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_SNCOUP.cpp -o CMakeFiles/Competitive_Programming.dir/CC_SNCOUP.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/CC_SNCOUP.cpp.o.requires:
 
@@ -3876,15 +3876,15 @@ CMakeFiles/Competitive_Programming.dir/CC_SNCOUP.cpp.o.provides.build: CMakeFile
 CMakeFiles/Competitive_Programming.dir/CC_SumOfCubes.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/CC_SumOfCubes.cpp.o: ../CC_SumOfCubes.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_160) "Building CXX object CMakeFiles/Competitive_Programming.dir/CC_SumOfCubes.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CC_SumOfCubes.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_SumOfCubes.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CC_SumOfCubes.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_SumOfCubes.cpp
 
 CMakeFiles/Competitive_Programming.dir/CC_SumOfCubes.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/CC_SumOfCubes.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_SumOfCubes.cpp > CMakeFiles/Competitive_Programming.dir/CC_SumOfCubes.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_SumOfCubes.cpp > CMakeFiles/Competitive_Programming.dir/CC_SumOfCubes.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/CC_SumOfCubes.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/CC_SumOfCubes.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_SumOfCubes.cpp -o CMakeFiles/Competitive_Programming.dir/CC_SumOfCubes.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_SumOfCubes.cpp -o CMakeFiles/Competitive_Programming.dir/CC_SumOfCubes.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/CC_SumOfCubes.cpp.o.requires:
 
@@ -3900,15 +3900,15 @@ CMakeFiles/Competitive_Programming.dir/CC_SumOfCubes.cpp.o.provides.build: CMake
 CMakeFiles/Competitive_Programming.dir/CC_TiduAndRatings.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/CC_TiduAndRatings.cpp.o: ../CC_TiduAndRatings.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_161) "Building CXX object CMakeFiles/Competitive_Programming.dir/CC_TiduAndRatings.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CC_TiduAndRatings.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_TiduAndRatings.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CC_TiduAndRatings.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_TiduAndRatings.cpp
 
 CMakeFiles/Competitive_Programming.dir/CC_TiduAndRatings.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/CC_TiduAndRatings.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_TiduAndRatings.cpp > CMakeFiles/Competitive_Programming.dir/CC_TiduAndRatings.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_TiduAndRatings.cpp > CMakeFiles/Competitive_Programming.dir/CC_TiduAndRatings.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/CC_TiduAndRatings.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/CC_TiduAndRatings.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_TiduAndRatings.cpp -o CMakeFiles/Competitive_Programming.dir/CC_TiduAndRatings.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_TiduAndRatings.cpp -o CMakeFiles/Competitive_Programming.dir/CC_TiduAndRatings.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/CC_TiduAndRatings.cpp.o.requires:
 
@@ -3924,15 +3924,15 @@ CMakeFiles/Competitive_Programming.dir/CC_TiduAndRatings.cpp.o.provides.build: C
 CMakeFiles/Competitive_Programming.dir/CC_TravelingMinister.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/CC_TravelingMinister.cpp.o: ../CC_TravelingMinister.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_162) "Building CXX object CMakeFiles/Competitive_Programming.dir/CC_TravelingMinister.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CC_TravelingMinister.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_TravelingMinister.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CC_TravelingMinister.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_TravelingMinister.cpp
 
 CMakeFiles/Competitive_Programming.dir/CC_TravelingMinister.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/CC_TravelingMinister.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_TravelingMinister.cpp > CMakeFiles/Competitive_Programming.dir/CC_TravelingMinister.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_TravelingMinister.cpp > CMakeFiles/Competitive_Programming.dir/CC_TravelingMinister.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/CC_TravelingMinister.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/CC_TravelingMinister.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_TravelingMinister.cpp -o CMakeFiles/Competitive_Programming.dir/CC_TravelingMinister.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_TravelingMinister.cpp -o CMakeFiles/Competitive_Programming.dir/CC_TravelingMinister.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/CC_TravelingMinister.cpp.o.requires:
 
@@ -3948,15 +3948,15 @@ CMakeFiles/Competitive_Programming.dir/CC_TravelingMinister.cpp.o.provides.build
 CMakeFiles/Competitive_Programming.dir/CC_Triplets.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/CC_Triplets.cpp.o: ../CC_Triplets.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_163) "Building CXX object CMakeFiles/Competitive_Programming.dir/CC_Triplets.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CC_Triplets.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_Triplets.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CC_Triplets.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_Triplets.cpp
 
 CMakeFiles/Competitive_Programming.dir/CC_Triplets.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/CC_Triplets.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_Triplets.cpp > CMakeFiles/Competitive_Programming.dir/CC_Triplets.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_Triplets.cpp > CMakeFiles/Competitive_Programming.dir/CC_Triplets.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/CC_Triplets.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/CC_Triplets.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_Triplets.cpp -o CMakeFiles/Competitive_Programming.dir/CC_Triplets.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_Triplets.cpp -o CMakeFiles/Competitive_Programming.dir/CC_Triplets.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/CC_Triplets.cpp.o.requires:
 
@@ -3972,15 +3972,15 @@ CMakeFiles/Competitive_Programming.dir/CC_Triplets.cpp.o.provides.build: CMakeFi
 CMakeFiles/Competitive_Programming.dir/CC_WeaselDoesXOROnTree.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/CC_WeaselDoesXOROnTree.cpp.o: ../CC_WeaselDoesXOROnTree.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_164) "Building CXX object CMakeFiles/Competitive_Programming.dir/CC_WeaselDoesXOROnTree.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CC_WeaselDoesXOROnTree.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_WeaselDoesXOROnTree.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CC_WeaselDoesXOROnTree.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_WeaselDoesXOROnTree.cpp
 
 CMakeFiles/Competitive_Programming.dir/CC_WeaselDoesXOROnTree.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/CC_WeaselDoesXOROnTree.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_WeaselDoesXOROnTree.cpp > CMakeFiles/Competitive_Programming.dir/CC_WeaselDoesXOROnTree.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_WeaselDoesXOROnTree.cpp > CMakeFiles/Competitive_Programming.dir/CC_WeaselDoesXOROnTree.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/CC_WeaselDoesXOROnTree.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/CC_WeaselDoesXOROnTree.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_WeaselDoesXOROnTree.cpp -o CMakeFiles/Competitive_Programming.dir/CC_WeaselDoesXOROnTree.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_WeaselDoesXOROnTree.cpp -o CMakeFiles/Competitive_Programming.dir/CC_WeaselDoesXOROnTree.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/CC_WeaselDoesXOROnTree.cpp.o.requires:
 
@@ -3996,15 +3996,15 @@ CMakeFiles/Competitive_Programming.dir/CC_WeaselDoesXOROnTree.cpp.o.provides.bui
 CMakeFiles/Competitive_Programming.dir/CC_WeaselFindsStaircase.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/CC_WeaselFindsStaircase.cpp.o: ../CC_WeaselFindsStaircase.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_165) "Building CXX object CMakeFiles/Competitive_Programming.dir/CC_WeaselFindsStaircase.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CC_WeaselFindsStaircase.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_WeaselFindsStaircase.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CC_WeaselFindsStaircase.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_WeaselFindsStaircase.cpp
 
 CMakeFiles/Competitive_Programming.dir/CC_WeaselFindsStaircase.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/CC_WeaselFindsStaircase.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_WeaselFindsStaircase.cpp > CMakeFiles/Competitive_Programming.dir/CC_WeaselFindsStaircase.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_WeaselFindsStaircase.cpp > CMakeFiles/Competitive_Programming.dir/CC_WeaselFindsStaircase.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/CC_WeaselFindsStaircase.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/CC_WeaselFindsStaircase.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_WeaselFindsStaircase.cpp -o CMakeFiles/Competitive_Programming.dir/CC_WeaselFindsStaircase.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_WeaselFindsStaircase.cpp -o CMakeFiles/Competitive_Programming.dir/CC_WeaselFindsStaircase.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/CC_WeaselFindsStaircase.cpp.o.requires:
 
@@ -4020,15 +4020,15 @@ CMakeFiles/Competitive_Programming.dir/CC_WeaselFindsStaircase.cpp.o.provides.bu
 CMakeFiles/Competitive_Programming.dir/CC_WeirdBacteria.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/CC_WeirdBacteria.cpp.o: ../CC_WeirdBacteria.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_166) "Building CXX object CMakeFiles/Competitive_Programming.dir/CC_WeirdBacteria.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CC_WeirdBacteria.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_WeirdBacteria.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CC_WeirdBacteria.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_WeirdBacteria.cpp
 
 CMakeFiles/Competitive_Programming.dir/CC_WeirdBacteria.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/CC_WeirdBacteria.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_WeirdBacteria.cpp > CMakeFiles/Competitive_Programming.dir/CC_WeirdBacteria.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_WeirdBacteria.cpp > CMakeFiles/Competitive_Programming.dir/CC_WeirdBacteria.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/CC_WeirdBacteria.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/CC_WeirdBacteria.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_WeirdBacteria.cpp -o CMakeFiles/Competitive_Programming.dir/CC_WeirdBacteria.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_WeirdBacteria.cpp -o CMakeFiles/Competitive_Programming.dir/CC_WeirdBacteria.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/CC_WeirdBacteria.cpp.o.requires:
 
@@ -4044,15 +4044,15 @@ CMakeFiles/Competitive_Programming.dir/CC_WeirdBacteria.cpp.o.provides.build: CM
 CMakeFiles/Competitive_Programming.dir/CCC_GreedyForPies.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/CCC_GreedyForPies.cpp.o: ../CCC_GreedyForPies.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_167) "Building CXX object CMakeFiles/Competitive_Programming.dir/CCC_GreedyForPies.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CCC_GreedyForPies.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CCC_GreedyForPies.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CCC_GreedyForPies.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CCC_GreedyForPies.cpp
 
 CMakeFiles/Competitive_Programming.dir/CCC_GreedyForPies.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/CCC_GreedyForPies.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CCC_GreedyForPies.cpp > CMakeFiles/Competitive_Programming.dir/CCC_GreedyForPies.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CCC_GreedyForPies.cpp > CMakeFiles/Competitive_Programming.dir/CCC_GreedyForPies.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/CCC_GreedyForPies.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/CCC_GreedyForPies.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CCC_GreedyForPies.cpp -o CMakeFiles/Competitive_Programming.dir/CCC_GreedyForPies.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CCC_GreedyForPies.cpp -o CMakeFiles/Competitive_Programming.dir/CCC_GreedyForPies.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/CCC_GreedyForPies.cpp.o.requires:
 
@@ -4068,15 +4068,15 @@ CMakeFiles/Competitive_Programming.dir/CCC_GreedyForPies.cpp.o.provides.build: C
 CMakeFiles/Competitive_Programming.dir/CF27E_SmallestNumberWithGivenDivisors.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/CF27E_SmallestNumberWithGivenDivisors.cpp.o: ../CF27E_SmallestNumberWithGivenDivisors.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_168) "Building CXX object CMakeFiles/Competitive_Programming.dir/CF27E_SmallestNumberWithGivenDivisors.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CF27E_SmallestNumberWithGivenDivisors.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CF27E_SmallestNumberWithGivenDivisors.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CF27E_SmallestNumberWithGivenDivisors.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CF27E_SmallestNumberWithGivenDivisors.cpp
 
 CMakeFiles/Competitive_Programming.dir/CF27E_SmallestNumberWithGivenDivisors.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/CF27E_SmallestNumberWithGivenDivisors.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CF27E_SmallestNumberWithGivenDivisors.cpp > CMakeFiles/Competitive_Programming.dir/CF27E_SmallestNumberWithGivenDivisors.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CF27E_SmallestNumberWithGivenDivisors.cpp > CMakeFiles/Competitive_Programming.dir/CF27E_SmallestNumberWithGivenDivisors.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/CF27E_SmallestNumberWithGivenDivisors.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/CF27E_SmallestNumberWithGivenDivisors.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CF27E_SmallestNumberWithGivenDivisors.cpp -o CMakeFiles/Competitive_Programming.dir/CF27E_SmallestNumberWithGivenDivisors.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CF27E_SmallestNumberWithGivenDivisors.cpp -o CMakeFiles/Competitive_Programming.dir/CF27E_SmallestNumberWithGivenDivisors.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/CF27E_SmallestNumberWithGivenDivisors.cpp.o.requires:
 
@@ -4092,15 +4092,15 @@ CMakeFiles/Competitive_Programming.dir/CF27E_SmallestNumberWithGivenDivisors.cpp
 CMakeFiles/Competitive_Programming.dir/CF747C_Servers.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/CF747C_Servers.cpp.o: ../CF747C_Servers.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_169) "Building CXX object CMakeFiles/Competitive_Programming.dir/CF747C_Servers.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CF747C_Servers.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CF747C_Servers.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CF747C_Servers.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CF747C_Servers.cpp
 
 CMakeFiles/Competitive_Programming.dir/CF747C_Servers.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/CF747C_Servers.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CF747C_Servers.cpp > CMakeFiles/Competitive_Programming.dir/CF747C_Servers.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CF747C_Servers.cpp > CMakeFiles/Competitive_Programming.dir/CF747C_Servers.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/CF747C_Servers.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/CF747C_Servers.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CF747C_Servers.cpp -o CMakeFiles/Competitive_Programming.dir/CF747C_Servers.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CF747C_Servers.cpp -o CMakeFiles/Competitive_Programming.dir/CF747C_Servers.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/CF747C_Servers.cpp.o.requires:
 
@@ -4116,15 +4116,15 @@ CMakeFiles/Competitive_Programming.dir/CF747C_Servers.cpp.o.provides.build: CMak
 CMakeFiles/Competitive_Programming.dir/CF747D_WinterIsComing.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/CF747D_WinterIsComing.cpp.o: ../CF747D_WinterIsComing.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_170) "Building CXX object CMakeFiles/Competitive_Programming.dir/CF747D_WinterIsComing.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CF747D_WinterIsComing.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CF747D_WinterIsComing.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CF747D_WinterIsComing.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CF747D_WinterIsComing.cpp
 
 CMakeFiles/Competitive_Programming.dir/CF747D_WinterIsComing.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/CF747D_WinterIsComing.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CF747D_WinterIsComing.cpp > CMakeFiles/Competitive_Programming.dir/CF747D_WinterIsComing.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CF747D_WinterIsComing.cpp > CMakeFiles/Competitive_Programming.dir/CF747D_WinterIsComing.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/CF747D_WinterIsComing.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/CF747D_WinterIsComing.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CF747D_WinterIsComing.cpp -o CMakeFiles/Competitive_Programming.dir/CF747D_WinterIsComing.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CF747D_WinterIsComing.cpp -o CMakeFiles/Competitive_Programming.dir/CF747D_WinterIsComing.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/CF747D_WinterIsComing.cpp.o.requires:
 
@@ -4140,15 +4140,15 @@ CMakeFiles/Competitive_Programming.dir/CF747D_WinterIsComing.cpp.o.provides.buil
 CMakeFiles/Competitive_Programming.dir/COREPrelims_AuntyPrime.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/COREPrelims_AuntyPrime.cpp.o: ../COREPrelims_AuntyPrime.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_171) "Building CXX object CMakeFiles/Competitive_Programming.dir/COREPrelims_AuntyPrime.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/COREPrelims_AuntyPrime.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/COREPrelims_AuntyPrime.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/COREPrelims_AuntyPrime.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/COREPrelims_AuntyPrime.cpp
 
 CMakeFiles/Competitive_Programming.dir/COREPrelims_AuntyPrime.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/COREPrelims_AuntyPrime.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/COREPrelims_AuntyPrime.cpp > CMakeFiles/Competitive_Programming.dir/COREPrelims_AuntyPrime.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/COREPrelims_AuntyPrime.cpp > CMakeFiles/Competitive_Programming.dir/COREPrelims_AuntyPrime.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/COREPrelims_AuntyPrime.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/COREPrelims_AuntyPrime.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/COREPrelims_AuntyPrime.cpp -o CMakeFiles/Competitive_Programming.dir/COREPrelims_AuntyPrime.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/COREPrelims_AuntyPrime.cpp -o CMakeFiles/Competitive_Programming.dir/COREPrelims_AuntyPrime.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/COREPrelims_AuntyPrime.cpp.o.requires:
 
@@ -4164,15 +4164,15 @@ CMakeFiles/Competitive_Programming.dir/COREPrelims_AuntyPrime.cpp.o.provides.bui
 CMakeFiles/Competitive_Programming.dir/FightingZombies.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/FightingZombies.cpp.o: ../FightingZombies.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_172) "Building CXX object CMakeFiles/Competitive_Programming.dir/FightingZombies.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/FightingZombies.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/FightingZombies.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/FightingZombies.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/FightingZombies.cpp
 
 CMakeFiles/Competitive_Programming.dir/FightingZombies.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/FightingZombies.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/FightingZombies.cpp > CMakeFiles/Competitive_Programming.dir/FightingZombies.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/FightingZombies.cpp > CMakeFiles/Competitive_Programming.dir/FightingZombies.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/FightingZombies.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/FightingZombies.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/FightingZombies.cpp -o CMakeFiles/Competitive_Programming.dir/FightingZombies.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/FightingZombies.cpp -o CMakeFiles/Competitive_Programming.dir/FightingZombies.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/FightingZombies.cpp.o.requires:
 
@@ -4188,15 +4188,15 @@ CMakeFiles/Competitive_Programming.dir/FightingZombies.cpp.o.provides.build: CMa
 CMakeFiles/Competitive_Programming.dir/HolidayOfEquity.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/HolidayOfEquity.cpp.o: ../HolidayOfEquity.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_173) "Building CXX object CMakeFiles/Competitive_Programming.dir/HolidayOfEquity.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/HolidayOfEquity.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/HolidayOfEquity.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/HolidayOfEquity.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/HolidayOfEquity.cpp
 
 CMakeFiles/Competitive_Programming.dir/HolidayOfEquity.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/HolidayOfEquity.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/HolidayOfEquity.cpp > CMakeFiles/Competitive_Programming.dir/HolidayOfEquity.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/HolidayOfEquity.cpp > CMakeFiles/Competitive_Programming.dir/HolidayOfEquity.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/HolidayOfEquity.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/HolidayOfEquity.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/HolidayOfEquity.cpp -o CMakeFiles/Competitive_Programming.dir/HolidayOfEquity.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/HolidayOfEquity.cpp -o CMakeFiles/Competitive_Programming.dir/HolidayOfEquity.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/HolidayOfEquity.cpp.o.requires:
 
@@ -4212,15 +4212,15 @@ CMakeFiles/Competitive_Programming.dir/HolidayOfEquity.cpp.o.provides.build: CMa
 CMakeFiles/Competitive_Programming.dir/INOI2017P2.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/INOI2017P2.cpp.o: ../INOI2017P2.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_174) "Building CXX object CMakeFiles/Competitive_Programming.dir/INOI2017P2.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/INOI2017P2.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/INOI2017P2.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/INOI2017P2.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/INOI2017P2.cpp
 
 CMakeFiles/Competitive_Programming.dir/INOI2017P2.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/INOI2017P2.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/INOI2017P2.cpp > CMakeFiles/Competitive_Programming.dir/INOI2017P2.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/INOI2017P2.cpp > CMakeFiles/Competitive_Programming.dir/INOI2017P2.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/INOI2017P2.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/INOI2017P2.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/INOI2017P2.cpp -o CMakeFiles/Competitive_Programming.dir/INOI2017P2.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/INOI2017P2.cpp -o CMakeFiles/Competitive_Programming.dir/INOI2017P2.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/INOI2017P2.cpp.o.requires:
 
@@ -4236,15 +4236,15 @@ CMakeFiles/Competitive_Programming.dir/INOI2017P2.cpp.o.provides.build: CMakeFil
 CMakeFiles/Competitive_Programming.dir/INOI_BinaryStrings.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/INOI_BinaryStrings.cpp.o: ../INOI_BinaryStrings.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_175) "Building CXX object CMakeFiles/Competitive_Programming.dir/INOI_BinaryStrings.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/INOI_BinaryStrings.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/INOI_BinaryStrings.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/INOI_BinaryStrings.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/INOI_BinaryStrings.cpp
 
 CMakeFiles/Competitive_Programming.dir/INOI_BinaryStrings.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/INOI_BinaryStrings.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/INOI_BinaryStrings.cpp > CMakeFiles/Competitive_Programming.dir/INOI_BinaryStrings.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/INOI_BinaryStrings.cpp > CMakeFiles/Competitive_Programming.dir/INOI_BinaryStrings.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/INOI_BinaryStrings.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/INOI_BinaryStrings.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/INOI_BinaryStrings.cpp -o CMakeFiles/Competitive_Programming.dir/INOI_BinaryStrings.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/INOI_BinaryStrings.cpp -o CMakeFiles/Competitive_Programming.dir/INOI_BinaryStrings.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/INOI_BinaryStrings.cpp.o.requires:
 
@@ -4260,15 +4260,15 @@ CMakeFiles/Competitive_Programming.dir/INOI_BinaryStrings.cpp.o.provides.build: 
 CMakeFiles/Competitive_Programming.dir/INOI_HighwayBypass.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/INOI_HighwayBypass.cpp.o: ../INOI_HighwayBypass.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_176) "Building CXX object CMakeFiles/Competitive_Programming.dir/INOI_HighwayBypass.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/INOI_HighwayBypass.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/INOI_HighwayBypass.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/INOI_HighwayBypass.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/INOI_HighwayBypass.cpp
 
 CMakeFiles/Competitive_Programming.dir/INOI_HighwayBypass.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/INOI_HighwayBypass.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/INOI_HighwayBypass.cpp > CMakeFiles/Competitive_Programming.dir/INOI_HighwayBypass.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/INOI_HighwayBypass.cpp > CMakeFiles/Competitive_Programming.dir/INOI_HighwayBypass.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/INOI_HighwayBypass.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/INOI_HighwayBypass.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/INOI_HighwayBypass.cpp -o CMakeFiles/Competitive_Programming.dir/INOI_HighwayBypass.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/INOI_HighwayBypass.cpp -o CMakeFiles/Competitive_Programming.dir/INOI_HighwayBypass.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/INOI_HighwayBypass.cpp.o.requires:
 
@@ -4284,15 +4284,15 @@ CMakeFiles/Competitive_Programming.dir/INOI_HighwayBypass.cpp.o.provides.build: 
 CMakeFiles/Competitive_Programming.dir/INOI_SequenceLand.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/INOI_SequenceLand.cpp.o: ../INOI_SequenceLand.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_177) "Building CXX object CMakeFiles/Competitive_Programming.dir/INOI_SequenceLand.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/INOI_SequenceLand.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/INOI_SequenceLand.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/INOI_SequenceLand.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/INOI_SequenceLand.cpp
 
 CMakeFiles/Competitive_Programming.dir/INOI_SequenceLand.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/INOI_SequenceLand.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/INOI_SequenceLand.cpp > CMakeFiles/Competitive_Programming.dir/INOI_SequenceLand.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/INOI_SequenceLand.cpp > CMakeFiles/Competitive_Programming.dir/INOI_SequenceLand.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/INOI_SequenceLand.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/INOI_SequenceLand.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/INOI_SequenceLand.cpp -o CMakeFiles/Competitive_Programming.dir/INOI_SequenceLand.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/INOI_SequenceLand.cpp -o CMakeFiles/Competitive_Programming.dir/INOI_SequenceLand.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/INOI_SequenceLand.cpp.o.requires:
 
@@ -4308,15 +4308,15 @@ CMakeFiles/Competitive_Programming.dir/INOI_SequenceLand.cpp.o.provides.build: C
 CMakeFiles/Competitive_Programming.dir/INOI_TableSum.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/INOI_TableSum.cpp.o: ../INOI_TableSum.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_178) "Building CXX object CMakeFiles/Competitive_Programming.dir/INOI_TableSum.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/INOI_TableSum.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/INOI_TableSum.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/INOI_TableSum.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/INOI_TableSum.cpp
 
 CMakeFiles/Competitive_Programming.dir/INOI_TableSum.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/INOI_TableSum.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/INOI_TableSum.cpp > CMakeFiles/Competitive_Programming.dir/INOI_TableSum.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/INOI_TableSum.cpp > CMakeFiles/Competitive_Programming.dir/INOI_TableSum.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/INOI_TableSum.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/INOI_TableSum.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/INOI_TableSum.cpp -o CMakeFiles/Competitive_Programming.dir/INOI_TableSum.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/INOI_TableSum.cpp -o CMakeFiles/Competitive_Programming.dir/INOI_TableSum.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/INOI_TableSum.cpp.o.requires:
 
@@ -4332,15 +4332,15 @@ CMakeFiles/Competitive_Programming.dir/INOI_TableSum.cpp.o.provides.build: CMake
 CMakeFiles/Competitive_Programming.dir/INOI_Triathlon.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/INOI_Triathlon.cpp.o: ../INOI_Triathlon.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_179) "Building CXX object CMakeFiles/Competitive_Programming.dir/INOI_Triathlon.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/INOI_Triathlon.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/INOI_Triathlon.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/INOI_Triathlon.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/INOI_Triathlon.cpp
 
 CMakeFiles/Competitive_Programming.dir/INOI_Triathlon.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/INOI_Triathlon.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/INOI_Triathlon.cpp > CMakeFiles/Competitive_Programming.dir/INOI_Triathlon.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/INOI_Triathlon.cpp > CMakeFiles/Competitive_Programming.dir/INOI_Triathlon.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/INOI_Triathlon.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/INOI_Triathlon.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/INOI_Triathlon.cpp -o CMakeFiles/Competitive_Programming.dir/INOI_Triathlon.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/INOI_Triathlon.cpp -o CMakeFiles/Competitive_Programming.dir/INOI_Triathlon.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/INOI_Triathlon.cpp.o.requires:
 
@@ -4356,15 +4356,15 @@ CMakeFiles/Competitive_Programming.dir/INOI_Triathlon.cpp.o.provides.build: CMak
 CMakeFiles/Competitive_Programming.dir/INOI_WealthDisparity.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/INOI_WealthDisparity.cpp.o: ../INOI_WealthDisparity.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_180) "Building CXX object CMakeFiles/Competitive_Programming.dir/INOI_WealthDisparity.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/INOI_WealthDisparity.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/INOI_WealthDisparity.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/INOI_WealthDisparity.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/INOI_WealthDisparity.cpp
 
 CMakeFiles/Competitive_Programming.dir/INOI_WealthDisparity.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/INOI_WealthDisparity.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/INOI_WealthDisparity.cpp > CMakeFiles/Competitive_Programming.dir/INOI_WealthDisparity.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/INOI_WealthDisparity.cpp > CMakeFiles/Competitive_Programming.dir/INOI_WealthDisparity.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/INOI_WealthDisparity.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/INOI_WealthDisparity.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/INOI_WealthDisparity.cpp -o CMakeFiles/Competitive_Programming.dir/INOI_WealthDisparity.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/INOI_WealthDisparity.cpp -o CMakeFiles/Competitive_Programming.dir/INOI_WealthDisparity.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/INOI_WealthDisparity.cpp.o.requires:
 
@@ -4380,15 +4380,15 @@ CMakeFiles/Competitive_Programming.dir/INOI_WealthDisparity.cpp.o.provides.build
 CMakeFiles/Competitive_Programming.dir/IOITC_BabaAndBitmasks.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/IOITC_BabaAndBitmasks.cpp.o: ../IOITC_BabaAndBitmasks.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_181) "Building CXX object CMakeFiles/Competitive_Programming.dir/IOITC_BabaAndBitmasks.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/IOITC_BabaAndBitmasks.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/IOITC_BabaAndBitmasks.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/IOITC_BabaAndBitmasks.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/IOITC_BabaAndBitmasks.cpp
 
 CMakeFiles/Competitive_Programming.dir/IOITC_BabaAndBitmasks.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/IOITC_BabaAndBitmasks.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/IOITC_BabaAndBitmasks.cpp > CMakeFiles/Competitive_Programming.dir/IOITC_BabaAndBitmasks.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/IOITC_BabaAndBitmasks.cpp > CMakeFiles/Competitive_Programming.dir/IOITC_BabaAndBitmasks.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/IOITC_BabaAndBitmasks.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/IOITC_BabaAndBitmasks.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/IOITC_BabaAndBitmasks.cpp -o CMakeFiles/Competitive_Programming.dir/IOITC_BabaAndBitmasks.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/IOITC_BabaAndBitmasks.cpp -o CMakeFiles/Competitive_Programming.dir/IOITC_BabaAndBitmasks.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/IOITC_BabaAndBitmasks.cpp.o.requires:
 
@@ -4404,15 +4404,15 @@ CMakeFiles/Competitive_Programming.dir/IOITC_BabaAndBitmasks.cpp.o.provides.buil
 CMakeFiles/Competitive_Programming.dir/kthDivisor.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/kthDivisor.cpp.o: ../kthDivisor.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_182) "Building CXX object CMakeFiles/Competitive_Programming.dir/kthDivisor.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/kthDivisor.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/kthDivisor.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/kthDivisor.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/kthDivisor.cpp
 
 CMakeFiles/Competitive_Programming.dir/kthDivisor.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/kthDivisor.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/kthDivisor.cpp > CMakeFiles/Competitive_Programming.dir/kthDivisor.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/kthDivisor.cpp > CMakeFiles/Competitive_Programming.dir/kthDivisor.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/kthDivisor.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/kthDivisor.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/kthDivisor.cpp -o CMakeFiles/Competitive_Programming.dir/kthDivisor.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/kthDivisor.cpp -o CMakeFiles/Competitive_Programming.dir/kthDivisor.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/kthDivisor.cpp.o.requires:
 
@@ -4428,15 +4428,15 @@ CMakeFiles/Competitive_Programming.dir/kthDivisor.cpp.o.provides.build: CMakeFil
 CMakeFiles/Competitive_Programming.dir/LazyLoading.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/LazyLoading.cpp.o: ../LazyLoading.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_183) "Building CXX object CMakeFiles/Competitive_Programming.dir/LazyLoading.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/LazyLoading.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/LazyLoading.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/LazyLoading.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/LazyLoading.cpp
 
 CMakeFiles/Competitive_Programming.dir/LazyLoading.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/LazyLoading.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/LazyLoading.cpp > CMakeFiles/Competitive_Programming.dir/LazyLoading.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/LazyLoading.cpp > CMakeFiles/Competitive_Programming.dir/LazyLoading.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/LazyLoading.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/LazyLoading.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/LazyLoading.cpp -o CMakeFiles/Competitive_Programming.dir/LazyLoading.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/LazyLoading.cpp -o CMakeFiles/Competitive_Programming.dir/LazyLoading.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/LazyLoading.cpp.o.requires:
 
@@ -4452,15 +4452,15 @@ CMakeFiles/Competitive_Programming.dir/LazyLoading.cpp.o.provides.build: CMakeFi
 CMakeFiles/Competitive_Programming.dir/lol.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/lol.cpp.o: ../lol.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_184) "Building CXX object CMakeFiles/Competitive_Programming.dir/lol.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/lol.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/lol.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/lol.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/lol.cpp
 
 CMakeFiles/Competitive_Programming.dir/lol.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/lol.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/lol.cpp > CMakeFiles/Competitive_Programming.dir/lol.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/lol.cpp > CMakeFiles/Competitive_Programming.dir/lol.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/lol.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/lol.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/lol.cpp -o CMakeFiles/Competitive_Programming.dir/lol.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/lol.cpp -o CMakeFiles/Competitive_Programming.dir/lol.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/lol.cpp.o.requires:
 
@@ -4476,15 +4476,15 @@ CMakeFiles/Competitive_Programming.dir/lol.cpp.o.provides.build: CMakeFiles/Comp
 CMakeFiles/Competitive_Programming.dir/lolol.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/lolol.cpp.o: ../lolol.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_185) "Building CXX object CMakeFiles/Competitive_Programming.dir/lolol.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/lolol.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/lolol.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/lolol.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/lolol.cpp
 
 CMakeFiles/Competitive_Programming.dir/lolol.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/lolol.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/lolol.cpp > CMakeFiles/Competitive_Programming.dir/lolol.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/lolol.cpp > CMakeFiles/Competitive_Programming.dir/lolol.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/lolol.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/lolol.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/lolol.cpp -o CMakeFiles/Competitive_Programming.dir/lolol.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/lolol.cpp -o CMakeFiles/Competitive_Programming.dir/lolol.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/lolol.cpp.o.requires:
 
@@ -4500,15 +4500,15 @@ CMakeFiles/Competitive_Programming.dir/lolol.cpp.o.provides.build: CMakeFiles/Co
 CMakeFiles/Competitive_Programming.dir/ManicMoving.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/ManicMoving.cpp.o: ../ManicMoving.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_186) "Building CXX object CMakeFiles/Competitive_Programming.dir/ManicMoving.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/ManicMoving.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/ManicMoving.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/ManicMoving.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/ManicMoving.cpp
 
 CMakeFiles/Competitive_Programming.dir/ManicMoving.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/ManicMoving.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/ManicMoving.cpp > CMakeFiles/Competitive_Programming.dir/ManicMoving.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/ManicMoving.cpp > CMakeFiles/Competitive_Programming.dir/ManicMoving.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/ManicMoving.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/ManicMoving.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/ManicMoving.cpp -o CMakeFiles/Competitive_Programming.dir/ManicMoving.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/ManicMoving.cpp -o CMakeFiles/Competitive_Programming.dir/ManicMoving.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/ManicMoving.cpp.o.requires:
 
@@ -4524,15 +4524,15 @@ CMakeFiles/Competitive_Programming.dir/ManicMoving.cpp.o.provides.build: CMakeFi
 CMakeFiles/Competitive_Programming.dir/MaxPath.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/MaxPath.cpp.o: ../MaxPath.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_187) "Building CXX object CMakeFiles/Competitive_Programming.dir/MaxPath.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/MaxPath.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/MaxPath.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/MaxPath.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/MaxPath.cpp
 
 CMakeFiles/Competitive_Programming.dir/MaxPath.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/MaxPath.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/MaxPath.cpp > CMakeFiles/Competitive_Programming.dir/MaxPath.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/MaxPath.cpp > CMakeFiles/Competitive_Programming.dir/MaxPath.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/MaxPath.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/MaxPath.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/MaxPath.cpp -o CMakeFiles/Competitive_Programming.dir/MaxPath.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/MaxPath.cpp -o CMakeFiles/Competitive_Programming.dir/MaxPath.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/MaxPath.cpp.o.requires:
 
@@ -4548,15 +4548,15 @@ CMakeFiles/Competitive_Programming.dir/MaxPath.cpp.o.provides.build: CMakeFiles/
 CMakeFiles/Competitive_Programming.dir/OPC_EqualGifts.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/OPC_EqualGifts.cpp.o: ../OPC_EqualGifts.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_188) "Building CXX object CMakeFiles/Competitive_Programming.dir/OPC_EqualGifts.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/OPC_EqualGifts.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/OPC_EqualGifts.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/OPC_EqualGifts.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/OPC_EqualGifts.cpp
 
 CMakeFiles/Competitive_Programming.dir/OPC_EqualGifts.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/OPC_EqualGifts.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/OPC_EqualGifts.cpp > CMakeFiles/Competitive_Programming.dir/OPC_EqualGifts.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/OPC_EqualGifts.cpp > CMakeFiles/Competitive_Programming.dir/OPC_EqualGifts.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/OPC_EqualGifts.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/OPC_EqualGifts.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/OPC_EqualGifts.cpp -o CMakeFiles/Competitive_Programming.dir/OPC_EqualGifts.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/OPC_EqualGifts.cpp -o CMakeFiles/Competitive_Programming.dir/OPC_EqualGifts.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/OPC_EqualGifts.cpp.o.requires:
 
@@ -4572,15 +4572,15 @@ CMakeFiles/Competitive_Programming.dir/OPC_EqualGifts.cpp.o.provides.build: CMak
 CMakeFiles/Competitive_Programming.dir/OPC_IndPyramid.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/OPC_IndPyramid.cpp.o: ../OPC_IndPyramid.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_189) "Building CXX object CMakeFiles/Competitive_Programming.dir/OPC_IndPyramid.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/OPC_IndPyramid.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/OPC_IndPyramid.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/OPC_IndPyramid.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/OPC_IndPyramid.cpp
 
 CMakeFiles/Competitive_Programming.dir/OPC_IndPyramid.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/OPC_IndPyramid.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/OPC_IndPyramid.cpp > CMakeFiles/Competitive_Programming.dir/OPC_IndPyramid.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/OPC_IndPyramid.cpp > CMakeFiles/Competitive_Programming.dir/OPC_IndPyramid.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/OPC_IndPyramid.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/OPC_IndPyramid.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/OPC_IndPyramid.cpp -o CMakeFiles/Competitive_Programming.dir/OPC_IndPyramid.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/OPC_IndPyramid.cpp -o CMakeFiles/Competitive_Programming.dir/OPC_IndPyramid.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/OPC_IndPyramid.cpp.o.requires:
 
@@ -4596,15 +4596,15 @@ CMakeFiles/Competitive_Programming.dir/OPC_IndPyramid.cpp.o.provides.build: CMak
 CMakeFiles/Competitive_Programming.dir/OPC_LeadGame.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/OPC_LeadGame.cpp.o: ../OPC_LeadGame.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_190) "Building CXX object CMakeFiles/Competitive_Programming.dir/OPC_LeadGame.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/OPC_LeadGame.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/OPC_LeadGame.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/OPC_LeadGame.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/OPC_LeadGame.cpp
 
 CMakeFiles/Competitive_Programming.dir/OPC_LeadGame.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/OPC_LeadGame.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/OPC_LeadGame.cpp > CMakeFiles/Competitive_Programming.dir/OPC_LeadGame.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/OPC_LeadGame.cpp > CMakeFiles/Competitive_Programming.dir/OPC_LeadGame.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/OPC_LeadGame.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/OPC_LeadGame.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/OPC_LeadGame.cpp -o CMakeFiles/Competitive_Programming.dir/OPC_LeadGame.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/OPC_LeadGame.cpp -o CMakeFiles/Competitive_Programming.dir/OPC_LeadGame.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/OPC_LeadGame.cpp.o.requires:
 
@@ -4620,15 +4620,15 @@ CMakeFiles/Competitive_Programming.dir/OPC_LeadGame.cpp.o.provides.build: CMakeF
 CMakeFiles/Competitive_Programming.dir/OPC_MinimumTurnRoute.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/OPC_MinimumTurnRoute.cpp.o: ../OPC_MinimumTurnRoute.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_191) "Building CXX object CMakeFiles/Competitive_Programming.dir/OPC_MinimumTurnRoute.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/OPC_MinimumTurnRoute.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/OPC_MinimumTurnRoute.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/OPC_MinimumTurnRoute.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/OPC_MinimumTurnRoute.cpp
 
 CMakeFiles/Competitive_Programming.dir/OPC_MinimumTurnRoute.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/OPC_MinimumTurnRoute.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/OPC_MinimumTurnRoute.cpp > CMakeFiles/Competitive_Programming.dir/OPC_MinimumTurnRoute.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/OPC_MinimumTurnRoute.cpp > CMakeFiles/Competitive_Programming.dir/OPC_MinimumTurnRoute.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/OPC_MinimumTurnRoute.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/OPC_MinimumTurnRoute.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/OPC_MinimumTurnRoute.cpp -o CMakeFiles/Competitive_Programming.dir/OPC_MinimumTurnRoute.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/OPC_MinimumTurnRoute.cpp -o CMakeFiles/Competitive_Programming.dir/OPC_MinimumTurnRoute.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/OPC_MinimumTurnRoute.cpp.o.requires:
 
@@ -4644,15 +4644,15 @@ CMakeFiles/Competitive_Programming.dir/OPC_MinimumTurnRoute.cpp.o.provides.build
 CMakeFiles/Competitive_Programming.dir/OPC_RailwayCateringContacts.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/OPC_RailwayCateringContacts.cpp.o: ../OPC_RailwayCateringContacts.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_192) "Building CXX object CMakeFiles/Competitive_Programming.dir/OPC_RailwayCateringContacts.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/OPC_RailwayCateringContacts.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/OPC_RailwayCateringContacts.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/OPC_RailwayCateringContacts.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/OPC_RailwayCateringContacts.cpp
 
 CMakeFiles/Competitive_Programming.dir/OPC_RailwayCateringContacts.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/OPC_RailwayCateringContacts.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/OPC_RailwayCateringContacts.cpp > CMakeFiles/Competitive_Programming.dir/OPC_RailwayCateringContacts.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/OPC_RailwayCateringContacts.cpp > CMakeFiles/Competitive_Programming.dir/OPC_RailwayCateringContacts.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/OPC_RailwayCateringContacts.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/OPC_RailwayCateringContacts.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/OPC_RailwayCateringContacts.cpp -o CMakeFiles/Competitive_Programming.dir/OPC_RailwayCateringContacts.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/OPC_RailwayCateringContacts.cpp -o CMakeFiles/Competitive_Programming.dir/OPC_RailwayCateringContacts.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/OPC_RailwayCateringContacts.cpp.o.requires:
 
@@ -4668,15 +4668,15 @@ CMakeFiles/Competitive_Programming.dir/OPC_RailwayCateringContacts.cpp.o.provide
 CMakeFiles/Competitive_Programming.dir/OPC_SiruseriMetro.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/OPC_SiruseriMetro.cpp.o: ../OPC_SiruseriMetro.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_193) "Building CXX object CMakeFiles/Competitive_Programming.dir/OPC_SiruseriMetro.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/OPC_SiruseriMetro.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/OPC_SiruseriMetro.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/OPC_SiruseriMetro.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/OPC_SiruseriMetro.cpp
 
 CMakeFiles/Competitive_Programming.dir/OPC_SiruseriMetro.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/OPC_SiruseriMetro.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/OPC_SiruseriMetro.cpp > CMakeFiles/Competitive_Programming.dir/OPC_SiruseriMetro.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/OPC_SiruseriMetro.cpp > CMakeFiles/Competitive_Programming.dir/OPC_SiruseriMetro.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/OPC_SiruseriMetro.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/OPC_SiruseriMetro.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/OPC_SiruseriMetro.cpp -o CMakeFiles/Competitive_Programming.dir/OPC_SiruseriMetro.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/OPC_SiruseriMetro.cpp -o CMakeFiles/Competitive_Programming.dir/OPC_SiruseriMetro.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/OPC_SiruseriMetro.cpp.o.requires:
 
@@ -4692,15 +4692,15 @@ CMakeFiles/Competitive_Programming.dir/OPC_SiruseriMetro.cpp.o.provides.build: C
 CMakeFiles/Competitive_Programming.dir/Parquet.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/Parquet.cpp.o: ../Parquet.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_194) "Building CXX object CMakeFiles/Competitive_Programming.dir/Parquet.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Parquet.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Parquet.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Parquet.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Parquet.cpp
 
 CMakeFiles/Competitive_Programming.dir/Parquet.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/Parquet.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/Parquet.cpp > CMakeFiles/Competitive_Programming.dir/Parquet.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/Parquet.cpp > CMakeFiles/Competitive_Programming.dir/Parquet.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/Parquet.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/Parquet.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/Parquet.cpp -o CMakeFiles/Competitive_Programming.dir/Parquet.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/Parquet.cpp -o CMakeFiles/Competitive_Programming.dir/Parquet.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/Parquet.cpp.o.requires:
 
@@ -4716,15 +4716,15 @@ CMakeFiles/Competitive_Programming.dir/Parquet.cpp.o.provides.build: CMakeFiles/
 CMakeFiles/Competitive_Programming.dir/PROC17_Traffic.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/PROC17_Traffic.cpp.o: ../PROC17_Traffic.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_195) "Building CXX object CMakeFiles/Competitive_Programming.dir/PROC17_Traffic.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/PROC17_Traffic.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/PROC17_Traffic.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/PROC17_Traffic.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/PROC17_Traffic.cpp
 
 CMakeFiles/Competitive_Programming.dir/PROC17_Traffic.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/PROC17_Traffic.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/PROC17_Traffic.cpp > CMakeFiles/Competitive_Programming.dir/PROC17_Traffic.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/PROC17_Traffic.cpp > CMakeFiles/Competitive_Programming.dir/PROC17_Traffic.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/PROC17_Traffic.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/PROC17_Traffic.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/PROC17_Traffic.cpp -o CMakeFiles/Competitive_Programming.dir/PROC17_Traffic.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/PROC17_Traffic.cpp -o CMakeFiles/Competitive_Programming.dir/PROC17_Traffic.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/PROC17_Traffic.cpp.o.requires:
 
@@ -4740,15 +4740,15 @@ CMakeFiles/Competitive_Programming.dir/PROC17_Traffic.cpp.o.provides.build: CMak
 CMakeFiles/Competitive_Programming.dir/ProgressPie.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/ProgressPie.cpp.o: ../ProgressPie.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_196) "Building CXX object CMakeFiles/Competitive_Programming.dir/ProgressPie.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/ProgressPie.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/ProgressPie.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/ProgressPie.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/ProgressPie.cpp
 
 CMakeFiles/Competitive_Programming.dir/ProgressPie.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/ProgressPie.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/ProgressPie.cpp > CMakeFiles/Competitive_Programming.dir/ProgressPie.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/ProgressPie.cpp > CMakeFiles/Competitive_Programming.dir/ProgressPie.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/ProgressPie.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/ProgressPie.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/ProgressPie.cpp -o CMakeFiles/Competitive_Programming.dir/ProgressPie.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/ProgressPie.cpp -o CMakeFiles/Competitive_Programming.dir/ProgressPie.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/ProgressPie.cpp.o.requires:
 
@@ -4764,15 +4764,15 @@ CMakeFiles/Competitive_Programming.dir/ProgressPie.cpp.o.provides.build: CMakeFi
 CMakeFiles/Competitive_Programming.dir/race.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/race.cpp.o: ../race.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_197) "Building CXX object CMakeFiles/Competitive_Programming.dir/race.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/race.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/race.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/race.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/race.cpp
 
 CMakeFiles/Competitive_Programming.dir/race.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/race.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/race.cpp > CMakeFiles/Competitive_Programming.dir/race.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/race.cpp > CMakeFiles/Competitive_Programming.dir/race.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/race.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/race.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/race.cpp -o CMakeFiles/Competitive_Programming.dir/race.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/race.cpp -o CMakeFiles/Competitive_Programming.dir/race.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/race.cpp.o.requires:
 
@@ -4788,15 +4788,15 @@ CMakeFiles/Competitive_Programming.dir/race.cpp.o.provides.build: CMakeFiles/Com
 CMakeFiles/Competitive_Programming.dir/RustAndMurderer.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/RustAndMurderer.cpp.o: ../RustAndMurderer.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_198) "Building CXX object CMakeFiles/Competitive_Programming.dir/RustAndMurderer.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/RustAndMurderer.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/RustAndMurderer.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/RustAndMurderer.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/RustAndMurderer.cpp
 
 CMakeFiles/Competitive_Programming.dir/RustAndMurderer.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/RustAndMurderer.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/RustAndMurderer.cpp > CMakeFiles/Competitive_Programming.dir/RustAndMurderer.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/RustAndMurderer.cpp > CMakeFiles/Competitive_Programming.dir/RustAndMurderer.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/RustAndMurderer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/RustAndMurderer.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/RustAndMurderer.cpp -o CMakeFiles/Competitive_Programming.dir/RustAndMurderer.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/RustAndMurderer.cpp -o CMakeFiles/Competitive_Programming.dir/RustAndMurderer.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/RustAndMurderer.cpp.o.requires:
 
@@ -4812,15 +4812,15 @@ CMakeFiles/Competitive_Programming.dir/RustAndMurderer.cpp.o.provides.build: CMa
 CMakeFiles/Competitive_Programming.dir/SIS.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/SIS.cpp.o: ../SIS.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_199) "Building CXX object CMakeFiles/Competitive_Programming.dir/SIS.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/SIS.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/SIS.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/SIS.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/SIS.cpp
 
 CMakeFiles/Competitive_Programming.dir/SIS.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/SIS.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/SIS.cpp > CMakeFiles/Competitive_Programming.dir/SIS.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/SIS.cpp > CMakeFiles/Competitive_Programming.dir/SIS.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/SIS.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/SIS.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/SIS.cpp -o CMakeFiles/Competitive_Programming.dir/SIS.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/SIS.cpp -o CMakeFiles/Competitive_Programming.dir/SIS.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/SIS.cpp.o.requires:
 
@@ -4836,15 +4836,15 @@ CMakeFiles/Competitive_Programming.dir/SIS.cpp.o.provides.build: CMakeFiles/Comp
 CMakeFiles/Competitive_Programming.dir/SPOJ_DNASequences.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/SPOJ_DNASequences.cpp.o: ../SPOJ_DNASequences.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_200) "Building CXX object CMakeFiles/Competitive_Programming.dir/SPOJ_DNASequences.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/SPOJ_DNASequences.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/SPOJ_DNASequences.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/SPOJ_DNASequences.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/SPOJ_DNASequences.cpp
 
 CMakeFiles/Competitive_Programming.dir/SPOJ_DNASequences.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/SPOJ_DNASequences.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/SPOJ_DNASequences.cpp > CMakeFiles/Competitive_Programming.dir/SPOJ_DNASequences.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/SPOJ_DNASequences.cpp > CMakeFiles/Competitive_Programming.dir/SPOJ_DNASequences.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/SPOJ_DNASequences.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/SPOJ_DNASequences.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/SPOJ_DNASequences.cpp -o CMakeFiles/Competitive_Programming.dir/SPOJ_DNASequences.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/SPOJ_DNASequences.cpp -o CMakeFiles/Competitive_Programming.dir/SPOJ_DNASequences.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/SPOJ_DNASequences.cpp.o.requires:
 
@@ -4860,15 +4860,15 @@ CMakeFiles/Competitive_Programming.dir/SPOJ_DNASequences.cpp.o.provides.build: C
 CMakeFiles/Competitive_Programming.dir/SPOJ_DNASequencesCopy.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/SPOJ_DNASequencesCopy.cpp.o: ../SPOJ_DNASequencesCopy.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_201) "Building CXX object CMakeFiles/Competitive_Programming.dir/SPOJ_DNASequencesCopy.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/SPOJ_DNASequencesCopy.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/SPOJ_DNASequencesCopy.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/SPOJ_DNASequencesCopy.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/SPOJ_DNASequencesCopy.cpp
 
 CMakeFiles/Competitive_Programming.dir/SPOJ_DNASequencesCopy.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/SPOJ_DNASequencesCopy.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/SPOJ_DNASequencesCopy.cpp > CMakeFiles/Competitive_Programming.dir/SPOJ_DNASequencesCopy.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/SPOJ_DNASequencesCopy.cpp > CMakeFiles/Competitive_Programming.dir/SPOJ_DNASequencesCopy.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/SPOJ_DNASequencesCopy.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/SPOJ_DNASequencesCopy.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/SPOJ_DNASequencesCopy.cpp -o CMakeFiles/Competitive_Programming.dir/SPOJ_DNASequencesCopy.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/SPOJ_DNASequencesCopy.cpp -o CMakeFiles/Competitive_Programming.dir/SPOJ_DNASequencesCopy.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/SPOJ_DNASequencesCopy.cpp.o.requires:
 
@@ -4884,15 +4884,15 @@ CMakeFiles/Competitive_Programming.dir/SPOJ_DNASequencesCopy.cpp.o.provides.buil
 CMakeFiles/Competitive_Programming.dir/SPOJ_SubArrays.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/SPOJ_SubArrays.cpp.o: ../SPOJ_SubArrays.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_202) "Building CXX object CMakeFiles/Competitive_Programming.dir/SPOJ_SubArrays.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/SPOJ_SubArrays.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/SPOJ_SubArrays.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/SPOJ_SubArrays.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/SPOJ_SubArrays.cpp
 
 CMakeFiles/Competitive_Programming.dir/SPOJ_SubArrays.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/SPOJ_SubArrays.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/SPOJ_SubArrays.cpp > CMakeFiles/Competitive_Programming.dir/SPOJ_SubArrays.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/SPOJ_SubArrays.cpp > CMakeFiles/Competitive_Programming.dir/SPOJ_SubArrays.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/SPOJ_SubArrays.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/SPOJ_SubArrays.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/SPOJ_SubArrays.cpp -o CMakeFiles/Competitive_Programming.dir/SPOJ_SubArrays.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/SPOJ_SubArrays.cpp -o CMakeFiles/Competitive_Programming.dir/SPOJ_SubArrays.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/SPOJ_SubArrays.cpp.o.requires:
 
@@ -4908,15 +4908,15 @@ CMakeFiles/Competitive_Programming.dir/SPOJ_SubArrays.cpp.o.provides.build: CMak
 CMakeFiles/Competitive_Programming.dir/SynchronousShopping.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/SynchronousShopping.cpp.o: ../SynchronousShopping.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_203) "Building CXX object CMakeFiles/Competitive_Programming.dir/SynchronousShopping.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/SynchronousShopping.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/SynchronousShopping.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/SynchronousShopping.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/SynchronousShopping.cpp
 
 CMakeFiles/Competitive_Programming.dir/SynchronousShopping.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/SynchronousShopping.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/SynchronousShopping.cpp > CMakeFiles/Competitive_Programming.dir/SynchronousShopping.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/SynchronousShopping.cpp > CMakeFiles/Competitive_Programming.dir/SynchronousShopping.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/SynchronousShopping.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/SynchronousShopping.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/SynchronousShopping.cpp -o CMakeFiles/Competitive_Programming.dir/SynchronousShopping.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/SynchronousShopping.cpp -o CMakeFiles/Competitive_Programming.dir/SynchronousShopping.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/SynchronousShopping.cpp.o.requires:
 
@@ -4932,15 +4932,15 @@ CMakeFiles/Competitive_Programming.dir/SynchronousShopping.cpp.o.provides.build:
 CMakeFiles/Competitive_Programming.dir/TwoStrings.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/TwoStrings.cpp.o: ../TwoStrings.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_204) "Building CXX object CMakeFiles/Competitive_Programming.dir/TwoStrings.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/TwoStrings.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/TwoStrings.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/TwoStrings.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/TwoStrings.cpp
 
 CMakeFiles/Competitive_Programming.dir/TwoStrings.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/TwoStrings.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/TwoStrings.cpp > CMakeFiles/Competitive_Programming.dir/TwoStrings.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/TwoStrings.cpp > CMakeFiles/Competitive_Programming.dir/TwoStrings.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/TwoStrings.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/TwoStrings.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/TwoStrings.cpp -o CMakeFiles/Competitive_Programming.dir/TwoStrings.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/TwoStrings.cpp -o CMakeFiles/Competitive_Programming.dir/TwoStrings.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/TwoStrings.cpp.o.requires:
 
@@ -4956,15 +4956,15 @@ CMakeFiles/Competitive_Programming.dir/TwoStrings.cpp.o.provides.build: CMakeFil
 CMakeFiles/Competitive_Programming.dir/untitled.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/untitled.cpp.o: ../untitled.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_205) "Building CXX object CMakeFiles/Competitive_Programming.dir/untitled.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/untitled.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/untitled.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/untitled.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/untitled.cpp
 
 CMakeFiles/Competitive_Programming.dir/untitled.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/untitled.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/untitled.cpp > CMakeFiles/Competitive_Programming.dir/untitled.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/untitled.cpp > CMakeFiles/Competitive_Programming.dir/untitled.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/untitled.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/untitled.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/untitled.cpp -o CMakeFiles/Competitive_Programming.dir/untitled.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/untitled.cpp -o CMakeFiles/Competitive_Programming.dir/untitled.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/untitled.cpp.o.requires:
 
@@ -4980,15 +4980,15 @@ CMakeFiles/Competitive_Programming.dir/untitled.cpp.o.provides.build: CMakeFiles
 CMakeFiles/Competitive_Programming.dir/USBvsPS2.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/USBvsPS2.cpp.o: ../USBvsPS2.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_206) "Building CXX object CMakeFiles/Competitive_Programming.dir/USBvsPS2.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/USBvsPS2.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/USBvsPS2.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/USBvsPS2.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/USBvsPS2.cpp
 
 CMakeFiles/Competitive_Programming.dir/USBvsPS2.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/USBvsPS2.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/USBvsPS2.cpp > CMakeFiles/Competitive_Programming.dir/USBvsPS2.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/USBvsPS2.cpp > CMakeFiles/Competitive_Programming.dir/USBvsPS2.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/USBvsPS2.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/USBvsPS2.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/USBvsPS2.cpp -o CMakeFiles/Competitive_Programming.dir/USBvsPS2.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/USBvsPS2.cpp -o CMakeFiles/Competitive_Programming.dir/USBvsPS2.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/USBvsPS2.cpp.o.requires:
 
@@ -5004,15 +5004,15 @@ CMakeFiles/Competitive_Programming.dir/USBvsPS2.cpp.o.provides.build: CMakeFiles
 CMakeFiles/Competitive_Programming.dir/UVa10684_Jackpot.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/UVa10684_Jackpot.cpp.o: ../UVa10684_Jackpot.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_207) "Building CXX object CMakeFiles/Competitive_Programming.dir/UVa10684_Jackpot.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa10684_Jackpot.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa10684_Jackpot.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa10684_Jackpot.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa10684_Jackpot.cpp
 
 CMakeFiles/Competitive_Programming.dir/UVa10684_Jackpot.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/UVa10684_Jackpot.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa10684_Jackpot.cpp > CMakeFiles/Competitive_Programming.dir/UVa10684_Jackpot.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa10684_Jackpot.cpp > CMakeFiles/Competitive_Programming.dir/UVa10684_Jackpot.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/UVa10684_Jackpot.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/UVa10684_Jackpot.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa10684_Jackpot.cpp -o CMakeFiles/Competitive_Programming.dir/UVa10684_Jackpot.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa10684_Jackpot.cpp -o CMakeFiles/Competitive_Programming.dir/UVa10684_Jackpot.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/UVa10684_Jackpot.cpp.o.requires:
 
@@ -5028,15 +5028,15 @@ CMakeFiles/Competitive_Programming.dir/UVa10684_Jackpot.cpp.o.provides.build: CM
 CMakeFiles/Competitive_Programming.dir/UVa10755_GarbageHeap.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/UVa10755_GarbageHeap.cpp.o: ../UVa10755_GarbageHeap.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_208) "Building CXX object CMakeFiles/Competitive_Programming.dir/UVa10755_GarbageHeap.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa10755_GarbageHeap.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa10755_GarbageHeap.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa10755_GarbageHeap.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa10755_GarbageHeap.cpp
 
 CMakeFiles/Competitive_Programming.dir/UVa10755_GarbageHeap.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/UVa10755_GarbageHeap.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa10755_GarbageHeap.cpp > CMakeFiles/Competitive_Programming.dir/UVa10755_GarbageHeap.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa10755_GarbageHeap.cpp > CMakeFiles/Competitive_Programming.dir/UVa10755_GarbageHeap.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/UVa10755_GarbageHeap.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/UVa10755_GarbageHeap.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa10755_GarbageHeap.cpp -o CMakeFiles/Competitive_Programming.dir/UVa10755_GarbageHeap.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa10755_GarbageHeap.cpp -o CMakeFiles/Competitive_Programming.dir/UVa10755_GarbageHeap.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/UVa10755_GarbageHeap.cpp.o.requires:
 
@@ -5052,15 +5052,15 @@ CMakeFiles/Competitive_Programming.dir/UVa10755_GarbageHeap.cpp.o.provides.build
 CMakeFiles/Competitive_Programming.dir/UVa11456_Trainsorting.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/UVa11456_Trainsorting.cpp.o: ../UVa11456_Trainsorting.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_209) "Building CXX object CMakeFiles/Competitive_Programming.dir/UVa11456_Trainsorting.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa11456_Trainsorting.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa11456_Trainsorting.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa11456_Trainsorting.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa11456_Trainsorting.cpp
 
 CMakeFiles/Competitive_Programming.dir/UVa11456_Trainsorting.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/UVa11456_Trainsorting.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa11456_Trainsorting.cpp > CMakeFiles/Competitive_Programming.dir/UVa11456_Trainsorting.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa11456_Trainsorting.cpp > CMakeFiles/Competitive_Programming.dir/UVa11456_Trainsorting.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/UVa11456_Trainsorting.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/UVa11456_Trainsorting.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa11456_Trainsorting.cpp -o CMakeFiles/Competitive_Programming.dir/UVa11456_Trainsorting.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa11456_Trainsorting.cpp -o CMakeFiles/Competitive_Programming.dir/UVa11456_Trainsorting.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/UVa11456_Trainsorting.cpp.o.requires:
 
@@ -5076,15 +5076,15 @@ CMakeFiles/Competitive_Programming.dir/UVa11456_Trainsorting.cpp.o.provides.buil
 CMakeFiles/Competitive_Programming.dir/UVa1177_AGeneralRecurrenceRelation.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/UVa1177_AGeneralRecurrenceRelation.cpp.o: ../UVa1177_AGeneralRecurrenceRelation.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_210) "Building CXX object CMakeFiles/Competitive_Programming.dir/UVa1177_AGeneralRecurrenceRelation.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa1177_AGeneralRecurrenceRelation.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa1177_AGeneralRecurrenceRelation.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa1177_AGeneralRecurrenceRelation.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa1177_AGeneralRecurrenceRelation.cpp
 
 CMakeFiles/Competitive_Programming.dir/UVa1177_AGeneralRecurrenceRelation.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/UVa1177_AGeneralRecurrenceRelation.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa1177_AGeneralRecurrenceRelation.cpp > CMakeFiles/Competitive_Programming.dir/UVa1177_AGeneralRecurrenceRelation.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa1177_AGeneralRecurrenceRelation.cpp > CMakeFiles/Competitive_Programming.dir/UVa1177_AGeneralRecurrenceRelation.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/UVa1177_AGeneralRecurrenceRelation.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/UVa1177_AGeneralRecurrenceRelation.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa1177_AGeneralRecurrenceRelation.cpp -o CMakeFiles/Competitive_Programming.dir/UVa1177_AGeneralRecurrenceRelation.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa1177_AGeneralRecurrenceRelation.cpp -o CMakeFiles/Competitive_Programming.dir/UVa1177_AGeneralRecurrenceRelation.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/UVa1177_AGeneralRecurrenceRelation.cpp.o.requires:
 
@@ -5100,15 +5100,15 @@ CMakeFiles/Competitive_Programming.dir/UVa1177_AGeneralRecurrenceRelation.cpp.o.
 CMakeFiles/Competitive_Programming.dir/UVa12405_Scarecrow.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/UVa12405_Scarecrow.cpp.o: ../UVa12405_Scarecrow.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_211) "Building CXX object CMakeFiles/Competitive_Programming.dir/UVa12405_Scarecrow.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa12405_Scarecrow.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa12405_Scarecrow.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa12405_Scarecrow.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa12405_Scarecrow.cpp
 
 CMakeFiles/Competitive_Programming.dir/UVa12405_Scarecrow.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/UVa12405_Scarecrow.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa12405_Scarecrow.cpp > CMakeFiles/Competitive_Programming.dir/UVa12405_Scarecrow.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa12405_Scarecrow.cpp > CMakeFiles/Competitive_Programming.dir/UVa12405_Scarecrow.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/UVa12405_Scarecrow.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/UVa12405_Scarecrow.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa12405_Scarecrow.cpp -o CMakeFiles/Competitive_Programming.dir/UVa12405_Scarecrow.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa12405_Scarecrow.cpp -o CMakeFiles/Competitive_Programming.dir/UVa12405_Scarecrow.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/UVa12405_Scarecrow.cpp.o.requires:
 
@@ -5124,15 +5124,15 @@ CMakeFiles/Competitive_Programming.dir/UVa12405_Scarecrow.cpp.o.provides.build: 
 CMakeFiles/Competitive_Programming.dir/UVa787_MaxSubSequenceProduct.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/UVa787_MaxSubSequenceProduct.cpp.o: ../UVa787_MaxSubSequenceProduct.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_212) "Building CXX object CMakeFiles/Competitive_Programming.dir/UVa787_MaxSubSequenceProduct.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa787_MaxSubSequenceProduct.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa787_MaxSubSequenceProduct.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa787_MaxSubSequenceProduct.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa787_MaxSubSequenceProduct.cpp
 
 CMakeFiles/Competitive_Programming.dir/UVa787_MaxSubSequenceProduct.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/UVa787_MaxSubSequenceProduct.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa787_MaxSubSequenceProduct.cpp > CMakeFiles/Competitive_Programming.dir/UVa787_MaxSubSequenceProduct.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa787_MaxSubSequenceProduct.cpp > CMakeFiles/Competitive_Programming.dir/UVa787_MaxSubSequenceProduct.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/UVa787_MaxSubSequenceProduct.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/UVa787_MaxSubSequenceProduct.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa787_MaxSubSequenceProduct.cpp -o CMakeFiles/Competitive_Programming.dir/UVa787_MaxSubSequenceProduct.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa787_MaxSubSequenceProduct.cpp -o CMakeFiles/Competitive_Programming.dir/UVa787_MaxSubSequenceProduct.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/UVa787_MaxSubSequenceProduct.cpp.o.requires:
 
@@ -5148,15 +5148,15 @@ CMakeFiles/Competitive_Programming.dir/UVa787_MaxSubSequenceProduct.cpp.o.provid
 CMakeFiles/Competitive_Programming.dir/UVa927.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/UVa927.cpp.o: ../UVa927.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_213) "Building CXX object CMakeFiles/Competitive_Programming.dir/UVa927.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa927.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa927.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa927.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa927.cpp
 
 CMakeFiles/Competitive_Programming.dir/UVa927.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/UVa927.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa927.cpp > CMakeFiles/Competitive_Programming.dir/UVa927.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa927.cpp > CMakeFiles/Competitive_Programming.dir/UVa927.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/UVa927.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/UVa927.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa927.cpp -o CMakeFiles/Competitive_Programming.dir/UVa927.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa927.cpp -o CMakeFiles/Competitive_Programming.dir/UVa927.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/UVa927.cpp.o.requires:
 
@@ -5172,15 +5172,15 @@ CMakeFiles/Competitive_Programming.dir/UVa927.cpp.o.provides.build: CMakeFiles/C
 CMakeFiles/Competitive_Programming.dir/UVa_8Queens.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/UVa_8Queens.cpp.o: ../UVa_8Queens.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_214) "Building CXX object CMakeFiles/Competitive_Programming.dir/UVa_8Queens.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa_8Queens.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_8Queens.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa_8Queens.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_8Queens.cpp
 
 CMakeFiles/Competitive_Programming.dir/UVa_8Queens.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/UVa_8Queens.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_8Queens.cpp > CMakeFiles/Competitive_Programming.dir/UVa_8Queens.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_8Queens.cpp > CMakeFiles/Competitive_Programming.dir/UVa_8Queens.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/UVa_8Queens.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/UVa_8Queens.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_8Queens.cpp -o CMakeFiles/Competitive_Programming.dir/UVa_8Queens.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_8Queens.cpp -o CMakeFiles/Competitive_Programming.dir/UVa_8Queens.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/UVa_8Queens.cpp.o.requires:
 
@@ -5196,15 +5196,15 @@ CMakeFiles/Competitive_Programming.dir/UVa_8Queens.cpp.o.provides.build: CMakeFi
 CMakeFiles/Competitive_Programming.dir/UVa_AnotherNQueenProblem.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/UVa_AnotherNQueenProblem.cpp.o: ../UVa_AnotherNQueenProblem.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_215) "Building CXX object CMakeFiles/Competitive_Programming.dir/UVa_AnotherNQueenProblem.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa_AnotherNQueenProblem.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_AnotherNQueenProblem.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa_AnotherNQueenProblem.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_AnotherNQueenProblem.cpp
 
 CMakeFiles/Competitive_Programming.dir/UVa_AnotherNQueenProblem.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/UVa_AnotherNQueenProblem.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_AnotherNQueenProblem.cpp > CMakeFiles/Competitive_Programming.dir/UVa_AnotherNQueenProblem.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_AnotherNQueenProblem.cpp > CMakeFiles/Competitive_Programming.dir/UVa_AnotherNQueenProblem.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/UVa_AnotherNQueenProblem.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/UVa_AnotherNQueenProblem.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_AnotherNQueenProblem.cpp -o CMakeFiles/Competitive_Programming.dir/UVa_AnotherNQueenProblem.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_AnotherNQueenProblem.cpp -o CMakeFiles/Competitive_Programming.dir/UVa_AnotherNQueenProblem.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/UVa_AnotherNQueenProblem.cpp.o.requires:
 
@@ -5220,15 +5220,15 @@ CMakeFiles/Competitive_Programming.dir/UVa_AnotherNQueenProblem.cpp.o.provides.b
 CMakeFiles/Competitive_Programming.dir/UVa_BackToThe8Queens.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/UVa_BackToThe8Queens.cpp.o: ../UVa_BackToThe8Queens.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_216) "Building CXX object CMakeFiles/Competitive_Programming.dir/UVa_BackToThe8Queens.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa_BackToThe8Queens.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_BackToThe8Queens.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa_BackToThe8Queens.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_BackToThe8Queens.cpp
 
 CMakeFiles/Competitive_Programming.dir/UVa_BackToThe8Queens.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/UVa_BackToThe8Queens.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_BackToThe8Queens.cpp > CMakeFiles/Competitive_Programming.dir/UVa_BackToThe8Queens.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_BackToThe8Queens.cpp > CMakeFiles/Competitive_Programming.dir/UVa_BackToThe8Queens.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/UVa_BackToThe8Queens.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/UVa_BackToThe8Queens.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_BackToThe8Queens.cpp -o CMakeFiles/Competitive_Programming.dir/UVa_BackToThe8Queens.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_BackToThe8Queens.cpp -o CMakeFiles/Competitive_Programming.dir/UVa_BackToThe8Queens.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/UVa_BackToThe8Queens.cpp.o.requires:
 
@@ -5244,15 +5244,15 @@ CMakeFiles/Competitive_Programming.dir/UVa_BackToThe8Queens.cpp.o.provides.build
 CMakeFiles/Competitive_Programming.dir/UVa_Bars.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/UVa_Bars.cpp.o: ../UVa_Bars.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_217) "Building CXX object CMakeFiles/Competitive_Programming.dir/UVa_Bars.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa_Bars.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_Bars.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa_Bars.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_Bars.cpp
 
 CMakeFiles/Competitive_Programming.dir/UVa_Bars.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/UVa_Bars.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_Bars.cpp > CMakeFiles/Competitive_Programming.dir/UVa_Bars.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_Bars.cpp > CMakeFiles/Competitive_Programming.dir/UVa_Bars.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/UVa_Bars.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/UVa_Bars.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_Bars.cpp -o CMakeFiles/Competitive_Programming.dir/UVa_Bars.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_Bars.cpp -o CMakeFiles/Competitive_Programming.dir/UVa_Bars.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/UVa_Bars.cpp.o.requires:
 
@@ -5268,15 +5268,15 @@ CMakeFiles/Competitive_Programming.dir/UVa_Bars.cpp.o.provides.build: CMakeFiles
 CMakeFiles/Competitive_Programming.dir/UVa_BusDriverProblem.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/UVa_BusDriverProblem.cpp.o: ../UVa_BusDriverProblem.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_218) "Building CXX object CMakeFiles/Competitive_Programming.dir/UVa_BusDriverProblem.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa_BusDriverProblem.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_BusDriverProblem.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa_BusDriverProblem.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_BusDriverProblem.cpp
 
 CMakeFiles/Competitive_Programming.dir/UVa_BusDriverProblem.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/UVa_BusDriverProblem.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_BusDriverProblem.cpp > CMakeFiles/Competitive_Programming.dir/UVa_BusDriverProblem.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_BusDriverProblem.cpp > CMakeFiles/Competitive_Programming.dir/UVa_BusDriverProblem.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/UVa_BusDriverProblem.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/UVa_BusDriverProblem.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_BusDriverProblem.cpp -o CMakeFiles/Competitive_Programming.dir/UVa_BusDriverProblem.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_BusDriverProblem.cpp -o CMakeFiles/Competitive_Programming.dir/UVa_BusDriverProblem.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/UVa_BusDriverProblem.cpp.o.requires:
 
@@ -5292,15 +5292,15 @@ CMakeFiles/Competitive_Programming.dir/UVa_BusDriverProblem.cpp.o.provides.build
 CMakeFiles/Competitive_Programming.dir/UVa_CD.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/UVa_CD.cpp.o: ../UVa_CD.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_219) "Building CXX object CMakeFiles/Competitive_Programming.dir/UVa_CD.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa_CD.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_CD.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa_CD.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_CD.cpp
 
 CMakeFiles/Competitive_Programming.dir/UVa_CD.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/UVa_CD.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_CD.cpp > CMakeFiles/Competitive_Programming.dir/UVa_CD.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_CD.cpp > CMakeFiles/Competitive_Programming.dir/UVa_CD.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/UVa_CD.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/UVa_CD.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_CD.cpp -o CMakeFiles/Competitive_Programming.dir/UVa_CD.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_CD.cpp -o CMakeFiles/Competitive_Programming.dir/UVa_CD.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/UVa_CD.cpp.o.requires:
 
@@ -5316,15 +5316,15 @@ CMakeFiles/Competitive_Programming.dir/UVa_CD.cpp.o.provides.build: CMakeFiles/C
 CMakeFiles/Competitive_Programming.dir/UVa_CitizenAttentionOffices.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/UVa_CitizenAttentionOffices.cpp.o: ../UVa_CitizenAttentionOffices.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_220) "Building CXX object CMakeFiles/Competitive_Programming.dir/UVa_CitizenAttentionOffices.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa_CitizenAttentionOffices.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_CitizenAttentionOffices.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa_CitizenAttentionOffices.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_CitizenAttentionOffices.cpp
 
 CMakeFiles/Competitive_Programming.dir/UVa_CitizenAttentionOffices.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/UVa_CitizenAttentionOffices.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_CitizenAttentionOffices.cpp > CMakeFiles/Competitive_Programming.dir/UVa_CitizenAttentionOffices.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_CitizenAttentionOffices.cpp > CMakeFiles/Competitive_Programming.dir/UVa_CitizenAttentionOffices.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/UVa_CitizenAttentionOffices.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/UVa_CitizenAttentionOffices.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_CitizenAttentionOffices.cpp -o CMakeFiles/Competitive_Programming.dir/UVa_CitizenAttentionOffices.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_CitizenAttentionOffices.cpp -o CMakeFiles/Competitive_Programming.dir/UVa_CitizenAttentionOffices.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/UVa_CitizenAttentionOffices.cpp.o.requires:
 
@@ -5340,15 +5340,15 @@ CMakeFiles/Competitive_Programming.dir/UVa_CitizenAttentionOffices.cpp.o.provide
 CMakeFiles/Competitive_Programming.dir/UVa_ClosestSums.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/UVa_ClosestSums.cpp.o: ../UVa_ClosestSums.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_221) "Building CXX object CMakeFiles/Competitive_Programming.dir/UVa_ClosestSums.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa_ClosestSums.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_ClosestSums.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa_ClosestSums.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_ClosestSums.cpp
 
 CMakeFiles/Competitive_Programming.dir/UVa_ClosestSums.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/UVa_ClosestSums.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_ClosestSums.cpp > CMakeFiles/Competitive_Programming.dir/UVa_ClosestSums.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_ClosestSums.cpp > CMakeFiles/Competitive_Programming.dir/UVa_ClosestSums.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/UVa_ClosestSums.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/UVa_ClosestSums.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_ClosestSums.cpp -o CMakeFiles/Competitive_Programming.dir/UVa_ClosestSums.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_ClosestSums.cpp -o CMakeFiles/Competitive_Programming.dir/UVa_ClosestSums.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/UVa_ClosestSums.cpp.o.requires:
 
@@ -5364,15 +5364,15 @@ CMakeFiles/Competitive_Programming.dir/UVa_ClosestSums.cpp.o.provides.build: CMa
 CMakeFiles/Competitive_Programming.dir/UVa_CoinCollector.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/UVa_CoinCollector.cpp.o: ../UVa_CoinCollector.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_222) "Building CXX object CMakeFiles/Competitive_Programming.dir/UVa_CoinCollector.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa_CoinCollector.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_CoinCollector.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa_CoinCollector.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_CoinCollector.cpp
 
 CMakeFiles/Competitive_Programming.dir/UVa_CoinCollector.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/UVa_CoinCollector.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_CoinCollector.cpp > CMakeFiles/Competitive_Programming.dir/UVa_CoinCollector.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_CoinCollector.cpp > CMakeFiles/Competitive_Programming.dir/UVa_CoinCollector.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/UVa_CoinCollector.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/UVa_CoinCollector.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_CoinCollector.cpp -o CMakeFiles/Competitive_Programming.dir/UVa_CoinCollector.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_CoinCollector.cpp -o CMakeFiles/Competitive_Programming.dir/UVa_CoinCollector.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/UVa_CoinCollector.cpp.o.requires:
 
@@ -5388,15 +5388,15 @@ CMakeFiles/Competitive_Programming.dir/UVa_CoinCollector.cpp.o.provides.build: C
 CMakeFiles/Competitive_Programming.dir/UVa_DartAMania.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/UVa_DartAMania.cpp.o: ../UVa_DartAMania.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_223) "Building CXX object CMakeFiles/Competitive_Programming.dir/UVa_DartAMania.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa_DartAMania.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_DartAMania.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa_DartAMania.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_DartAMania.cpp
 
 CMakeFiles/Competitive_Programming.dir/UVa_DartAMania.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/UVa_DartAMania.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_DartAMania.cpp > CMakeFiles/Competitive_Programming.dir/UVa_DartAMania.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_DartAMania.cpp > CMakeFiles/Competitive_Programming.dir/UVa_DartAMania.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/UVa_DartAMania.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/UVa_DartAMania.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_DartAMania.cpp -o CMakeFiles/Competitive_Programming.dir/UVa_DartAMania.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_DartAMania.cpp -o CMakeFiles/Competitive_Programming.dir/UVa_DartAMania.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/UVa_DartAMania.cpp.o.requires:
 
@@ -5412,15 +5412,15 @@ CMakeFiles/Competitive_Programming.dir/UVa_DartAMania.cpp.o.provides.build: CMak
 CMakeFiles/Competitive_Programming.dir/UVa_ExactSum.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/UVa_ExactSum.cpp.o: ../UVa_ExactSum.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_224) "Building CXX object CMakeFiles/Competitive_Programming.dir/UVa_ExactSum.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa_ExactSum.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_ExactSum.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa_ExactSum.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_ExactSum.cpp
 
 CMakeFiles/Competitive_Programming.dir/UVa_ExactSum.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/UVa_ExactSum.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_ExactSum.cpp > CMakeFiles/Competitive_Programming.dir/UVa_ExactSum.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_ExactSum.cpp > CMakeFiles/Competitive_Programming.dir/UVa_ExactSum.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/UVa_ExactSum.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/UVa_ExactSum.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_ExactSum.cpp -o CMakeFiles/Competitive_Programming.dir/UVa_ExactSum.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_ExactSum.cpp -o CMakeFiles/Competitive_Programming.dir/UVa_ExactSum.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/UVa_ExactSum.cpp.o.requires:
 
@@ -5436,15 +5436,15 @@ CMakeFiles/Competitive_Programming.dir/UVa_ExactSum.cpp.o.provides.build: CMakeF
 CMakeFiles/Competitive_Programming.dir/UVa_ExpertEnough.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/UVa_ExpertEnough.cpp.o: ../UVa_ExpertEnough.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_225) "Building CXX object CMakeFiles/Competitive_Programming.dir/UVa_ExpertEnough.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa_ExpertEnough.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_ExpertEnough.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa_ExpertEnough.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_ExpertEnough.cpp
 
 CMakeFiles/Competitive_Programming.dir/UVa_ExpertEnough.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/UVa_ExpertEnough.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_ExpertEnough.cpp > CMakeFiles/Competitive_Programming.dir/UVa_ExpertEnough.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_ExpertEnough.cpp > CMakeFiles/Competitive_Programming.dir/UVa_ExpertEnough.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/UVa_ExpertEnough.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/UVa_ExpertEnough.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_ExpertEnough.cpp -o CMakeFiles/Competitive_Programming.dir/UVa_ExpertEnough.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_ExpertEnough.cpp -o CMakeFiles/Competitive_Programming.dir/UVa_ExpertEnough.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/UVa_ExpertEnough.cpp.o.requires:
 
@@ -5460,15 +5460,15 @@ CMakeFiles/Competitive_Programming.dir/UVa_ExpertEnough.cpp.o.provides.build: CM
 CMakeFiles/Competitive_Programming.dir/UVa_FillTheContainers.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/UVa_FillTheContainers.cpp.o: ../UVa_FillTheContainers.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_226) "Building CXX object CMakeFiles/Competitive_Programming.dir/UVa_FillTheContainers.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa_FillTheContainers.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_FillTheContainers.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa_FillTheContainers.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_FillTheContainers.cpp
 
 CMakeFiles/Competitive_Programming.dir/UVa_FillTheContainers.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/UVa_FillTheContainers.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_FillTheContainers.cpp > CMakeFiles/Competitive_Programming.dir/UVa_FillTheContainers.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_FillTheContainers.cpp > CMakeFiles/Competitive_Programming.dir/UVa_FillTheContainers.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/UVa_FillTheContainers.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/UVa_FillTheContainers.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_FillTheContainers.cpp -o CMakeFiles/Competitive_Programming.dir/UVa_FillTheContainers.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_FillTheContainers.cpp -o CMakeFiles/Competitive_Programming.dir/UVa_FillTheContainers.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/UVa_FillTheContainers.cpp.o.requires:
 
@@ -5484,15 +5484,15 @@ CMakeFiles/Competitive_Programming.dir/UVa_FillTheContainers.cpp.o.provides.buil
 CMakeFiles/Competitive_Programming.dir/UVa_FractionsAgain.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/UVa_FractionsAgain.cpp.o: ../UVa_FractionsAgain.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_227) "Building CXX object CMakeFiles/Competitive_Programming.dir/UVa_FractionsAgain.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa_FractionsAgain.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_FractionsAgain.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa_FractionsAgain.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_FractionsAgain.cpp
 
 CMakeFiles/Competitive_Programming.dir/UVa_FractionsAgain.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/UVa_FractionsAgain.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_FractionsAgain.cpp > CMakeFiles/Competitive_Programming.dir/UVa_FractionsAgain.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_FractionsAgain.cpp > CMakeFiles/Competitive_Programming.dir/UVa_FractionsAgain.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/UVa_FractionsAgain.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/UVa_FractionsAgain.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_FractionsAgain.cpp -o CMakeFiles/Competitive_Programming.dir/UVa_FractionsAgain.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_FractionsAgain.cpp -o CMakeFiles/Competitive_Programming.dir/UVa_FractionsAgain.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/UVa_FractionsAgain.cpp.o.requires:
 
@@ -5508,15 +5508,15 @@ CMakeFiles/Competitive_Programming.dir/UVa_FractionsAgain.cpp.o.provides.build: 
 CMakeFiles/Competitive_Programming.dir/UVa_Grapevine.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/UVa_Grapevine.cpp.o: ../UVa_Grapevine.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_228) "Building CXX object CMakeFiles/Competitive_Programming.dir/UVa_Grapevine.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa_Grapevine.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_Grapevine.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa_Grapevine.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_Grapevine.cpp
 
 CMakeFiles/Competitive_Programming.dir/UVa_Grapevine.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/UVa_Grapevine.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_Grapevine.cpp > CMakeFiles/Competitive_Programming.dir/UVa_Grapevine.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_Grapevine.cpp > CMakeFiles/Competitive_Programming.dir/UVa_Grapevine.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/UVa_Grapevine.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/UVa_Grapevine.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_Grapevine.cpp -o CMakeFiles/Competitive_Programming.dir/UVa_Grapevine.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_Grapevine.cpp -o CMakeFiles/Competitive_Programming.dir/UVa_Grapevine.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/UVa_Grapevine.cpp.o.requires:
 
@@ -5532,15 +5532,15 @@ CMakeFiles/Competitive_Programming.dir/UVa_Grapevine.cpp.o.provides.build: CMake
 CMakeFiles/Competitive_Programming.dir/UVa_GraphColoring.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/UVa_GraphColoring.cpp.o: ../UVa_GraphColoring.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_229) "Building CXX object CMakeFiles/Competitive_Programming.dir/UVa_GraphColoring.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa_GraphColoring.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_GraphColoring.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa_GraphColoring.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_GraphColoring.cpp
 
 CMakeFiles/Competitive_Programming.dir/UVa_GraphColoring.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/UVa_GraphColoring.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_GraphColoring.cpp > CMakeFiles/Competitive_Programming.dir/UVa_GraphColoring.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_GraphColoring.cpp > CMakeFiles/Competitive_Programming.dir/UVa_GraphColoring.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/UVa_GraphColoring.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/UVa_GraphColoring.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_GraphColoring.cpp -o CMakeFiles/Competitive_Programming.dir/UVa_GraphColoring.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_GraphColoring.cpp -o CMakeFiles/Competitive_Programming.dir/UVa_GraphColoring.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/UVa_GraphColoring.cpp.o.requires:
 
@@ -5556,15 +5556,15 @@ CMakeFiles/Competitive_Programming.dir/UVa_GraphColoring.cpp.o.provides.build: C
 CMakeFiles/Competitive_Programming.dir/UVa_GraphColoring2.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/UVa_GraphColoring2.cpp.o: ../UVa_GraphColoring2.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_230) "Building CXX object CMakeFiles/Competitive_Programming.dir/UVa_GraphColoring2.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa_GraphColoring2.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_GraphColoring2.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa_GraphColoring2.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_GraphColoring2.cpp
 
 CMakeFiles/Competitive_Programming.dir/UVa_GraphColoring2.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/UVa_GraphColoring2.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_GraphColoring2.cpp > CMakeFiles/Competitive_Programming.dir/UVa_GraphColoring2.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_GraphColoring2.cpp > CMakeFiles/Competitive_Programming.dir/UVa_GraphColoring2.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/UVa_GraphColoring2.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/UVa_GraphColoring2.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_GraphColoring2.cpp -o CMakeFiles/Competitive_Programming.dir/UVa_GraphColoring2.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_GraphColoring2.cpp -o CMakeFiles/Competitive_Programming.dir/UVa_GraphColoring2.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/UVa_GraphColoring2.cpp.o.requires:
 
@@ -5580,15 +5580,15 @@ CMakeFiles/Competitive_Programming.dir/UVa_GraphColoring2.cpp.o.provides.build: 
 CMakeFiles/Competitive_Programming.dir/UVa_GridGame.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/UVa_GridGame.cpp.o: ../UVa_GridGame.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_231) "Building CXX object CMakeFiles/Competitive_Programming.dir/UVa_GridGame.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa_GridGame.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_GridGame.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa_GridGame.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_GridGame.cpp
 
 CMakeFiles/Competitive_Programming.dir/UVa_GridGame.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/UVa_GridGame.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_GridGame.cpp > CMakeFiles/Competitive_Programming.dir/UVa_GridGame.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_GridGame.cpp > CMakeFiles/Competitive_Programming.dir/UVa_GridGame.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/UVa_GridGame.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/UVa_GridGame.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_GridGame.cpp -o CMakeFiles/Competitive_Programming.dir/UVa_GridGame.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_GridGame.cpp -o CMakeFiles/Competitive_Programming.dir/UVa_GridGame.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/UVa_GridGame.cpp.o.requires:
 
@@ -5604,15 +5604,15 @@ CMakeFiles/Competitive_Programming.dir/UVa_GridGame.cpp.o.provides.build: CMakeF
 CMakeFiles/Competitive_Programming.dir/UVa_GroceryStore.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/UVa_GroceryStore.cpp.o: ../UVa_GroceryStore.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_232) "Building CXX object CMakeFiles/Competitive_Programming.dir/UVa_GroceryStore.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa_GroceryStore.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_GroceryStore.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa_GroceryStore.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_GroceryStore.cpp
 
 CMakeFiles/Competitive_Programming.dir/UVa_GroceryStore.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/UVa_GroceryStore.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_GroceryStore.cpp > CMakeFiles/Competitive_Programming.dir/UVa_GroceryStore.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_GroceryStore.cpp > CMakeFiles/Competitive_Programming.dir/UVa_GroceryStore.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/UVa_GroceryStore.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/UVa_GroceryStore.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_GroceryStore.cpp -o CMakeFiles/Competitive_Programming.dir/UVa_GroceryStore.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_GroceryStore.cpp -o CMakeFiles/Competitive_Programming.dir/UVa_GroceryStore.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/UVa_GroceryStore.cpp.o.requires:
 
@@ -5628,15 +5628,15 @@ CMakeFiles/Competitive_Programming.dir/UVa_GroceryStore.cpp.o.provides.build: CM
 CMakeFiles/Competitive_Programming.dir/UVa_HelpingFillBates.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/UVa_HelpingFillBates.cpp.o: ../UVa_HelpingFillBates.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_233) "Building CXX object CMakeFiles/Competitive_Programming.dir/UVa_HelpingFillBates.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa_HelpingFillBates.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_HelpingFillBates.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa_HelpingFillBates.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_HelpingFillBates.cpp
 
 CMakeFiles/Competitive_Programming.dir/UVa_HelpingFillBates.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/UVa_HelpingFillBates.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_HelpingFillBates.cpp > CMakeFiles/Competitive_Programming.dir/UVa_HelpingFillBates.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_HelpingFillBates.cpp > CMakeFiles/Competitive_Programming.dir/UVa_HelpingFillBates.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/UVa_HelpingFillBates.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/UVa_HelpingFillBates.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_HelpingFillBates.cpp -o CMakeFiles/Competitive_Programming.dir/UVa_HelpingFillBates.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_HelpingFillBates.cpp -o CMakeFiles/Competitive_Programming.dir/UVa_HelpingFillBates.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/UVa_HelpingFillBates.cpp.o.requires:
 
@@ -5652,15 +5652,15 @@ CMakeFiles/Competitive_Programming.dir/UVa_HelpingFillBates.cpp.o.provides.build
 CMakeFiles/Competitive_Programming.dir/UVa_LEDTest.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/UVa_LEDTest.cpp.o: ../UVa_LEDTest.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_234) "Building CXX object CMakeFiles/Competitive_Programming.dir/UVa_LEDTest.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa_LEDTest.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_LEDTest.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa_LEDTest.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_LEDTest.cpp
 
 CMakeFiles/Competitive_Programming.dir/UVa_LEDTest.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/UVa_LEDTest.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_LEDTest.cpp > CMakeFiles/Competitive_Programming.dir/UVa_LEDTest.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_LEDTest.cpp > CMakeFiles/Competitive_Programming.dir/UVa_LEDTest.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/UVa_LEDTest.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/UVa_LEDTest.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_LEDTest.cpp -o CMakeFiles/Competitive_Programming.dir/UVa_LEDTest.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_LEDTest.cpp -o CMakeFiles/Competitive_Programming.dir/UVa_LEDTest.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/UVa_LEDTest.cpp.o.requires:
 
@@ -5676,15 +5676,15 @@ CMakeFiles/Competitive_Programming.dir/UVa_LEDTest.cpp.o.provides.build: CMakeFi
 CMakeFiles/Competitive_Programming.dir/UVa_Lotto.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/UVa_Lotto.cpp.o: ../UVa_Lotto.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_235) "Building CXX object CMakeFiles/Competitive_Programming.dir/UVa_Lotto.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa_Lotto.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_Lotto.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa_Lotto.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_Lotto.cpp
 
 CMakeFiles/Competitive_Programming.dir/UVa_Lotto.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/UVa_Lotto.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_Lotto.cpp > CMakeFiles/Competitive_Programming.dir/UVa_Lotto.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_Lotto.cpp > CMakeFiles/Competitive_Programming.dir/UVa_Lotto.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/UVa_Lotto.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/UVa_Lotto.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_Lotto.cpp -o CMakeFiles/Competitive_Programming.dir/UVa_Lotto.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_Lotto.cpp -o CMakeFiles/Competitive_Programming.dir/UVa_Lotto.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/UVa_Lotto.cpp.o.requires:
 
@@ -5700,15 +5700,15 @@ CMakeFiles/Competitive_Programming.dir/UVa_Lotto.cpp.o.provides.build: CMakeFile
 CMakeFiles/Competitive_Programming.dir/UVa_MonkeyAndOiledBamboo.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/UVa_MonkeyAndOiledBamboo.cpp.o: ../UVa_MonkeyAndOiledBamboo.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_236) "Building CXX object CMakeFiles/Competitive_Programming.dir/UVa_MonkeyAndOiledBamboo.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa_MonkeyAndOiledBamboo.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_MonkeyAndOiledBamboo.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa_MonkeyAndOiledBamboo.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_MonkeyAndOiledBamboo.cpp
 
 CMakeFiles/Competitive_Programming.dir/UVa_MonkeyAndOiledBamboo.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/UVa_MonkeyAndOiledBamboo.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_MonkeyAndOiledBamboo.cpp > CMakeFiles/Competitive_Programming.dir/UVa_MonkeyAndOiledBamboo.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_MonkeyAndOiledBamboo.cpp > CMakeFiles/Competitive_Programming.dir/UVa_MonkeyAndOiledBamboo.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/UVa_MonkeyAndOiledBamboo.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/UVa_MonkeyAndOiledBamboo.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_MonkeyAndOiledBamboo.cpp -o CMakeFiles/Competitive_Programming.dir/UVa_MonkeyAndOiledBamboo.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_MonkeyAndOiledBamboo.cpp -o CMakeFiles/Competitive_Programming.dir/UVa_MonkeyAndOiledBamboo.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/UVa_MonkeyAndOiledBamboo.cpp.o.requires:
 
@@ -5724,15 +5724,15 @@ CMakeFiles/Competitive_Programming.dir/UVa_MonkeyAndOiledBamboo.cpp.o.provides.b
 CMakeFiles/Competitive_Programming.dir/UVa_Password.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/UVa_Password.cpp.o: ../UVa_Password.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_237) "Building CXX object CMakeFiles/Competitive_Programming.dir/UVa_Password.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa_Password.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_Password.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa_Password.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_Password.cpp
 
 CMakeFiles/Competitive_Programming.dir/UVa_Password.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/UVa_Password.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_Password.cpp > CMakeFiles/Competitive_Programming.dir/UVa_Password.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_Password.cpp > CMakeFiles/Competitive_Programming.dir/UVa_Password.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/UVa_Password.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/UVa_Password.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_Password.cpp -o CMakeFiles/Competitive_Programming.dir/UVa_Password.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_Password.cpp -o CMakeFiles/Competitive_Programming.dir/UVa_Password.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/UVa_Password.cpp.o.requires:
 
@@ -5748,15 +5748,15 @@ CMakeFiles/Competitive_Programming.dir/UVa_Password.cpp.o.provides.build: CMakeF
 CMakeFiles/Competitive_Programming.dir/UVa_PathInColouredField.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/UVa_PathInColouredField.cpp.o: ../UVa_PathInColouredField.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_238) "Building CXX object CMakeFiles/Competitive_Programming.dir/UVa_PathInColouredField.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa_PathInColouredField.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_PathInColouredField.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa_PathInColouredField.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_PathInColouredField.cpp
 
 CMakeFiles/Competitive_Programming.dir/UVa_PathInColouredField.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/UVa_PathInColouredField.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_PathInColouredField.cpp > CMakeFiles/Competitive_Programming.dir/UVa_PathInColouredField.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_PathInColouredField.cpp > CMakeFiles/Competitive_Programming.dir/UVa_PathInColouredField.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/UVa_PathInColouredField.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/UVa_PathInColouredField.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_PathInColouredField.cpp -o CMakeFiles/Competitive_Programming.dir/UVa_PathInColouredField.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_PathInColouredField.cpp -o CMakeFiles/Competitive_Programming.dir/UVa_PathInColouredField.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/UVa_PathInColouredField.cpp.o.requires:
 
@@ -5772,15 +5772,15 @@ CMakeFiles/Competitive_Programming.dir/UVa_PathInColouredField.cpp.o.provides.bu
 CMakeFiles/Competitive_Programming.dir/UVa_PrimeRingProblem.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/UVa_PrimeRingProblem.cpp.o: ../UVa_PrimeRingProblem.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_239) "Building CXX object CMakeFiles/Competitive_Programming.dir/UVa_PrimeRingProblem.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa_PrimeRingProblem.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_PrimeRingProblem.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa_PrimeRingProblem.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_PrimeRingProblem.cpp
 
 CMakeFiles/Competitive_Programming.dir/UVa_PrimeRingProblem.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/UVa_PrimeRingProblem.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_PrimeRingProblem.cpp > CMakeFiles/Competitive_Programming.dir/UVa_PrimeRingProblem.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_PrimeRingProblem.cpp > CMakeFiles/Competitive_Programming.dir/UVa_PrimeRingProblem.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/UVa_PrimeRingProblem.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/UVa_PrimeRingProblem.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_PrimeRingProblem.cpp -o CMakeFiles/Competitive_Programming.dir/UVa_PrimeRingProblem.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_PrimeRingProblem.cpp -o CMakeFiles/Competitive_Programming.dir/UVa_PrimeRingProblem.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/UVa_PrimeRingProblem.cpp.o.requires:
 
@@ -5796,15 +5796,15 @@ CMakeFiles/Competitive_Programming.dir/UVa_PrimeRingProblem.cpp.o.provides.build
 CMakeFiles/Competitive_Programming.dir/UVa_RatAttack.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/UVa_RatAttack.cpp.o: ../UVa_RatAttack.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_240) "Building CXX object CMakeFiles/Competitive_Programming.dir/UVa_RatAttack.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa_RatAttack.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_RatAttack.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa_RatAttack.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_RatAttack.cpp
 
 CMakeFiles/Competitive_Programming.dir/UVa_RatAttack.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/UVa_RatAttack.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_RatAttack.cpp > CMakeFiles/Competitive_Programming.dir/UVa_RatAttack.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_RatAttack.cpp > CMakeFiles/Competitive_Programming.dir/UVa_RatAttack.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/UVa_RatAttack.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/UVa_RatAttack.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_RatAttack.cpp -o CMakeFiles/Competitive_Programming.dir/UVa_RatAttack.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_RatAttack.cpp -o CMakeFiles/Competitive_Programming.dir/UVa_RatAttack.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/UVa_RatAttack.cpp.o.requires:
 
@@ -5820,15 +5820,15 @@ CMakeFiles/Competitive_Programming.dir/UVa_RatAttack.cpp.o.provides.build: CMake
 CMakeFiles/Competitive_Programming.dir/UVa_Sales.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/UVa_Sales.cpp.o: ../UVa_Sales.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_241) "Building CXX object CMakeFiles/Competitive_Programming.dir/UVa_Sales.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa_Sales.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_Sales.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa_Sales.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_Sales.cpp
 
 CMakeFiles/Competitive_Programming.dir/UVa_Sales.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/UVa_Sales.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_Sales.cpp > CMakeFiles/Competitive_Programming.dir/UVa_Sales.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_Sales.cpp > CMakeFiles/Competitive_Programming.dir/UVa_Sales.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/UVa_Sales.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/UVa_Sales.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_Sales.cpp -o CMakeFiles/Competitive_Programming.dir/UVa_Sales.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_Sales.cpp -o CMakeFiles/Competitive_Programming.dir/UVa_Sales.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/UVa_Sales.cpp.o.requires:
 
@@ -5844,15 +5844,15 @@ CMakeFiles/Competitive_Programming.dir/UVa_Sales.cpp.o.provides.build: CMakeFile
 CMakeFiles/Competitive_Programming.dir/UVa_SolveIt.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/UVa_SolveIt.cpp.o: ../UVa_SolveIt.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_242) "Building CXX object CMakeFiles/Competitive_Programming.dir/UVa_SolveIt.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa_SolveIt.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_SolveIt.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa_SolveIt.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_SolveIt.cpp
 
 CMakeFiles/Competitive_Programming.dir/UVa_SolveIt.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/UVa_SolveIt.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_SolveIt.cpp > CMakeFiles/Competitive_Programming.dir/UVa_SolveIt.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_SolveIt.cpp > CMakeFiles/Competitive_Programming.dir/UVa_SolveIt.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/UVa_SolveIt.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/UVa_SolveIt.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_SolveIt.cpp -o CMakeFiles/Competitive_Programming.dir/UVa_SolveIt.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_SolveIt.cpp -o CMakeFiles/Competitive_Programming.dir/UVa_SolveIt.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/UVa_SolveIt.cpp.o.requires:
 
@@ -5868,15 +5868,15 @@ CMakeFiles/Competitive_Programming.dir/UVa_SolveIt.cpp.o.provides.build: CMakeFi
 CMakeFiles/Competitive_Programming.dir/UVa_SumItUp.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/UVa_SumItUp.cpp.o: ../UVa_SumItUp.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_243) "Building CXX object CMakeFiles/Competitive_Programming.dir/UVa_SumItUp.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa_SumItUp.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_SumItUp.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa_SumItUp.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_SumItUp.cpp
 
 CMakeFiles/Competitive_Programming.dir/UVa_SumItUp.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/UVa_SumItUp.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_SumItUp.cpp > CMakeFiles/Competitive_Programming.dir/UVa_SumItUp.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_SumItUp.cpp > CMakeFiles/Competitive_Programming.dir/UVa_SumItUp.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/UVa_SumItUp.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/UVa_SumItUp.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_SumItUp.cpp -o CMakeFiles/Competitive_Programming.dir/UVa_SumItUp.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_SumItUp.cpp -o CMakeFiles/Competitive_Programming.dir/UVa_SumItUp.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/UVa_SumItUp.cpp.o.requires:
 
@@ -5892,15 +5892,15 @@ CMakeFiles/Competitive_Programming.dir/UVa_SumItUp.cpp.o.provides.build: CMakeFi
 CMakeFiles/Competitive_Programming.dir/UVa_TourDeFrance.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/UVa_TourDeFrance.cpp.o: ../UVa_TourDeFrance.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_244) "Building CXX object CMakeFiles/Competitive_Programming.dir/UVa_TourDeFrance.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa_TourDeFrance.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_TourDeFrance.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa_TourDeFrance.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_TourDeFrance.cpp
 
 CMakeFiles/Competitive_Programming.dir/UVa_TourDeFrance.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/UVa_TourDeFrance.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_TourDeFrance.cpp > CMakeFiles/Competitive_Programming.dir/UVa_TourDeFrance.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_TourDeFrance.cpp > CMakeFiles/Competitive_Programming.dir/UVa_TourDeFrance.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/UVa_TourDeFrance.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/UVa_TourDeFrance.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_TourDeFrance.cpp -o CMakeFiles/Competitive_Programming.dir/UVa_TourDeFrance.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_TourDeFrance.cpp -o CMakeFiles/Competitive_Programming.dir/UVa_TourDeFrance.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/UVa_TourDeFrance.cpp.o.requires:
 
@@ -5916,15 +5916,15 @@ CMakeFiles/Competitive_Programming.dir/UVa_TourDeFrance.cpp.o.provides.build: CM
 CMakeFiles/Competitive_Programming.dir/UVa_Y2KAccountingBug.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/UVa_Y2KAccountingBug.cpp.o: ../UVa_Y2KAccountingBug.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_245) "Building CXX object CMakeFiles/Competitive_Programming.dir/UVa_Y2KAccountingBug.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa_Y2KAccountingBug.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_Y2KAccountingBug.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa_Y2KAccountingBug.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_Y2KAccountingBug.cpp
 
 CMakeFiles/Competitive_Programming.dir/UVa_Y2KAccountingBug.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/UVa_Y2KAccountingBug.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_Y2KAccountingBug.cpp > CMakeFiles/Competitive_Programming.dir/UVa_Y2KAccountingBug.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_Y2KAccountingBug.cpp > CMakeFiles/Competitive_Programming.dir/UVa_Y2KAccountingBug.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/UVa_Y2KAccountingBug.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/UVa_Y2KAccountingBug.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_Y2KAccountingBug.cpp -o CMakeFiles/Competitive_Programming.dir/UVa_Y2KAccountingBug.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_Y2KAccountingBug.cpp -o CMakeFiles/Competitive_Programming.dir/UVa_Y2KAccountingBug.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/UVa_Y2KAccountingBug.cpp.o.requires:
 
@@ -5940,15 +5940,15 @@ CMakeFiles/Competitive_Programming.dir/UVa_Y2KAccountingBug.cpp.o.provides.build
 CMakeFiles/Competitive_Programming.dir/UVa_Zones.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/UVa_Zones.cpp.o: ../UVa_Zones.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_246) "Building CXX object CMakeFiles/Competitive_Programming.dir/UVa_Zones.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa_Zones.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_Zones.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/UVa_Zones.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_Zones.cpp
 
 CMakeFiles/Competitive_Programming.dir/UVa_Zones.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/UVa_Zones.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_Zones.cpp > CMakeFiles/Competitive_Programming.dir/UVa_Zones.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_Zones.cpp > CMakeFiles/Competitive_Programming.dir/UVa_Zones.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/UVa_Zones.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/UVa_Zones.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_Zones.cpp -o CMakeFiles/Competitive_Programming.dir/UVa_Zones.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_Zones.cpp -o CMakeFiles/Competitive_Programming.dir/UVa_Zones.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/UVa_Zones.cpp.o.requires:
 
@@ -5964,15 +5964,15 @@ CMakeFiles/Competitive_Programming.dir/UVa_Zones.cpp.o.provides.build: CMakeFile
 CMakeFiles/Competitive_Programming.dir/YogesMM.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/YogesMM.cpp.o: ../YogesMM.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_247) "Building CXX object CMakeFiles/Competitive_Programming.dir/YogesMM.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/YogesMM.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/YogesMM.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/YogesMM.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/YogesMM.cpp
 
 CMakeFiles/Competitive_Programming.dir/YogesMM.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/YogesMM.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/YogesMM.cpp > CMakeFiles/Competitive_Programming.dir/YogesMM.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/YogesMM.cpp > CMakeFiles/Competitive_Programming.dir/YogesMM.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/YogesMM.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/YogesMM.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/YogesMM.cpp -o CMakeFiles/Competitive_Programming.dir/YogesMM.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/YogesMM.cpp -o CMakeFiles/Competitive_Programming.dir/YogesMM.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/YogesMM.cpp.o.requires:
 
@@ -5988,15 +5988,15 @@ CMakeFiles/Competitive_Programming.dir/YogesMM.cpp.o.provides.build: CMakeFiles/
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/Knuth-Morris-Pratt-Algorithm.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/Knuth-Morris-Pratt-Algorithm.cpp.o: ../OtherAlgorithms/Knuth-Morris-Pratt-Algorithm.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_248) "Building CXX object CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/Knuth-Morris-Pratt-Algorithm.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/Knuth-Morris-Pratt-Algorithm.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/Knuth-Morris-Pratt-Algorithm.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/Knuth-Morris-Pratt-Algorithm.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/Knuth-Morris-Pratt-Algorithm.cpp
 
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/Knuth-Morris-Pratt-Algorithm.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/Knuth-Morris-Pratt-Algorithm.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/Knuth-Morris-Pratt-Algorithm.cpp > CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/Knuth-Morris-Pratt-Algorithm.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/Knuth-Morris-Pratt-Algorithm.cpp > CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/Knuth-Morris-Pratt-Algorithm.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/Knuth-Morris-Pratt-Algorithm.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/Knuth-Morris-Pratt-Algorithm.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/Knuth-Morris-Pratt-Algorithm.cpp -o CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/Knuth-Morris-Pratt-Algorithm.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/Knuth-Morris-Pratt-Algorithm.cpp -o CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/Knuth-Morris-Pratt-Algorithm.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/Knuth-Morris-Pratt-Algorithm.cpp.o.requires:
 
@@ -6012,15 +6012,15 @@ CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/Knuth-Morris-Pratt-Algori
 CMakeFiles/Competitive_Programming.dir/CC_ChefGoesLeftRight.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/CC_ChefGoesLeftRight.cpp.o: ../CC_ChefGoesLeftRight.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_249) "Building CXX object CMakeFiles/Competitive_Programming.dir/CC_ChefGoesLeftRight.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CC_ChefGoesLeftRight.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefGoesLeftRight.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CC_ChefGoesLeftRight.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefGoesLeftRight.cpp
 
 CMakeFiles/Competitive_Programming.dir/CC_ChefGoesLeftRight.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/CC_ChefGoesLeftRight.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefGoesLeftRight.cpp > CMakeFiles/Competitive_Programming.dir/CC_ChefGoesLeftRight.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefGoesLeftRight.cpp > CMakeFiles/Competitive_Programming.dir/CC_ChefGoesLeftRight.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/CC_ChefGoesLeftRight.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/CC_ChefGoesLeftRight.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefGoesLeftRight.cpp -o CMakeFiles/Competitive_Programming.dir/CC_ChefGoesLeftRight.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefGoesLeftRight.cpp -o CMakeFiles/Competitive_Programming.dir/CC_ChefGoesLeftRight.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/CC_ChefGoesLeftRight.cpp.o.requires:
 
@@ -6036,15 +6036,15 @@ CMakeFiles/Competitive_Programming.dir/CC_ChefGoesLeftRight.cpp.o.provides.build
 CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndSubarrayQueries.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndSubarrayQueries.cpp.o: ../DataStructures/CC_ChefAndSubarrayQueries.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_250) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndSubarrayQueries.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndSubarrayQueries.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_ChefAndSubarrayQueries.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndSubarrayQueries.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_ChefAndSubarrayQueries.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndSubarrayQueries.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndSubarrayQueries.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_ChefAndSubarrayQueries.cpp > CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndSubarrayQueries.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_ChefAndSubarrayQueries.cpp > CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndSubarrayQueries.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndSubarrayQueries.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndSubarrayQueries.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_ChefAndSubarrayQueries.cpp -o CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndSubarrayQueries.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_ChefAndSubarrayQueries.cpp -o CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndSubarrayQueries.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndSubarrayQueries.cpp.o.requires:
 
@@ -6060,15 +6060,15 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndSubarrayQueries.
 CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndSubarrayQueries2.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndSubarrayQueries2.cpp.o: ../DataStructures/CC_ChefAndSubarrayQueries2.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_251) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndSubarrayQueries2.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndSubarrayQueries2.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_ChefAndSubarrayQueries2.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndSubarrayQueries2.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_ChefAndSubarrayQueries2.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndSubarrayQueries2.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndSubarrayQueries2.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_ChefAndSubarrayQueries2.cpp > CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndSubarrayQueries2.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_ChefAndSubarrayQueries2.cpp > CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndSubarrayQueries2.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndSubarrayQueries2.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndSubarrayQueries2.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_ChefAndSubarrayQueries2.cpp -o CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndSubarrayQueries2.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_ChefAndSubarrayQueries2.cpp -o CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndSubarrayQueries2.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndSubarrayQueries2.cpp.o.requires:
 
@@ -6084,15 +6084,15 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndSubarrayQueries2
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_GSS1.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_GSS1.cpp.o: ../DataStructures/SPOJ_GSS1.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_252) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_GSS1.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_GSS1.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_GSS1.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_GSS1.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_GSS1.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_GSS1.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_GSS1.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_GSS1.cpp > CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_GSS1.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_GSS1.cpp > CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_GSS1.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_GSS1.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_GSS1.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_GSS1.cpp -o CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_GSS1.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_GSS1.cpp -o CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_GSS1.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_GSS1.cpp.o.requires:
 
@@ -6108,15 +6108,15 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_GSS1.cpp.o.provides.b
 CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/DFSConnectedComponents.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/DFSConnectedComponents.cpp.o: ../GraphTheory/Implementation/DFSConnectedComponents.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_253) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/DFSConnectedComponents.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/DFSConnectedComponents.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/DFSConnectedComponents.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/DFSConnectedComponents.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/DFSConnectedComponents.cpp
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/DFSConnectedComponents.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/DFSConnectedComponents.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/DFSConnectedComponents.cpp > CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/DFSConnectedComponents.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/DFSConnectedComponents.cpp > CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/DFSConnectedComponents.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/DFSConnectedComponents.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/DFSConnectedComponents.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/DFSConnectedComponents.cpp -o CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/DFSConnectedComponents.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/DFSConnectedComponents.cpp -o CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/DFSConnectedComponents.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/DFSConnectedComponents.cpp.o.requires:
 
@@ -6132,15 +6132,15 @@ CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/DFSConnectedCo
 CMakeFiles/Competitive_Programming.dir/CC_ProductOnSegment.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/CC_ProductOnSegment.cpp.o: ../CC_ProductOnSegment.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_254) "Building CXX object CMakeFiles/Competitive_Programming.dir/CC_ProductOnSegment.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CC_ProductOnSegment.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ProductOnSegment.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CC_ProductOnSegment.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ProductOnSegment.cpp
 
 CMakeFiles/Competitive_Programming.dir/CC_ProductOnSegment.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/CC_ProductOnSegment.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ProductOnSegment.cpp > CMakeFiles/Competitive_Programming.dir/CC_ProductOnSegment.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ProductOnSegment.cpp > CMakeFiles/Competitive_Programming.dir/CC_ProductOnSegment.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/CC_ProductOnSegment.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/CC_ProductOnSegment.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ProductOnSegment.cpp -o CMakeFiles/Competitive_Programming.dir/CC_ProductOnSegment.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ProductOnSegment.cpp -o CMakeFiles/Competitive_Programming.dir/CC_ProductOnSegment.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/CC_ProductOnSegment.cpp.o.requires:
 
@@ -6156,15 +6156,15 @@ CMakeFiles/Competitive_Programming.dir/CC_ProductOnSegment.cpp.o.provides.build:
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_QTREE1.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_QTREE1.cpp.o: ../DataStructures/SPOJ_QTREE1.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_255) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_QTREE1.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_QTREE1.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_QTREE1.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_QTREE1.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_QTREE1.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_QTREE1.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_QTREE1.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_QTREE1.cpp > CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_QTREE1.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_QTREE1.cpp > CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_QTREE1.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_QTREE1.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_QTREE1.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_QTREE1.cpp -o CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_QTREE1.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_QTREE1.cpp -o CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_QTREE1.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_QTREE1.cpp.o.requires:
 
@@ -6180,15 +6180,15 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_QTREE1.cpp.o.provides
 CMakeFiles/Competitive_Programming.dir/DataStructures/CC_LoversGift.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/CC_LoversGift.cpp.o: ../DataStructures/CC_LoversGift.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_256) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/CC_LoversGift.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/CC_LoversGift.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_LoversGift.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/CC_LoversGift.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_LoversGift.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CC_LoversGift.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DataStructures/CC_LoversGift.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_LoversGift.cpp > CMakeFiles/Competitive_Programming.dir/DataStructures/CC_LoversGift.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_LoversGift.cpp > CMakeFiles/Competitive_Programming.dir/DataStructures/CC_LoversGift.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CC_LoversGift.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DataStructures/CC_LoversGift.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_LoversGift.cpp -o CMakeFiles/Competitive_Programming.dir/DataStructures/CC_LoversGift.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_LoversGift.cpp -o CMakeFiles/Competitive_Programming.dir/DataStructures/CC_LoversGift.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CC_LoversGift.cpp.o.requires:
 
@@ -6204,15 +6204,15 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/CC_LoversGift.cpp.o.provid
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF495D_ObsessiveString.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF495D_ObsessiveString.cpp.o: ../DynamicProgramming/CF495D_ObsessiveString.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_257) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF495D_ObsessiveString.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF495D_ObsessiveString.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF495D_ObsessiveString.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF495D_ObsessiveString.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF495D_ObsessiveString.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF495D_ObsessiveString.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF495D_ObsessiveString.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF495D_ObsessiveString.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF495D_ObsessiveString.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF495D_ObsessiveString.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF495D_ObsessiveString.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF495D_ObsessiveString.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF495D_ObsessiveString.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF495D_ObsessiveString.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF495D_ObsessiveString.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF495D_ObsessiveString.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF495D_ObsessiveString.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF495D_ObsessiveString.cpp.o.requires:
 
@@ -6228,15 +6228,15 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF495D_ObsessiveString
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF383D_Antimatter.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF383D_Antimatter.cpp.o: ../DynamicProgramming/CF383D_Antimatter.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_258) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF383D_Antimatter.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF383D_Antimatter.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF383D_Antimatter.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF383D_Antimatter.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF383D_Antimatter.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF383D_Antimatter.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF383D_Antimatter.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF383D_Antimatter.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF383D_Antimatter.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF383D_Antimatter.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF383D_Antimatter.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF383D_Antimatter.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF383D_Antimatter.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF383D_Antimatter.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF383D_Antimatter.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF383D_Antimatter.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF383D_Antimatter.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF383D_Antimatter.cpp.o.requires:
 
@@ -6252,15 +6252,15 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF383D_Antimatter.cpp.
 CMakeFiles/Competitive_Programming.dir/CF525E_AnyaAndCubes.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/CF525E_AnyaAndCubes.cpp.o: ../CF525E_AnyaAndCubes.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_259) "Building CXX object CMakeFiles/Competitive_Programming.dir/CF525E_AnyaAndCubes.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CF525E_AnyaAndCubes.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CF525E_AnyaAndCubes.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CF525E_AnyaAndCubes.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CF525E_AnyaAndCubes.cpp
 
 CMakeFiles/Competitive_Programming.dir/CF525E_AnyaAndCubes.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/CF525E_AnyaAndCubes.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CF525E_AnyaAndCubes.cpp > CMakeFiles/Competitive_Programming.dir/CF525E_AnyaAndCubes.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CF525E_AnyaAndCubes.cpp > CMakeFiles/Competitive_Programming.dir/CF525E_AnyaAndCubes.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/CF525E_AnyaAndCubes.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/CF525E_AnyaAndCubes.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CF525E_AnyaAndCubes.cpp -o CMakeFiles/Competitive_Programming.dir/CF525E_AnyaAndCubes.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CF525E_AnyaAndCubes.cpp -o CMakeFiles/Competitive_Programming.dir/CF525E_AnyaAndCubes.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/CF525E_AnyaAndCubes.cpp.o.requires:
 
@@ -6276,15 +6276,15 @@ CMakeFiles/Competitive_Programming.dir/CF525E_AnyaAndCubes.cpp.o.provides.build:
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/Bitmasks.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/Bitmasks.cpp.o: ../OtherAlgorithms/Bitmasks.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_260) "Building CXX object CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/Bitmasks.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/Bitmasks.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/Bitmasks.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/Bitmasks.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/Bitmasks.cpp
 
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/Bitmasks.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/Bitmasks.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/Bitmasks.cpp > CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/Bitmasks.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/Bitmasks.cpp > CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/Bitmasks.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/Bitmasks.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/Bitmasks.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/Bitmasks.cpp -o CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/Bitmasks.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/Bitmasks.cpp -o CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/Bitmasks.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/Bitmasks.cpp.o.requires:
 
@@ -6300,15 +6300,15 @@ CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/Bitmasks.cpp.o.provides.b
 CMakeFiles/Competitive_Programming.dir/CF688E_TheValuesYouCanMake.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/CF688E_TheValuesYouCanMake.cpp.o: ../CF688E_TheValuesYouCanMake.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_261) "Building CXX object CMakeFiles/Competitive_Programming.dir/CF688E_TheValuesYouCanMake.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CF688E_TheValuesYouCanMake.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CF688E_TheValuesYouCanMake.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CF688E_TheValuesYouCanMake.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CF688E_TheValuesYouCanMake.cpp
 
 CMakeFiles/Competitive_Programming.dir/CF688E_TheValuesYouCanMake.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/CF688E_TheValuesYouCanMake.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CF688E_TheValuesYouCanMake.cpp > CMakeFiles/Competitive_Programming.dir/CF688E_TheValuesYouCanMake.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CF688E_TheValuesYouCanMake.cpp > CMakeFiles/Competitive_Programming.dir/CF688E_TheValuesYouCanMake.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/CF688E_TheValuesYouCanMake.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/CF688E_TheValuesYouCanMake.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CF688E_TheValuesYouCanMake.cpp -o CMakeFiles/Competitive_Programming.dir/CF688E_TheValuesYouCanMake.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CF688E_TheValuesYouCanMake.cpp -o CMakeFiles/Competitive_Programming.dir/CF688E_TheValuesYouCanMake.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/CF688E_TheValuesYouCanMake.cpp.o.requires:
 
@@ -6324,15 +6324,15 @@ CMakeFiles/Competitive_Programming.dir/CF688E_TheValuesYouCanMake.cpp.o.provides
 CMakeFiles/Competitive_Programming.dir/GraphTheory/CF659E_NewReform.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/GraphTheory/CF659E_NewReform.cpp.o: ../GraphTheory/CF659E_NewReform.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_262) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/CF659E_NewReform.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/GraphTheory/CF659E_NewReform.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/CF659E_NewReform.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/GraphTheory/CF659E_NewReform.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/CF659E_NewReform.cpp
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/CF659E_NewReform.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/GraphTheory/CF659E_NewReform.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/CF659E_NewReform.cpp > CMakeFiles/Competitive_Programming.dir/GraphTheory/CF659E_NewReform.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/CF659E_NewReform.cpp > CMakeFiles/Competitive_Programming.dir/GraphTheory/CF659E_NewReform.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/CF659E_NewReform.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/GraphTheory/CF659E_NewReform.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/CF659E_NewReform.cpp -o CMakeFiles/Competitive_Programming.dir/GraphTheory/CF659E_NewReform.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/CF659E_NewReform.cpp -o CMakeFiles/Competitive_Programming.dir/GraphTheory/CF659E_NewReform.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/CF659E_NewReform.cpp.o.requires:
 
@@ -6348,15 +6348,15 @@ CMakeFiles/Competitive_Programming.dir/GraphTheory/CF659E_NewReform.cpp.o.provid
 CMakeFiles/Competitive_Programming.dir/DataStructures/CC_LoversGift2.cpp.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/CC_LoversGift2.cpp.cpp.o: ../DataStructures/CC_LoversGift2.cpp.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_263) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/CC_LoversGift2.cpp.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/CC_LoversGift2.cpp.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_LoversGift2.cpp.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/CC_LoversGift2.cpp.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_LoversGift2.cpp.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CC_LoversGift2.cpp.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DataStructures/CC_LoversGift2.cpp.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_LoversGift2.cpp.cpp > CMakeFiles/Competitive_Programming.dir/DataStructures/CC_LoversGift2.cpp.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_LoversGift2.cpp.cpp > CMakeFiles/Competitive_Programming.dir/DataStructures/CC_LoversGift2.cpp.cpp.i
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CC_LoversGift2.cpp.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DataStructures/CC_LoversGift2.cpp.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_LoversGift2.cpp.cpp -o CMakeFiles/Competitive_Programming.dir/DataStructures/CC_LoversGift2.cpp.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_LoversGift2.cpp.cpp -o CMakeFiles/Competitive_Programming.dir/DataStructures/CC_LoversGift2.cpp.cpp.s
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CC_LoversGift2.cpp.cpp.o.requires:
 
@@ -6367,6 +6367,294 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/CC_LoversGift2.cpp.cpp.o.p
 .PHONY : CMakeFiles/Competitive_Programming.dir/DataStructures/CC_LoversGift2.cpp.cpp.o.provides
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CC_LoversGift2.cpp.cpp.o.provides.build: CMakeFiles/Competitive_Programming.dir/DataStructures/CC_LoversGift2.cpp.cpp.o
+
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF479D_RidingInALift.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF479D_RidingInALift.cpp.o: ../DynamicProgramming/CF479D_RidingInALift.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_264) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF479D_RidingInALift.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF479D_RidingInALift.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF479D_RidingInALift.cpp
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF479D_RidingInALift.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF479D_RidingInALift.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF479D_RidingInALift.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF479D_RidingInALift.cpp.i
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF479D_RidingInALift.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF479D_RidingInALift.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF479D_RidingInALift.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF479D_RidingInALift.cpp.s
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF479D_RidingInALift.cpp.o.requires:
+
+.PHONY : CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF479D_RidingInALift.cpp.o.requires
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF479D_RidingInALift.cpp.o.provides: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF479D_RidingInALift.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF479D_RidingInALift.cpp.o.provides.build
+.PHONY : CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF479D_RidingInALift.cpp.o.provides
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF479D_RidingInALift.cpp.o.provides.build: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF479D_RidingInALift.cpp.o
+
+
+CMakeFiles/Competitive_Programming.dir/CF340D_BubbleSortGraph.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
+CMakeFiles/Competitive_Programming.dir/CF340D_BubbleSortGraph.cpp.o: ../CF340D_BubbleSortGraph.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_265) "Building CXX object CMakeFiles/Competitive_Programming.dir/CF340D_BubbleSortGraph.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CF340D_BubbleSortGraph.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CF340D_BubbleSortGraph.cpp
+
+CMakeFiles/Competitive_Programming.dir/CF340D_BubbleSortGraph.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/CF340D_BubbleSortGraph.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CF340D_BubbleSortGraph.cpp > CMakeFiles/Competitive_Programming.dir/CF340D_BubbleSortGraph.cpp.i
+
+CMakeFiles/Competitive_Programming.dir/CF340D_BubbleSortGraph.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/CF340D_BubbleSortGraph.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CF340D_BubbleSortGraph.cpp -o CMakeFiles/Competitive_Programming.dir/CF340D_BubbleSortGraph.cpp.s
+
+CMakeFiles/Competitive_Programming.dir/CF340D_BubbleSortGraph.cpp.o.requires:
+
+.PHONY : CMakeFiles/Competitive_Programming.dir/CF340D_BubbleSortGraph.cpp.o.requires
+
+CMakeFiles/Competitive_Programming.dir/CF340D_BubbleSortGraph.cpp.o.provides: CMakeFiles/Competitive_Programming.dir/CF340D_BubbleSortGraph.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CF340D_BubbleSortGraph.cpp.o.provides.build
+.PHONY : CMakeFiles/Competitive_Programming.dir/CF340D_BubbleSortGraph.cpp.o.provides
+
+CMakeFiles/Competitive_Programming.dir/CF340D_BubbleSortGraph.cpp.o.provides.build: CMakeFiles/Competitive_Programming.dir/CF340D_BubbleSortGraph.cpp.o
+
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndMediumProblem2.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
+CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndMediumProblem2.cpp.o: ../DataStructures/CC_ChefAndMediumProblem2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_266) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndMediumProblem2.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndMediumProblem2.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_ChefAndMediumProblem2.cpp
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndMediumProblem2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndMediumProblem2.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_ChefAndMediumProblem2.cpp > CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndMediumProblem2.cpp.i
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndMediumProblem2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndMediumProblem2.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_ChefAndMediumProblem2.cpp -o CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndMediumProblem2.cpp.s
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndMediumProblem2.cpp.o.requires:
+
+.PHONY : CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndMediumProblem2.cpp.o.requires
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndMediumProblem2.cpp.o.provides: CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndMediumProblem2.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndMediumProblem2.cpp.o.provides.build
+.PHONY : CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndMediumProblem2.cpp.o.provides
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndMediumProblem2.cpp.o.provides.build: CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndMediumProblem2.cpp.o
+
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/ExunPrelimsP2.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/ExunPrelimsP2.cpp.o: ../DynamicProgramming/ExunPrelimsP2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_267) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/ExunPrelimsP2.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/ExunPrelimsP2.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/ExunPrelimsP2.cpp
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/ExunPrelimsP2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/ExunPrelimsP2.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/ExunPrelimsP2.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/ExunPrelimsP2.cpp.i
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/ExunPrelimsP2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/ExunPrelimsP2.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/ExunPrelimsP2.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/ExunPrelimsP2.cpp.s
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/ExunPrelimsP2.cpp.o.requires:
+
+.PHONY : CMakeFiles/Competitive_Programming.dir/DynamicProgramming/ExunPrelimsP2.cpp.o.requires
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/ExunPrelimsP2.cpp.o.provides: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/ExunPrelimsP2.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/ExunPrelimsP2.cpp.o.provides.build
+.PHONY : CMakeFiles/Competitive_Programming.dir/DynamicProgramming/ExunPrelimsP2.cpp.o.provides
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/ExunPrelimsP2.cpp.o.provides.build: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/ExunPrelimsP2.cpp.o
+
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/CF892E_Envy.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
+CMakeFiles/Competitive_Programming.dir/GraphTheory/CF892E_Envy.cpp.o: ../GraphTheory/CF892E_Envy.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_268) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/CF892E_Envy.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/GraphTheory/CF892E_Envy.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/CF892E_Envy.cpp
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/CF892E_Envy.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/GraphTheory/CF892E_Envy.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/CF892E_Envy.cpp > CMakeFiles/Competitive_Programming.dir/GraphTheory/CF892E_Envy.cpp.i
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/CF892E_Envy.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/GraphTheory/CF892E_Envy.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/CF892E_Envy.cpp -o CMakeFiles/Competitive_Programming.dir/GraphTheory/CF892E_Envy.cpp.s
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/CF892E_Envy.cpp.o.requires:
+
+.PHONY : CMakeFiles/Competitive_Programming.dir/GraphTheory/CF892E_Envy.cpp.o.requires
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/CF892E_Envy.cpp.o.provides: CMakeFiles/Competitive_Programming.dir/GraphTheory/CF892E_Envy.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/CF892E_Envy.cpp.o.provides.build
+.PHONY : CMakeFiles/Competitive_Programming.dir/GraphTheory/CF892E_Envy.cpp.o.provides
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/CF892E_Envy.cpp.o.provides.build: CMakeFiles/Competitive_Programming.dir/GraphTheory/CF892E_Envy.cpp.o
+
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/CF686D_KayAndSnowflake.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
+CMakeFiles/Competitive_Programming.dir/DataStructures/CF686D_KayAndSnowflake.cpp.o: ../DataStructures/CF686D_KayAndSnowflake.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_269) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/CF686D_KayAndSnowflake.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/CF686D_KayAndSnowflake.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CF686D_KayAndSnowflake.cpp
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/CF686D_KayAndSnowflake.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DataStructures/CF686D_KayAndSnowflake.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CF686D_KayAndSnowflake.cpp > CMakeFiles/Competitive_Programming.dir/DataStructures/CF686D_KayAndSnowflake.cpp.i
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/CF686D_KayAndSnowflake.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DataStructures/CF686D_KayAndSnowflake.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CF686D_KayAndSnowflake.cpp -o CMakeFiles/Competitive_Programming.dir/DataStructures/CF686D_KayAndSnowflake.cpp.s
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/CF686D_KayAndSnowflake.cpp.o.requires:
+
+.PHONY : CMakeFiles/Competitive_Programming.dir/DataStructures/CF686D_KayAndSnowflake.cpp.o.requires
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/CF686D_KayAndSnowflake.cpp.o.provides: CMakeFiles/Competitive_Programming.dir/DataStructures/CF686D_KayAndSnowflake.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CF686D_KayAndSnowflake.cpp.o.provides.build
+.PHONY : CMakeFiles/Competitive_Programming.dir/DataStructures/CF686D_KayAndSnowflake.cpp.o.provides
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/CF686D_KayAndSnowflake.cpp.o.provides.build: CMakeFiles/Competitive_Programming.dir/DataStructures/CF686D_KayAndSnowflake.cpp.o
+
+
+CMakeFiles/Competitive_Programming.dir/CF519E_AAndBLectureRooms.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
+CMakeFiles/Competitive_Programming.dir/CF519E_AAndBLectureRooms.cpp.o: ../CF519E_AAndBLectureRooms.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_270) "Building CXX object CMakeFiles/Competitive_Programming.dir/CF519E_AAndBLectureRooms.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/CF519E_AAndBLectureRooms.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CF519E_AAndBLectureRooms.cpp
+
+CMakeFiles/Competitive_Programming.dir/CF519E_AAndBLectureRooms.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/CF519E_AAndBLectureRooms.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CF519E_AAndBLectureRooms.cpp > CMakeFiles/Competitive_Programming.dir/CF519E_AAndBLectureRooms.cpp.i
+
+CMakeFiles/Competitive_Programming.dir/CF519E_AAndBLectureRooms.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/CF519E_AAndBLectureRooms.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CF519E_AAndBLectureRooms.cpp -o CMakeFiles/Competitive_Programming.dir/CF519E_AAndBLectureRooms.cpp.s
+
+CMakeFiles/Competitive_Programming.dir/CF519E_AAndBLectureRooms.cpp.o.requires:
+
+.PHONY : CMakeFiles/Competitive_Programming.dir/CF519E_AAndBLectureRooms.cpp.o.requires
+
+CMakeFiles/Competitive_Programming.dir/CF519E_AAndBLectureRooms.cpp.o.provides: CMakeFiles/Competitive_Programming.dir/CF519E_AAndBLectureRooms.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CF519E_AAndBLectureRooms.cpp.o.provides.build
+.PHONY : CMakeFiles/Competitive_Programming.dir/CF519E_AAndBLectureRooms.cpp.o.provides
+
+CMakeFiles/Competitive_Programming.dir/CF519E_AAndBLectureRooms.cpp.o.provides.build: CMakeFiles/Competitive_Programming.dir/CF519E_AAndBLectureRooms.cpp.o
+
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/Exun2017_Digex.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/Exun2017_Digex.cpp.o: ../DynamicProgramming/Exun2017_Digex.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_271) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/Exun2017_Digex.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/Exun2017_Digex.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/Exun2017_Digex.cpp
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/Exun2017_Digex.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/Exun2017_Digex.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/Exun2017_Digex.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/Exun2017_Digex.cpp.i
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/Exun2017_Digex.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/Exun2017_Digex.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/Exun2017_Digex.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/Exun2017_Digex.cpp.s
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/Exun2017_Digex.cpp.o.requires:
+
+.PHONY : CMakeFiles/Competitive_Programming.dir/DynamicProgramming/Exun2017_Digex.cpp.o.requires
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/Exun2017_Digex.cpp.o.provides: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/Exun2017_Digex.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/Exun2017_Digex.cpp.o.provides.build
+.PHONY : CMakeFiles/Competitive_Programming.dir/DynamicProgramming/Exun2017_Digex.cpp.o.provides
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/Exun2017_Digex.cpp.o.provides.build: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/Exun2017_Digex.cpp.o
+
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/Exun2017_DigexReturns.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/Exun2017_DigexReturns.cpp.o: ../DynamicProgramming/Exun2017_DigexReturns.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_272) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/Exun2017_DigexReturns.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/Exun2017_DigexReturns.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/Exun2017_DigexReturns.cpp
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/Exun2017_DigexReturns.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/Exun2017_DigexReturns.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/Exun2017_DigexReturns.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/Exun2017_DigexReturns.cpp.i
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/Exun2017_DigexReturns.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/Exun2017_DigexReturns.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/Exun2017_DigexReturns.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/Exun2017_DigexReturns.cpp.s
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/Exun2017_DigexReturns.cpp.o.requires:
+
+.PHONY : CMakeFiles/Competitive_Programming.dir/DynamicProgramming/Exun2017_DigexReturns.cpp.o.requires
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/Exun2017_DigexReturns.cpp.o.provides: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/Exun2017_DigexReturns.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/Exun2017_DigexReturns.cpp.o.provides.build
+.PHONY : CMakeFiles/Competitive_Programming.dir/DynamicProgramming/Exun2017_DigexReturns.cpp.o.provides
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/Exun2017_DigexReturns.cpp.o.provides.build: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/Exun2017_DigexReturns.cpp.o
+
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOI96_AGame.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOI96_AGame.cpp.o: ../DynamicProgramming/IOI96_AGame.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_273) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOI96_AGame.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOI96_AGame.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/IOI96_AGame.cpp
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOI96_AGame.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOI96_AGame.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/IOI96_AGame.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOI96_AGame.cpp.i
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOI96_AGame.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOI96_AGame.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/IOI96_AGame.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOI96_AGame.cpp.s
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOI96_AGame.cpp.o.requires:
+
+.PHONY : CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOI96_AGame.cpp.o.requires
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOI96_AGame.cpp.o.provides: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOI96_AGame.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOI96_AGame.cpp.o.provides.build
+.PHONY : CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOI96_AGame.cpp.o.provides
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOI96_AGame.cpp.o.provides.build: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOI96_AGame.cpp.o
+
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOI2000_PostOffices.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOI2000_PostOffices.cpp.o: ../DynamicProgramming/IOI2000_PostOffices.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_274) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOI2000_PostOffices.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOI2000_PostOffices.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/IOI2000_PostOffices.cpp
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOI2000_PostOffices.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOI2000_PostOffices.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/IOI2000_PostOffices.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOI2000_PostOffices.cpp.i
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOI2000_PostOffices.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOI2000_PostOffices.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/IOI2000_PostOffices.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOI2000_PostOffices.cpp.s
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOI2000_PostOffices.cpp.o.requires:
+
+.PHONY : CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOI2000_PostOffices.cpp.o.requires
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOI2000_PostOffices.cpp.o.provides: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOI2000_PostOffices.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOI2000_PostOffices.cpp.o.provides.build
+.PHONY : CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOI2000_PostOffices.cpp.o.provides
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOI2000_PostOffices.cpp.o.provides.build: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOI2000_PostOffices.cpp.o
+
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/CF342E_XeniaAndTree.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
+CMakeFiles/Competitive_Programming.dir/DataStructures/CF342E_XeniaAndTree.cpp.o: ../DataStructures/CF342E_XeniaAndTree.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_275) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/CF342E_XeniaAndTree.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/CF342E_XeniaAndTree.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CF342E_XeniaAndTree.cpp
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/CF342E_XeniaAndTree.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DataStructures/CF342E_XeniaAndTree.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CF342E_XeniaAndTree.cpp > CMakeFiles/Competitive_Programming.dir/DataStructures/CF342E_XeniaAndTree.cpp.i
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/CF342E_XeniaAndTree.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DataStructures/CF342E_XeniaAndTree.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CF342E_XeniaAndTree.cpp -o CMakeFiles/Competitive_Programming.dir/DataStructures/CF342E_XeniaAndTree.cpp.s
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/CF342E_XeniaAndTree.cpp.o.requires:
+
+.PHONY : CMakeFiles/Competitive_Programming.dir/DataStructures/CF342E_XeniaAndTree.cpp.o.requires
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/CF342E_XeniaAndTree.cpp.o.provides: CMakeFiles/Competitive_Programming.dir/DataStructures/CF342E_XeniaAndTree.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CF342E_XeniaAndTree.cpp.o.provides.build
+.PHONY : CMakeFiles/Competitive_Programming.dir/DataStructures/CF342E_XeniaAndTree.cpp.o.provides
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/CF342E_XeniaAndTree.cpp.o.provides.build: CMakeFiles/Competitive_Programming.dir/DataStructures/CF342E_XeniaAndTree.cpp.o
 
 
 # Object files for target Competitive_Programming
@@ -6633,7 +6921,19 @@ Competitive_Programming_OBJECTS = \
 "CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/Bitmasks.cpp.o" \
 "CMakeFiles/Competitive_Programming.dir/CF688E_TheValuesYouCanMake.cpp.o" \
 "CMakeFiles/Competitive_Programming.dir/GraphTheory/CF659E_NewReform.cpp.o" \
-"CMakeFiles/Competitive_Programming.dir/DataStructures/CC_LoversGift2.cpp.cpp.o"
+"CMakeFiles/Competitive_Programming.dir/DataStructures/CC_LoversGift2.cpp.cpp.o" \
+"CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF479D_RidingInALift.cpp.o" \
+"CMakeFiles/Competitive_Programming.dir/CF340D_BubbleSortGraph.cpp.o" \
+"CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndMediumProblem2.cpp.o" \
+"CMakeFiles/Competitive_Programming.dir/DynamicProgramming/ExunPrelimsP2.cpp.o" \
+"CMakeFiles/Competitive_Programming.dir/GraphTheory/CF892E_Envy.cpp.o" \
+"CMakeFiles/Competitive_Programming.dir/DataStructures/CF686D_KayAndSnowflake.cpp.o" \
+"CMakeFiles/Competitive_Programming.dir/CF519E_AAndBLectureRooms.cpp.o" \
+"CMakeFiles/Competitive_Programming.dir/DynamicProgramming/Exun2017_Digex.cpp.o" \
+"CMakeFiles/Competitive_Programming.dir/DynamicProgramming/Exun2017_DigexReturns.cpp.o" \
+"CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOI96_AGame.cpp.o" \
+"CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOI2000_PostOffices.cpp.o" \
+"CMakeFiles/Competitive_Programming.dir/DataStructures/CF342E_XeniaAndTree.cpp.o"
 
 # External object files for target Competitive_Programming
 Competitive_Programming_EXTERNAL_OBJECTS =
@@ -6901,9 +7201,21 @@ Competitive_Programming: CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/
 Competitive_Programming: CMakeFiles/Competitive_Programming.dir/CF688E_TheValuesYouCanMake.cpp.o
 Competitive_Programming: CMakeFiles/Competitive_Programming.dir/GraphTheory/CF659E_NewReform.cpp.o
 Competitive_Programming: CMakeFiles/Competitive_Programming.dir/DataStructures/CC_LoversGift2.cpp.cpp.o
+Competitive_Programming: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF479D_RidingInALift.cpp.o
+Competitive_Programming: CMakeFiles/Competitive_Programming.dir/CF340D_BubbleSortGraph.cpp.o
+Competitive_Programming: CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndMediumProblem2.cpp.o
+Competitive_Programming: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/ExunPrelimsP2.cpp.o
+Competitive_Programming: CMakeFiles/Competitive_Programming.dir/GraphTheory/CF892E_Envy.cpp.o
+Competitive_Programming: CMakeFiles/Competitive_Programming.dir/DataStructures/CF686D_KayAndSnowflake.cpp.o
+Competitive_Programming: CMakeFiles/Competitive_Programming.dir/CF519E_AAndBLectureRooms.cpp.o
+Competitive_Programming: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/Exun2017_Digex.cpp.o
+Competitive_Programming: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/Exun2017_DigexReturns.cpp.o
+Competitive_Programming: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOI96_AGame.cpp.o
+Competitive_Programming: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOI2000_PostOffices.cpp.o
+Competitive_Programming: CMakeFiles/Competitive_Programming.dir/DataStructures/CF342E_XeniaAndTree.cpp.o
 Competitive_Programming: CMakeFiles/Competitive_Programming.dir/build.make
 Competitive_Programming: CMakeFiles/Competitive_Programming.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_264) "Linking CXX executable Competitive_Programming"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_276) "Linking CXX executable Competitive_Programming"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Competitive_Programming.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -7174,6 +7486,18 @@ CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programm
 CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/CF688E_TheValuesYouCanMake.cpp.o.requires
 CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/GraphTheory/CF659E_NewReform.cpp.o.requires
 CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/DataStructures/CC_LoversGift2.cpp.cpp.o.requires
+CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF479D_RidingInALift.cpp.o.requires
+CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/CF340D_BubbleSortGraph.cpp.o.requires
+CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndMediumProblem2.cpp.o.requires
+CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/ExunPrelimsP2.cpp.o.requires
+CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/GraphTheory/CF892E_Envy.cpp.o.requires
+CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/DataStructures/CF686D_KayAndSnowflake.cpp.o.requires
+CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/CF519E_AAndBLectureRooms.cpp.o.requires
+CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/Exun2017_Digex.cpp.o.requires
+CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/Exun2017_DigexReturns.cpp.o.requires
+CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOI96_AGame.cpp.o.requires
+CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOI2000_PostOffices.cpp.o.requires
+CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/DataStructures/CF342E_XeniaAndTree.cpp.o.requires
 
 .PHONY : CMakeFiles/Competitive_Programming.dir/requires
 

@@ -251,7 +251,7 @@ set(SOURCE_FILES
         UVa_TourDeFrance.cpp
         UVa_Y2KAccountingBug.cpp
         UVa_Zones.cpp
-        YogesMM.cpp OtherAlgorithms/Knuth-Morris-Pratt-Algorithm.cpp CC_ChefGoesLeftRight.cpp DataStructures/CC_ChefAndSubarrayQueries.cpp DataStructures/CC_ChefAndSubarrayQueries2.cpp DataStructures/SPOJ_GSS1.cpp GraphTheory/Implementation/DFSConnectedComponents.cpp CC_ProductOnSegment.cpp DataStructures/SPOJ_QTREE1.cpp DataStructures/CC_LoversGift.cpp DynamicProgramming/CF495D_ObsessiveString.cpp DynamicProgramming/CF383D_Antimatter.cpp CF525E_AnyaAndCubes.cpp OtherAlgorithms/Bitmasks.cpp CF688E_TheValuesYouCanMake.cpp GraphTheory/CF659E_NewReform.cpp DataStructures/CC_LoversGift2.cpp.cpp)
+        YogesMM.cpp OtherAlgorithms/Knuth-Morris-Pratt-Algorithm.cpp CC_ChefGoesLeftRight.cpp DataStructures/CC_ChefAndSubarrayQueries.cpp DataStructures/CC_ChefAndSubarrayQueries2.cpp DataStructures/SPOJ_GSS1.cpp GraphTheory/Implementation/DFSConnectedComponents.cpp CC_ProductOnSegment.cpp DataStructures/SPOJ_QTREE1.cpp DataStructures/CC_LoversGift.cpp DynamicProgramming/CF495D_ObsessiveString.cpp DynamicProgramming/CF383D_Antimatter.cpp CF525E_AnyaAndCubes.cpp OtherAlgorithms/Bitmasks.cpp CF688E_TheValuesYouCanMake.cpp GraphTheory/CF659E_NewReform.cpp DataStructures/CC_LoversGift2.cpp.cpp DynamicProgramming/CF479D_RidingInALift.cpp CF340D_BubbleSortGraph.cpp DataStructures/CC_ChefAndMediumProblem2.cpp DynamicProgramming/ExunPrelimsP2.cpp GraphTheory/CF892E_Envy.cpp DataStructures/CF686D_KayAndSnowflake.cpp CF519E_AAndBLectureRooms.cpp DynamicProgramming/Exun2017_Digex.cpp DynamicProgramming/Exun2017_DigexReturns.cpp DynamicProgramming/IOI96_AGame.cpp DynamicProgramming/IOI2000_PostOffices.cpp DataStructures/CF342E_XeniaAndTree.cpp)
 
 add_executable(Competitive_Programming ${SOURCE_FILES})
 add_executable(CF347D_LuckyCommonSubsequence2 DynamicProgramming/CF347D_LuckyCommonSubsequence2.cpp)
@@ -270,3 +270,15 @@ add_executable(CF383D_Antimatter DynamicProgramming/CF383D_Antimatter.cpp)
 add_executable(CF525E_AnyaAndCubes CF525E_AnyaAndCubes.cpp)
 add_executable(CF688E_TheValuesYouCanMake CF688E_TheValuesYouCanMake.cpp)
 add_executable(CF659E_NewReform GraphTheory/CF659E_NewReform.cpp)
+add_executable(CF479D_RidingInALift DynamicProgramming/CF479D_RidingInALift.cpp)
+add_executable(CF340D_BubbleSortGraph CF340D_BubbleSortGraph.cpp)
+add_executable(CC_ChefAndMediumProblem2 DataStructures/CC_ChefAndMediumProblem2.cpp)
+add_executable(ExunPrelimsP2 DynamicProgramming/ExunPrelimsP2.cpp)
+add_executable(CF892E_Envy GraphTheory/CF892E_Envy.cpp)
+add_executable(CF686D_KayAndSnowflake DataStructures/CF686D_KayAndSnowflake.cpp)
+add_executable(CF519E_AAndBLectureRooms CF519E_AAndBLectureRooms.cpp)
+add_executable(Exun2017_Digex DynamicProgramming/Exun2017_Digex.cpp)
+add_executable(Exun2017_DigexReturns DynamicProgramming/Exun2017_DigexReturns.cpp)
+add_executable(IOI96_AGame DynamicProgramming/IOI96_AGame.cpp)
+add_executable(IOI2000_PostOffices DynamicProgramming/IOI2000_PostOffices.cpp)
+add_executable(CF342E_XeniaAndTree DataStructures/CF342E_XeniaAndTree.cpp)

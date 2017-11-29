@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/IOI2000_PostOffices.dir/DynamicProgramming/IOI2000_PostOffices.cpp.o  -o IOI2000_PostOffices 

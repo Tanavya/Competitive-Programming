@@ -34,10 +34,10 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = /Volumes/x10ded/Applications/CLion.app/Contents/bin/cmake/bin/cmake
+CMAKE_COMMAND = /Applications/CLion.app/Contents/bin/cmake/bin/cmake
 
 # The command to remove a file.
-RM = /Volumes/x10ded/Applications/CLion.app/Contents/bin/cmake/bin/cmake -E remove -f
+RM = /Applications/CLion.app/Contents/bin/cmake/bin/cmake -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
@@ -60,15 +60,15 @@ include CMakeFiles/CF495D_ObsessiveString.dir/flags.make
 CMakeFiles/CF495D_ObsessiveString.dir/DynamicProgramming/CF495D_ObsessiveString.cpp.o: CMakeFiles/CF495D_ObsessiveString.dir/flags.make
 CMakeFiles/CF495D_ObsessiveString.dir/DynamicProgramming/CF495D_ObsessiveString.cpp.o: ../DynamicProgramming/CF495D_ObsessiveString.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CF495D_ObsessiveString.dir/DynamicProgramming/CF495D_ObsessiveString.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CF495D_ObsessiveString.dir/DynamicProgramming/CF495D_ObsessiveString.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF495D_ObsessiveString.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CF495D_ObsessiveString.dir/DynamicProgramming/CF495D_ObsessiveString.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF495D_ObsessiveString.cpp
 
 CMakeFiles/CF495D_ObsessiveString.dir/DynamicProgramming/CF495D_ObsessiveString.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CF495D_ObsessiveString.dir/DynamicProgramming/CF495D_ObsessiveString.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF495D_ObsessiveString.cpp > CMakeFiles/CF495D_ObsessiveString.dir/DynamicProgramming/CF495D_ObsessiveString.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF495D_ObsessiveString.cpp > CMakeFiles/CF495D_ObsessiveString.dir/DynamicProgramming/CF495D_ObsessiveString.cpp.i
 
 CMakeFiles/CF495D_ObsessiveString.dir/DynamicProgramming/CF495D_ObsessiveString.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CF495D_ObsessiveString.dir/DynamicProgramming/CF495D_ObsessiveString.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF495D_ObsessiveString.cpp -o CMakeFiles/CF495D_ObsessiveString.dir/DynamicProgramming/CF495D_ObsessiveString.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF495D_ObsessiveString.cpp -o CMakeFiles/CF495D_ObsessiveString.dir/DynamicProgramming/CF495D_ObsessiveString.cpp.s
 
 CMakeFiles/CF495D_ObsessiveString.dir/DynamicProgramming/CF495D_ObsessiveString.cpp.o.requires:
 

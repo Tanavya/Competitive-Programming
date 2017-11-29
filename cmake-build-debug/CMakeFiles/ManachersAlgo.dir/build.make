@@ -34,10 +34,10 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = /Volumes/x10ded/Applications/CLion.app/Contents/bin/cmake/bin/cmake
+CMAKE_COMMAND = /Applications/CLion.app/Contents/bin/cmake/bin/cmake
 
 # The command to remove a file.
-RM = /Volumes/x10ded/Applications/CLion.app/Contents/bin/cmake/bin/cmake -E remove -f
+RM = /Applications/CLion.app/Contents/bin/cmake/bin/cmake -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
@@ -60,15 +60,15 @@ include CMakeFiles/ManachersAlgo.dir/flags.make
 CMakeFiles/ManachersAlgo.dir/OtherAlgorithms/ManachersAlgo.cpp.o: CMakeFiles/ManachersAlgo.dir/flags.make
 CMakeFiles/ManachersAlgo.dir/OtherAlgorithms/ManachersAlgo.cpp.o: ../OtherAlgorithms/ManachersAlgo.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/ManachersAlgo.dir/OtherAlgorithms/ManachersAlgo.cpp.o"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ManachersAlgo.dir/OtherAlgorithms/ManachersAlgo.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/ManachersAlgo.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ManachersAlgo.dir/OtherAlgorithms/ManachersAlgo.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/ManachersAlgo.cpp
 
 CMakeFiles/ManachersAlgo.dir/OtherAlgorithms/ManachersAlgo.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ManachersAlgo.dir/OtherAlgorithms/ManachersAlgo.cpp.i"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/ManachersAlgo.cpp > CMakeFiles/ManachersAlgo.dir/OtherAlgorithms/ManachersAlgo.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/ManachersAlgo.cpp > CMakeFiles/ManachersAlgo.dir/OtherAlgorithms/ManachersAlgo.cpp.i
 
 CMakeFiles/ManachersAlgo.dir/OtherAlgorithms/ManachersAlgo.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ManachersAlgo.dir/OtherAlgorithms/ManachersAlgo.cpp.s"
-	/Volumes/x10ded/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/ManachersAlgo.cpp -o CMakeFiles/ManachersAlgo.dir/OtherAlgorithms/ManachersAlgo.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/ManachersAlgo.cpp -o CMakeFiles/ManachersAlgo.dir/OtherAlgorithms/ManachersAlgo.cpp.s
 
 CMakeFiles/ManachersAlgo.dir/OtherAlgorithms/ManachersAlgo.cpp.o.requires:
 
