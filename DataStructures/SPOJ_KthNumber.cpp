@@ -75,7 +75,9 @@ int main() {
     while (Q--) {
         int a1, b1, target, mid;
         scanf("%d %d %d", &a, &b, &target);
+
         target--;
+
         a1 = 0, b1 = N-1;
         int ans = 0;
         while (a1 <= b1) { //binary search the answer.. SO annoying and difficult to debug. :/

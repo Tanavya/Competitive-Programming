@@ -32,8 +32,9 @@ const ld EPS = 1e-9, PI = 3.1415926535897932384626433832795;
 
 using namespace std;
 
-vi low, disc, S;
-vector <vi> graph;
+const int maxn = 1e5+10;
+vi low, disc, S, topo, component;
+vector <vi> graph(maxn), graphTranspose(maxn);
 bitset <20> visited, recursiveStack;
 int t = 0, cnt = 0;
 
@@ -59,22 +60,60 @@ void tarzan(int node) {
     }
 }
 
+//Kosaraju
+
+void dfs1(int node) {
+    for (int adj : graph[node]) {
+        if (!visited[adj]) {
+            visited[adj] = true;
+            dfs1(adj);
+        }
+    }
+    topo.push_back(node);
+}
+void dfs2(int node) {
+    component.push_back(node);
+    for (int adj : graphTranspose[node]) {
+        if (!visited[adj]) {
+            visited[adj] = true;
+            dfs2(adj);
+        }
+    }
+}
+
 int main() {
     int N, M, a, b;
     scanf("%d %d", &N, &M);
     low = disc = vi (N+1, 0);
-    graph.resize(N+1);
     for (int i = 0; i < M; i++) {
         scanf("%d %d", &a, &b);
         graph[a].pb(b);
+        graphTranspose[b].pb(a);
     }
+    /*
     for (int i = 1; i <= N; i++)
         if (!visited[i])
             tarzan(i);
+    */
+    //in int main()
+    for (int i = 1; i <= N; i++) {
+        if (!visited[i]) {
+            visited[i] = true;
+            dfs1(i);
+        }
+    }
+    visited.reset();
+    for (int i = N-1; i >= 0; i--) {
+        if (!visited[topo[i]]) {
+            component.clear();
+            visited[topo[i]] = true;
+            dfs2(topo[i]);
+            cout << "SCC: "; print(component);
+        }
+    }
 }
 /*
-7 9
-0 1
+7 8
 1 3
 3 2
 2 1

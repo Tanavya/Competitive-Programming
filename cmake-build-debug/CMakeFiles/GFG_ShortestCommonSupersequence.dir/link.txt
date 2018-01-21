@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/GFG_ShortestCommonSupersequence.dir/DynamicProgramming/GFG_ShortestCommonSupersequence.cpp.o  -o GFG_ShortestCommonSupersequence 

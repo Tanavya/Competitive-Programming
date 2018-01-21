@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/SCCTarjan.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+climits
+-
+stdio.h
+-
+queue
+-
+set
+-
+list
+-
+cmath
+-
+assert.h
+-
+bitset
+-
+map
+-
+unordered_map
+-
+unordered_set
+-
+iomanip
+-
+

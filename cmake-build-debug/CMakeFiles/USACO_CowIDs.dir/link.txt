@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/USACO_CowIDs.dir/USACO_CowIDs.cpp.o  -o USACO_CowIDs 

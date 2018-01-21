@@ -60,6 +60,1153 @@ CMAKE_SOURCE_DIR = /Users/tanavya.dimri/Desktop/Competitive-Programming
 CMAKE_BINARY_DIR = /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug
 
 #=============================================================================
+# Target rules for target CMakeFiles/CC_PishtyAndTree_Alternate.dir
+
+# All Build rule for target.
+CMakeFiles/CC_PishtyAndTree_Alternate.dir/all:
+	$(MAKE) -f CMakeFiles/CC_PishtyAndTree_Alternate.dir/build.make CMakeFiles/CC_PishtyAndTree_Alternate.dir/depend
+	$(MAKE) -f CMakeFiles/CC_PishtyAndTree_Alternate.dir/build.make CMakeFiles/CC_PishtyAndTree_Alternate.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=4 "Built target CC_PishtyAndTree_Alternate"
+.PHONY : CMakeFiles/CC_PishtyAndTree_Alternate.dir/all
+
+# Include target in all.
+all: CMakeFiles/CC_PishtyAndTree_Alternate.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/CC_PishtyAndTree_Alternate.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 1
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/CC_PishtyAndTree_Alternate.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/CC_PishtyAndTree_Alternate.dir/rule
+
+# Convenience name for target.
+CC_PishtyAndTree_Alternate: CMakeFiles/CC_PishtyAndTree_Alternate.dir/rule
+
+.PHONY : CC_PishtyAndTree_Alternate
+
+# clean rule for target.
+CMakeFiles/CC_PishtyAndTree_Alternate.dir/clean:
+	$(MAKE) -f CMakeFiles/CC_PishtyAndTree_Alternate.dir/build.make CMakeFiles/CC_PishtyAndTree_Alternate.dir/clean
+.PHONY : CMakeFiles/CC_PishtyAndTree_Alternate.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/CC_PishtyAndTree_Alternate.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/CF118D_CaesarsLegions.dir
+
+# All Build rule for target.
+CMakeFiles/CF118D_CaesarsLegions.dir/all:
+	$(MAKE) -f CMakeFiles/CF118D_CaesarsLegions.dir/build.make CMakeFiles/CF118D_CaesarsLegions.dir/depend
+	$(MAKE) -f CMakeFiles/CF118D_CaesarsLegions.dir/build.make CMakeFiles/CF118D_CaesarsLegions.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num= "Built target CF118D_CaesarsLegions"
+.PHONY : CMakeFiles/CF118D_CaesarsLegions.dir/all
+
+# Include target in all.
+all: CMakeFiles/CF118D_CaesarsLegions.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/CF118D_CaesarsLegions.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/CF118D_CaesarsLegions.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/CF118D_CaesarsLegions.dir/rule
+
+# Convenience name for target.
+CF118D_CaesarsLegions: CMakeFiles/CF118D_CaesarsLegions.dir/rule
+
+.PHONY : CF118D_CaesarsLegions
+
+# clean rule for target.
+CMakeFiles/CF118D_CaesarsLegions.dir/clean:
+	$(MAKE) -f CMakeFiles/CF118D_CaesarsLegions.dir/build.make CMakeFiles/CF118D_CaesarsLegions.dir/clean
+.PHONY : CMakeFiles/CF118D_CaesarsLegions.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/CF118D_CaesarsLegions.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/CF407B_LongPath.dir
+
+# All Build rule for target.
+CMakeFiles/CF407B_LongPath.dir/all:
+	$(MAKE) -f CMakeFiles/CF407B_LongPath.dir/build.make CMakeFiles/CF407B_LongPath.dir/depend
+	$(MAKE) -f CMakeFiles/CF407B_LongPath.dir/build.make CMakeFiles/CF407B_LongPath.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num= "Built target CF407B_LongPath"
+.PHONY : CMakeFiles/CF407B_LongPath.dir/all
+
+# Include target in all.
+all: CMakeFiles/CF407B_LongPath.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/CF407B_LongPath.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/CF407B_LongPath.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/CF407B_LongPath.dir/rule
+
+# Convenience name for target.
+CF407B_LongPath: CMakeFiles/CF407B_LongPath.dir/rule
+
+.PHONY : CF407B_LongPath
+
+# clean rule for target.
+CMakeFiles/CF407B_LongPath.dir/clean:
+	$(MAKE) -f CMakeFiles/CF407B_LongPath.dir/build.make CMakeFiles/CF407B_LongPath.dir/clean
+.PHONY : CMakeFiles/CF407B_LongPath.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/CF407B_LongPath.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/CF716D_CompleteTheGraph.dir
+
+# All Build rule for target.
+CMakeFiles/CF716D_CompleteTheGraph.dir/all:
+	$(MAKE) -f CMakeFiles/CF716D_CompleteTheGraph.dir/build.make CMakeFiles/CF716D_CompleteTheGraph.dir/depend
+	$(MAKE) -f CMakeFiles/CF716D_CompleteTheGraph.dir/build.make CMakeFiles/CF716D_CompleteTheGraph.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=13 "Built target CF716D_CompleteTheGraph"
+.PHONY : CMakeFiles/CF716D_CompleteTheGraph.dir/all
+
+# Include target in all.
+all: CMakeFiles/CF716D_CompleteTheGraph.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/CF716D_CompleteTheGraph.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 1
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/CF716D_CompleteTheGraph.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/CF716D_CompleteTheGraph.dir/rule
+
+# Convenience name for target.
+CF716D_CompleteTheGraph: CMakeFiles/CF716D_CompleteTheGraph.dir/rule
+
+.PHONY : CF716D_CompleteTheGraph
+
+# clean rule for target.
+CMakeFiles/CF716D_CompleteTheGraph.dir/clean:
+	$(MAKE) -f CMakeFiles/CF716D_CompleteTheGraph.dir/build.make CMakeFiles/CF716D_CompleteTheGraph.dir/clean
+.PHONY : CMakeFiles/CF716D_CompleteTheGraph.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/CF716D_CompleteTheGraph.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/SPOJ_OTOCI.dir
+
+# All Build rule for target.
+CMakeFiles/SPOJ_OTOCI.dir/all:
+	$(MAKE) -f CMakeFiles/SPOJ_OTOCI.dir/build.make CMakeFiles/SPOJ_OTOCI.dir/depend
+	$(MAKE) -f CMakeFiles/SPOJ_OTOCI.dir/build.make CMakeFiles/SPOJ_OTOCI.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num= "Built target SPOJ_OTOCI"
+.PHONY : CMakeFiles/SPOJ_OTOCI.dir/all
+
+# Include target in all.
+all: CMakeFiles/SPOJ_OTOCI.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/SPOJ_OTOCI.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/SPOJ_OTOCI.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/SPOJ_OTOCI.dir/rule
+
+# Convenience name for target.
+SPOJ_OTOCI: CMakeFiles/SPOJ_OTOCI.dir/rule
+
+.PHONY : SPOJ_OTOCI
+
+# clean rule for target.
+CMakeFiles/SPOJ_OTOCI.dir/clean:
+	$(MAKE) -f CMakeFiles/SPOJ_OTOCI.dir/build.make CMakeFiles/SPOJ_OTOCI.dir/clean
+.PHONY : CMakeFiles/SPOJ_OTOCI.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/SPOJ_OTOCI.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/CC_PartitionCount.dir
+
+# All Build rule for target.
+CMakeFiles/CC_PartitionCount.dir/all:
+	$(MAKE) -f CMakeFiles/CC_PartitionCount.dir/build.make CMakeFiles/CC_PartitionCount.dir/depend
+	$(MAKE) -f CMakeFiles/CC_PartitionCount.dir/build.make CMakeFiles/CC_PartitionCount.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=3 "Built target CC_PartitionCount"
+.PHONY : CMakeFiles/CC_PartitionCount.dir/all
+
+# Include target in all.
+all: CMakeFiles/CC_PartitionCount.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/CC_PartitionCount.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 1
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/CC_PartitionCount.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/CC_PartitionCount.dir/rule
+
+# Convenience name for target.
+CC_PartitionCount: CMakeFiles/CC_PartitionCount.dir/rule
+
+.PHONY : CC_PartitionCount
+
+# clean rule for target.
+CMakeFiles/CC_PartitionCount.dir/clean:
+	$(MAKE) -f CMakeFiles/CC_PartitionCount.dir/build.make CMakeFiles/CC_PartitionCount.dir/clean
+.PHONY : CMakeFiles/CC_PartitionCount.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/CC_PartitionCount.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/SPOJ_KRECT.dir
+
+# All Build rule for target.
+CMakeFiles/SPOJ_KRECT.dir/all:
+	$(MAKE) -f CMakeFiles/SPOJ_KRECT.dir/build.make CMakeFiles/SPOJ_KRECT.dir/depend
+	$(MAKE) -f CMakeFiles/SPOJ_KRECT.dir/build.make CMakeFiles/SPOJ_KRECT.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num= "Built target SPOJ_KRECT"
+.PHONY : CMakeFiles/SPOJ_KRECT.dir/all
+
+# Include target in all.
+all: CMakeFiles/SPOJ_KRECT.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/SPOJ_KRECT.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/SPOJ_KRECT.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/SPOJ_KRECT.dir/rule
+
+# Convenience name for target.
+SPOJ_KRECT: CMakeFiles/SPOJ_KRECT.dir/rule
+
+.PHONY : SPOJ_KRECT
+
+# clean rule for target.
+CMakeFiles/SPOJ_KRECT.dir/clean:
+	$(MAKE) -f CMakeFiles/SPOJ_KRECT.dir/build.make CMakeFiles/SPOJ_KRECT.dir/clean
+.PHONY : CMakeFiles/SPOJ_KRECT.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/SPOJ_KRECT.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/GFG_ShortestCommonSupersequence.dir
+
+# All Build rule for target.
+CMakeFiles/GFG_ShortestCommonSupersequence.dir/all:
+	$(MAKE) -f CMakeFiles/GFG_ShortestCommonSupersequence.dir/build.make CMakeFiles/GFG_ShortestCommonSupersequence.dir/depend
+	$(MAKE) -f CMakeFiles/GFG_ShortestCommonSupersequence.dir/build.make CMakeFiles/GFG_ShortestCommonSupersequence.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=88 "Built target GFG_ShortestCommonSupersequence"
+.PHONY : CMakeFiles/GFG_ShortestCommonSupersequence.dir/all
+
+# Include target in all.
+all: CMakeFiles/GFG_ShortestCommonSupersequence.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/GFG_ShortestCommonSupersequence.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 1
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/GFG_ShortestCommonSupersequence.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/GFG_ShortestCommonSupersequence.dir/rule
+
+# Convenience name for target.
+GFG_ShortestCommonSupersequence: CMakeFiles/GFG_ShortestCommonSupersequence.dir/rule
+
+.PHONY : GFG_ShortestCommonSupersequence
+
+# clean rule for target.
+CMakeFiles/GFG_ShortestCommonSupersequence.dir/clean:
+	$(MAKE) -f CMakeFiles/GFG_ShortestCommonSupersequence.dir/build.make CMakeFiles/GFG_ShortestCommonSupersequence.dir/clean
+.PHONY : CMakeFiles/GFG_ShortestCommonSupersequence.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/GFG_ShortestCommonSupersequence.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/AIO_CoreysParty.dir
+
+# All Build rule for target.
+CMakeFiles/AIO_CoreysParty.dir/all:
+	$(MAKE) -f CMakeFiles/AIO_CoreysParty.dir/build.make CMakeFiles/AIO_CoreysParty.dir/depend
+	$(MAKE) -f CMakeFiles/AIO_CoreysParty.dir/build.make CMakeFiles/AIO_CoreysParty.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num= "Built target AIO_CoreysParty"
+.PHONY : CMakeFiles/AIO_CoreysParty.dir/all
+
+# Include target in all.
+all: CMakeFiles/AIO_CoreysParty.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/AIO_CoreysParty.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/AIO_CoreysParty.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/AIO_CoreysParty.dir/rule
+
+# Convenience name for target.
+AIO_CoreysParty: CMakeFiles/AIO_CoreysParty.dir/rule
+
+.PHONY : AIO_CoreysParty
+
+# clean rule for target.
+CMakeFiles/AIO_CoreysParty.dir/clean:
+	$(MAKE) -f CMakeFiles/AIO_CoreysParty.dir/build.make CMakeFiles/AIO_CoreysParty.dir/clean
+.PHONY : CMakeFiles/AIO_CoreysParty.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/AIO_CoreysParty.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/SPOJ_TheCourier.dir
+
+# All Build rule for target.
+CMakeFiles/SPOJ_TheCourier.dir/all:
+	$(MAKE) -f CMakeFiles/SPOJ_TheCourier.dir/build.make CMakeFiles/SPOJ_TheCourier.dir/depend
+	$(MAKE) -f CMakeFiles/SPOJ_TheCourier.dir/build.make CMakeFiles/SPOJ_TheCourier.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=97 "Built target SPOJ_TheCourier"
+.PHONY : CMakeFiles/SPOJ_TheCourier.dir/all
+
+# Include target in all.
+all: CMakeFiles/SPOJ_TheCourier.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/SPOJ_TheCourier.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 1
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/SPOJ_TheCourier.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/SPOJ_TheCourier.dir/rule
+
+# Convenience name for target.
+SPOJ_TheCourier: CMakeFiles/SPOJ_TheCourier.dir/rule
+
+.PHONY : SPOJ_TheCourier
+
+# clean rule for target.
+CMakeFiles/SPOJ_TheCourier.dir/clean:
+	$(MAKE) -f CMakeFiles/SPOJ_TheCourier.dir/build.make CMakeFiles/SPOJ_TheCourier.dir/clean
+.PHONY : CMakeFiles/SPOJ_TheCourier.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/SPOJ_TheCourier.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/UVa10342_AlwaysLate.dir
+
+# All Build rule for target.
+CMakeFiles/UVa10342_AlwaysLate.dir/all:
+	$(MAKE) -f CMakeFiles/UVa10342_AlwaysLate.dir/build.make CMakeFiles/UVa10342_AlwaysLate.dir/depend
+	$(MAKE) -f CMakeFiles/UVa10342_AlwaysLate.dir/build.make CMakeFiles/UVa10342_AlwaysLate.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=100 "Built target UVa10342_AlwaysLate"
+.PHONY : CMakeFiles/UVa10342_AlwaysLate.dir/all
+
+# Include target in all.
+all: CMakeFiles/UVa10342_AlwaysLate.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/UVa10342_AlwaysLate.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 1
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/UVa10342_AlwaysLate.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/UVa10342_AlwaysLate.dir/rule
+
+# Convenience name for target.
+UVa10342_AlwaysLate: CMakeFiles/UVa10342_AlwaysLate.dir/rule
+
+.PHONY : UVa10342_AlwaysLate
+
+# clean rule for target.
+CMakeFiles/UVa10342_AlwaysLate.dir/clean:
+	$(MAKE) -f CMakeFiles/UVa10342_AlwaysLate.dir/build.make CMakeFiles/UVa10342_AlwaysLate.dir/clean
+.PHONY : CMakeFiles/UVa10342_AlwaysLate.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/UVa10342_AlwaysLate.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/IARCS_RankFraud.dir
+
+# All Build rule for target.
+CMakeFiles/IARCS_RankFraud.dir/all:
+	$(MAKE) -f CMakeFiles/IARCS_RankFraud.dir/build.make CMakeFiles/IARCS_RankFraud.dir/depend
+	$(MAKE) -f CMakeFiles/IARCS_RankFraud.dir/build.make CMakeFiles/IARCS_RankFraud.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=89 "Built target IARCS_RankFraud"
+.PHONY : CMakeFiles/IARCS_RankFraud.dir/all
+
+# Include target in all.
+all: CMakeFiles/IARCS_RankFraud.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/IARCS_RankFraud.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 1
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/IARCS_RankFraud.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/IARCS_RankFraud.dir/rule
+
+# Convenience name for target.
+IARCS_RankFraud: CMakeFiles/IARCS_RankFraud.dir/rule
+
+.PHONY : IARCS_RankFraud
+
+# clean rule for target.
+CMakeFiles/IARCS_RankFraud.dir/clean:
+	$(MAKE) -f CMakeFiles/IARCS_RankFraud.dir/build.make CMakeFiles/IARCS_RankFraud.dir/clean
+.PHONY : CMakeFiles/IARCS_RankFraud.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/IARCS_RankFraud.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/GCJ_LastHit.dir
+
+# All Build rule for target.
+CMakeFiles/GCJ_LastHit.dir/all:
+	$(MAKE) -f CMakeFiles/GCJ_LastHit.dir/build.make CMakeFiles/GCJ_LastHit.dir/depend
+	$(MAKE) -f CMakeFiles/GCJ_LastHit.dir/build.make CMakeFiles/GCJ_LastHit.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num= "Built target GCJ_LastHit"
+.PHONY : CMakeFiles/GCJ_LastHit.dir/all
+
+# Include target in all.
+all: CMakeFiles/GCJ_LastHit.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/GCJ_LastHit.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/GCJ_LastHit.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/GCJ_LastHit.dir/rule
+
+# Convenience name for target.
+GCJ_LastHit: CMakeFiles/GCJ_LastHit.dir/rule
+
+.PHONY : GCJ_LastHit
+
+# clean rule for target.
+CMakeFiles/GCJ_LastHit.dir/clean:
+	$(MAKE) -f CMakeFiles/GCJ_LastHit.dir/build.make CMakeFiles/GCJ_LastHit.dir/clean
+.PHONY : CMakeFiles/GCJ_LastHit.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/GCJ_LastHit.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/CC_TooMuchSweetness.dir
+
+# All Build rule for target.
+CMakeFiles/CC_TooMuchSweetness.dir/all:
+	$(MAKE) -f CMakeFiles/CC_TooMuchSweetness.dir/build.make CMakeFiles/CC_TooMuchSweetness.dir/depend
+	$(MAKE) -f CMakeFiles/CC_TooMuchSweetness.dir/build.make CMakeFiles/CC_TooMuchSweetness.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num= "Built target CC_TooMuchSweetness"
+.PHONY : CMakeFiles/CC_TooMuchSweetness.dir/all
+
+# Include target in all.
+all: CMakeFiles/CC_TooMuchSweetness.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/CC_TooMuchSweetness.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/CC_TooMuchSweetness.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/CC_TooMuchSweetness.dir/rule
+
+# Convenience name for target.
+CC_TooMuchSweetness: CMakeFiles/CC_TooMuchSweetness.dir/rule
+
+.PHONY : CC_TooMuchSweetness
+
+# clean rule for target.
+CMakeFiles/CC_TooMuchSweetness.dir/clean:
+	$(MAKE) -f CMakeFiles/CC_TooMuchSweetness.dir/build.make CMakeFiles/CC_TooMuchSweetness.dir/clean
+.PHONY : CMakeFiles/CC_TooMuchSweetness.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/CC_TooMuchSweetness.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/USACO_CowIDs.dir
+
+# All Build rule for target.
+CMakeFiles/USACO_CowIDs.dir/all:
+	$(MAKE) -f CMakeFiles/USACO_CowIDs.dir/build.make CMakeFiles/USACO_CowIDs.dir/depend
+	$(MAKE) -f CMakeFiles/USACO_CowIDs.dir/build.make CMakeFiles/USACO_CowIDs.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=99 "Built target USACO_CowIDs"
+.PHONY : CMakeFiles/USACO_CowIDs.dir/all
+
+# Include target in all.
+all: CMakeFiles/USACO_CowIDs.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/USACO_CowIDs.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 1
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/USACO_CowIDs.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/USACO_CowIDs.dir/rule
+
+# Convenience name for target.
+USACO_CowIDs: CMakeFiles/USACO_CowIDs.dir/rule
+
+.PHONY : USACO_CowIDs
+
+# clean rule for target.
+CMakeFiles/USACO_CowIDs.dir/clean:
+	$(MAKE) -f CMakeFiles/USACO_CowIDs.dir/build.make CMakeFiles/USACO_CowIDs.dir/clean
+.PHONY : CMakeFiles/USACO_CowIDs.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/USACO_CowIDs.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/IARCS_PayingThePrice.dir
+
+# All Build rule for target.
+CMakeFiles/IARCS_PayingThePrice.dir/all:
+	$(MAKE) -f CMakeFiles/IARCS_PayingThePrice.dir/build.make CMakeFiles/IARCS_PayingThePrice.dir/depend
+	$(MAKE) -f CMakeFiles/IARCS_PayingThePrice.dir/build.make CMakeFiles/IARCS_PayingThePrice.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num= "Built target IARCS_PayingThePrice"
+.PHONY : CMakeFiles/IARCS_PayingThePrice.dir/all
+
+# Include target in all.
+all: CMakeFiles/IARCS_PayingThePrice.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/IARCS_PayingThePrice.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/IARCS_PayingThePrice.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/IARCS_PayingThePrice.dir/rule
+
+# Convenience name for target.
+IARCS_PayingThePrice: CMakeFiles/IARCS_PayingThePrice.dir/rule
+
+.PHONY : IARCS_PayingThePrice
+
+# clean rule for target.
+CMakeFiles/IARCS_PayingThePrice.dir/clean:
+	$(MAKE) -f CMakeFiles/IARCS_PayingThePrice.dir/build.make CMakeFiles/IARCS_PayingThePrice.dir/clean
+.PHONY : CMakeFiles/IARCS_PayingThePrice.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/IARCS_PayingThePrice.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/CSA_TriangularMatrix.dir
+
+# All Build rule for target.
+CMakeFiles/CSA_TriangularMatrix.dir/all:
+	$(MAKE) -f CMakeFiles/CSA_TriangularMatrix.dir/build.make CMakeFiles/CSA_TriangularMatrix.dir/depend
+	$(MAKE) -f CMakeFiles/CSA_TriangularMatrix.dir/build.make CMakeFiles/CSA_TriangularMatrix.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=15 "Built target CSA_TriangularMatrix"
+.PHONY : CMakeFiles/CSA_TriangularMatrix.dir/all
+
+# Include target in all.
+all: CMakeFiles/CSA_TriangularMatrix.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/CSA_TriangularMatrix.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 1
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/CSA_TriangularMatrix.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/CSA_TriangularMatrix.dir/rule
+
+# Convenience name for target.
+CSA_TriangularMatrix: CMakeFiles/CSA_TriangularMatrix.dir/rule
+
+.PHONY : CSA_TriangularMatrix
+
+# clean rule for target.
+CMakeFiles/CSA_TriangularMatrix.dir/clean:
+	$(MAKE) -f CMakeFiles/CSA_TriangularMatrix.dir/build.make CMakeFiles/CSA_TriangularMatrix.dir/clean
+.PHONY : CMakeFiles/CSA_TriangularMatrix.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/CSA_TriangularMatrix.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/CF899F_LettersRemoving.dir
+
+# All Build rule for target.
+CMakeFiles/CF899F_LettersRemoving.dir/all:
+	$(MAKE) -f CMakeFiles/CF899F_LettersRemoving.dir/build.make CMakeFiles/CF899F_LettersRemoving.dir/depend
+	$(MAKE) -f CMakeFiles/CF899F_LettersRemoving.dir/build.make CMakeFiles/CF899F_LettersRemoving.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num= "Built target CF899F_LettersRemoving"
+.PHONY : CMakeFiles/CF899F_LettersRemoving.dir/all
+
+# Include target in all.
+all: CMakeFiles/CF899F_LettersRemoving.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/CF899F_LettersRemoving.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/CF899F_LettersRemoving.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/CF899F_LettersRemoving.dir/rule
+
+# Convenience name for target.
+CF899F_LettersRemoving: CMakeFiles/CF899F_LettersRemoving.dir/rule
+
+.PHONY : CF899F_LettersRemoving
+
+# clean rule for target.
+CMakeFiles/CF899F_LettersRemoving.dir/clean:
+	$(MAKE) -f CMakeFiles/CF899F_LettersRemoving.dir/build.make CMakeFiles/CF899F_LettersRemoving.dir/clean
+.PHONY : CMakeFiles/CF899F_LettersRemoving.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/CF899F_LettersRemoving.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/CC_LoversGift.dir
+
+# All Build rule for target.
+CMakeFiles/CC_LoversGift.dir/all:
+	$(MAKE) -f CMakeFiles/CC_LoversGift.dir/build.make CMakeFiles/CC_LoversGift.dir/depend
+	$(MAKE) -f CMakeFiles/CC_LoversGift.dir/build.make CMakeFiles/CC_LoversGift.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num= "Built target CC_LoversGift"
+.PHONY : CMakeFiles/CC_LoversGift.dir/all
+
+# Include target in all.
+all: CMakeFiles/CC_LoversGift.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/CC_LoversGift.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/CC_LoversGift.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/CC_LoversGift.dir/rule
+
+# Convenience name for target.
+CC_LoversGift: CMakeFiles/CC_LoversGift.dir/rule
+
+.PHONY : CC_LoversGift
+
+# clean rule for target.
+CMakeFiles/CC_LoversGift.dir/clean:
+	$(MAKE) -f CMakeFiles/CC_LoversGift.dir/build.make CMakeFiles/CC_LoversGift.dir/clean
+.PHONY : CMakeFiles/CC_LoversGift.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/CC_LoversGift.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/SPOJ_DynamicGraphConnectivity2.dir
+
+# All Build rule for target.
+CMakeFiles/SPOJ_DynamicGraphConnectivity2.dir/all:
+	$(MAKE) -f CMakeFiles/SPOJ_DynamicGraphConnectivity2.dir/build.make CMakeFiles/SPOJ_DynamicGraphConnectivity2.dir/depend
+	$(MAKE) -f CMakeFiles/SPOJ_DynamicGraphConnectivity2.dir/build.make CMakeFiles/SPOJ_DynamicGraphConnectivity2.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num= "Built target SPOJ_DynamicGraphConnectivity2"
+.PHONY : CMakeFiles/SPOJ_DynamicGraphConnectivity2.dir/all
+
+# Include target in all.
+all: CMakeFiles/SPOJ_DynamicGraphConnectivity2.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/SPOJ_DynamicGraphConnectivity2.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/SPOJ_DynamicGraphConnectivity2.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/SPOJ_DynamicGraphConnectivity2.dir/rule
+
+# Convenience name for target.
+SPOJ_DynamicGraphConnectivity2: CMakeFiles/SPOJ_DynamicGraphConnectivity2.dir/rule
+
+.PHONY : SPOJ_DynamicGraphConnectivity2
+
+# clean rule for target.
+CMakeFiles/SPOJ_DynamicGraphConnectivity2.dir/clean:
+	$(MAKE) -f CMakeFiles/SPOJ_DynamicGraphConnectivity2.dir/build.make CMakeFiles/SPOJ_DynamicGraphConnectivity2.dir/clean
+.PHONY : CMakeFiles/SPOJ_DynamicGraphConnectivity2.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/SPOJ_DynamicGraphConnectivity2.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/LiveArchive_XorSum.dir
+
+# All Build rule for target.
+CMakeFiles/LiveArchive_XorSum.dir/all:
+	$(MAKE) -f CMakeFiles/LiveArchive_XorSum.dir/build.make CMakeFiles/LiveArchive_XorSum.dir/depend
+	$(MAKE) -f CMakeFiles/LiveArchive_XorSum.dir/build.make CMakeFiles/LiveArchive_XorSum.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num= "Built target LiveArchive_XorSum"
+.PHONY : CMakeFiles/LiveArchive_XorSum.dir/all
+
+# Include target in all.
+all: CMakeFiles/LiveArchive_XorSum.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/LiveArchive_XorSum.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/LiveArchive_XorSum.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/LiveArchive_XorSum.dir/rule
+
+# Convenience name for target.
+LiveArchive_XorSum: CMakeFiles/LiveArchive_XorSum.dir/rule
+
+.PHONY : LiveArchive_XorSum
+
+# clean rule for target.
+CMakeFiles/LiveArchive_XorSum.dir/clean:
+	$(MAKE) -f CMakeFiles/LiveArchive_XorSum.dir/build.make CMakeFiles/LiveArchive_XorSum.dir/clean
+.PHONY : CMakeFiles/LiveArchive_XorSum.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/LiveArchive_XorSum.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/CF864E_Fire.dir
+
+# All Build rule for target.
+CMakeFiles/CF864E_Fire.dir/all:
+	$(MAKE) -f CMakeFiles/CF864E_Fire.dir/build.make CMakeFiles/CF864E_Fire.dir/depend
+	$(MAKE) -f CMakeFiles/CF864E_Fire.dir/build.make CMakeFiles/CF864E_Fire.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num= "Built target CF864E_Fire"
+.PHONY : CMakeFiles/CF864E_Fire.dir/all
+
+# Include target in all.
+all: CMakeFiles/CF864E_Fire.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/CF864E_Fire.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/CF864E_Fire.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/CF864E_Fire.dir/rule
+
+# Convenience name for target.
+CF864E_Fire: CMakeFiles/CF864E_Fire.dir/rule
+
+.PHONY : CF864E_Fire
+
+# clean rule for target.
+CMakeFiles/CF864E_Fire.dir/clean:
+	$(MAKE) -f CMakeFiles/CF864E_Fire.dir/build.make CMakeFiles/CF864E_Fire.dir/clean
+.PHONY : CMakeFiles/CF864E_Fire.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/CF864E_Fire.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/MosAlgorithm.dir
+
+# All Build rule for target.
+CMakeFiles/MosAlgorithm.dir/all:
+	$(MAKE) -f CMakeFiles/MosAlgorithm.dir/build.make CMakeFiles/MosAlgorithm.dir/depend
+	$(MAKE) -f CMakeFiles/MosAlgorithm.dir/build.make CMakeFiles/MosAlgorithm.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=93 "Built target MosAlgorithm"
+.PHONY : CMakeFiles/MosAlgorithm.dir/all
+
+# Include target in all.
+all: CMakeFiles/MosAlgorithm.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/MosAlgorithm.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 1
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/MosAlgorithm.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/MosAlgorithm.dir/rule
+
+# Convenience name for target.
+MosAlgorithm: CMakeFiles/MosAlgorithm.dir/rule
+
+.PHONY : MosAlgorithm
+
+# clean rule for target.
+CMakeFiles/MosAlgorithm.dir/clean:
+	$(MAKE) -f CMakeFiles/MosAlgorithm.dir/build.make CMakeFiles/MosAlgorithm.dir/clean
+.PHONY : CMakeFiles/MosAlgorithm.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/MosAlgorithm.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/LazyPropSegmentTree_IntervalSum.dir
+
+# All Build rule for target.
+CMakeFiles/LazyPropSegmentTree_IntervalSum.dir/all:
+	$(MAKE) -f CMakeFiles/LazyPropSegmentTree_IntervalSum.dir/build.make CMakeFiles/LazyPropSegmentTree_IntervalSum.dir/depend
+	$(MAKE) -f CMakeFiles/LazyPropSegmentTree_IntervalSum.dir/build.make CMakeFiles/LazyPropSegmentTree_IntervalSum.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=91 "Built target LazyPropSegmentTree_IntervalSum"
+.PHONY : CMakeFiles/LazyPropSegmentTree_IntervalSum.dir/all
+
+# Include target in all.
+all: CMakeFiles/LazyPropSegmentTree_IntervalSum.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/LazyPropSegmentTree_IntervalSum.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 1
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/LazyPropSegmentTree_IntervalSum.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/LazyPropSegmentTree_IntervalSum.dir/rule
+
+# Convenience name for target.
+LazyPropSegmentTree_IntervalSum: CMakeFiles/LazyPropSegmentTree_IntervalSum.dir/rule
+
+.PHONY : LazyPropSegmentTree_IntervalSum
+
+# clean rule for target.
+CMakeFiles/LazyPropSegmentTree_IntervalSum.dir/clean:
+	$(MAKE) -f CMakeFiles/LazyPropSegmentTree_IntervalSum.dir/build.make CMakeFiles/LazyPropSegmentTree_IntervalSum.dir/clean
+.PHONY : CMakeFiles/LazyPropSegmentTree_IntervalSum.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/LazyPropSegmentTree_IntervalSum.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/CF589G_Hiring.dir
+
+# All Build rule for target.
+CMakeFiles/CF589G_Hiring.dir/all:
+	$(MAKE) -f CMakeFiles/CF589G_Hiring.dir/build.make CMakeFiles/CF589G_Hiring.dir/depend
+	$(MAKE) -f CMakeFiles/CF589G_Hiring.dir/build.make CMakeFiles/CF589G_Hiring.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=11 "Built target CF589G_Hiring"
+.PHONY : CMakeFiles/CF589G_Hiring.dir/all
+
+# Include target in all.
+all: CMakeFiles/CF589G_Hiring.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/CF589G_Hiring.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 1
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/CF589G_Hiring.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/CF589G_Hiring.dir/rule
+
+# Convenience name for target.
+CF589G_Hiring: CMakeFiles/CF589G_Hiring.dir/rule
+
+.PHONY : CF589G_Hiring
+
+# clean rule for target.
+CMakeFiles/CF589G_Hiring.dir/clean:
+	$(MAKE) -f CMakeFiles/CF589G_Hiring.dir/build.make CMakeFiles/CF589G_Hiring.dir/clean
+.PHONY : CMakeFiles/CF589G_Hiring.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/CF589G_Hiring.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/SCCTarjan.dir
+
+# All Build rule for target.
+CMakeFiles/SCCTarjan.dir/all:
+	$(MAKE) -f CMakeFiles/SCCTarjan.dir/build.make CMakeFiles/SCCTarjan.dir/depend
+	$(MAKE) -f CMakeFiles/SCCTarjan.dir/build.make CMakeFiles/SCCTarjan.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=94 "Built target SCCTarjan"
+.PHONY : CMakeFiles/SCCTarjan.dir/all
+
+# Include target in all.
+all: CMakeFiles/SCCTarjan.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/SCCTarjan.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 1
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/SCCTarjan.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/SCCTarjan.dir/rule
+
+# Convenience name for target.
+SCCTarjan: CMakeFiles/SCCTarjan.dir/rule
+
+.PHONY : SCCTarjan
+
+# clean rule for target.
+CMakeFiles/SCCTarjan.dir/clean:
+	$(MAKE) -f CMakeFiles/SCCTarjan.dir/build.make CMakeFiles/SCCTarjan.dir/clean
+.PHONY : CMakeFiles/SCCTarjan.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/SCCTarjan.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/Exun2017_Digex.dir
+
+# All Build rule for target.
+CMakeFiles/Exun2017_Digex.dir/all:
+	$(MAKE) -f CMakeFiles/Exun2017_Digex.dir/build.make CMakeFiles/Exun2017_Digex.dir/depend
+	$(MAKE) -f CMakeFiles/Exun2017_Digex.dir/build.make CMakeFiles/Exun2017_Digex.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=86 "Built target Exun2017_Digex"
+.PHONY : CMakeFiles/Exun2017_Digex.dir/all
+
+# Include target in all.
+all: CMakeFiles/Exun2017_Digex.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/Exun2017_Digex.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 1
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/Exun2017_Digex.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/Exun2017_Digex.dir/rule
+
+# Convenience name for target.
+Exun2017_Digex: CMakeFiles/Exun2017_Digex.dir/rule
+
+.PHONY : Exun2017_Digex
+
+# clean rule for target.
+CMakeFiles/Exun2017_Digex.dir/clean:
+	$(MAKE) -f CMakeFiles/Exun2017_Digex.dir/build.make CMakeFiles/Exun2017_Digex.dir/clean
+.PHONY : CMakeFiles/Exun2017_Digex.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/Exun2017_Digex.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/HackerEarth_Trie.dir
+
+# All Build rule for target.
+CMakeFiles/HackerEarth_Trie.dir/all:
+	$(MAKE) -f CMakeFiles/HackerEarth_Trie.dir/build.make CMakeFiles/HackerEarth_Trie.dir/depend
+	$(MAKE) -f CMakeFiles/HackerEarth_Trie.dir/build.make CMakeFiles/HackerEarth_Trie.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num= "Built target HackerEarth_Trie"
+.PHONY : CMakeFiles/HackerEarth_Trie.dir/all
+
+# Include target in all.
+all: CMakeFiles/HackerEarth_Trie.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/HackerEarth_Trie.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/HackerEarth_Trie.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/HackerEarth_Trie.dir/rule
+
+# Convenience name for target.
+HackerEarth_Trie: CMakeFiles/HackerEarth_Trie.dir/rule
+
+.PHONY : HackerEarth_Trie
+
+# clean rule for target.
+CMakeFiles/HackerEarth_Trie.dir/clean:
+	$(MAKE) -f CMakeFiles/HackerEarth_Trie.dir/build.make CMakeFiles/HackerEarth_Trie.dir/clean
+.PHONY : CMakeFiles/HackerEarth_Trie.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/HackerEarth_Trie.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/PointsLinesAndStuff.dir
+
+# All Build rule for target.
+CMakeFiles/PointsLinesAndStuff.dir/all:
+	$(MAKE) -f CMakeFiles/PointsLinesAndStuff.dir/build.make CMakeFiles/PointsLinesAndStuff.dir/depend
+	$(MAKE) -f CMakeFiles/PointsLinesAndStuff.dir/build.make CMakeFiles/PointsLinesAndStuff.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num= "Built target PointsLinesAndStuff"
+.PHONY : CMakeFiles/PointsLinesAndStuff.dir/all
+
+# Include target in all.
+all: CMakeFiles/PointsLinesAndStuff.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/PointsLinesAndStuff.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/PointsLinesAndStuff.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/PointsLinesAndStuff.dir/rule
+
+# Convenience name for target.
+PointsLinesAndStuff: CMakeFiles/PointsLinesAndStuff.dir/rule
+
+.PHONY : PointsLinesAndStuff
+
+# clean rule for target.
+CMakeFiles/PointsLinesAndStuff.dir/clean:
+	$(MAKE) -f CMakeFiles/PointsLinesAndStuff.dir/build.make CMakeFiles/PointsLinesAndStuff.dir/clean
+.PHONY : CMakeFiles/PointsLinesAndStuff.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/PointsLinesAndStuff.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/CC_ChefAndSubarrayQueries2.dir
+
+# All Build rule for target.
+CMakeFiles/CC_ChefAndSubarrayQueries2.dir/all:
+	$(MAKE) -f CMakeFiles/CC_ChefAndSubarrayQueries2.dir/build.make CMakeFiles/CC_ChefAndSubarrayQueries2.dir/depend
+	$(MAKE) -f CMakeFiles/CC_ChefAndSubarrayQueries2.dir/build.make CMakeFiles/CC_ChefAndSubarrayQueries2.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num= "Built target CC_ChefAndSubarrayQueries2"
+.PHONY : CMakeFiles/CC_ChefAndSubarrayQueries2.dir/all
+
+# Include target in all.
+all: CMakeFiles/CC_ChefAndSubarrayQueries2.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/CC_ChefAndSubarrayQueries2.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/CC_ChefAndSubarrayQueries2.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/CC_ChefAndSubarrayQueries2.dir/rule
+
+# Convenience name for target.
+CC_ChefAndSubarrayQueries2: CMakeFiles/CC_ChefAndSubarrayQueries2.dir/rule
+
+.PHONY : CC_ChefAndSubarrayQueries2
+
+# clean rule for target.
+CMakeFiles/CC_ChefAndSubarrayQueries2.dir/clean:
+	$(MAKE) -f CMakeFiles/CC_ChefAndSubarrayQueries2.dir/build.make CMakeFiles/CC_ChefAndSubarrayQueries2.dir/clean
+.PHONY : CMakeFiles/CC_ChefAndSubarrayQueries2.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/CC_ChefAndSubarrayQueries2.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/CF495D_ObsessiveString.dir
+
+# All Build rule for target.
+CMakeFiles/CF495D_ObsessiveString.dir/all:
+	$(MAKE) -f CMakeFiles/CF495D_ObsessiveString.dir/build.make CMakeFiles/CF495D_ObsessiveString.dir/depend
+	$(MAKE) -f CMakeFiles/CF495D_ObsessiveString.dir/build.make CMakeFiles/CF495D_ObsessiveString.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=9 "Built target CF495D_ObsessiveString"
+.PHONY : CMakeFiles/CF495D_ObsessiveString.dir/all
+
+# Include target in all.
+all: CMakeFiles/CF495D_ObsessiveString.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/CF495D_ObsessiveString.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 1
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/CF495D_ObsessiveString.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/CF495D_ObsessiveString.dir/rule
+
+# Convenience name for target.
+CF495D_ObsessiveString: CMakeFiles/CF495D_ObsessiveString.dir/rule
+
+.PHONY : CF495D_ObsessiveString
+
+# clean rule for target.
+CMakeFiles/CF495D_ObsessiveString.dir/clean:
+	$(MAKE) -f CMakeFiles/CF495D_ObsessiveString.dir/build.make CMakeFiles/CF495D_ObsessiveString.dir/clean
+.PHONY : CMakeFiles/CF495D_ObsessiveString.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/CF495D_ObsessiveString.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
 # Target rules for target CMakeFiles/IOI2000_PostOffices.dir
 
 # All Build rule for target.
@@ -97,39 +1244,39 @@ clean: CMakeFiles/IOI2000_PostOffices.dir/clean
 .PHONY : clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/Exun2017_Digex.dir
+# Target rules for target CMakeFiles/SPOJ_QTREE1.dir
 
 # All Build rule for target.
-CMakeFiles/Exun2017_Digex.dir/all:
-	$(MAKE) -f CMakeFiles/Exun2017_Digex.dir/build.make CMakeFiles/Exun2017_Digex.dir/depend
-	$(MAKE) -f CMakeFiles/Exun2017_Digex.dir/build.make CMakeFiles/Exun2017_Digex.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=95 "Built target Exun2017_Digex"
-.PHONY : CMakeFiles/Exun2017_Digex.dir/all
+CMakeFiles/SPOJ_QTREE1.dir/all:
+	$(MAKE) -f CMakeFiles/SPOJ_QTREE1.dir/build.make CMakeFiles/SPOJ_QTREE1.dir/depend
+	$(MAKE) -f CMakeFiles/SPOJ_QTREE1.dir/build.make CMakeFiles/SPOJ_QTREE1.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num= "Built target SPOJ_QTREE1"
+.PHONY : CMakeFiles/SPOJ_QTREE1.dir/all
 
 # Include target in all.
-all: CMakeFiles/Exun2017_Digex.dir/all
+all: CMakeFiles/SPOJ_QTREE1.dir/all
 
 .PHONY : all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/Exun2017_Digex.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 1
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/Exun2017_Digex.dir/all
+CMakeFiles/SPOJ_QTREE1.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/Exun2017_Digex.dir/rule
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/SPOJ_QTREE1.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/SPOJ_QTREE1.dir/rule
 
 # Convenience name for target.
-Exun2017_Digex: CMakeFiles/Exun2017_Digex.dir/rule
+SPOJ_QTREE1: CMakeFiles/SPOJ_QTREE1.dir/rule
 
-.PHONY : Exun2017_Digex
-
-# clean rule for target.
-CMakeFiles/Exun2017_Digex.dir/clean:
-	$(MAKE) -f CMakeFiles/Exun2017_Digex.dir/build.make CMakeFiles/Exun2017_Digex.dir/clean
-.PHONY : CMakeFiles/Exun2017_Digex.dir/clean
+.PHONY : SPOJ_QTREE1
 
 # clean rule for target.
-clean: CMakeFiles/Exun2017_Digex.dir/clean
+CMakeFiles/SPOJ_QTREE1.dir/clean:
+	$(MAKE) -f CMakeFiles/SPOJ_QTREE1.dir/build.make CMakeFiles/SPOJ_QTREE1.dir/clean
+.PHONY : CMakeFiles/SPOJ_QTREE1.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/SPOJ_QTREE1.dir/clean
 
 .PHONY : clean
 
@@ -171,50 +1318,13 @@ clean: CMakeFiles/CF519E_AAndBLectureRooms.dir/clean
 .PHONY : clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/CF495D_ObsessiveString.dir
-
-# All Build rule for target.
-CMakeFiles/CF495D_ObsessiveString.dir/all:
-	$(MAKE) -f CMakeFiles/CF495D_ObsessiveString.dir/build.make CMakeFiles/CF495D_ObsessiveString.dir/depend
-	$(MAKE) -f CMakeFiles/CF495D_ObsessiveString.dir/build.make CMakeFiles/CF495D_ObsessiveString.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=7 "Built target CF495D_ObsessiveString"
-.PHONY : CMakeFiles/CF495D_ObsessiveString.dir/all
-
-# Include target in all.
-all: CMakeFiles/CF495D_ObsessiveString.dir/all
-
-.PHONY : all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/CF495D_ObsessiveString.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 1
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/CF495D_ObsessiveString.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/CF495D_ObsessiveString.dir/rule
-
-# Convenience name for target.
-CF495D_ObsessiveString: CMakeFiles/CF495D_ObsessiveString.dir/rule
-
-.PHONY : CF495D_ObsessiveString
-
-# clean rule for target.
-CMakeFiles/CF495D_ObsessiveString.dir/clean:
-	$(MAKE) -f CMakeFiles/CF495D_ObsessiveString.dir/build.make CMakeFiles/CF495D_ObsessiveString.dir/clean
-.PHONY : CMakeFiles/CF495D_ObsessiveString.dir/clean
-
-# clean rule for target.
-clean: CMakeFiles/CF495D_ObsessiveString.dir/clean
-
-.PHONY : clean
-
-#=============================================================================
 # Target rules for target CMakeFiles/CF892E_Envy.dir
 
 # All Build rule for target.
 CMakeFiles/CF892E_Envy.dir/all:
 	$(MAKE) -f CMakeFiles/CF892E_Envy.dir/build.make CMakeFiles/CF892E_Envy.dir/depend
 	$(MAKE) -f CMakeFiles/CF892E_Envy.dir/build.make CMakeFiles/CF892E_Envy.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num= "Built target CF892E_Envy"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=14 "Built target CF892E_Envy"
 .PHONY : CMakeFiles/CF892E_Envy.dir/all
 
 # Include target in all.
@@ -224,7 +1334,7 @@ all: CMakeFiles/CF892E_Envy.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/CF892E_Envy.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/CF892E_Envy.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/CF892E_Envy.dir/rule
@@ -251,7 +1361,7 @@ clean: CMakeFiles/CF892E_Envy.dir/clean
 CMakeFiles/IOI96_AGame.dir/all:
 	$(MAKE) -f CMakeFiles/IOI96_AGame.dir/build.make CMakeFiles/IOI96_AGame.dir/depend
 	$(MAKE) -f CMakeFiles/IOI96_AGame.dir/build.make CMakeFiles/IOI96_AGame.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=97 "Built target IOI96_AGame"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=90 "Built target IOI96_AGame"
 .PHONY : CMakeFiles/IOI96_AGame.dir/all
 
 # Include target in all.
@@ -325,7 +1435,7 @@ clean: CMakeFiles/CC_ChefAndSubarrayQueries.dir/clean
 CMakeFiles/ExunPrelimsP2.dir/all:
 	$(MAKE) -f CMakeFiles/ExunPrelimsP2.dir/build.make CMakeFiles/ExunPrelimsP2.dir/depend
 	$(MAKE) -f CMakeFiles/ExunPrelimsP2.dir/build.make CMakeFiles/ExunPrelimsP2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=96 "Built target ExunPrelimsP2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=87 "Built target ExunPrelimsP2"
 .PHONY : CMakeFiles/ExunPrelimsP2.dir/all
 
 # Include target in all.
@@ -362,7 +1472,7 @@ clean: CMakeFiles/ExunPrelimsP2.dir/clean
 CMakeFiles/CF340D_BubbleSortGraph.dir/all:
 	$(MAKE) -f CMakeFiles/CF340D_BubbleSortGraph.dir/build.make CMakeFiles/CF340D_BubbleSortGraph.dir/depend
 	$(MAKE) -f CMakeFiles/CF340D_BubbleSortGraph.dir/build.make CMakeFiles/CF340D_BubbleSortGraph.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=4 "Built target CF340D_BubbleSortGraph"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num= "Built target CF340D_BubbleSortGraph"
 .PHONY : CMakeFiles/CF340D_BubbleSortGraph.dir/all
 
 # Include target in all.
@@ -372,7 +1482,7 @@ all: CMakeFiles/CF340D_BubbleSortGraph.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/CF340D_BubbleSortGraph.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/CF340D_BubbleSortGraph.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/CF340D_BubbleSortGraph.dir/rule
@@ -436,7 +1546,7 @@ clean: CMakeFiles/CF479D_RidingInALift.dir/clean
 CMakeFiles/CF659E_NewReform.dir/all:
 	$(MAKE) -f CMakeFiles/CF659E_NewReform.dir/build.make CMakeFiles/CF659E_NewReform.dir/depend
 	$(MAKE) -f CMakeFiles/CF659E_NewReform.dir/build.make CMakeFiles/CF659E_NewReform.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=9 "Built target CF659E_NewReform"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=12 "Built target CF659E_NewReform"
 .PHONY : CMakeFiles/CF659E_NewReform.dir/all
 
 # Include target in all.
@@ -473,7 +1583,7 @@ clean: CMakeFiles/CF659E_NewReform.dir/clean
 CMakeFiles/CF688E_TheValuesYouCanMake.dir/all:
 	$(MAKE) -f CMakeFiles/CF688E_TheValuesYouCanMake.dir/build.make CMakeFiles/CF688E_TheValuesYouCanMake.dir/depend
 	$(MAKE) -f CMakeFiles/CF688E_TheValuesYouCanMake.dir/build.make CMakeFiles/CF688E_TheValuesYouCanMake.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=10 "Built target CF688E_TheValuesYouCanMake"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num= "Built target CF688E_TheValuesYouCanMake"
 .PHONY : CMakeFiles/CF688E_TheValuesYouCanMake.dir/all
 
 # Include target in all.
@@ -483,7 +1593,7 @@ all: CMakeFiles/CF688E_TheValuesYouCanMake.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/CF688E_TheValuesYouCanMake.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/CF688E_TheValuesYouCanMake.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/CF688E_TheValuesYouCanMake.dir/rule
@@ -504,39 +1614,39 @@ clean: CMakeFiles/CF688E_TheValuesYouCanMake.dir/clean
 .PHONY : clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/SPOJ_QTREE1.dir
+# Target rules for target CMakeFiles/Competitive_Programming.dir
 
 # All Build rule for target.
-CMakeFiles/SPOJ_QTREE1.dir/all:
-	$(MAKE) -f CMakeFiles/SPOJ_QTREE1.dir/build.make CMakeFiles/SPOJ_QTREE1.dir/depend
-	$(MAKE) -f CMakeFiles/SPOJ_QTREE1.dir/build.make CMakeFiles/SPOJ_QTREE1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=100 "Built target SPOJ_QTREE1"
-.PHONY : CMakeFiles/SPOJ_QTREE1.dir/all
+CMakeFiles/Competitive_Programming.dir/all:
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/depend
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85 "Built target Competitive_Programming"
+.PHONY : CMakeFiles/Competitive_Programming.dir/all
 
 # Include target in all.
-all: CMakeFiles/SPOJ_QTREE1.dir/all
+all: CMakeFiles/Competitive_Programming.dir/all
 
 .PHONY : all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/SPOJ_QTREE1.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 1
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/SPOJ_QTREE1.dir/all
+CMakeFiles/Competitive_Programming.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 70
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/Competitive_Programming.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/SPOJ_QTREE1.dir/rule
+.PHONY : CMakeFiles/Competitive_Programming.dir/rule
 
 # Convenience name for target.
-SPOJ_QTREE1: CMakeFiles/SPOJ_QTREE1.dir/rule
+Competitive_Programming: CMakeFiles/Competitive_Programming.dir/rule
 
-.PHONY : SPOJ_QTREE1
-
-# clean rule for target.
-CMakeFiles/SPOJ_QTREE1.dir/clean:
-	$(MAKE) -f CMakeFiles/SPOJ_QTREE1.dir/build.make CMakeFiles/SPOJ_QTREE1.dir/clean
-.PHONY : CMakeFiles/SPOJ_QTREE1.dir/clean
+.PHONY : Competitive_Programming
 
 # clean rule for target.
-clean: CMakeFiles/SPOJ_QTREE1.dir/clean
+CMakeFiles/Competitive_Programming.dir/clean:
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/clean
+.PHONY : CMakeFiles/Competitive_Programming.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/Competitive_Programming.dir/clean
 
 .PHONY : clean
 
@@ -578,13 +1688,198 @@ clean: CMakeFiles/CC_ProductOnSegment.dir/clean
 .PHONY : clean
 
 #=============================================================================
+# Target rules for target CMakeFiles/USACO_Relocation.dir
+
+# All Build rule for target.
+CMakeFiles/USACO_Relocation.dir/all:
+	$(MAKE) -f CMakeFiles/USACO_Relocation.dir/build.make CMakeFiles/USACO_Relocation.dir/depend
+	$(MAKE) -f CMakeFiles/USACO_Relocation.dir/build.make CMakeFiles/USACO_Relocation.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num= "Built target USACO_Relocation"
+.PHONY : CMakeFiles/USACO_Relocation.dir/all
+
+# Include target in all.
+all: CMakeFiles/USACO_Relocation.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/USACO_Relocation.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/USACO_Relocation.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/USACO_Relocation.dir/rule
+
+# Convenience name for target.
+USACO_Relocation: CMakeFiles/USACO_Relocation.dir/rule
+
+.PHONY : USACO_Relocation
+
+# clean rule for target.
+CMakeFiles/USACO_Relocation.dir/clean:
+	$(MAKE) -f CMakeFiles/USACO_Relocation.dir/build.make CMakeFiles/USACO_Relocation.dir/clean
+.PHONY : CMakeFiles/USACO_Relocation.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/USACO_Relocation.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/Misc.dir
+
+# All Build rule for target.
+CMakeFiles/Misc.dir/all:
+	$(MAKE) -f CMakeFiles/Misc.dir/build.make CMakeFiles/Misc.dir/depend
+	$(MAKE) -f CMakeFiles/Misc.dir/build.make CMakeFiles/Misc.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num= "Built target Misc"
+.PHONY : CMakeFiles/Misc.dir/all
+
+# Include target in all.
+all: CMakeFiles/Misc.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/Misc.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/Misc.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/Misc.dir/rule
+
+# Convenience name for target.
+Misc: CMakeFiles/Misc.dir/rule
+
+.PHONY : Misc
+
+# clean rule for target.
+CMakeFiles/Misc.dir/clean:
+	$(MAKE) -f CMakeFiles/Misc.dir/build.make CMakeFiles/Misc.dir/clean
+.PHONY : CMakeFiles/Misc.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/Misc.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/CF567E_PresidentAndRoads.dir
+
+# All Build rule for target.
+CMakeFiles/CF567E_PresidentAndRoads.dir/all:
+	$(MAKE) -f CMakeFiles/CF567E_PresidentAndRoads.dir/build.make CMakeFiles/CF567E_PresidentAndRoads.dir/depend
+	$(MAKE) -f CMakeFiles/CF567E_PresidentAndRoads.dir/build.make CMakeFiles/CF567E_PresidentAndRoads.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num= "Built target CF567E_PresidentAndRoads"
+.PHONY : CMakeFiles/CF567E_PresidentAndRoads.dir/all
+
+# Include target in all.
+all: CMakeFiles/CF567E_PresidentAndRoads.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/CF567E_PresidentAndRoads.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/CF567E_PresidentAndRoads.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/CF567E_PresidentAndRoads.dir/rule
+
+# Convenience name for target.
+CF567E_PresidentAndRoads: CMakeFiles/CF567E_PresidentAndRoads.dir/rule
+
+.PHONY : CF567E_PresidentAndRoads
+
+# clean rule for target.
+CMakeFiles/CF567E_PresidentAndRoads.dir/clean:
+	$(MAKE) -f CMakeFiles/CF567E_PresidentAndRoads.dir/build.make CMakeFiles/CF567E_PresidentAndRoads.dir/clean
+.PHONY : CMakeFiles/CF567E_PresidentAndRoads.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/CF567E_PresidentAndRoads.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/CF342E_XeniaAndTree.dir
+
+# All Build rule for target.
+CMakeFiles/CF342E_XeniaAndTree.dir/all:
+	$(MAKE) -f CMakeFiles/CF342E_XeniaAndTree.dir/build.make CMakeFiles/CF342E_XeniaAndTree.dir/depend
+	$(MAKE) -f CMakeFiles/CF342E_XeniaAndTree.dir/build.make CMakeFiles/CF342E_XeniaAndTree.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=7 "Built target CF342E_XeniaAndTree"
+.PHONY : CMakeFiles/CF342E_XeniaAndTree.dir/all
+
+# Include target in all.
+all: CMakeFiles/CF342E_XeniaAndTree.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/CF342E_XeniaAndTree.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 1
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/CF342E_XeniaAndTree.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/CF342E_XeniaAndTree.dir/rule
+
+# Convenience name for target.
+CF342E_XeniaAndTree: CMakeFiles/CF342E_XeniaAndTree.dir/rule
+
+.PHONY : CF342E_XeniaAndTree
+
+# clean rule for target.
+CMakeFiles/CF342E_XeniaAndTree.dir/clean:
+	$(MAKE) -f CMakeFiles/CF342E_XeniaAndTree.dir/build.make CMakeFiles/CF342E_XeniaAndTree.dir/clean
+.PHONY : CMakeFiles/CF342E_XeniaAndTree.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/CF342E_XeniaAndTree.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/ModularInverse.dir
+
+# All Build rule for target.
+CMakeFiles/ModularInverse.dir/all:
+	$(MAKE) -f CMakeFiles/ModularInverse.dir/build.make CMakeFiles/ModularInverse.dir/depend
+	$(MAKE) -f CMakeFiles/ModularInverse.dir/build.make CMakeFiles/ModularInverse.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num= "Built target ModularInverse"
+.PHONY : CMakeFiles/ModularInverse.dir/all
+
+# Include target in all.
+all: CMakeFiles/ModularInverse.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/ModularInverse.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/ModularInverse.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/ModularInverse.dir/rule
+
+# Convenience name for target.
+ModularInverse: CMakeFiles/ModularInverse.dir/rule
+
+.PHONY : ModularInverse
+
+# clean rule for target.
+CMakeFiles/ModularInverse.dir/clean:
+	$(MAKE) -f CMakeFiles/ModularInverse.dir/build.make CMakeFiles/ModularInverse.dir/clean
+.PHONY : CMakeFiles/ModularInverse.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/ModularInverse.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
 # Target rules for target CMakeFiles/CF525E_AnyaAndCubes.dir
 
 # All Build rule for target.
 CMakeFiles/CF525E_AnyaAndCubes.dir/all:
 	$(MAKE) -f CMakeFiles/CF525E_AnyaAndCubes.dir/build.make CMakeFiles/CF525E_AnyaAndCubes.dir/depend
 	$(MAKE) -f CMakeFiles/CF525E_AnyaAndCubes.dir/build.make CMakeFiles/CF525E_AnyaAndCubes.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=8 "Built target CF525E_AnyaAndCubes"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=10 "Built target CF525E_AnyaAndCubes"
 .PHONY : CMakeFiles/CF525E_AnyaAndCubes.dir/all
 
 # Include target in all.
@@ -615,39 +1910,39 @@ clean: CMakeFiles/CF525E_AnyaAndCubes.dir/clean
 .PHONY : clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/CC_LoversGift.dir
+# Target rules for target CMakeFiles/CC_PishtyAndTree.dir
 
 # All Build rule for target.
-CMakeFiles/CC_LoversGift.dir/all:
-	$(MAKE) -f CMakeFiles/CC_LoversGift.dir/build.make CMakeFiles/CC_LoversGift.dir/depend
-	$(MAKE) -f CMakeFiles/CC_LoversGift.dir/build.make CMakeFiles/CC_LoversGift.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=3 "Built target CC_LoversGift"
-.PHONY : CMakeFiles/CC_LoversGift.dir/all
+CMakeFiles/CC_PishtyAndTree.dir/all:
+	$(MAKE) -f CMakeFiles/CC_PishtyAndTree.dir/build.make CMakeFiles/CC_PishtyAndTree.dir/depend
+	$(MAKE) -f CMakeFiles/CC_PishtyAndTree.dir/build.make CMakeFiles/CC_PishtyAndTree.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num= "Built target CC_PishtyAndTree"
+.PHONY : CMakeFiles/CC_PishtyAndTree.dir/all
 
 # Include target in all.
-all: CMakeFiles/CC_LoversGift.dir/all
+all: CMakeFiles/CC_PishtyAndTree.dir/all
 
 .PHONY : all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/CC_LoversGift.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 1
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/CC_LoversGift.dir/all
+CMakeFiles/CC_PishtyAndTree.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/CC_LoversGift.dir/rule
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/CC_PishtyAndTree.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/CC_PishtyAndTree.dir/rule
 
 # Convenience name for target.
-CC_LoversGift: CMakeFiles/CC_LoversGift.dir/rule
+CC_PishtyAndTree: CMakeFiles/CC_PishtyAndTree.dir/rule
 
-.PHONY : CC_LoversGift
-
-# clean rule for target.
-CMakeFiles/CC_LoversGift.dir/clean:
-	$(MAKE) -f CMakeFiles/CC_LoversGift.dir/build.make CMakeFiles/CC_LoversGift.dir/clean
-.PHONY : CMakeFiles/CC_LoversGift.dir/clean
+.PHONY : CC_PishtyAndTree
 
 # clean rule for target.
-clean: CMakeFiles/CC_LoversGift.dir/clean
+CMakeFiles/CC_PishtyAndTree.dir/clean:
+	$(MAKE) -f CMakeFiles/CC_PishtyAndTree.dir/build.make CMakeFiles/CC_PishtyAndTree.dir/clean
+.PHONY : CMakeFiles/CC_PishtyAndTree.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/CC_PishtyAndTree.dir/clean
 
 .PHONY : clean
 
@@ -658,7 +1953,7 @@ clean: CMakeFiles/CC_LoversGift.dir/clean
 CMakeFiles/CF383D_Antimatter.dir/all:
 	$(MAKE) -f CMakeFiles/CF383D_Antimatter.dir/build.make CMakeFiles/CF383D_Antimatter.dir/depend
 	$(MAKE) -f CMakeFiles/CF383D_Antimatter.dir/build.make CMakeFiles/CF383D_Antimatter.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=6 "Built target CF383D_Antimatter"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=8 "Built target CF383D_Antimatter"
 .PHONY : CMakeFiles/CF383D_Antimatter.dir/all
 
 # Include target in all.
@@ -732,7 +2027,7 @@ clean: CMakeFiles/CC_ChefAndMediumProblem2.dir/clean
 CMakeFiles/SPOJ_GSS1.dir/all:
 	$(MAKE) -f CMakeFiles/SPOJ_GSS1.dir/build.make CMakeFiles/SPOJ_GSS1.dir/depend
 	$(MAKE) -f CMakeFiles/SPOJ_GSS1.dir/build.make CMakeFiles/SPOJ_GSS1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=99 "Built target SPOJ_GSS1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=95 "Built target SPOJ_GSS1"
 .PHONY : CMakeFiles/SPOJ_GSS1.dir/all
 
 # Include target in all.
@@ -759,6 +2054,43 @@ CMakeFiles/SPOJ_GSS1.dir/clean:
 
 # clean rule for target.
 clean: CMakeFiles/SPOJ_GSS1.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/CF617E_XORAndFavouriteNumber.dir
+
+# All Build rule for target.
+CMakeFiles/CF617E_XORAndFavouriteNumber.dir/all:
+	$(MAKE) -f CMakeFiles/CF617E_XORAndFavouriteNumber.dir/build.make CMakeFiles/CF617E_XORAndFavouriteNumber.dir/depend
+	$(MAKE) -f CMakeFiles/CF617E_XORAndFavouriteNumber.dir/build.make CMakeFiles/CF617E_XORAndFavouriteNumber.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num= "Built target CF617E_XORAndFavouriteNumber"
+.PHONY : CMakeFiles/CF617E_XORAndFavouriteNumber.dir/all
+
+# Include target in all.
+all: CMakeFiles/CF617E_XORAndFavouriteNumber.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/CF617E_XORAndFavouriteNumber.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/CF617E_XORAndFavouriteNumber.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/CF617E_XORAndFavouriteNumber.dir/rule
+
+# Convenience name for target.
+CF617E_XORAndFavouriteNumber: CMakeFiles/CF617E_XORAndFavouriteNumber.dir/rule
+
+.PHONY : CF617E_XORAndFavouriteNumber
+
+# clean rule for target.
+CMakeFiles/CF617E_XORAndFavouriteNumber.dir/clean:
+	$(MAKE) -f CMakeFiles/CF617E_XORAndFavouriteNumber.dir/build.make CMakeFiles/CF617E_XORAndFavouriteNumber.dir/clean
+.PHONY : CMakeFiles/CF617E_XORAndFavouriteNumber.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/CF617E_XORAndFavouriteNumber.dir/clean
 
 .PHONY : clean
 
@@ -806,7 +2138,7 @@ clean: CMakeFiles/Exun2017_DigexReturns.dir/clean
 CMakeFiles/DFSConnectedComponents.dir/all:
 	$(MAKE) -f CMakeFiles/DFSConnectedComponents.dir/build.make CMakeFiles/DFSConnectedComponents.dir/depend
 	$(MAKE) -f CMakeFiles/DFSConnectedComponents.dir/build.make CMakeFiles/DFSConnectedComponents.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=94 "Built target DFSConnectedComponents"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num= "Built target DFSConnectedComponents"
 .PHONY : CMakeFiles/DFSConnectedComponents.dir/all
 
 # Include target in all.
@@ -816,7 +2148,7 @@ all: CMakeFiles/DFSConnectedComponents.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/DFSConnectedComponents.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/DFSConnectedComponents.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/DFSConnectedComponents.dir/rule
@@ -843,7 +2175,7 @@ clean: CMakeFiles/DFSConnectedComponents.dir/clean
 CMakeFiles/ManachersAlgo.dir/all:
 	$(MAKE) -f CMakeFiles/ManachersAlgo.dir/build.make CMakeFiles/ManachersAlgo.dir/depend
 	$(MAKE) -f CMakeFiles/ManachersAlgo.dir/build.make CMakeFiles/ManachersAlgo.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num= "Built target ManachersAlgo"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=92 "Built target ManachersAlgo"
 .PHONY : CMakeFiles/ManachersAlgo.dir/all
 
 # Include target in all.
@@ -853,7 +2185,7 @@ all: CMakeFiles/ManachersAlgo.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/ManachersAlgo.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/ManachersAlgo.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/ManachersAlgo.dir/rule
@@ -874,50 +2206,13 @@ clean: CMakeFiles/ManachersAlgo.dir/clean
 .PHONY : clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/CF342E_XeniaAndTree.dir
-
-# All Build rule for target.
-CMakeFiles/CF342E_XeniaAndTree.dir/all:
-	$(MAKE) -f CMakeFiles/CF342E_XeniaAndTree.dir/build.make CMakeFiles/CF342E_XeniaAndTree.dir/depend
-	$(MAKE) -f CMakeFiles/CF342E_XeniaAndTree.dir/build.make CMakeFiles/CF342E_XeniaAndTree.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num= "Built target CF342E_XeniaAndTree"
-.PHONY : CMakeFiles/CF342E_XeniaAndTree.dir/all
-
-# Include target in all.
-all: CMakeFiles/CF342E_XeniaAndTree.dir/all
-
-.PHONY : all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/CF342E_XeniaAndTree.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/CF342E_XeniaAndTree.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/CF342E_XeniaAndTree.dir/rule
-
-# Convenience name for target.
-CF342E_XeniaAndTree: CMakeFiles/CF342E_XeniaAndTree.dir/rule
-
-.PHONY : CF342E_XeniaAndTree
-
-# clean rule for target.
-CMakeFiles/CF342E_XeniaAndTree.dir/clean:
-	$(MAKE) -f CMakeFiles/CF342E_XeniaAndTree.dir/build.make CMakeFiles/CF342E_XeniaAndTree.dir/clean
-.PHONY : CMakeFiles/CF342E_XeniaAndTree.dir/clean
-
-# clean rule for target.
-clean: CMakeFiles/CF342E_XeniaAndTree.dir/clean
-
-.PHONY : clean
-
-#=============================================================================
 # Target rules for target CMakeFiles/Knuth-Morris-Pratt-Algorithm.dir
 
 # All Build rule for target.
 CMakeFiles/Knuth-Morris-Pratt-Algorithm.dir/all:
 	$(MAKE) -f CMakeFiles/Knuth-Morris-Pratt-Algorithm.dir/build.make CMakeFiles/Knuth-Morris-Pratt-Algorithm.dir/depend
 	$(MAKE) -f CMakeFiles/Knuth-Morris-Pratt-Algorithm.dir/build.make CMakeFiles/Knuth-Morris-Pratt-Algorithm.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=98 "Built target Knuth-Morris-Pratt-Algorithm"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num= "Built target Knuth-Morris-Pratt-Algorithm"
 .PHONY : CMakeFiles/Knuth-Morris-Pratt-Algorithm.dir/all
 
 # Include target in all.
@@ -927,7 +2222,7 @@ all: CMakeFiles/Knuth-Morris-Pratt-Algorithm.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Knuth-Morris-Pratt-Algorithm.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/Knuth-Morris-Pratt-Algorithm.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/Knuth-Morris-Pratt-Algorithm.dir/rule
@@ -944,6 +2239,43 @@ CMakeFiles/Knuth-Morris-Pratt-Algorithm.dir/clean:
 
 # clean rule for target.
 clean: CMakeFiles/Knuth-Morris-Pratt-Algorithm.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/CF257B_JzzhuAndCities.dir
+
+# All Build rule for target.
+CMakeFiles/CF257B_JzzhuAndCities.dir/all:
+	$(MAKE) -f CMakeFiles/CF257B_JzzhuAndCities.dir/build.make CMakeFiles/CF257B_JzzhuAndCities.dir/depend
+	$(MAKE) -f CMakeFiles/CF257B_JzzhuAndCities.dir/build.make CMakeFiles/CF257B_JzzhuAndCities.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=6 "Built target CF257B_JzzhuAndCities"
+.PHONY : CMakeFiles/CF257B_JzzhuAndCities.dir/all
+
+# Include target in all.
+all: CMakeFiles/CF257B_JzzhuAndCities.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/CF257B_JzzhuAndCities.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 1
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/CF257B_JzzhuAndCities.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/CF257B_JzzhuAndCities.dir/rule
+
+# Convenience name for target.
+CF257B_JzzhuAndCities: CMakeFiles/CF257B_JzzhuAndCities.dir/rule
+
+.PHONY : CF257B_JzzhuAndCities
+
+# clean rule for target.
+CMakeFiles/CF257B_JzzhuAndCities.dir/clean:
+	$(MAKE) -f CMakeFiles/CF257B_JzzhuAndCities.dir/build.make CMakeFiles/CF257B_JzzhuAndCities.dir/clean
+.PHONY : CMakeFiles/CF257B_JzzhuAndCities.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/CF257B_JzzhuAndCities.dir/clean
 
 .PHONY : clean
 
@@ -985,76 +2317,150 @@ clean: CMakeFiles/CF686D_KayAndSnowflake.dir/clean
 .PHONY : clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/Competitive_Programming.dir
+# Target rules for target CMakeFiles/SqrtDecomposition_IntervalSum.dir
 
 # All Build rule for target.
-CMakeFiles/Competitive_Programming.dir/all:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/depend
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93 "Built target Competitive_Programming"
-.PHONY : CMakeFiles/Competitive_Programming.dir/all
+CMakeFiles/SqrtDecomposition_IntervalSum.dir/all:
+	$(MAKE) -f CMakeFiles/SqrtDecomposition_IntervalSum.dir/build.make CMakeFiles/SqrtDecomposition_IntervalSum.dir/depend
+	$(MAKE) -f CMakeFiles/SqrtDecomposition_IntervalSum.dir/build.make CMakeFiles/SqrtDecomposition_IntervalSum.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num= "Built target SqrtDecomposition_IntervalSum"
+.PHONY : CMakeFiles/SqrtDecomposition_IntervalSum.dir/all
 
 # Include target in all.
-all: CMakeFiles/Competitive_Programming.dir/all
+all: CMakeFiles/SqrtDecomposition_IntervalSum.dir/all
 
 .PHONY : all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/Competitive_Programming.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 83
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/Competitive_Programming.dir/all
+CMakeFiles/SqrtDecomposition_IntervalSum.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/Competitive_Programming.dir/rule
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/SqrtDecomposition_IntervalSum.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/SqrtDecomposition_IntervalSum.dir/rule
 
 # Convenience name for target.
-Competitive_Programming: CMakeFiles/Competitive_Programming.dir/rule
+SqrtDecomposition_IntervalSum: CMakeFiles/SqrtDecomposition_IntervalSum.dir/rule
 
-.PHONY : Competitive_Programming
-
-# clean rule for target.
-CMakeFiles/Competitive_Programming.dir/clean:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/clean
-.PHONY : CMakeFiles/Competitive_Programming.dir/clean
+.PHONY : SqrtDecomposition_IntervalSum
 
 # clean rule for target.
-clean: CMakeFiles/Competitive_Programming.dir/clean
+CMakeFiles/SqrtDecomposition_IntervalSum.dir/clean:
+	$(MAKE) -f CMakeFiles/SqrtDecomposition_IntervalSum.dir/build.make CMakeFiles/SqrtDecomposition_IntervalSum.dir/clean
+.PHONY : CMakeFiles/SqrtDecomposition_IntervalSum.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/SqrtDecomposition_IntervalSum.dir/clean
 
 .PHONY : clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/CC_ChefAndSubarrayQueries2.dir
+# Target rules for target CMakeFiles/CF115A_Party.dir
 
 # All Build rule for target.
-CMakeFiles/CC_ChefAndSubarrayQueries2.dir/all:
-	$(MAKE) -f CMakeFiles/CC_ChefAndSubarrayQueries2.dir/build.make CMakeFiles/CC_ChefAndSubarrayQueries2.dir/depend
-	$(MAKE) -f CMakeFiles/CC_ChefAndSubarrayQueries2.dir/build.make CMakeFiles/CC_ChefAndSubarrayQueries2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num= "Built target CC_ChefAndSubarrayQueries2"
-.PHONY : CMakeFiles/CC_ChefAndSubarrayQueries2.dir/all
+CMakeFiles/CF115A_Party.dir/all:
+	$(MAKE) -f CMakeFiles/CF115A_Party.dir/build.make CMakeFiles/CF115A_Party.dir/depend
+	$(MAKE) -f CMakeFiles/CF115A_Party.dir/build.make CMakeFiles/CF115A_Party.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=5 "Built target CF115A_Party"
+.PHONY : CMakeFiles/CF115A_Party.dir/all
 
 # Include target in all.
-all: CMakeFiles/CC_ChefAndSubarrayQueries2.dir/all
+all: CMakeFiles/CF115A_Party.dir/all
 
 .PHONY : all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/CC_ChefAndSubarrayQueries2.dir/rule: cmake_check_build_system
+CMakeFiles/CF115A_Party.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 1
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/CF115A_Party.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/CC_ChefAndSubarrayQueries2.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/CC_ChefAndSubarrayQueries2.dir/rule
+.PHONY : CMakeFiles/CF115A_Party.dir/rule
 
 # Convenience name for target.
-CC_ChefAndSubarrayQueries2: CMakeFiles/CC_ChefAndSubarrayQueries2.dir/rule
+CF115A_Party: CMakeFiles/CF115A_Party.dir/rule
 
-.PHONY : CC_ChefAndSubarrayQueries2
-
-# clean rule for target.
-CMakeFiles/CC_ChefAndSubarrayQueries2.dir/clean:
-	$(MAKE) -f CMakeFiles/CC_ChefAndSubarrayQueries2.dir/build.make CMakeFiles/CC_ChefAndSubarrayQueries2.dir/clean
-.PHONY : CMakeFiles/CC_ChefAndSubarrayQueries2.dir/clean
+.PHONY : CF115A_Party
 
 # clean rule for target.
-clean: CMakeFiles/CC_ChefAndSubarrayQueries2.dir/clean
+CMakeFiles/CF115A_Party.dir/clean:
+	$(MAKE) -f CMakeFiles/CF115A_Party.dir/build.make CMakeFiles/CF115A_Party.dir/clean
+.PHONY : CMakeFiles/CF115A_Party.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/CF115A_Party.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/SPOJ_KthNumber_Persistence.dir
+
+# All Build rule for target.
+CMakeFiles/SPOJ_KthNumber_Persistence.dir/all:
+	$(MAKE) -f CMakeFiles/SPOJ_KthNumber_Persistence.dir/build.make CMakeFiles/SPOJ_KthNumber_Persistence.dir/depend
+	$(MAKE) -f CMakeFiles/SPOJ_KthNumber_Persistence.dir/build.make CMakeFiles/SPOJ_KthNumber_Persistence.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=96 "Built target SPOJ_KthNumber_Persistence"
+.PHONY : CMakeFiles/SPOJ_KthNumber_Persistence.dir/all
+
+# Include target in all.
+all: CMakeFiles/SPOJ_KthNumber_Persistence.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/SPOJ_KthNumber_Persistence.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 1
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/SPOJ_KthNumber_Persistence.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/SPOJ_KthNumber_Persistence.dir/rule
+
+# Convenience name for target.
+SPOJ_KthNumber_Persistence: CMakeFiles/SPOJ_KthNumber_Persistence.dir/rule
+
+.PHONY : SPOJ_KthNumber_Persistence
+
+# clean rule for target.
+CMakeFiles/SPOJ_KthNumber_Persistence.dir/clean:
+	$(MAKE) -f CMakeFiles/SPOJ_KthNumber_Persistence.dir/build.make CMakeFiles/SPOJ_KthNumber_Persistence.dir/clean
+.PHONY : CMakeFiles/SPOJ_KthNumber_Persistence.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/SPOJ_KthNumber_Persistence.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/Tries.dir
+
+# All Build rule for target.
+CMakeFiles/Tries.dir/all:
+	$(MAKE) -f CMakeFiles/Tries.dir/build.make CMakeFiles/Tries.dir/depend
+	$(MAKE) -f CMakeFiles/Tries.dir/build.make CMakeFiles/Tries.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=98 "Built target Tries"
+.PHONY : CMakeFiles/Tries.dir/all
+
+# Include target in all.
+all: CMakeFiles/Tries.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/Tries.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 1
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/Tries.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/Tries.dir/rule
+
+# Convenience name for target.
+Tries: CMakeFiles/Tries.dir/rule
+
+.PHONY : Tries
+
+# clean rule for target.
+CMakeFiles/Tries.dir/clean:
+	$(MAKE) -f CMakeFiles/Tries.dir/build.make CMakeFiles/Tries.dir/clean
+.PHONY : CMakeFiles/Tries.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/Tries.dir/clean
 
 .PHONY : clean
 
@@ -1096,13 +2502,50 @@ clean: CMakeFiles/CC_ChefGoesLeftRight.dir/clean
 .PHONY : clean
 
 #=============================================================================
+# Target rules for target CMakeFiles/USACO_BalancedCowBreeds.dir
+
+# All Build rule for target.
+CMakeFiles/USACO_BalancedCowBreeds.dir/all:
+	$(MAKE) -f CMakeFiles/USACO_BalancedCowBreeds.dir/build.make CMakeFiles/USACO_BalancedCowBreeds.dir/depend
+	$(MAKE) -f CMakeFiles/USACO_BalancedCowBreeds.dir/build.make CMakeFiles/USACO_BalancedCowBreeds.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num= "Built target USACO_BalancedCowBreeds"
+.PHONY : CMakeFiles/USACO_BalancedCowBreeds.dir/all
+
+# Include target in all.
+all: CMakeFiles/USACO_BalancedCowBreeds.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/USACO_BalancedCowBreeds.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/USACO_BalancedCowBreeds.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/USACO_BalancedCowBreeds.dir/rule
+
+# Convenience name for target.
+USACO_BalancedCowBreeds: CMakeFiles/USACO_BalancedCowBreeds.dir/rule
+
+.PHONY : USACO_BalancedCowBreeds
+
+# clean rule for target.
+CMakeFiles/USACO_BalancedCowBreeds.dir/clean:
+	$(MAKE) -f CMakeFiles/USACO_BalancedCowBreeds.dir/build.make CMakeFiles/USACO_BalancedCowBreeds.dir/clean
+.PHONY : CMakeFiles/USACO_BalancedCowBreeds.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/USACO_BalancedCowBreeds.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
 # Target rules for target CMakeFiles/CF347D_LuckyCommonSubsequence2.dir
 
 # All Build rule for target.
 CMakeFiles/CF347D_LuckyCommonSubsequence2.dir/all:
 	$(MAKE) -f CMakeFiles/CF347D_LuckyCommonSubsequence2.dir/build.make CMakeFiles/CF347D_LuckyCommonSubsequence2.dir/depend
 	$(MAKE) -f CMakeFiles/CF347D_LuckyCommonSubsequence2.dir/build.make CMakeFiles/CF347D_LuckyCommonSubsequence2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=5 "Built target CF347D_LuckyCommonSubsequence2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num= "Built target CF347D_LuckyCommonSubsequence2"
 .PHONY : CMakeFiles/CF347D_LuckyCommonSubsequence2.dir/all
 
 # Include target in all.
@@ -1112,7 +2555,7 @@ all: CMakeFiles/CF347D_LuckyCommonSubsequence2.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/CF347D_LuckyCommonSubsequence2.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/CF347D_LuckyCommonSubsequence2.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/CF347D_LuckyCommonSubsequence2.dir/rule

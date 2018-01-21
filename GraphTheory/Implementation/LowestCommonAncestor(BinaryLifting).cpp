@@ -57,21 +57,23 @@ void dfs(int node, int par) {
 int lca(int u, int v) {
 	if (lvl[u] < lvl[v]) swap(u, v);
 
-	int k = ceil(log2(double(lvl[u])));
+	int k;
+	for(k = 0; (1<<k) <= lvl[u]; k++);
+	k--;
 
 	for (int i = k; i >= 0; i--) {
-		if (lvl[u] - (1 << i) >= lvl[v]) {
+		if (P[u][i] != -1 && lvl[u] - (1 << i) >= lvl[v]) {
 			u = P[u][i];
 		}
 	}
-	if (u == v) 
+	if (u == v)
 		return u;
 
 	for (int i = k; i >= 0; i--) {
 		if (P[u][i] != -1 && P[u][i] != P[v][i]) {
 			u = P[u][i];
 			v = P[v][i];
-		} 
+		}
 	}
 	assert(P[u][0] == P[v][0]);
 	return P[u][0];

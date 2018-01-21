@@ -33,9 +33,11 @@ const ld EPS = 1e-9, PI = 3.1415926535897932384626433832795;
 
 using namespace std;
 
-int tree[400007], A[100007], N, Q;
+const int maxn = 100007;
+int tree[4*maxn], A[maxn], N, Q;
 inline int left(int p) { return (p << 1); }
 inline int right(int p) { return (p << 1) + 1; }
+
 void build(int p, int L, int R) { //O(N)
     if (L == R) {
         tree[p] = A[L];

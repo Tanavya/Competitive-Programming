@@ -1,80 +1,104 @@
 #include <iostream>
 #include <vector>
+#include <algorithm>
+#include <climits>
+#include <stdio.h>
+#include <queue>
+#include <set>
+#include <list>
+#include <cmath>
+#include <assert.h>
+#include <bitset>
+#include <cstring>
+#include <map>
 #include <unordered_map>
 #include <unordered_set>
-#include <algorithm>
-#define print(arr) for (auto i = arr.begin(); i != arr.end(); ++i) cout << *i << " "; cout << endl;
+#include <iomanip> //cout << setprecision(node) << fixed << num
+#include <stack>
+#include <sstream>
+
+#define all(x) x.begin(), x.end()
+#define pb push_back
+#define mp make_pair
+#define fi first
+#define se second
+#define print(arr) for (auto it = arr.begin(); it != arr.end(); ++it) cout << *it << " "; cout << endl;
+#define debug(x) cout << x << endl;
+#define debug2(x,y) cout << x << " " << y << endl;
+#define debug3(x,y,z) cout << x << " " << y << " " << z << endl;
+
+typedef long long int ll;
+typedef long double ld;
+typedef unsigned long long int ull;
+typedef std::pair <int, int> ii;
+typedef std::vector <int> vi;
+typedef std::vector <ll> vll;
+typedef std::vector <ld> vld;
+
+const int INF = int(1e9);
+const ll INF64 = ll(1e18);
+const ld EPS = 1e-9, PI = 3.1415926535897932384626433832795;
 using namespace std;
-typedef unordered_map <long, vector <long>> graph ;
-long int n = 0;
 
-void PrintGraph(graph G) {
-  for (auto it = G.begin(); it != G.end(); ++it) {
-    vector <long> neighbours = it->second;
-    cout << it->first << ": ";
-    print(neighbours);
-  }
-}
+const int maxn = 1e4+10, mod = 1e9+7;
 
-bool DFS(graph &G, int node, int target, vector <bool> &visited) {
-  if (node == target) return true;
-  for (auto it = G[node].begin(); it != G[node].end(); ++it) {
-      if (visited[*it]) continue;
-      visited[*it] = true;
-      if (DFS(G, *it, target, visited)) return true;
-   }
-  return false;
-}
+vector <vi> graph(maxn);
+bitset <maxn> visited;
+vi topo;
+ll dp[maxn];
+bool mat[maxn][maxn], ans_big[maxn];
+int MAP[maxn];
 
-
-bool ContainsCycle(graph &G, int node, vector <bool> &visited, vector <bool> &recursiveStack, vector <int> &finishing_time) {
-   for (auto it = G[node].begin(); it != G[node].end(); ++it) {
-       
-        if (visited[*it]) {
-            vector <bool> new_visited (n,false);         
-            if (DFS(G,node,2,new_visited)) {
-              return true;
-            }
-        }
-        
-        else {
-           visited[*it] = true;
-           //recursiveStack[*it] = true;
-           if (ContainsCycle(G, *it, visited, recursiveStack, finishing_time)) return true;
-        }
+void dfs(int node) {
+    visited[node] = true;
+    for (int adj : graph[node]) {
+        if (!visited[adj])
+            dfs(adj);
     }
-    //recursiveStack[node] = false;
-    finishing_time.push_back(node);
-    return false;
-  }
+    topo.pb(node);
+}
 
 int main() {
-  graph G;
-  long m, a, b;
-  scanf("%ld %ld", &n, &m);
-  while (m--) {
-    scanf("%ld %ld", &a, &b);
-    G[a].push_back(b);
-  }
 
-  vector <bool> visited (n+1, false);
-  vector <bool> recStack (n+1, false);
-  vector <int> finishing_time;
-  if (ContainsCycle(G,1,visited,recStack, finishing_time)) {
-    cout << "inf" << endl;
-    return 0;
-  }
-  vector <long long int> num_paths (n+1, 0);
+    int N, M;
+    scanf("%d %d", &N, &M);
+    for (int i = 0; i < M; i++) {
+        int u, v;
+        scanf("%d %d", &u, &v);
+        graph[u].pb(v);
+        mat[u][v] = true;
+    }
+    dfs(1);
+    reverse(all(topo));
+    dp[2] = 1;
 
-  reverse(finishing_time.begin(), finishing_time.end());
-  num_paths[1] = 1;
-
-  for (auto i = finishing_time.begin(); i != finishing_time.end(); ++i) {
-     for (auto j = G[*i].begin(); j != G[*i].end(); ++j) {
-         num_paths[*j] += (num_paths[*i] % 1000000000);
-         num_paths[*j] %= 1000000000;
-     } 
-  }
-  cout << num_paths[2] % 1000000000 << endl;
-  
+    for (int i = topo.size() - 1; i >= 0; i--) {
+        int u = topo[i];
+        MAP[u] = i;
+        for (int v : graph[u]) {
+            dp[u] += dp[v];
+            if (dp[u] > mod || ans_big[v])
+                ans_big[u] = true;
+            dp[u] %= mod;
+        }
+    }
+    for (int i = topo.size() - 1; i >= 0; i--) {
+        int u = topo[i];
+        for (int v : graph[u]) {
+            if (MAP[v] < i) {
+                if (dp[v] || (!dp[v] && ans_big[v])) {
+                    printf("inf\n");
+                    return 0;
+                }
+            }
+        }
+    }
+    /*
+    if (ans_big[1]) {
+        cout << setw(9) << setfill('0') << dp[1] << endl;
+    }
+    else {
+        cout << dp[1] << endl;
+    }*/
+    cout << dp[1] << endl;
 }

@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/CF617E_XORAndFavouriteNumber.dir/DataStructures/CF617E_XORAndFavouriteNumber.cpp.o  -o CF617E_XORAndFavouriteNumber 

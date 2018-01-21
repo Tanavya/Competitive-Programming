@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/CF115A_Party.dir/GraphTheory/CF115A_Party.cpp.o  -o CF115A_Party 

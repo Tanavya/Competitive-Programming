@@ -42,6 +42,7 @@ int main() {
     for (int i = 0; i < m; i++) {
         scanf("%d %d %d", &a, &b, &c);
         graph[a].push_back(mp(b,c));
+        graph[b].push_back(mp(a,c)); //bi-directional graph
     }
     
     priority_queue <ii, vector <ii>, greater<ii>> pq;

@@ -1,5 +1,3 @@
-//Tutorial Link : https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/tutorial/
-
 #include <iostream>
 #include <vector>
 #include <algorithm>
@@ -11,46 +9,53 @@
 #include <cmath>
 #include <assert.h>
 #include <bitset>
+#include <cstring>
 #include <map>
 #include <unordered_map>
 #include <unordered_set>
 #include <iomanip> //cout << setprecision(node) << fixed << num
+#include <stack>
+#include <sstream>
 
-#define mp make_pair
+
+#define all(x) x.begin(), x.end()
 #define pb push_back
-#define x first
-#define y second
-#define print(arr) for (auto it = arr.begin(); it != arr.end(); ++it) cout << *it << " "; cout << "\n";
+#define mp make_pair
+#define fi first
+#define se second
+#define print(arr) for (auto it = arr.begin(); it != arr.end(); ++it) cout << *it << " "; cout << endl;
+#define debug(x) cout << x << endl;
+#define debug2(x,y) cout << x << " " << y << endl;
+#define debug3(x,y,z) cout << x << " " << y << " " << z << endl;
 
 typedef long long int ll;
 typedef long double ld;
+typedef unsigned long long int ull;
 typedef std::pair <int, int> ii;
 typedef std::vector <int> vi;
 typedef std::vector <ll> vll;
+typedef std::vector <ld> vld;
+
 const int INF = int(1e9);
 const ll INF64 = ll(1e18);
 const ld EPS = 1e-9, PI = 3.1415926535897932384626433832795;
-
 using namespace std;
 
-const int maxn = 1e5 + 5;
-int tree[4 * maxn], lazy[4 * maxn], A[maxn], N, Q, a, b, val;
+const int maxn = 1e5+10;
+int tree[4*maxn], lazy[4*maxn], A[maxn];
 
-inline int left(int x) { return x << 1; }
-inline int right(int x) { return (x << 1) + 1; } 
-inline bool within(int L, int R) { return (a <= L && b >= R); }
-inline bool outside(int L, int R) { return (b < L || a > R); }
+inline int left (int x) { return (x << 1); }
+inline int right (int x) { return (x << 1) + 1; }
 
-void propagate(int i, int L, int R) {
-    tree[i] += (R - L + 1) * lazy[i];
+void propagate (int i, int L, int R, int val) {
+    tree[i] += (R-L+1) * val;
     if (L != R) {
-        //mark children as lazy
-        lazy[left(i)] += lazy[i];
-        lazy[right(i)] += lazy[i];
+        lazy[left(i)] += val;
+        lazy[right(i)] += val;
     }
-    lazy[i] = 0;
 }
-void build(int i, int L, int R) {
+
+void build (int i, int L, int R) {
     if (L == R) {
         tree[i] = A[L];
     }
@@ -61,69 +66,57 @@ void build(int i, int L, int R) {
         tree[i] = tree[left(i)] + tree[right(i)];
     }
 }
-void updateRange(int i, int L, int R) {
-    if (lazy[i]) // current range not up-to-date
-        propagate(i, L, R);
-    if (outside(L, R)) // current range is not within required range
-        return; 
-    if (within(L, R)) { // current range fully within required range
-        // update current range with val
-        tree[i] += (R - L + 1) * val;
-        if (L != R) {
-            lazy[left(i)] += val;
-            lazy[right(i)] += val;
-        }
+
+void updateRange(int i, int L, int R, int li, int ri, int val) {
+    if (lazy[i]) {
+        propagate(i, L, R, lazy[i]);
+        lazy[i] = 0;
+    }
+    if (ri < L || li > R)
+        return;
+    if (li <= L && ri >= R) {
+        propagate(i, L, R, val);
         return;
     }
-    // current range partially within required range
     int mid = (L+R)/2;
-    updateRange(left(i), L, mid); //update left child
-    updateRange(right(i), mid+1, R); //update right child
-    tree[i] = tree[left(i)] + tree[right(i)]; //update root with sum of children
+    updateRange(left(i), L, mid, li, ri, val);
+    updateRange(right(i), mid+1, R, li, ri, val);
+    tree[i] = tree[left(i)] + tree[right(i)];
 }
-int queryRange(int i, int L, int R) {
-    if (lazy[i]) 
-        propagate(i, L, R);
-    if (outside(L, R))
+
+int queryRange(int i, int L, int R, int li, int ri) {
+    if (lazy[i]) {
+        propagate(i, L, R, lazy[i]);
+        lazy[i] = 0;
+    }
+    if (ri < L || li > R)
         return 0;
-    if (within(L, R)) 
+    if (li <= L && ri >= R)
         return tree[i];
     int mid = (L+R)/2;
-    int p1 = queryRange(left(i), L, mid);
-    int p2 = queryRange(right(i), mid+1, R);
-    return p1 + p2;
+    return queryRange(left(i), L, mid, li, ri) + queryRange(right(i), mid+1, R, li, ri);
 }
+
 int main() {
-    char q; 
-    //r = range update, q = query interval sum, u = update single
+    int N, Q, l, r, x;
     scanf("%d %d", &N, &Q);
-    for (int i = 1; i <= N; i++)
+    for (int i = 1; i <= N; i++) {
         scanf("%d", &A[i]);
+    }
     build(1, 1, N);
-    for (int i = 0; i < Q; i++) {
-        cin >> q;
-        if (q == 'q') {
-            scanf("%d %d", &a, &b);
-            printf("%d\n", queryRange(1, 1, N));
+    int type;
+    while (Q--) {
+        scanf("%d", &type);
+        if (type == 1) {
+            //update
+            scanf("%d %d %d", &l, &r, &x);
+            updateRange(1, 1, N, l, r, x);
         }
-        else if (q == 'u') {
-            scanf("%d %d", &a, &val);
-            b = a;
-            updateRange(1, 1, N);
+        else {
+            //query
+            scanf("%d %d", &l, &r);
+            printf("%d\n", queryRange(1, 1, N, l, r));
         }
-        else if (q == 'r') {
-            scanf("%d %d %d", &a, &b, &val);
-            updateRange(1, 1, N);
-        }
+        //for (int i = 1; i <= N; i++) cout << queryRange(1, 1, N, i, i) << " "; cout << endl;
     }
 }
-/*
-5 8
-1 2 3 4 5
-q 1 4
-q 2 5
-q 3 5
-u 2 10
-q 1 3
-r 1 5 3
-*/
