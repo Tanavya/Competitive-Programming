@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/CF506_MrKutayutasColorfulGraph.dir/DataStructures/CF506_MrKutayutasColorfulGraph.cpp.o  -o CF506_MrKutayutasColorfulGraph 

@@ -68,7 +68,7 @@ node merge (node l, node r) {
     ret.centre = max(l.right + r.left, max(l.centre, r.centre));
     ret.left = max(l.left, l.sum + r.left);
     ret.right = max(r.right, r.sum + l.right);
-    ret.centre = max(ret.centre, max(ret.left, ret.right));
+    //ret.centre = max(ret.centre, max(ret.left, ret.right));
     return ret;
 }
 

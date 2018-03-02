@@ -59,14 +59,10 @@ struct node {
 node *version[maxn];
 
 void update(node *prev, node *curr, int L, int R, int idx, int val) {
-    curr->val = prev->val;
     if (L == R) {
-        assert(idx == L);
-        curr->val ^= val;
+        curr->val = prev->val ^ val;
     }
     else {
-        if (prev->left == nullptr) prev->left = null;
-        if (prev->right == nullptr) prev->right = null;
         int mid = (L+R)/2;
         if (idx <= mid) {
             curr->right = prev->right;
@@ -116,6 +112,8 @@ int main() {
             tree[v].pb(mp(u, w));
         }
         version[1] = null;
+        version[1]->right = version[1];
+        version[1]->left = version[1];
         dfs(1, 0);
         int Q;
         scanf("%d", &Q);

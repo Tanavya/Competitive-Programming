@@ -5,74 +5,127 @@
   </component>
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
     <generated>
-      <config projectName="Competitive_Programming" targetName="CC_PartitionCount" />
-      <config projectName="Competitive_Programming" targetName="USACO_BalancedCowBreeds" />
-      <config projectName="Competitive_Programming" targetName="CF257B_JzzhuAndCities" />
-      <config projectName="Competitive_Programming" targetName="CF892E_Envy" />
-      <config projectName="Competitive_Programming" targetName="Competitive_Programming" />
+      <config projectName="Competitive_Programming" targetName="CF506_MrKutayutasColorfulGraph" />
+      <config projectName="Competitive_Programming" targetName="SPOJ_KQuery2" />
       <config projectName="Competitive_Programming" targetName="Misc" />
       <config projectName="Competitive_Programming" targetName="CC_ChefAndMediumProblem2" />
+      <config projectName="Competitive_Programming" targetName="SPOJ_KQuery" />
+      <config projectName="Competitive_Programming" targetName="CC_StrangeQueries" />
       <config projectName="Competitive_Programming" targetName="MosAlgorithm" />
       <config projectName="Competitive_Programming" targetName="Exun2017_DigexReturns" />
       <config projectName="Competitive_Programming" targetName="SPOJ_KRECT" />
-      <config projectName="Competitive_Programming" targetName="IOI2000_PostOffices" />
       <config projectName="Competitive_Programming" targetName="IARCS_PayingThePrice" />
       <config projectName="Competitive_Programming" targetName="CC_ChefAndSubarrayQueries" />
       <config projectName="Competitive_Programming" targetName="CF118D_CaesarsLegions" />
-      <config projectName="Competitive_Programming" targetName="UVa10342_AlwaysLate" />
-      <config projectName="Competitive_Programming" targetName="DFSConnectedComponents" />
       <config projectName="Competitive_Programming" targetName="SPOJ_OTOCI" />
+      <config projectName="Competitive_Programming" targetName="CF220B_LittleElephantAndArray" />
+      <config projectName="Competitive_Programming" targetName="CF505D_KitayutasTechnology" />
       <config projectName="Competitive_Programming" targetName="PointsLinesAndStuff" />
-      <config projectName="Competitive_Programming" targetName="CF495D_ObsessiveString" />
+      <config projectName="Competitive_Programming" targetName="SPOJ_GSS5" />
       <config projectName="Competitive_Programming" targetName="SPOJ_TheCourier" />
+      <config projectName="Competitive_Programming" targetName="SPOJ_GSS6" />
+      <config projectName="Competitive_Programming" targetName="SPOJ_GSS3" />
+      <config projectName="Competitive_Programming" targetName="SPOJ_GSS4" />
       <config projectName="Competitive_Programming" targetName="SPOJ_GSS1" />
+      <config projectName="Competitive_Programming" targetName="SPOJ_GSS2" />
       <config projectName="Competitive_Programming" targetName="SCCTarjan" />
       <config projectName="Competitive_Programming" targetName="CF479D_RidingInALift" />
       <config projectName="Competitive_Programming" targetName="LiveArchive_XorSum" />
-      <config projectName="Competitive_Programming" targetName="USACO_Relocation" />
+      <config projectName="Competitive_Programming" targetName="CC_ChefAndOddQueries" />
       <config projectName="Competitive_Programming" targetName="CC_ChefGoesLeftRight" />
+      <config projectName="Competitive_Programming" targetName="SPOJ_AMR10J" />
       <config projectName="Competitive_Programming" targetName="ManachersAlgo" />
-      <config projectName="Competitive_Programming" targetName="USACO_CowIDs" />
       <config projectName="Competitive_Programming" targetName="CC_ProductOnSegment" />
       <config projectName="Competitive_Programming" targetName="CF688E_TheValuesYouCanMake" />
-      <config projectName="Competitive_Programming" targetName="CF407B_LongPath" />
-      <config projectName="Competitive_Programming" targetName="GFG_ShortestCommonSupersequence" />
-      <config projectName="Competitive_Programming" targetName="CC_TooMuchSweetness" />
-      <config projectName="Competitive_Programming" targetName="ExunPrelimsP2" />
-      <config projectName="Competitive_Programming" targetName="Exun2017_Digex" />
-      <config projectName="Competitive_Programming" targetName="Knuth-Morris-Pratt-Algorithm" />
+      <config projectName="Competitive_Programming" targetName="SPOJ_KQueryo" />
+      <config projectName="Competitive_Programming" targetName="CF375D_TreeAndQueries" />
       <config projectName="Competitive_Programming" targetName="LazyPropSegmentTree_IntervalSum" />
       <config projectName="Competitive_Programming" targetName="SqrtDecomposition_IntervalSum" />
       <config projectName="Competitive_Programming" targetName="AIO_CoreysParty" />
-      <config projectName="Competitive_Programming" targetName="CF899F_LettersRemoving" />
       <config projectName="Competitive_Programming" targetName="Tries" />
       <config projectName="Competitive_Programming" targetName="CF659E_NewReform" />
-      <config projectName="Competitive_Programming" targetName="ModularInverse" />
       <config projectName="Competitive_Programming" targetName="CC_PishtyAndTree" />
-      <config projectName="Competitive_Programming" targetName="SPOJ_KthNumber_Persistence" />
-      <config projectName="Competitive_Programming" targetName="CF864E_Fire" />
-      <config projectName="Competitive_Programming" targetName="CF686D_KayAndSnowflake" />
       <config projectName="Competitive_Programming" targetName="IOI96_AGame" />
       <config projectName="Competitive_Programming" targetName="SPOJ_DynamicGraphConnectivity2" />
-      <config projectName="Competitive_Programming" targetName="CF589G_Hiring" />
+      <config projectName="Competitive_Programming" targetName="RangeQueryAndUpdates_PrefixTrick" />
       <config projectName="Competitive_Programming" targetName="HackerEarth_Trie" />
       <config projectName="Competitive_Programming" targetName="IARCS_RankFraud" />
-      <config projectName="Competitive_Programming" targetName="CSA_TriangularMatrix" />
-      <config projectName="Competitive_Programming" targetName="SPOJ_QTREE1" />
-      <config projectName="Competitive_Programming" targetName="CC_PishtyAndTree_Alternate" />
-      <config projectName="Competitive_Programming" targetName="CF519E_AAndBLectureRooms" />
+      <config projectName="Competitive_Programming" targetName="CC_XorQueries" />
+      <config projectName="Competitive_Programming" targetName="SPOJ_DQuery_Persistence" />
+      <config projectName="Competitive_Programming" targetName="SPOJ_DQuery_MosAlgo" />
+      <config projectName="Competitive_Programming" targetName="SPOJ_RPAR" />
+      <config projectName="Competitive_Programming" targetName="CF398D_InstantMessenger" />
       <config projectName="Competitive_Programming" targetName="CF525E_AnyaAndCubes" />
       <config projectName="Competitive_Programming" targetName="CF716D_CompleteTheGraph" />
-      <config projectName="Competitive_Programming" targetName="CF347D_LuckyCommonSubsequence2" />
+      <config projectName="Competitive_Programming" targetName="Exun2017_ArrayStudy" />
       <config projectName="Competitive_Programming" targetName="CF567E_PresidentAndRoads" />
       <config projectName="Competitive_Programming" targetName="CC_LoversGift" />
       <config projectName="Competitive_Programming" targetName="CF115A_Party" />
       <config projectName="Competitive_Programming" targetName="CF340D_BubbleSortGraph" />
-      <config projectName="Competitive_Programming" targetName="CF617E_XORAndFavouriteNumber" />
       <config projectName="Competitive_Programming" targetName="GCJ_LastHit" />
+      <config projectName="Competitive_Programming" targetName="HeavyLightDecomposition" />
       <config projectName="Competitive_Programming" targetName="CF342E_XeniaAndTree" />
       <config projectName="Competitive_Programming" targetName="CF383D_Antimatter" />
+      <config projectName="Competitive_Programming" targetName="CF915F_ImbalanceValueOfTree" />
       <config projectName="Competitive_Programming" targetName="CC_ChefAndSubarrayQueries2" />
+      <config projectName="Competitive_Programming" targetName="CC_GiveAway" />
+      <config projectName="Competitive_Programming" targetName="SPOJ_TwoPaths" />
+      <config projectName="Competitive_Programming" targetName="CC_TALCA" />
+      <config projectName="Competitive_Programming" targetName="CC_PartitionCount" />
+      <config projectName="Competitive_Programming" targetName="USACO_BalancedCowBreeds" />
+      <config projectName="Competitive_Programming" targetName="CF13E_Holes" />
+      <config projectName="Competitive_Programming" targetName="CF257B_JzzhuAndCities" />
+      <config projectName="Competitive_Programming" targetName="SPOJ_COT2" />
+      <config projectName="Competitive_Programming" targetName="Competitive_Programming" />
+      <config projectName="Competitive_Programming" targetName="CF892E_Envy" />
+      <config projectName="Competitive_Programming" targetName="CF86D_PowerfulArray" />
+      <config projectName="Competitive_Programming" targetName="IOI2000_PostOffices" />
+      <config projectName="Competitive_Programming" targetName="UVa10342_AlwaysLate" />
+      <config projectName="Competitive_Programming" targetName="DFSConnectedComponents" />
+      <config projectName="Competitive_Programming" targetName="CF495D_ObsessiveString" />
+      <config projectName="Competitive_Programming" targetName="CF868E_PolicemanAndTree" />
+      <config projectName="Competitive_Programming" targetName="KQuery2_alternate" />
+      <config projectName="Competitive_Programming" targetName="CF348C_SubsetSums" />
+      <config projectName="Competitive_Programming" targetName="TIMUS_BinaryAppleTree" />
+      <config projectName="Competitive_Programming" targetName="CF81E_Pairs" />
+      <config projectName="Competitive_Programming" targetName="USACO_Relocation" />
+      <config projectName="Competitive_Programming" targetName="CF446C_DZYLovesFibonacciNumbers" />
+      <config projectName="Competitive_Programming" targetName="USACO_CowIDs" />
+      <config projectName="Competitive_Programming" targetName="CC_CloneMe" />
+      <config projectName="Competitive_Programming" targetName="CF407B_LongPath" />
+      <config projectName="Competitive_Programming" targetName="CC_BrokenClock" />
+      <config projectName="Competitive_Programming" targetName="GFG_ShortestCommonSupersequence" />
+      <config projectName="Competitive_Programming" targetName="CC_TooMuchSweetness" />
+      <config projectName="Competitive_Programming" targetName="Exun2017_Digex" />
+      <config projectName="Competitive_Programming" targetName="ExunPrelimsP2" />
+      <config projectName="Competitive_Programming" targetName="ImplicitTreap" />
+      <config projectName="Competitive_Programming" targetName="Knuth-Morris-Pratt-Algorithm" />
+      <config projectName="Competitive_Programming" targetName="CC_VasyaAndLittleBear" />
+      <config projectName="Competitive_Programming" targetName="CF145E_LuckyQueries" />
+      <config projectName="Competitive_Programming" targetName="IOITC_GraphLIS" />
+      <config projectName="Competitive_Programming" targetName="CF899F_LettersRemoving" />
+      <config projectName="Competitive_Programming" targetName="ModularInverse" />
+      <config projectName="Competitive_Programming" targetName="CC_ChefAndGraphQueries" />
+      <config projectName="Competitive_Programming" targetName="Treap" />
+      <config projectName="Competitive_Programming" targetName="SPOJ_KthNumber_Persistence" />
+      <config projectName="Competitive_Programming" targetName="CF864E_Fire" />
+      <config projectName="Competitive_Programming" targetName="CC_SubInversing" />
+      <config projectName="Competitive_Programming" targetName="CF686D_KayAndSnowflake" />
+      <config projectName="Competitive_Programming" targetName="SPOJ_SEGSQRSS" />
+      <config projectName="Competitive_Programming" targetName="CF589G_Hiring" />
+      <config projectName="Competitive_Programming" targetName="CC_Sorting" />
+      <config projectName="Competitive_Programming" targetName="CF816C_KarenAndSupermarket" />
+      <config projectName="Competitive_Programming" targetName="CC_ChefAndXorQueries" />
+      <config projectName="Competitive_Programming" targetName="SPOJ_OrderStatisticSet_Treap" />
+      <config projectName="Competitive_Programming" targetName="CSA_TriangularMatrix" />
+      <config projectName="Competitive_Programming" targetName="SPOJ_QTREE1" />
+      <config projectName="Competitive_Programming" targetName="CC_PishtyAndTree_Alternate" />
+      <config projectName="Competitive_Programming" targetName="CF519E_AAndBLectureRooms" />
+      <config projectName="Competitive_Programming" targetName="CF347D_LuckyCommonSubsequence2" />
+      <config projectName="Competitive_Programming" targetName="CF932D_Tree" />
+      <config projectName="Competitive_Programming" targetName="CC_ChefAndQueries" />
+      <config projectName="Competitive_Programming" targetName="SPOJ_COT" />
+      <config projectName="Competitive_Programming" targetName="CF617E_XORAndFavouriteNumber" />
     </generated>
   </component>
   <component name="CMakeSettings" AUTO_RELOAD="true">
@@ -82,76 +135,103 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0ba9f12-328e-441c-8f95-0c040773d3da" name="Default" comment="Made compatible with CLion">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AIO_CoreysParty.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ComputationalGeometry/Implementation/GeometryStuff.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataStructures/CC_PishtyAndTree.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataStructures/CF589G_Hiring.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataStructures/CF617E_XORAndFavouriteNumber.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataStructures/CF899E_SegmentsRemoval.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataStructures/CF899F_LettersRemoving.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataStructures/HackerEarth_Trie.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataStructures/Implementation/SqrtDecomposition_IntervalSum.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataStructures/Implementation/Tries.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataStructures/LiveArchive_XorSum.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataStructures/SPOJ_KthNumber_Persistence.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DynamicProgramming/CC_PartitionCount.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DynamicProgramming/CC_TooMuchSweetness.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DynamicProgramming/CF118D_CaesarsLegions.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DynamicProgramming/CF407B_LongPath.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DynamicProgramming/CF864E_Fire.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DynamicProgramming/GCJ_LastHit.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DynamicProgramming/GFG_ShortestCommonSupersequence.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DynamicProgramming/HackerRank_Troyangles.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DynamicProgramming/SPOJ_KRECT.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DynamicProgramming/SPOJ_TheCourier.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DynamicProgramming/USACO_BalancedCowBreeds.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GraphTheory/CF115A_Party.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GraphTheory/CF257B_JzzhuAndCities.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GraphTheory/CF567E_PresidentAndRoads.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GraphTheory/CF716D_CompleteTheGraph.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GraphTheory/CSA_TriangularMatrix.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GraphTheory/SPOJ_DynamicGraphConnectivity2.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GraphTheory/SPOJ_OTOCI.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GraphTheory/USACO_Relocation.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GraphTheory/UVa10342_AlwaysLate.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IARCS_PayingThePrice.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IARCS_RankFraud.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Misc.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OtherAlgorithms/ModularInverse.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OtherAlgorithms/MosAlgorithm.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OtherAlgorithms/SPOJ_DynamicGraphConnectivity2.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OtherAlgorithms/Sieve.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/USACO_CowIDs.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/a.out" afterPath="$PROJECT_DIR$/a.out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CF342E_XeniaAndTree" afterPath="$PROJECT_DIR$/cmake-build-debug/CF342E_XeniaAndTree" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CF525E_AnyaAndCubes" afterPath="$PROJECT_DIR$/cmake-build-debug/CF525E_AnyaAndCubes" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CF686D_KayAndSnowflake" afterPath="$PROJECT_DIR$/cmake-build-debug/CF686D_KayAndSnowflake" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CF342E_XeniaAndTree.dir/DataStructures/CF342E_XeniaAndTree.cpp.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CF342E_XeniaAndTree.dir/DataStructures/CF342E_XeniaAndTree.cpp.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CC_BrokenClock.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CC_ChefAndXorQueries.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CF13E_Holes.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CF220B_LittleElephantAndArray.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataStructures/CC_ChefAndGraphQueries.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataStructures/CC_ChefAndOddQueries.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataStructures/CC_ChefAndQueries.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataStructures/CC_CloneMe.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataStructures/CC_GiveAway.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataStructures/CC_Sorting.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataStructures/CC_StrangeQueries.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataStructures/CC_SubInversing.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataStructures/CC_XorQueries.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataStructures/CF145E_LuckyQueries.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataStructures/CF226E_NobleKnightsPath.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataStructures/CF348C_SubsetSums.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataStructures/CF375D_TreeAndQueries.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataStructures/CF398D_InstantMessenger.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataStructures/CF446C_DZYLovesFibonacciNumbers.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataStructures/CF506_MrKutayutasColorfulGraph.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataStructures/CF86D_PowerfulArray.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataStructures/Exun2017_ArrayStudy.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataStructures/Implementation/HeavyLightDecomposition.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataStructures/Implementation/ImplicitTreap.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataStructures/Implementation/PersistentSegmentTreeWithoutPointers.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataStructures/Implementation/RangeQueryAndUpdates_PrefixTrick.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataStructures/Implementation/Treap.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataStructures/KQuery2_alternate.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataStructures/SPOJ_COT.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataStructures/SPOJ_COT2.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataStructures/SPOJ_DQuery_MosAlgo.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataStructures/SPOJ_DQuery_Persistence.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataStructures/SPOJ_GSS2.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataStructures/SPOJ_GSS3.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataStructures/SPOJ_GSS4.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataStructures/SPOJ_GSS5.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataStructures/SPOJ_GSS6.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataStructures/SPOJ_KQueryo.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataStructures/SPOJ_OrderStatisticSet_Treap.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataStructures/SPOJ_RPAR.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataStructures/SPOJ_SEGSQRSS.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DynamicProgramming/CF81E_Pairs.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DynamicProgramming/OnTrees/CF816C_KarenAndSupermarket.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DynamicProgramming/OnTrees/CF868E_PolicemanAndTree.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DynamicProgramming/OnTrees/CF915F_ImbalanceValueOfTree.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DynamicProgramming/OnTrees/SPOJ_TwoPaths.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GraphTheory/CC_TALCA.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GraphTheory/CC_VasyaAndLittleBear.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GraphTheory/CF505D_KitayutasTechnology.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GraphTheory/CF919D_Substring.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GraphTheory/CF932D_Tree.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GraphTheory/IOITC_GraphLIS.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GraphTheory/Implementation/DetectingCyclesDirectedGraph.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GraphTheory/SPOJ_AMR10J.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CC_PishtyAndTree_Alternate" afterPath="$PROJECT_DIR$/cmake-build-debug/CC_PishtyAndTree_Alternate" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CC_PishtyAndTree_Alternate.dir/DataStructures/CC_PishtyAndTree_Alternate.cpp.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CC_PishtyAndTree_Alternate.dir/DataStructures/CC_PishtyAndTree_Alternate.cpp.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Misc.dir/Misc.cpp.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Misc.dir/Misc.cpp.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ModularInverse.dir/OtherAlgorithms/ModularInverse.cpp.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ModularInverse.dir/OtherAlgorithms/ModularInverse.cpp.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/Misc" afterPath="$PROJECT_DIR$/cmake-build-debug/Misc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/ModularInverse" afterPath="$PROJECT_DIR$/cmake-build-debug/ModularInverse" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CMakeLists.txt" afterPath="$PROJECT_DIR$/CMakeLists.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ComputationalGeometry/Implementation/PointsLinesAndStuff.cpp" afterPath="$PROJECT_DIR$/ComputationalGeometry/Implementation/PointsLinesAndStuff.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DataStructures/CF686D_KayAndSnowflake.cpp" afterPath="$PROJECT_DIR$/DataStructures/CF686D_KayAndSnowflake.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DataStructures/CC_PishtyAndTree_Alternate.cpp" afterPath="$PROJECT_DIR$/DataStructures/CC_PishtyAndTree_Alternate.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DataStructures/Implementation/BinaryIndexedTrees.cpp" afterPath="$PROJECT_DIR$/DataStructures/Implementation/BinaryIndexedTrees.cpp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DataStructures/Implementation/LazyPropSegmentTree_IntervalSum.cpp" afterPath="$PROJECT_DIR$/DataStructures/Implementation/LazyPropSegmentTree_IntervalSum.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DataStructures/Implementation/SegmentTree_RMQ.cpp" afterPath="$PROJECT_DIR$/DataStructures/Implementation/SegmentTree_RMQ.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DataStructures/SPOJ_KthNumber.cpp" afterPath="$PROJECT_DIR$/DataStructures/SPOJ_KthNumber.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DynamicProgramming/inp.txt" afterPath="$PROJECT_DIR$/DynamicProgramming/inp.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GraphTheory/Implementation/Algorithm_Dijkstra.cpp" afterPath="$PROJECT_DIR$/GraphTheory/Implementation/Algorithm_Dijkstra.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GraphTheory/Implementation/LowestCommonAncestor(BinaryLifting).cpp" afterPath="$PROJECT_DIR$/GraphTheory/Implementation/LowestCommonAncestor(BinaryLifting).cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GraphTheory/Implementation/SCCTarjan.cpp" afterPath="$PROJECT_DIR$/GraphTheory/Implementation/SCCTarjan.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/OtherAlgorithms/Bitmasks.cpp" afterPath="$PROJECT_DIR$/OtherAlgorithms/Bitmasks.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DataStructures/LiveArchive_XorSum.cpp" afterPath="$PROJECT_DIR$/DataStructures/LiveArchive_XorSum.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DataStructures/SPOJ_DQuery.cpp" afterPath="$PROJECT_DIR$/DataStructures/SPOJ_DQuery.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DataStructures/SPOJ_GSS1.cpp" afterPath="$PROJECT_DIR$/DataStructures/SPOJ_GSS1.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DataStructures/SPOJ_KQuery.cpp" afterPath="$PROJECT_DIR$/DataStructures/SPOJ_KQuery.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DataStructures/SPOJ_KQuery2.cpp" afterPath="$PROJECT_DIR$/DataStructures/SPOJ_KQuery2.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DataStructures/SPOJ_QTREE1.cpp" afterPath="$PROJECT_DIR$/DataStructures/SPOJ_QTREE1.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DynamicProgramming/OnTrees/CF440D_BerlandFederalization.cpp" afterPath="$PROJECT_DIR$/DynamicProgramming/OnTrees/CF440D_BerlandFederalization.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DynamicProgramming/OnTrees/TIMUS_BinaryAppleTree.cpp" afterPath="$PROJECT_DIR$/DynamicProgramming/OnTrees/TIMUS_BinaryAppleTree.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Misc.cpp" afterPath="$PROJECT_DIR$/Misc.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/OtherAlgorithms/ModularInverse.cpp" afterPath="$PROJECT_DIR$/OtherAlgorithms/ModularInverse.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CC_ChefAndMediumProblem2.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CC_ChefAndMediumProblem2.dir/progress.make" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CC_ChefAndSubarrayQueries.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CC_ChefAndSubarrayQueries.dir/progress.make" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CC_ChefGoesLeftRight.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CC_ChefGoesLeftRight.dir/progress.make" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CC_LoversGift.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CC_LoversGift.dir/progress.make" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CC_PartitionCount.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CC_PartitionCount.dir/progress.make" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CC_PishtyAndTree_Alternate.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CC_PishtyAndTree_Alternate.dir/progress.make" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CC_TooMuchSweetness.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CC_TooMuchSweetness.dir/progress.make" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CF115A_Party.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CF115A_Party.dir/progress.make" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CF257B_JzzhuAndCities.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CF257B_JzzhuAndCities.dir/progress.make" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CF340D_BubbleSortGraph.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CF340D_BubbleSortGraph.dir/progress.make" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CF342E_XeniaAndTree.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CF342E_XeniaAndTree.dir/progress.make" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CF347D_LuckyCommonSubsequence2.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CF347D_LuckyCommonSubsequence2.dir/progress.make" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CF383D_Antimatter.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CF383D_Antimatter.dir/progress.make" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CF479D_RidingInALift.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CF479D_RidingInALift.dir/progress.make" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CF495D_ObsessiveString.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CF495D_ObsessiveString.dir/progress.make" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CF525E_AnyaAndCubes.dir/depend.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CF525E_AnyaAndCubes.dir/depend.make" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CF525E_AnyaAndCubes.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CF525E_AnyaAndCubes.dir/progress.make" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CF567E_PresidentAndRoads.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CF567E_PresidentAndRoads.dir/progress.make" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CF589G_Hiring.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CF589G_Hiring.dir/progress.make" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CF659E_NewReform.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CF659E_NewReform.dir/progress.make" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CF686D_KayAndSnowflake.dir/depend.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CF686D_KayAndSnowflake.dir/depend.make" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CF688E_TheValuesYouCanMake.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CF688E_TheValuesYouCanMake.dir/progress.make" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CF716D_CompleteTheGraph.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CF716D_CompleteTheGraph.dir/progress.make" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CF864E_Fire.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CF864E_Fire.dir/progress.make" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CF892E_Envy.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CF892E_Envy.dir/progress.make" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CSA_TriangularMatrix.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CSA_TriangularMatrix.dir/progress.make" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/DependInfo.cmake" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/build.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/build.make" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/cmake_clean.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/cmake_clean.cmake" />
@@ -159,21 +239,31 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/progress.make" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/DFSConnectedComponents.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/DFSConnectedComponents.dir/progress.make" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Exun2017_Digex.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Exun2017_Digex.dir/progress.make" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Exun2017_DigexReturns.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Exun2017_DigexReturns.dir/progress.make" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ExunPrelimsP2.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ExunPrelimsP2.dir/progress.make" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GFG_ShortestCommonSupersequence.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GFG_ShortestCommonSupersequence.dir/progress.make" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/IARCS_PayingThePrice.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/IARCS_PayingThePrice.dir/progress.make" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/IARCS_RankFraud.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/IARCS_RankFraud.dir/progress.make" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/IOI96_AGame.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/IOI96_AGame.dir/progress.make" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Knuth-Morris-Pratt-Algorithm.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Knuth-Morris-Pratt-Algorithm.dir/progress.make" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LazyPropSegmentTree_IntervalSum.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LazyPropSegmentTree_IntervalSum.dir/progress.make" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LiveArchive_XorSum.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LiveArchive_XorSum.dir/progress.make" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ManachersAlgo.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ManachersAlgo.dir/progress.make" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Misc.dir/CXX.includecache" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Misc.dir/CXX.includecache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ModularInverse.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ModularInverse.dir/progress.make" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MosAlgorithm.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MosAlgorithm.dir/progress.make" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SCCTarjan.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SCCTarjan.dir/progress.make" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SPOJ_GSS1.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SPOJ_GSS1.dir/progress.make" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SPOJ_KthNumber_Persistence.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SPOJ_KthNumber_Persistence.dir/progress.make" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SPOJ_QTREE1.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SPOJ_QTREE1.dir/progress.make" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SPOJ_TheCourier.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SPOJ_TheCourier.dir/progress.make" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Tries.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Tries.dir/progress.make" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/USACO_BalancedCowBreeds.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/USACO_BalancedCowBreeds.dir/progress.make" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/USACO_CowIDs.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/USACO_CowIDs.dir/progress.make" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/Competitive_Programming.cbp" afterPath="$PROJECT_DIR$/cmake-build-debug/Competitive_Programming.cbp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/inp.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/inp.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inp.txt" afterPath="$PROJECT_DIR$/inp.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out.txt" afterPath="$PROJECT_DIR$/out.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/race.cpp" afterPath="$PROJECT_DIR$/race.cpp" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
@@ -186,70 +276,100 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CMakeLists.txt" pinned="true" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <file leaf-file-name="Misc.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Misc.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="185" column="18" lean-forward="false" selection-start-line="185" selection-start-column="18" selection-end-line="185" selection-end-column="18" />
+            <state relative-caret-position="0">
+              <caret line="51" column="1" lean-forward="false" selection-start-line="51" selection-start-column="1" selection-end-line="51" selection-end-column="1" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CF505D_KitayutasTechnology.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GraphTheory/CF505D_KitayutasTechnology.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="38" selection-end-column="20" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CF716D_CompleteTheGraph.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/GraphTheory/CF716D_CompleteTheGraph.cpp">
+      <file leaf-file-name="HeavyLightDecomposition.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataStructures/Implementation/HeavyLightDecomposition.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="111" column="9" lean-forward="false" selection-start-line="111" selection-start-column="9" selection-end-line="111" selection-end-column="9" />
-              <folding>
-                <element signature="e#0#19#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CC_PishtyAndTree_Alternate.cpp" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DataStructures/CC_PishtyAndTree_Alternate.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1215">
-              <caret line="81" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="129" selection-end-column="1" />
-              <folding>
-                <element signature="e#0#19#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CC_PishtyAndTree.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DataStructures/CC_PishtyAndTree.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1841">
-              <caret line="180" column="0" lean-forward="true" selection-start-line="180" selection-start-column="0" selection-end-line="180" selection-end-column="0" />
-              <folding>
-                <element signature="e#52#71#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PersistentSegmentTree.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DataStructures/Implementation/PersistentSegmentTree.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-943">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#19#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SPOJ_KthNumber_Persistence.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DataStructures/SPOJ_KthNumber_Persistence.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-835">
-              <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="14" />
+            <state relative-caret-position="413">
+              <caret line="89" column="1" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="89" selection-end-column="1" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SPOJ_QTREE1.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DataStructures/SPOJ_QTREE1.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="413">
+              <caret line="83" column="1" lean-forward="true" selection-start-line="83" selection-start-column="1" selection-end-line="83" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DetectingCyclesDirectedGraph.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GraphTheory/Implementation/DetectingCyclesDirectedGraph.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="72" column="28" lean-forward="false" selection-start-line="72" selection-start-column="28" selection-end-line="72" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CF868E_PolicemanAndTree.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DynamicProgramming/OnTrees/CF868E_PolicemanAndTree.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-605">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="38" selection-end-column="20" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CF81E_Pairs.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DynamicProgramming/CF81E_Pairs.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="13" column="18" lean-forward="false" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SPOJ_AMR10J.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GraphTheory/SPOJ_AMR10J.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SPOJ_TwoPaths.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DynamicProgramming/OnTrees/SPOJ_TwoPaths.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="113" column="1" lean-forward="false" selection-start-line="113" selection-start-column="1" selection-end-line="113" selection-end-column="1" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -258,23 +378,13 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>set</find>
-      <find>sets</find>
-      <find>int</find>
-      <find>root_a</find>
-      <find>AC</find>
-      <find>tree</find>
-      <find>lazy</find>
       <find>tree[t]</find>
-      <find>N</find>
-      <find>cout</find>
       <find>lvl</find>
       <find>DistancePointPlane</find>
       <find>‐</find>
       <find>include</find>
       <find>geometrystuff</find>
       <find>curr_edge</find>
-      <find>mat</find>
       <find>curr_</find>
       <find>edges</find>
       <find>RQQQQQRRRRQQQQQQQQQQQRRR</find>
@@ -284,12 +394,33 @@
       <find>euler</find>
       <find>debug</find>
       <find>alternate</find>
+      <find>cout</find>
+      <find>mat</find>
+      <find>N</find>
+      <find>sin</find>
+      <find>ll</find>
       <find>assert</find>
+      <find>Node</find>
+      <find>stree</find>
+      <find>d[b][i]</find>
+      <find>val</find>
+      <find>above</find>
+      <find>zero</find>
+      <find>dp</find>
+      <find>dp2</find>
     </findStrings>
     <replaceStrings>
       <replace />
       <replace>-</replace>
       <replace>ignoreBlue</replace>
+      <replace>stree</replace>
+      <replace>SIN</replace>
+      <replace>ull</replace>
+      <replace>node</replace>
+      <replace>tree</replace>
+      <replace>dp</replace>
+      <replace>offset</replace>
+      <replace>dp1</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -298,57 +429,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/DataStructures/Implementation/Tries.cpp" />
-        <option value="$PROJECT_DIR$/DataStructures/HackerEarth_Trie.cpp" />
-        <option value="$PROJECT_DIR$/DataStructures/LiveArchive_XorSum.cpp" />
-        <option value="$PROJECT_DIR$/DataStructures/CF617E_XORAndFavouriteNumber.cpp" />
-        <option value="$PROJECT_DIR$/DataStructures/CF686D_KayAndSnowflake.cpp" />
-        <option value="$PROJECT_DIR$/DataStructures/CF589G_Hiring.cpp" />
-        <option value="$PROJECT_DIR$/DataStructures/Implementation/SqrtDecomposition_IntervalSum.cpp" />
-        <option value="$PROJECT_DIR$/GraphTheory/SPOJ_DynamicGraphConnectivity2.cpp" />
-        <option value="$PROJECT_DIR$/GraphTheory/CF257B_JzzhuAndCities.cpp" />
-        <option value="$PROJECT_DIR$/DataStructures/SPOJ_KthNumber.cpp" />
-        <option value="$PROJECT_DIR$/OtherAlgorithms/SPOJ_DynamicGraphConnectivity2.cpp" />
-        <option value="$PROJECT_DIR$/DataStructures/CF899F_LettersRemoving.cpp" />
-        <option value="$PROJECT_DIR$/DataStructures/SPOJ_KthNumber(Offline+SegTree).cpp" />
-        <option value="$PROJECT_DIR$/DataStructures/SPOJ_KthNumber(PersistentSegTree).cpp" />
-        <option value="$PROJECT_DIR$/DataStructures/SPOJ_KthNumber_Persistence.cpp" />
-        <option value="$PROJECT_DIR$/DataStructures/CF899E_SegmentsRemoval.cpp" />
-        <option value="$PROJECT_DIR$/IARCS_PayingThePrice.cpp" />
-        <option value="$PROJECT_DIR$/GraphTheory/USACO_Relocation.cpp" />
-        <option value="$PROJECT_DIR$/USACO_CowIDs.cpp" />
-        <option value="$PROJECT_DIR$/DynamicProgramming/USACO_BalancedCowBreeds.cpp" />
-        <option value="$PROJECT_DIR$/DynamicProgramming/CC_TooMuchSweetness.cpp" />
-        <option value="$PROJECT_DIR$/DynamicProgramming/out.txt" />
-        <option value="$PROJECT_DIR$/cmake-build-debug/out.txt" />
-        <option value="$PROJECT_DIR$/cmake-build-debug/out2.txt" />
-        <option value="$PROJECT_DIR$/DynamicProgramming/GCJ_LastHit.cpp" />
-        <option value="$PROJECT_DIR$/GraphTheory/CF115A_Party.cpp" />
-        <option value="$PROJECT_DIR$/IARCS_RankFraud.cpp" />
-        <option value="$PROJECT_DIR$/cmake-build-debug/inp.txt" />
-        <option value="$PROJECT_DIR$/GraphTheory/Implementation/Algorithm_FloydWarshall.cpp" />
-        <option value="$PROJECT_DIR$/DynamicProgramming/SPOJ_TheCourier.cpp" />
-        <option value="$PROJECT_DIR$/AIO_CoreysParty.cpp" />
-        <option value="$PROJECT_DIR$/DynamicProgramming/GFG_ShortestCommonSupersequence.cpp" />
-        <option value="$PROJECT_DIR$/DynamicProgramming/SPOJ_KRECT.cpp" />
-        <option value="$PROJECT_DIR$/DynamicProgramming/CF864E_Fire.cpp" />
-        <option value="$PROJECT_DIR$/DynamicProgramming/HackerRank_Troyangles.cpp" />
-        <option value="$PROJECT_DIR$/race.cpp" />
-        <option value="$PROJECT_DIR$/DynamicProgramming/CC_PartitionCount.cpp" />
-        <option value="$PROJECT_DIR$/GraphTheory/Implementation/LowestCommonAncestor(BinaryLifting).cpp" />
-        <option value="$PROJECT_DIR$/GraphTheory/SPOJ_OTOCI.cpp" />
-        <option value="$PROJECT_DIR$/GraphTheory/CSA_TriangularMatrix.cpp" />
-        <option value="$PROJECT_DIR$/DynamicProgramming/CF407B_LongPath.cpp" />
-        <option value="$PROJECT_DIR$/DynamicProgramming/CF118D_CaesarsLegions.cpp" />
-        <option value="$PROJECT_DIR$/GraphTheory/UVa10342_AlwaysLate.cpp" />
-        <option value="$PROJECT_DIR$/GraphTheory/CF567E_PresidentAndRoads.cpp" />
-        <option value="$PROJECT_DIR$/GraphTheory/Implementation/Algorithm_Dijkstra.cpp" />
-        <option value="$PROJECT_DIR$/GraphTheory/CF716D_CompleteTheGraph.cpp" />
-        <option value="$PROJECT_DIR$/Misc.cpp" />
-        <option value="$PROJECT_DIR$/DataStructures/CC_PishtyAndTree(alternate).cpp" />
-        <option value="$PROJECT_DIR$/CMakeLists.txt" />
-        <option value="$PROJECT_DIR$/DataStructures/CC_PishtyAndTree_Alternate.cpp" />
+        <option value="$PROJECT_DIR$/DataStructures/SPOJ_RPAR.cpp" />
+        <option value="$PROJECT_DIR$/DataStructures/CF145E_LuckyQueries.cpp" />
+        <option value="$PROJECT_DIR$/DataStructures/SPOJ_SEGSQRSS.cpp" />
+        <option value="$PROJECT_DIR$/DataStructures/SPOJ_COT.cpp" />
+        <option value="$PROJECT_DIR$/DataStructures/SPOJ_COT2.cpp" />
+        <option value="$PROJECT_DIR$/GraphTheory/CC_VasyaAndLittleBear.cpp" />
+        <option value="$PROJECT_DIR$/DynamicProgramming/OnTrees/CF915F_ImbalanceValueOfTree.cpp" />
+        <option value="$PROJECT_DIR$/DataStructures/CC_ChefAndQueries.cpp" />
         <option value="$PROJECT_DIR$/DataStructures/CC_PishtyAndTree.cpp" />
+        <option value="$PROJECT_DIR$/DataStructures/CF226E_NobleKnightsPath.cpp" />
+        <option value="$PROJECT_DIR$/DataStructures/CF446C_DZYLovesFibonacciNumbers.cpp" />
+        <option value="$PROJECT_DIR$/race.cpp" />
+        <option value="$PROJECT_DIR$/GraphTheory/CF919D_Substring.cpp" />
+        <option value="$PROJECT_DIR$/CF220B_LittleElephantAndArray.cpp" />
+        <option value="$PROJECT_DIR$/CC_ChefAndXorQueries.cpp" />
+        <option value="$PROJECT_DIR$/CF13E_Holes.cpp" />
+        <option value="$PROJECT_DIR$/DataStructures/SPOJ_KQuery2.cpp" />
+        <option value="$PROJECT_DIR$/DataStructures/CF86D_PowerfulArray.cpp" />
+        <option value="$PROJECT_DIR$/OtherAlgorithms/ModularInverse.cpp" />
+        <option value="$PROJECT_DIR$/CC_BrokenClock.cpp" />
+        <option value="$PROJECT_DIR$/DataStructures/CC_StrangeQueries.cpp" />
+        <option value="$PROJECT_DIR$/DataStructures/CC_ChefAndOddQueries.cpp" />
+        <option value="$PROJECT_DIR$/DataStructures/SPOJ_OrderStatisticSet_Treap.cpp" />
+        <option value="$PROJECT_DIR$/DataStructures/Implementation/Treap.cpp" />
+        <option value="$PROJECT_DIR$/DataStructures/Implementation/ImplicitTreap.cpp" />
+        <option value="$PROJECT_DIR$/DataStructures/SPOJ_GSS1.cpp" />
+        <option value="$PROJECT_DIR$/DataStructures/SPOJ_GSS6.cpp" />
+        <option value="$PROJECT_DIR$/DataStructures/CF375D_TreeAndQueries.cpp" />
+        <option value="$PROJECT_DIR$/DataStructures/CF506_MrKutayutasColorfulGraph.cpp" />
+        <option value="$PROJECT_DIR$/DataStructures/CF348C_SubsetSums.cpp" />
+        <option value="$PROJECT_DIR$/DataStructures/CF398D_InstantMessenger.cpp" />
+        <option value="$PROJECT_DIR$/DataStructures/CC_ChefAndGraphQueries.cpp" />
+        <option value="$PROJECT_DIR$/DataStructures/Exun2017_ArrayStudy.cpp" />
+        <option value="$PROJECT_DIR$/DynamicProgramming/OnTrees/SubtreesWithKNodes.cpp" />
+        <option value="$PROJECT_DIR$/GraphTheory/CC_TALCA.cpp" />
+        <option value="$PROJECT_DIR$/DynamicProgramming/OnTrees/TIMUS_BinaryAppleTree.cpp" />
+        <option value="$PROJECT_DIR$/DynamicProgramming/OnTrees/CF816C_KarenAndSupermarket.cpp" />
+        <option value="$PROJECT_DIR$/DynamicProgramming/OnTrees/CF440D_BerlandFederalization.cpp" />
+        <option value="$PROJECT_DIR$/GraphTheory/CF932D_Tree.cpp" />
+        <option value="$PROJECT_DIR$/GraphTheory/IOITC_GraphLIS.cpp" />
+        <option value="$PROJECT_DIR$/DynamicProgramming/CF81E_Pairs.cpp" />
+        <option value="$PROJECT_DIR$/GraphTheory/SPOJ_AMR10J.cpp" />
+        <option value="$PROJECT_DIR$/DynamicProgramming/OnTrees/SPOJ_TwoPaths.cpp" />
+        <option value="$PROJECT_DIR$/DynamicProgramming/OnTrees/CF868E_PolicemanAndTree.cpp" />
+        <option value="$PROJECT_DIR$/GraphTheory/Implementation/DetectingCycles.cpp" />
+        <option value="$PROJECT_DIR$/GraphTheory/Implementation/DetectingCyclesDirectedGraph.cpp" />
+        <option value="$PROJECT_DIR$/Misc.cpp" />
+        <option value="$PROJECT_DIR$/GraphTheory/CF505D_KitayutasTechnology.cpp" />
+        <option value="$PROJECT_DIR$/DataStructures/Implementation/HeavyLightDecomposition.cpp" />
+        <option value="$PROJECT_DIR$/DataStructures/SPOJ_QTREE1.cpp" />
+        <option value="$PROJECT_DIR$/DataStructures/LiveArchive_XorSum.cpp" />
       </list>
     </option>
   </component>
@@ -431,13 +562,18 @@
             <path>
               <item name="Competitive_Programming" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
               <item name="Competitive-Programming" type="462c0819:PsiDirectoryNode" />
-              <item name="ICOPracticeProblems" type="462c0819:PsiDirectoryNode" />
+              <item name="DataStructures" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Competitive_Programming" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
               <item name="Competitive-Programming" type="462c0819:PsiDirectoryNode" />
-              <item name="ICOPracticeProblems" type="462c0819:PsiDirectoryNode" />
-              <item name="AStandardTreeProblem" type="462c0819:PsiDirectoryNode" />
+              <item name="DataStructures" type="462c0819:PsiDirectoryNode" />
+              <item name="Implementation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Competitive_Programming" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="Competitive-Programming" type="462c0819:PsiDirectoryNode" />
+              <item name="SyntaxProgrammingProblems" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -447,7 +583,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/Implementation/LazyPropSegmentTree_IntervalSum.cpp" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -461,14 +598,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CC_PishtyAndTree">
+  <component name="RunManager" selected="Application.HeavyLightDecomposition">
     <configuration name="AIO_CoreysParty" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="AIO_CoreysParty" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="AIO_CoreysParty">
       <envs />
     </configuration>
     <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
       <envs />
     </configuration>
+    <configuration name="CC_BrokenClock" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="CC_BrokenClock" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="CC_BrokenClock">
+      <envs />
+    </configuration>
+    <configuration name="CC_ChefAndGraphQueries" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="CC_ChefAndGraphQueries" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="CC_ChefAndGraphQueries">
+      <envs />
+    </configuration>
     <configuration name="CC_ChefAndMediumProblem2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="CC_ChefAndMediumProblem2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="CC_ChefAndMediumProblem2">
+      <envs />
+    </configuration>
+    <configuration name="CC_ChefAndOddQueries" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="CC_ChefAndOddQueries" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="CC_ChefAndOddQueries">
+      <envs />
+    </configuration>
+    <configuration name="CC_ChefAndQueries" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="CC_ChefAndQueries" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="CC_ChefAndQueries">
       <envs />
     </configuration>
     <configuration name="CC_ChefAndSubarrayQueries" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="CC_ChefAndSubarrayQueries" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="CC_ChefAndSubarrayQueries">
@@ -477,7 +626,16 @@
     <configuration name="CC_ChefAndSubarrayQueries2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="CC_ChefAndSubarrayQueries2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="CC_ChefAndSubarrayQueries2">
       <envs />
     </configuration>
+    <configuration name="CC_ChefAndXorQueries" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="CC_ChefAndXorQueries" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="CC_ChefAndXorQueries">
+      <envs />
+    </configuration>
     <configuration name="CC_ChefGoesLeftRight" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="CC_ChefGoesLeftRight" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="CC_ChefGoesLeftRight">
+      <envs />
+    </configuration>
+    <configuration name="CC_CloneMe" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="CC_CloneMe" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="CC_CloneMe">
+      <envs />
+    </configuration>
+    <configuration name="CC_GiveAway" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="CC_GiveAway" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="CC_GiveAway">
       <envs />
     </configuration>
     <configuration name="CC_LoversGift" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="CC_LoversGift" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="CC_LoversGift">
@@ -495,13 +653,40 @@
     <configuration name="CC_ProductOnSegment" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="CC_ProductOnSegment" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="CC_ProductOnSegment">
       <envs />
     </configuration>
+    <configuration name="CC_Sorting" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="CC_Sorting" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="CC_Sorting">
+      <envs />
+    </configuration>
+    <configuration name="CC_StrangeQueries" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="CC_StrangeQueries" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="CC_StrangeQueries">
+      <envs />
+    </configuration>
+    <configuration name="CC_SubInversing" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="CC_SubInversing" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="CC_SubInversing">
+      <envs />
+    </configuration>
+    <configuration name="CC_TALCA" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="CC_TALCA" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="CC_TALCA">
+      <envs />
+    </configuration>
     <configuration name="CC_TooMuchSweetness" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="CC_TooMuchSweetness" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="CC_TooMuchSweetness">
+      <envs />
+    </configuration>
+    <configuration name="CC_VasyaAndLittleBear" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="CC_VasyaAndLittleBear" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="CC_VasyaAndLittleBear">
+      <envs />
+    </configuration>
+    <configuration name="CC_XorQueries" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="CC_XorQueries" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="CC_XorQueries">
       <envs />
     </configuration>
     <configuration name="CF115A_Party" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="CF115A_Party" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="CF115A_Party">
       <envs />
     </configuration>
     <configuration name="CF118D_CaesarsLegions" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="CF118D_CaesarsLegions" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="CF118D_CaesarsLegions">
+      <envs />
+    </configuration>
+    <configuration name="CF13E_Holes" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="CF13E_Holes" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="CF13E_Holes">
+      <envs />
+    </configuration>
+    <configuration name="CF145E_LuckyQueries" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="CF145E_LuckyQueries" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="CF145E_LuckyQueries">
+      <envs />
+    </configuration>
+    <configuration name="CF220B_LittleElephantAndArray" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="CF220B_LittleElephantAndArray" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="CF220B_LittleElephantAndArray">
       <envs />
     </configuration>
     <configuration name="CF257B_JzzhuAndCities" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="CF257B_JzzhuAndCities" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="CF257B_JzzhuAndCities">
@@ -516,16 +701,34 @@
     <configuration name="CF347D_LuckyCommonSubsequence2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="CF347D_LuckyCommonSubsequence2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="CF347D_LuckyCommonSubsequence2">
       <envs />
     </configuration>
+    <configuration name="CF348C_SubsetSums" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="CF348C_SubsetSums" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="CF348C_SubsetSums">
+      <envs />
+    </configuration>
+    <configuration name="CF375D_TreeAndQueries" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="CF375D_TreeAndQueries" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="CF375D_TreeAndQueries">
+      <envs />
+    </configuration>
     <configuration name="CF383D_Antimatter" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="CF383D_Antimatter" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="CF383D_Antimatter">
       <envs />
     </configuration>
+    <configuration name="CF398D_InstantMessenger" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="CF398D_InstantMessenger" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="CF398D_InstantMessenger">
+      <envs />
+    </configuration>
     <configuration name="CF407B_LongPath" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="CF407B_LongPath" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="CF407B_LongPath">
+      <envs />
+    </configuration>
+    <configuration name="CF446C_DZYLovesFibonacciNumbers" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="CF446C_DZYLovesFibonacciNumbers" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="CF446C_DZYLovesFibonacciNumbers">
       <envs />
     </configuration>
     <configuration name="CF479D_RidingInALift" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="CF479D_RidingInALift" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="CF479D_RidingInALift">
       <envs />
     </configuration>
     <configuration name="CF495D_ObsessiveString" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="CF495D_ObsessiveString" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="CF495D_ObsessiveString">
+      <envs />
+    </configuration>
+    <configuration name="CF505D_KitayutasTechnology" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="CF505D_KitayutasTechnology" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="CF505D_KitayutasTechnology">
+      <envs />
+    </configuration>
+    <configuration name="CF506_MrKutayutasColorfulGraph" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="CF506_MrKutayutasColorfulGraph" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="CF506_MrKutayutasColorfulGraph">
       <envs />
     </configuration>
     <configuration name="CF519E_AAndBLectureRooms" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="CF519E_AAndBLectureRooms" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="CF519E_AAndBLectureRooms">
@@ -555,13 +758,31 @@
     <configuration name="CF716D_CompleteTheGraph" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="CF716D_CompleteTheGraph" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="CF716D_CompleteTheGraph">
       <envs />
     </configuration>
+    <configuration name="CF816C_KarenAndSupermarket" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="CF816C_KarenAndSupermarket" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="CF816C_KarenAndSupermarket">
+      <envs />
+    </configuration>
+    <configuration name="CF81E_Pairs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="CF81E_Pairs" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="CF81E_Pairs">
+      <envs />
+    </configuration>
     <configuration name="CF864E_Fire" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="CF864E_Fire" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="CF864E_Fire">
+      <envs />
+    </configuration>
+    <configuration name="CF868E_PolicemanAndTree" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="CF868E_PolicemanAndTree" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="CF868E_PolicemanAndTree">
+      <envs />
+    </configuration>
+    <configuration name="CF86D_PowerfulArray" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="CF86D_PowerfulArray" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="CF86D_PowerfulArray">
       <envs />
     </configuration>
     <configuration name="CF892E_Envy" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="CF892E_Envy" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="CF892E_Envy">
       <envs />
     </configuration>
     <configuration name="CF899F_LettersRemoving" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="CF899F_LettersRemoving" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="CF899F_LettersRemoving">
+      <envs />
+    </configuration>
+    <configuration name="CF915F_ImbalanceValueOfTree" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="CF915F_ImbalanceValueOfTree" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="CF915F_ImbalanceValueOfTree">
+      <envs />
+    </configuration>
+    <configuration name="CF932D_Tree" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="CF932D_Tree" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="CF932D_Tree">
       <envs />
     </configuration>
     <configuration name="CSA_TriangularMatrix" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="CSA_TriangularMatrix" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="CSA_TriangularMatrix">
@@ -571,6 +792,9 @@
       <envs />
     </configuration>
     <configuration name="DFSConnectedComponents" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="DFSConnectedComponents" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="DFSConnectedComponents">
+      <envs />
+    </configuration>
+    <configuration name="Exun2017_ArrayStudy" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="Exun2017_ArrayStudy" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="Exun2017_ArrayStudy">
       <envs />
     </configuration>
     <configuration name="Exun2017_Digex" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="Exun2017_Digex" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="Exun2017_Digex">
@@ -591,6 +815,9 @@
     <configuration name="HackerEarth_Trie" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="HackerEarth_Trie" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="HackerEarth_Trie">
       <envs />
     </configuration>
+    <configuration name="HeavyLightDecomposition" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="HeavyLightDecomposition" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="HeavyLightDecomposition">
+      <envs />
+    </configuration>
     <configuration name="IARCS_PayingThePrice" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="IARCS_PayingThePrice" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="IARCS_PayingThePrice">
       <envs />
     </configuration>
@@ -601,6 +828,15 @@
       <envs />
     </configuration>
     <configuration name="IOI96_AGame" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="IOI96_AGame" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="IOI96_AGame">
+      <envs />
+    </configuration>
+    <configuration name="IOITC_GraphLIS" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="IOITC_GraphLIS" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="IOITC_GraphLIS">
+      <envs />
+    </configuration>
+    <configuration name="ImplicitTreap" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="ImplicitTreap" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="ImplicitTreap">
+      <envs />
+    </configuration>
+    <configuration name="KQuery2_alternate" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="KQuery2_alternate" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="KQuery2_alternate">
       <envs />
     </configuration>
     <configuration name="Knuth-Morris-Pratt-Algorithm" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="Knuth-Morris-Pratt-Algorithm" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="Knuth-Morris-Pratt-Algorithm">
@@ -627,13 +863,55 @@
     <configuration name="PointsLinesAndStuff" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="PointsLinesAndStuff" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="PointsLinesAndStuff">
       <envs />
     </configuration>
+    <configuration name="RangeQueryAndUpdates_PrefixTrick" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="RangeQueryAndUpdates_PrefixTrick" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="RangeQueryAndUpdates_PrefixTrick">
+      <envs />
+    </configuration>
     <configuration name="SCCTarjan" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="SCCTarjan" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="SCCTarjan">
+      <envs />
+    </configuration>
+    <configuration name="SPOJ_AMR10J" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="SPOJ_AMR10J" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="SPOJ_AMR10J">
+      <envs />
+    </configuration>
+    <configuration name="SPOJ_COT" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="SPOJ_COT" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="SPOJ_COT">
+      <envs />
+    </configuration>
+    <configuration name="SPOJ_COT2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="SPOJ_COT2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="SPOJ_COT2">
+      <envs />
+    </configuration>
+    <configuration name="SPOJ_DQuery_MosAlgo" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="SPOJ_DQuery_MosAlgo" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="SPOJ_DQuery_MosAlgo">
+      <envs />
+    </configuration>
+    <configuration name="SPOJ_DQuery_Persistence" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="SPOJ_DQuery_Persistence" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="SPOJ_DQuery_Persistence">
       <envs />
     </configuration>
     <configuration name="SPOJ_DynamicGraphConnectivity2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="SPOJ_DynamicGraphConnectivity2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="SPOJ_DynamicGraphConnectivity2">
       <envs />
     </configuration>
     <configuration name="SPOJ_GSS1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="SPOJ_GSS1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="SPOJ_GSS1">
+      <envs />
+    </configuration>
+    <configuration name="SPOJ_GSS2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="SPOJ_GSS2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="SPOJ_GSS2">
+      <envs />
+    </configuration>
+    <configuration name="SPOJ_GSS3" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="SPOJ_GSS3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="SPOJ_GSS3">
+      <envs />
+    </configuration>
+    <configuration name="SPOJ_GSS4" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="SPOJ_GSS4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="SPOJ_GSS4">
+      <envs />
+    </configuration>
+    <configuration name="SPOJ_GSS5" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="SPOJ_GSS5" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="SPOJ_GSS5">
+      <envs />
+    </configuration>
+    <configuration name="SPOJ_GSS6" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="SPOJ_GSS6" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="SPOJ_GSS6">
+      <envs />
+    </configuration>
+    <configuration name="SPOJ_KQuery" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="SPOJ_KQuery" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="SPOJ_KQuery">
+      <envs />
+    </configuration>
+    <configuration name="SPOJ_KQuery2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="SPOJ_KQuery2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="SPOJ_KQuery2">
+      <envs />
+    </configuration>
+    <configuration name="SPOJ_KQueryo" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="SPOJ_KQueryo" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="SPOJ_KQueryo">
       <envs />
     </configuration>
     <configuration name="SPOJ_KRECT" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="SPOJ_KRECT" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="SPOJ_KRECT">
@@ -645,13 +923,31 @@
     <configuration name="SPOJ_OTOCI" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="SPOJ_OTOCI" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="SPOJ_OTOCI">
       <envs />
     </configuration>
+    <configuration name="SPOJ_OrderStatisticSet_Treap" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="SPOJ_OrderStatisticSet_Treap" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="SPOJ_OrderStatisticSet_Treap">
+      <envs />
+    </configuration>
     <configuration name="SPOJ_QTREE1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="SPOJ_QTREE1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="SPOJ_QTREE1">
+      <envs />
+    </configuration>
+    <configuration name="SPOJ_RPAR" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="SPOJ_RPAR" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="SPOJ_RPAR">
+      <envs />
+    </configuration>
+    <configuration name="SPOJ_SEGSQRSS" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="SPOJ_SEGSQRSS" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="SPOJ_SEGSQRSS">
       <envs />
     </configuration>
     <configuration name="SPOJ_TheCourier" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="SPOJ_TheCourier" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="SPOJ_TheCourier">
       <envs />
     </configuration>
+    <configuration name="SPOJ_TwoPaths" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="SPOJ_TwoPaths" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="SPOJ_TwoPaths">
+      <envs />
+    </configuration>
     <configuration name="SqrtDecomposition_IntervalSum" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="SqrtDecomposition_IntervalSum" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="SqrtDecomposition_IntervalSum">
+      <envs />
+    </configuration>
+    <configuration name="TIMUS_BinaryAppleTree" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="TIMUS_BinaryAppleTree" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="TIMUS_BinaryAppleTree">
+      <envs />
+    </configuration>
+    <configuration name="Treap" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="Treap" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="Treap">
       <envs />
     </configuration>
     <configuration name="Tries" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="Tries" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="Tries">
@@ -669,76 +965,129 @@
     <configuration name="UVa10342_AlwaysLate" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="UVa10342_AlwaysLate" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="UVa10342_AlwaysLate">
       <envs />
     </configuration>
-    <list size="69">
+    <list size="122">
       <item index="0" class="java.lang.String" itemvalue="Application.Build All" />
       <item index="1" class="java.lang.String" itemvalue="Application.AIO_CoreysParty" />
-      <item index="2" class="java.lang.String" itemvalue="Application.CC_ChefAndMediumProblem2" />
-      <item index="3" class="java.lang.String" itemvalue="Application.CC_ChefAndSubarrayQueries" />
-      <item index="4" class="java.lang.String" itemvalue="Application.CC_ChefAndSubarrayQueries2" />
-      <item index="5" class="java.lang.String" itemvalue="Application.CC_ChefGoesLeftRight" />
-      <item index="6" class="java.lang.String" itemvalue="Application.CC_LoversGift" />
-      <item index="7" class="java.lang.String" itemvalue="Application.CC_PartitionCount" />
-      <item index="8" class="java.lang.String" itemvalue="Application.CC_PishtyAndTree" />
-      <item index="9" class="java.lang.String" itemvalue="Application.CC_PishtyAndTree_Alternate" />
-      <item index="10" class="java.lang.String" itemvalue="Application.CC_ProductOnSegment" />
-      <item index="11" class="java.lang.String" itemvalue="Application.CC_TooMuchSweetness" />
-      <item index="12" class="java.lang.String" itemvalue="Application.CF115A_Party" />
-      <item index="13" class="java.lang.String" itemvalue="Application.CF118D_CaesarsLegions" />
-      <item index="14" class="java.lang.String" itemvalue="Application.CF257B_JzzhuAndCities" />
-      <item index="15" class="java.lang.String" itemvalue="Application.CF340D_BubbleSortGraph" />
-      <item index="16" class="java.lang.String" itemvalue="Application.CF342E_XeniaAndTree" />
-      <item index="17" class="java.lang.String" itemvalue="Application.CF347D_LuckyCommonSubsequence2" />
-      <item index="18" class="java.lang.String" itemvalue="Application.CF383D_Antimatter" />
-      <item index="19" class="java.lang.String" itemvalue="Application.CF407B_LongPath" />
-      <item index="20" class="java.lang.String" itemvalue="Application.CF479D_RidingInALift" />
-      <item index="21" class="java.lang.String" itemvalue="Application.CF495D_ObsessiveString" />
-      <item index="22" class="java.lang.String" itemvalue="Application.CF519E_AAndBLectureRooms" />
-      <item index="23" class="java.lang.String" itemvalue="Application.CF525E_AnyaAndCubes" />
-      <item index="24" class="java.lang.String" itemvalue="Application.CF567E_PresidentAndRoads" />
-      <item index="25" class="java.lang.String" itemvalue="Application.CF589G_Hiring" />
-      <item index="26" class="java.lang.String" itemvalue="Application.CF617E_XORAndFavouriteNumber" />
-      <item index="27" class="java.lang.String" itemvalue="Application.CF659E_NewReform" />
-      <item index="28" class="java.lang.String" itemvalue="Application.CF686D_KayAndSnowflake" />
-      <item index="29" class="java.lang.String" itemvalue="Application.CF688E_TheValuesYouCanMake" />
-      <item index="30" class="java.lang.String" itemvalue="Application.CF716D_CompleteTheGraph" />
-      <item index="31" class="java.lang.String" itemvalue="Application.CF864E_Fire" />
-      <item index="32" class="java.lang.String" itemvalue="Application.CF892E_Envy" />
-      <item index="33" class="java.lang.String" itemvalue="Application.CF899F_LettersRemoving" />
-      <item index="34" class="java.lang.String" itemvalue="Application.Competitive_Programming" />
-      <item index="35" class="java.lang.String" itemvalue="Application.CSA_TriangularMatrix" />
-      <item index="36" class="java.lang.String" itemvalue="Application.DFSConnectedComponents" />
-      <item index="37" class="java.lang.String" itemvalue="Application.Exun2017_Digex" />
-      <item index="38" class="java.lang.String" itemvalue="Application.Exun2017_DigexReturns" />
-      <item index="39" class="java.lang.String" itemvalue="Application.ExunPrelimsP2" />
-      <item index="40" class="java.lang.String" itemvalue="Application.GCJ_LastHit" />
-      <item index="41" class="java.lang.String" itemvalue="Application.GFG_ShortestCommonSupersequence" />
-      <item index="42" class="java.lang.String" itemvalue="Application.HackerEarth_Trie" />
-      <item index="43" class="java.lang.String" itemvalue="Application.IARCS_PayingThePrice" />
-      <item index="44" class="java.lang.String" itemvalue="Application.IARCS_RankFraud" />
-      <item index="45" class="java.lang.String" itemvalue="Application.IOI2000_PostOffices" />
-      <item index="46" class="java.lang.String" itemvalue="Application.IOI96_AGame" />
-      <item index="47" class="java.lang.String" itemvalue="Application.Knuth-Morris-Pratt-Algorithm" />
-      <item index="48" class="java.lang.String" itemvalue="Application.LazyPropSegmentTree_IntervalSum" />
-      <item index="49" class="java.lang.String" itemvalue="Application.LiveArchive_XorSum" />
-      <item index="50" class="java.lang.String" itemvalue="Application.ManachersAlgo" />
-      <item index="51" class="java.lang.String" itemvalue="Application.Misc" />
-      <item index="52" class="java.lang.String" itemvalue="Application.ModularInverse" />
-      <item index="53" class="java.lang.String" itemvalue="Application.MosAlgorithm" />
-      <item index="54" class="java.lang.String" itemvalue="Application.PointsLinesAndStuff" />
-      <item index="55" class="java.lang.String" itemvalue="Application.SCCTarjan" />
-      <item index="56" class="java.lang.String" itemvalue="Application.SPOJ_DynamicGraphConnectivity2" />
-      <item index="57" class="java.lang.String" itemvalue="Application.SPOJ_GSS1" />
-      <item index="58" class="java.lang.String" itemvalue="Application.SPOJ_KRECT" />
-      <item index="59" class="java.lang.String" itemvalue="Application.SPOJ_KthNumber_Persistence" />
-      <item index="60" class="java.lang.String" itemvalue="Application.SPOJ_OTOCI" />
-      <item index="61" class="java.lang.String" itemvalue="Application.SPOJ_QTREE1" />
-      <item index="62" class="java.lang.String" itemvalue="Application.SPOJ_TheCourier" />
-      <item index="63" class="java.lang.String" itemvalue="Application.SqrtDecomposition_IntervalSum" />
-      <item index="64" class="java.lang.String" itemvalue="Application.Tries" />
-      <item index="65" class="java.lang.String" itemvalue="Application.USACO_BalancedCowBreeds" />
-      <item index="66" class="java.lang.String" itemvalue="Application.USACO_CowIDs" />
-      <item index="67" class="java.lang.String" itemvalue="Application.USACO_Relocation" />
-      <item index="68" class="java.lang.String" itemvalue="Application.UVa10342_AlwaysLate" />
+      <item index="2" class="java.lang.String" itemvalue="Application.CC_BrokenClock" />
+      <item index="3" class="java.lang.String" itemvalue="Application.CC_ChefAndGraphQueries" />
+      <item index="4" class="java.lang.String" itemvalue="Application.CC_ChefAndMediumProblem2" />
+      <item index="5" class="java.lang.String" itemvalue="Application.CC_ChefAndOddQueries" />
+      <item index="6" class="java.lang.String" itemvalue="Application.CC_ChefAndQueries" />
+      <item index="7" class="java.lang.String" itemvalue="Application.CC_ChefAndSubarrayQueries" />
+      <item index="8" class="java.lang.String" itemvalue="Application.CC_ChefAndSubarrayQueries2" />
+      <item index="9" class="java.lang.String" itemvalue="Application.CC_ChefAndXorQueries" />
+      <item index="10" class="java.lang.String" itemvalue="Application.CC_ChefGoesLeftRight" />
+      <item index="11" class="java.lang.String" itemvalue="Application.CC_CloneMe" />
+      <item index="12" class="java.lang.String" itemvalue="Application.CC_GiveAway" />
+      <item index="13" class="java.lang.String" itemvalue="Application.CC_LoversGift" />
+      <item index="14" class="java.lang.String" itemvalue="Application.CC_PartitionCount" />
+      <item index="15" class="java.lang.String" itemvalue="Application.CC_PishtyAndTree" />
+      <item index="16" class="java.lang.String" itemvalue="Application.CC_PishtyAndTree_Alternate" />
+      <item index="17" class="java.lang.String" itemvalue="Application.CC_ProductOnSegment" />
+      <item index="18" class="java.lang.String" itemvalue="Application.CC_Sorting" />
+      <item index="19" class="java.lang.String" itemvalue="Application.CC_StrangeQueries" />
+      <item index="20" class="java.lang.String" itemvalue="Application.CC_SubInversing" />
+      <item index="21" class="java.lang.String" itemvalue="Application.CC_TALCA" />
+      <item index="22" class="java.lang.String" itemvalue="Application.CC_TooMuchSweetness" />
+      <item index="23" class="java.lang.String" itemvalue="Application.CC_VasyaAndLittleBear" />
+      <item index="24" class="java.lang.String" itemvalue="Application.CC_XorQueries" />
+      <item index="25" class="java.lang.String" itemvalue="Application.CF115A_Party" />
+      <item index="26" class="java.lang.String" itemvalue="Application.CF118D_CaesarsLegions" />
+      <item index="27" class="java.lang.String" itemvalue="Application.CF13E_Holes" />
+      <item index="28" class="java.lang.String" itemvalue="Application.CF145E_LuckyQueries" />
+      <item index="29" class="java.lang.String" itemvalue="Application.CF220B_LittleElephantAndArray" />
+      <item index="30" class="java.lang.String" itemvalue="Application.CF257B_JzzhuAndCities" />
+      <item index="31" class="java.lang.String" itemvalue="Application.CF340D_BubbleSortGraph" />
+      <item index="32" class="java.lang.String" itemvalue="Application.CF342E_XeniaAndTree" />
+      <item index="33" class="java.lang.String" itemvalue="Application.CF347D_LuckyCommonSubsequence2" />
+      <item index="34" class="java.lang.String" itemvalue="Application.CF348C_SubsetSums" />
+      <item index="35" class="java.lang.String" itemvalue="Application.CF375D_TreeAndQueries" />
+      <item index="36" class="java.lang.String" itemvalue="Application.CF383D_Antimatter" />
+      <item index="37" class="java.lang.String" itemvalue="Application.CF398D_InstantMessenger" />
+      <item index="38" class="java.lang.String" itemvalue="Application.CF407B_LongPath" />
+      <item index="39" class="java.lang.String" itemvalue="Application.CF446C_DZYLovesFibonacciNumbers" />
+      <item index="40" class="java.lang.String" itemvalue="Application.CF479D_RidingInALift" />
+      <item index="41" class="java.lang.String" itemvalue="Application.CF495D_ObsessiveString" />
+      <item index="42" class="java.lang.String" itemvalue="Application.CF505D_KitayutasTechnology" />
+      <item index="43" class="java.lang.String" itemvalue="Application.CF506_MrKutayutasColorfulGraph" />
+      <item index="44" class="java.lang.String" itemvalue="Application.CF519E_AAndBLectureRooms" />
+      <item index="45" class="java.lang.String" itemvalue="Application.CF525E_AnyaAndCubes" />
+      <item index="46" class="java.lang.String" itemvalue="Application.CF567E_PresidentAndRoads" />
+      <item index="47" class="java.lang.String" itemvalue="Application.CF589G_Hiring" />
+      <item index="48" class="java.lang.String" itemvalue="Application.CF617E_XORAndFavouriteNumber" />
+      <item index="49" class="java.lang.String" itemvalue="Application.CF659E_NewReform" />
+      <item index="50" class="java.lang.String" itemvalue="Application.CF686D_KayAndSnowflake" />
+      <item index="51" class="java.lang.String" itemvalue="Application.CF688E_TheValuesYouCanMake" />
+      <item index="52" class="java.lang.String" itemvalue="Application.CF716D_CompleteTheGraph" />
+      <item index="53" class="java.lang.String" itemvalue="Application.CF816C_KarenAndSupermarket" />
+      <item index="54" class="java.lang.String" itemvalue="Application.CF81E_Pairs" />
+      <item index="55" class="java.lang.String" itemvalue="Application.CF864E_Fire" />
+      <item index="56" class="java.lang.String" itemvalue="Application.CF868E_PolicemanAndTree" />
+      <item index="57" class="java.lang.String" itemvalue="Application.CF86D_PowerfulArray" />
+      <item index="58" class="java.lang.String" itemvalue="Application.CF892E_Envy" />
+      <item index="59" class="java.lang.String" itemvalue="Application.CF899F_LettersRemoving" />
+      <item index="60" class="java.lang.String" itemvalue="Application.CF915F_ImbalanceValueOfTree" />
+      <item index="61" class="java.lang.String" itemvalue="Application.CF932D_Tree" />
+      <item index="62" class="java.lang.String" itemvalue="Application.Competitive_Programming" />
+      <item index="63" class="java.lang.String" itemvalue="Application.CSA_TriangularMatrix" />
+      <item index="64" class="java.lang.String" itemvalue="Application.DFSConnectedComponents" />
+      <item index="65" class="java.lang.String" itemvalue="Application.Exun2017_ArrayStudy" />
+      <item index="66" class="java.lang.String" itemvalue="Application.Exun2017_Digex" />
+      <item index="67" class="java.lang.String" itemvalue="Application.Exun2017_DigexReturns" />
+      <item index="68" class="java.lang.String" itemvalue="Application.ExunPrelimsP2" />
+      <item index="69" class="java.lang.String" itemvalue="Application.GCJ_LastHit" />
+      <item index="70" class="java.lang.String" itemvalue="Application.GFG_ShortestCommonSupersequence" />
+      <item index="71" class="java.lang.String" itemvalue="Application.HackerEarth_Trie" />
+      <item index="72" class="java.lang.String" itemvalue="Application.HeavyLightDecomposition" />
+      <item index="73" class="java.lang.String" itemvalue="Application.IARCS_PayingThePrice" />
+      <item index="74" class="java.lang.String" itemvalue="Application.IARCS_RankFraud" />
+      <item index="75" class="java.lang.String" itemvalue="Application.ImplicitTreap" />
+      <item index="76" class="java.lang.String" itemvalue="Application.IOI2000_PostOffices" />
+      <item index="77" class="java.lang.String" itemvalue="Application.IOI96_AGame" />
+      <item index="78" class="java.lang.String" itemvalue="Application.IOITC_GraphLIS" />
+      <item index="79" class="java.lang.String" itemvalue="Application.Knuth-Morris-Pratt-Algorithm" />
+      <item index="80" class="java.lang.String" itemvalue="Application.KQuery2_alternate" />
+      <item index="81" class="java.lang.String" itemvalue="Application.LazyPropSegmentTree_IntervalSum" />
+      <item index="82" class="java.lang.String" itemvalue="Application.LiveArchive_XorSum" />
+      <item index="83" class="java.lang.String" itemvalue="Application.ManachersAlgo" />
+      <item index="84" class="java.lang.String" itemvalue="Application.Misc" />
+      <item index="85" class="java.lang.String" itemvalue="Application.ModularInverse" />
+      <item index="86" class="java.lang.String" itemvalue="Application.MosAlgorithm" />
+      <item index="87" class="java.lang.String" itemvalue="Application.PointsLinesAndStuff" />
+      <item index="88" class="java.lang.String" itemvalue="Application.RangeQueryAndUpdates_PrefixTrick" />
+      <item index="89" class="java.lang.String" itemvalue="Application.SCCTarjan" />
+      <item index="90" class="java.lang.String" itemvalue="Application.SPOJ_AMR10J" />
+      <item index="91" class="java.lang.String" itemvalue="Application.SPOJ_COT" />
+      <item index="92" class="java.lang.String" itemvalue="Application.SPOJ_COT2" />
+      <item index="93" class="java.lang.String" itemvalue="Application.SPOJ_DQuery_MosAlgo" />
+      <item index="94" class="java.lang.String" itemvalue="Application.SPOJ_DQuery_Persistence" />
+      <item index="95" class="java.lang.String" itemvalue="Application.SPOJ_DynamicGraphConnectivity2" />
+      <item index="96" class="java.lang.String" itemvalue="Application.SPOJ_GSS1" />
+      <item index="97" class="java.lang.String" itemvalue="Application.SPOJ_GSS2" />
+      <item index="98" class="java.lang.String" itemvalue="Application.SPOJ_GSS3" />
+      <item index="99" class="java.lang.String" itemvalue="Application.SPOJ_GSS4" />
+      <item index="100" class="java.lang.String" itemvalue="Application.SPOJ_GSS5" />
+      <item index="101" class="java.lang.String" itemvalue="Application.SPOJ_GSS6" />
+      <item index="102" class="java.lang.String" itemvalue="Application.SPOJ_KQuery" />
+      <item index="103" class="java.lang.String" itemvalue="Application.SPOJ_KQuery2" />
+      <item index="104" class="java.lang.String" itemvalue="Application.SPOJ_KQueryo" />
+      <item index="105" class="java.lang.String" itemvalue="Application.SPOJ_KRECT" />
+      <item index="106" class="java.lang.String" itemvalue="Application.SPOJ_KthNumber_Persistence" />
+      <item index="107" class="java.lang.String" itemvalue="Application.SPOJ_OrderStatisticSet_Treap" />
+      <item index="108" class="java.lang.String" itemvalue="Application.SPOJ_OTOCI" />
+      <item index="109" class="java.lang.String" itemvalue="Application.SPOJ_QTREE1" />
+      <item index="110" class="java.lang.String" itemvalue="Application.SPOJ_RPAR" />
+      <item index="111" class="java.lang.String" itemvalue="Application.SPOJ_SEGSQRSS" />
+      <item index="112" class="java.lang.String" itemvalue="Application.SPOJ_TheCourier" />
+      <item index="113" class="java.lang.String" itemvalue="Application.SPOJ_TwoPaths" />
+      <item index="114" class="java.lang.String" itemvalue="Application.SqrtDecomposition_IntervalSum" />
+      <item index="115" class="java.lang.String" itemvalue="Application.TIMUS_BinaryAppleTree" />
+      <item index="116" class="java.lang.String" itemvalue="Application.Treap" />
+      <item index="117" class="java.lang.String" itemvalue="Application.Tries" />
+      <item index="118" class="java.lang.String" itemvalue="Application.USACO_BalancedCowBreeds" />
+      <item index="119" class="java.lang.String" itemvalue="Application.USACO_CowIDs" />
+      <item index="120" class="java.lang.String" itemvalue="Application.USACO_Relocation" />
+      <item index="121" class="java.lang.String" itemvalue="Application.UVa10342_AlwaysLate" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
@@ -775,12 +1124,24 @@
       <workItem from="1514562065162" duration="83325000" />
       <workItem from="1515070865733" duration="53617000" />
       <workItem from="1516130318955" duration="4658000" />
-      <workItem from="1516251847693" duration="30822000" />
+      <workItem from="1516251847693" duration="73739000" />
+      <workItem from="1516714823839" duration="30000" />
+      <workItem from="1516716432231" duration="6263000" />
+      <workItem from="1516725764135" duration="24920000" />
+      <workItem from="1516799433314" duration="147627000" />
+      <workItem from="1517627093927" duration="18316000" />
+      <workItem from="1517814234349" duration="7500000" />
+      <workItem from="1517829109539" duration="18879000" />
+      <workItem from="1517919448970" duration="88048000" />
+      <workItem from="1518245299493" duration="5851000" />
+      <workItem from="1518505742986" duration="59675000" />
+      <workItem from="1518886839106" duration="156550000" />
+      <workItem from="1519902877013" duration="11401000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="598446000" />
+    <option name="totallyTimeSpent" value="1186423000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -791,12 +1152,12 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3282353" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28705883" sideWeight="0.50277776" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28705883" sideWeight="0.49722221" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29411766" sideWeight="0.49722221" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -839,405 +1200,437 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="10" />
+      <option name="time" value="15" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/DynamicProgramming/USACO2017P2.cpp">
+    <entry file="file://$PROJECT_DIR$/DataStructures/Implementation/Treap.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DynamicProgramming/Exun2017_Digex.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-922">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DynamicProgramming/INOI_SpecialSums.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="46" column="39" lean-forward="false" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="39" />
+          <caret line="188" column="5" lean-forward="false" selection-start-line="188" selection-start-column="5" selection-end-line="188" selection-end-column="5" />
           <folding>
             <element signature="e#0#19#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DynamicProgramming/out.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DynamicProgramming/inp.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cmake-build-debug/out.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1290">
-          <caret line="86" column="17" lean-forward="false" selection-start-line="86" selection-start-column="17" selection-end-line="86" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cmake-build-debug/out2.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1012">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DynamicProgramming/GCJ_LastHit.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GraphTheory/CF115A_Party.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="43" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cmake-build-debug/inp.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="987" column="44" lean-forward="false" selection-start-line="987" selection-start-column="44" selection-end-line="987" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IARCS_RankFraud.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="41" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DynamicProgramming/SPOJ_TheCourier.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="41" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AIO_CoreysParty.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DynamicProgramming/GFG_ShortestCommonSupersequence.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="41" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DynamicProgramming/SPOJ_KRECT.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DynamicProgramming/CF864E_Fire.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="41" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/race.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="40" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GraphTheory/Implementation/SCCTarjan.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="71" column="11" lean-forward="false" selection-start-line="71" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GraphTheory/Implementation/TopologicalSort.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DynamicProgramming/HackerRank_Troyangles.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DataStructures/SPOJ_GSS1.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-888">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="1050">
+          <caret line="70" column="6" lean-forward="false" selection-start-line="70" selection-start-column="6" selection-end-line="70" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructures/Implementation/DisjointSets.cpp">
+    <entry file="file://$PROJECT_DIR$/DataStructures/Implementation/ImplicitTreap.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-243">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DynamicProgramming/CC_PartitionCount.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="443">
-          <caret line="79" column="22" lean-forward="true" selection-start-line="79" selection-start-column="22" selection-end-line="79" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructures/CC_MultiplesOf3.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-982">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructures/Implementation/SegmentTree_RMQ.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-269">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GraphTheory/Implementation/LowestCommonAncestor(BinaryLifting).cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1965">
-          <caret line="131" column="10" lean-forward="false" selection-start-line="131" selection-start-column="10" selection-end-line="131" selection-end-column="10" />
+        <state relative-caret-position="62">
+          <caret line="61" column="0" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="76" selection-end-column="1" />
           <folding>
-            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#0#19#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GraphTheory/SPOJ_OTOCI.cpp">
+    <entry file="file://$PROJECT_DIR$/DataStructures/SPOJ_GSS6.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="40" selection-end-column="20" />
-          <folding />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="41" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#19#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GraphTheory/CSA_TriangularMatrix.cpp">
+    <entry file="file://$PROJECT_DIR$/DataStructures/CF589G_Hiring.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="81" column="17" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="87" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OtherAlgorithms/IntervalScheduling.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-264">
+        <state relative-caret-position="-901">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructures/CF348C_SubsetSums.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="43" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructures/(TODO)SPOJ_DynamicGraphConnectivity.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GraphTheory/SPOJ_DynamicGraphConnectivity2.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DataStructures/CF342E_XeniaAndTree.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-624">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GraphTheory/Implementation/Algorithm_BellmanFord.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DynamicProgramming/CF407B_LongPath.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="47" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GraphTheory/Implementation/Algorithm_FloydWarshall.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="43" column="22" lean-forward="false" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DynamicProgramming/CF118D_CaesarsLegions.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="41" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GraphTheory/UVa10342_AlwaysLate.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="43" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GraphTheory/CF567E_PresidentAndRoads.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1785">
-          <caret line="119" column="65" lean-forward="false" selection-start-line="119" selection-start-column="65" selection-end-line="119" selection-end-column="65" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GraphTheory/Implementation/Algorithm_Dijkstra.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="56" column="34" lean-forward="false" selection-start-line="56" selection-start-column="34" selection-end-line="56" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructures/SPOJ_KthNumber_Persistence.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-835">
-          <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructures/CF686D_KayAndSnowflake.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-107">
-          <caret line="58" column="9" lean-forward="false" selection-start-line="58" selection-start-column="4" selection-end-line="58" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructures/Implementation/PersistentSegmentTree.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-943">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="462">
+          <caret line="138" column="24" lean-forward="false" selection-start-line="138" selection-start-column="21" selection-end-line="138" selection-end-column="24" />
           <folding>
-            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#0#19#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OtherAlgorithms/Bitmasks.cpp">
+    <entry file="file://$PROJECT_DIR$/DataStructures/CF398D_InstantMessenger.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="59" column="0" lean-forward="false" selection-start-line="59" selection-start-column="0" selection-end-line="69" selection-end-column="1" />
+        <state relative-caret-position="345">
+          <caret line="41" column="20" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="41" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructures/CC_ChefAndGraphQueries.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="145" column="35" lean-forward="false" selection-start-line="144" selection-start-column="8" selection-end-line="145" selection-end-column="35" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructures/CC_PishtyAndTree(alternate).cpp">
+    <entry file="file://$PROJECT_DIR$/DataStructures/CF506_MrKutayutasColorfulGraph.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="115" column="10" lean-forward="false" selection-start-line="115" selection-start-column="10" selection-end-line="115" selection-end-column="10" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="43" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#19#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructures/CF375D_TreeAndQueries.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="30" />
+          <folding>
+            <element signature="e#45#64#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructures/CC_ChefAndQueries.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9">
+          <caret line="112" column="35" lean-forward="false" selection-start-line="112" selection-start-column="35" selection-end-line="112" selection-end-column="35" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+    <entry file="file://$PROJECT_DIR$/DataStructures/Exun2017_ArrayStudy.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="185" column="18" lean-forward="false" selection-start-line="185" selection-start-column="18" selection-end-line="185" selection-end-column="18" />
+        <state relative-caret-position="0">
+          <caret line="42" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GraphTheory/Implementation/LowestCommonAncestor.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-864">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DynamicProgramming/OnTrees/CF915F_ImbalanceValueOfTree.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DynamicProgramming/OnTrees/SubtreesWithKNodes.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="71" column="13" lean-forward="false" selection-start-line="71" selection-start-column="13" selection-end-line="71" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GraphTheory/CC_TALCA.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="46" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DynamicProgramming/OnTrees/HackerEarth_CountingOnTree.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-563">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DynamicProgramming/OnTrees/CFDPOnTreesTutP3b.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DynamicProgramming/OnTrees/CF161D_DistanceTree.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DynamicProgramming/OnTrees/CFDPOnTreesTutP4.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructures/CC_PishtyAndTree_Alternate(Persistence).cpp">
+    <entry file="file://$PROJECT_DIR$/DynamicProgramming/OnTrees/CF816C_KarenAndSupermarket.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="107" column="28" lean-forward="false" selection-start-line="107" selection-start-column="28" selection-end-line="107" selection-end-column="28" />
-          <folding />
+        <state relative-caret-position="236">
+          <caret line="59" column="9" lean-forward="false" selection-start-line="59" selection-start-column="9" selection-end-line="64" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DynamicProgramming/OnTrees/CF440D_BerlandFederalization.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-223">
+          <caret line="59" column="21" lean-forward="false" selection-start-line="59" selection-start-column="21" selection-end-line="59" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GraphTheory/Implementation/LowestCommonAncestor(BinaryLifting).cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="122" column="5" lean-forward="false" selection-start-line="122" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/GraphTheory/CF716D_CompleteTheGraph.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="111" column="9" lean-forward="false" selection-start-line="111" selection-start-column="9" selection-end-line="111" selection-end-column="9" />
+        <state relative-caret-position="-1513">
+          <caret line="37" column="25" lean-forward="true" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GraphTheory/IOITC_GraphLIS.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1027">
+          <caret line="59" column="0" lean-forward="true" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GraphTheory/CF932D_Tree.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="40" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GraphTheory/CF115A_Party.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-648">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GraphTheory/CC_VasyaAndLittleBear.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2865">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="40" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GraphTheory/APIO2009_ATMRobbery.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-751">
+          <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="47" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#19#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GraphTheory/CF257B_JzzhuAndCities.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1747">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GraphTheory/CF567E_PresidentAndRoads.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1709">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GraphTheory/CF659E_NewReform.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-589">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GraphTheory/CF764C_TimofeyAndTree.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-919">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GraphTheory/CF892E_Envy.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1567">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SyntaxProgrammingProblems/MinimumPossibleTraverse.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-710">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DynamicProgramming/CF61D_EternalVictory.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-506">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DynamicProgramming/CF81E_Pairs.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="13" column="18" lean-forward="false" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GraphTheory/SPOJ_AMR10J.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DynamicProgramming/OnTrees/SPOJ_TwoPaths.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="113" column="1" lean-forward="false" selection-start-line="113" selection-start-column="1" selection-end-line="113" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DynamicProgramming/OnTrees/TIMUS_BinaryAppleTree.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="22" column="16" lean-forward="false" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DynamicProgramming/OnTrees/CF868E_PolicemanAndTree.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-605">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="38" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GraphTheory/Implementation/DetectingCycles.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="508">
+          <caret line="121" column="1" lean-forward="false" selection-start-line="121" selection-start-column="1" selection-end-line="121" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Misc.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="51" column="1" lean-forward="false" selection-start-line="51" selection-start-column="1" selection-end-line="51" selection-end-column="1" />
           <folding>
-            <element signature="e#0#19#0" expanded="false" />
+            <element signature="e#0#19#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructures/SPOJ_KthNumber.cpp">
+    <entry file="file://$PROJECT_DIR$/GraphTheory/Implementation/DetectingCyclesDirectedGraph.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-588">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="72" column="28" lean-forward="false" selection-start-line="72" selection-start-column="28" selection-end-line="72" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ICOPracticeProblems/AStandardTreeProblem/AStandardTreeProblem.cpp">
+    <entry file="file://$PROJECT_DIR$/GraphTheory/CF505D_KitayutasTechnology.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="152" column="5" lean-forward="true" selection-start-line="150" selection-start-column="4" selection-end-line="152" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="38" selection-end-column="20" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructures/CC_PishtyAndTree.cpp">
+    <entry file="file://$PROJECT_DIR$/DataStructures/Implementation/HeavyLightDecomposition.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1841">
-          <caret line="180" column="0" lean-forward="true" selection-start-line="180" selection-start-column="0" selection-end-line="180" selection-end-column="0" />
-          <folding>
-            <element signature="e#52#71#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="413">
+          <caret line="89" column="1" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="89" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructures/CC_PishtyAndTree_Alternate.cpp">
+    <entry file="file://$PROJECT_DIR$/DataStructures/LiveArchive_XorSum.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1215">
-          <caret line="81" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="129" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="235">
+          <caret line="15" column="18" lean-forward="false" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+          <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructures/SPOJ_QTREE1.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="83" column="1" lean-forward="true" selection-start-line="83" selection-start-column="1" selection-end-line="83" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

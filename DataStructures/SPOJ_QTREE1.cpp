@@ -11,14 +11,11 @@
 #include <bitset>
 #include <cstring>
 #include <map>
-#include <unordered_map>
-#include <unordered_set>
 #include <iomanip> //cout << setprecision(node) << fixed << num
 #include <stack>
 #include <sstream>
 
-
-#define MAX(a,b) ((a)>(b)?(a):(b))
+#define all(x) x.begin(), x.end()
 #define pb push_back
 #define mp make_pair
 #define fi first
@@ -27,6 +24,7 @@
 #define debug(x) cout << x << endl;
 #define debug2(x,y) cout << x << " " << y << endl;
 #define debug3(x,y,z) cout << x << " " << y << " " << z << endl;
+
 typedef long long int ll;
 typedef long double ld;
 typedef unsigned long long int ull;
@@ -40,37 +38,47 @@ const ll INF64 = ll(1e18);
 const ld EPS = 1e-9, PI = 3.1415926535897932384626433832795;
 using namespace std;
 
-const int maxn = 10010;
-int N;
-vector <vector <ii>> tree;
-vi euler;
+const int maxn = (int) 1e5+10;
+int sz[maxn], in[maxn], euler[maxn], out[maxn], nxt[maxn], stree[4*maxn];
+vi tree[maxn];
 
-int stree[4*maxn];
-
-void dfs(int node, int par) {
-    euler.pb(node);
-    for (ii edge : tree[node]) {
-        int adj = edge.fi;
-        dfs(adj, node);
-        euler.pb(adj);
+void dfs_sz(int v, int par) {
+    sz[v] = 1;
+    for (int &u: tree[v]) {
+        if (u != par) {
+            dfs_sz(u, v);
+            sz[v] += sz[u];
+            if (sz[u] > sz[tree[v][0]])
+                swap(u, tree[v][0]);
+        }
     }
 }
-
-
-int main() {
-    int T;
-    scanf("%d", &T);
-    while (T--) {
-        scanf("%d", &N);
-        tree.clear();
-        tree.resize(N+1);
-        euler.clear();
-        int a, b, c;
-        for (int i = 0; i < N-1; i++) {
-            scanf("%d %d %d", &a, &b, &c);
-            tree[a].pb({b, c});
-            tree[b].pb({a, c});
+int t = 1;
+void dfs_hld(int v, int par) {
+    in[v] = t++;
+    euler[in[v]] = v;
+    for (int u: tree[v]) {
+        if (u != par) {
+            nxt[u] = (u == tree[v][0] ? nxt[v] : u);
+            dfs_hld(u, v);
         }
-        dfs(1, 0);
     }
+    out[v] = t;
+}
+int main() {
+    int N;
+    scanf("%d", &N);
+    for (int i = 0; i < N - 1; i++) {
+        int u, v;
+        scanf("%d %d", &u, &v);
+        tree[u].pb(v);
+        tree[v].pb(u);
+    }
+    dfs_sz(1, 0);
+    dfs_hld(1, 0);
+    for (int i = 1; i <= N; i++) {
+        printf("in[%d] = %d\n", i, in[i]);
+        printf("out[%d] = %d\n", i, out[i]);
+    }
+    for (int i = 0; i < t; i++) cout << euler[i] << " "; cout << endl;
 }

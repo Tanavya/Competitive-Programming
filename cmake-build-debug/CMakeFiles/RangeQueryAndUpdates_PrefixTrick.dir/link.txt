@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/RangeQueryAndUpdates_PrefixTrick.dir/DataStructures/Implementation/RangeQueryAndUpdates_PrefixTrick.cpp.o  -o RangeQueryAndUpdates_PrefixTrick 

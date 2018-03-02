@@ -38,7 +38,7 @@ int gcdExtended(int a, int b, int *x, int *y)
     return gcd;
 }
 
-void modInverse(int a, int m) //Works when m and a are coprime
+int modInverse(int a, int m) //Works when m and a are coprime
 {
     //The idea is to use Extended Euclidean algorithms that takes two integers ‘a’ and ‘b’
     //finds their gcd and also find ‘x’ and ‘y’ such that
@@ -51,14 +51,9 @@ void modInverse(int a, int m) //Works when m and a are coprime
 
     int x, y;
     int g = gcdExtended(a, m, &x, &y);
-    if (g != 1)
-        cout << "Inverse doesn't exist";
-    else
-    {
-        // m is added to handle negative x
-        int res = (x%m + m) % m;
-        cout << "Modular multiplicative inverse is " << res;
-    }
+    if (g != 1) assert (false);
+    int res = (x%m + m) % m;
+    return res;
 }
 int power(int x, unsigned int y, unsigned int m)
 {
@@ -87,6 +82,7 @@ void modInverse2(int a, int m) //Works when m is prime
     int g = gcd(a, m);
     if (g != 1)
         cout << "Inverse doesn't exist";
+
     else
     {
         // If a and m are relatively prime, then modulo inverse
@@ -98,5 +94,7 @@ void modInverse2(int a, int m) //Works when m is prime
 
 
 int main() {
-
+    cout << gcd(1e9+7, (1e9+7)*2+1) << endl;
+    cout << modInverse(1, 1e9+7) << endl;
+    modInverse2(1, 1e9+7);
 }

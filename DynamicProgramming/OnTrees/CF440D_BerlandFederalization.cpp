@@ -80,8 +80,6 @@ void dfs(int curr, int papa, int size) {
             size -= d[curr][size][i];
         }
     }
-    
-
 }
 int main() {
 

@@ -34,15 +34,27 @@ using namespace std;
 int N, K, ans = 0;
 vector <vi> dp(107, vi (107, 0)); //dp[v][k] Max total weight of sub tree rooted at v with k edges
 vector <vector <ii>> tree(50007);
+int size[50007];
+
+void calc_size(int node, int parent) {
+    size[node] = 1;
+    for (ii edge : tree[node]) {
+        int adj = edge.x;
+        if (adj != parent) {
+            calc_size(adj, node);
+            size[node] += size[adj];
+        }
+    }
+}
 
 void dfs(int node, int parent) {
-
+    int lim = min(K, size[node]);
     for (ii edge : tree[node]) {
         int adj = edge.x, weight = edge.y;
         if (adj != parent) {
             dfs(adj, node);
-            for (int i = K; i >= 0; i--) {
-                for (int j = 0; i+j+1 <= K; j++) {
+            for (int i = lim; i >= 0; i--) {
+                for (int j = 0; i+j+1 <= lim; j++) {
                     dp[node][i+j+1] = max(dp[node][i+j+1], dp[node][i] + weight + dp[adj][j]);
                     //printf("dp[%d][%d] = %d\n", node, i+j+1, dp[node][i+j+1]);
                 }
@@ -59,6 +71,7 @@ int main() {
         tree[a].pb(mp(b, c));
         tree[b].pb(mp(a, c));
     }
+    calc_size(1, 0);
     dfs(1, 0);
     printf("%d\n", dp[1][K]);
     

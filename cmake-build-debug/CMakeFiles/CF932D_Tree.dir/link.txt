@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/CF932D_Tree.dir/GraphTheory/CF932D_Tree.cpp.o  -o CF932D_Tree 

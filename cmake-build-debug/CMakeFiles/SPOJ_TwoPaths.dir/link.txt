@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/SPOJ_TwoPaths.dir/DynamicProgramming/OnTrees/SPOJ_TwoPaths.cpp.o  -o SPOJ_TwoPaths 

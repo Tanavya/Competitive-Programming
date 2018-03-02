@@ -39,7 +39,7 @@ inline int left(int x) {return x << 1; }
 inline int right(int x) { return (x<<1)+1;}
 
 int tree[120007], distinct[30007], A[30007];
-vector <list<int>> occ (MAXN);
+list <int> occ[MAXN];
 map <int, map <int, int>> ans;
 
 void build(int p, int L, int R) {
@@ -59,7 +59,7 @@ void update(int p, int L, int R, int idx, int val) {
     }
     else {
         int mid = (L+R)/2;
-        if (idx <= mid) 
+        if (idx <= mid)
             update(left(p), L, mid, idx, val);
         else
             update(right(p), mid+1, R, idx, val);
@@ -89,7 +89,7 @@ int main() {
     int i, j;
     for (int q = 0; q < Q; q++) {
         scanf("%d %d", &i, &j);
-        //queries.pb(mp(i, j));
+        queries.pb(mp(i, j));
     }
     vector <ii> original = queries;
     sort(queries.begin(), queries.end());

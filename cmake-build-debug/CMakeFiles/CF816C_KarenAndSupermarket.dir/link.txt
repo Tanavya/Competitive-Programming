@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/CF816C_KarenAndSupermarket.dir/DynamicProgramming/OnTrees/CF816C_KarenAndSupermarket.cpp.o  -o CF816C_KarenAndSupermarket 

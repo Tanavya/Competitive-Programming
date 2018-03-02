@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/CF145E_LuckyQueries.dir/DataStructures/CF145E_LuckyQueries.cpp.o  -o CF145E_LuckyQueries 

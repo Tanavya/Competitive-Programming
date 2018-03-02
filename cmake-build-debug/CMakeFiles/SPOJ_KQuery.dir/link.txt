@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/SPOJ_KQuery.dir/DataStructures/SPOJ_KQuery.cpp.o  -o SPOJ_KQuery 

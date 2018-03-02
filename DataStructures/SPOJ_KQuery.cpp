@@ -1,65 +1,47 @@
-//Tutorial Link : https://www.commonlounge.com/discussion/d871499b49e443259cfbea9b16f9b958/main
-
 #include <iostream>
 #include <vector>
 #include <algorithm>
+#include <climits>
 #include <stdio.h>
+#include <queue>
+#include <set>
+#include <list>
+#include <cmath>
+#include <assert.h>
+#include <bitset>
+#include <cstring>
+#include <map>
+#include <unordered_map>
+#include <unordered_set>
+#include <iomanip> //cout << setprecision(node) << fixed << num
+#include <stack>
+#include <sstream>
 
-#define mp make_pair
+
+#define MAX(a,b) ((a)>(b)?(a):(b))
 #define pb push_back
-#define x first
-#define y second
-#define print(arr) for (auto it = arr.begin(); it != arr.end(); ++it) cout << *it << " "; cout << "\n";
-#define all(v) v.begin(),v.end()
-
+#define mp make_pair
+#define fi first
+#define se second
+#define print(arr) for (auto it = arr.begin(); it != arr.end(); ++it) cout << *it << " "; cout << endl;
+#define debug(x) cout << x << endl;
+#define debug2(x,y) cout << x << " " << y << endl;
+#define debug3(x,y,z) cout << x << " " << y << " " << z << endl;
 typedef long long int ll;
 typedef long double ld;
+typedef unsigned long long int ull;
 typedef std::pair <int, int> ii;
 typedef std::vector <int> vi;
 typedef std::vector <ll> vll;
+typedef std::vector <ld> vld;
+
 const int INF = int(1e9);
 const ll INF64 = ll(1e18);
 const ld EPS = 1e-9, PI = 3.1415926535897932384626433832795;
-
 using namespace std;
 
-const int maxn = 1e5;
-int A[maxn+7], a, b, K, N;
-vector<int> tree[4*maxn+7];
+const int maxn = 30007;
 
-inline int left(int x) { return (x << 1); }
-inline int right(int x) { return (x << 1) + 1; }
-inline bool outside(int L, int R) { return (b < L || a > R); }
-inline bool inside(int L, int R) { return (a <= L && b >= R); }
-#define leftChild left(p),L,(L+R)/2
-#define rightChild right(p),((L+R)/2)+1,R
-
-void build(int p, int L, int R) {
-    if (L == R) {
-        tree[p].pb(A[L]);
-    }
-    else {
-        build(leftChild);
-        build(rightChild);
-        merge(all(tree[left(p)]), all(tree[right(p)]), back_inserter(tree[p]));
-    }
-}
-int query(int p, int L, int R) {
-    if (outside(L, R)) 
-        return 0;
-    if (inside(L, R))
-        return distance(upper_bound(all(tree[p]), K), tree[p].end());
-    return query(leftChild) + query(rightChild);
-}
 int main() {
-    scanf("%d", &N);
-    for (int i = 1; i <= N; i++)
-        scanf("%d", &A[i]);
-    build(1, 1, N);
-    int Q;
-    scanf("%d", &Q);
-    while (Q--) {
-        scanf("%d %d %d", &a, &b, &K);
-        printf("%d\n", query(1, 1, N));
-    }
+
 }

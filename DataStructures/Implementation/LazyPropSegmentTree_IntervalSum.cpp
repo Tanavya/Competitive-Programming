@@ -97,6 +97,7 @@ int queryRange(int i, int L, int R, int li, int ri) {
     return queryRange(left(i), L, mid, li, ri) + queryRange(right(i), mid+1, R, li, ri);
 }
 
+
 int main() {
     int N, Q, l, r, x;
     scanf("%d %d", &N, &Q);

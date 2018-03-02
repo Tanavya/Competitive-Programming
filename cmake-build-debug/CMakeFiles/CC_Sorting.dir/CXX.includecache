@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_Sorting.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+climits
+-
+stdio.h
+-
+queue
+-
+set
+-
+list
+-
+cmath
+-
+assert.h
+-
+bitset
+-
+cstring
+-
+map
+-
+unordered_map
+-
+unordered_set
+-
+iomanip
+-
+stack
+-
+sstream
+-
+

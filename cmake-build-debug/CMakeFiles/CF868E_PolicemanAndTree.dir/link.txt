@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/CF868E_PolicemanAndTree.dir/DynamicProgramming/OnTrees/CF868E_PolicemanAndTree.cpp.o  -o CF868E_PolicemanAndTree 

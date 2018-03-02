@@ -46,7 +46,7 @@ vector <vi> graph(maxn);
 bitset <maxn> visited;
 vi topo;
 ll dp[maxn];
-bool mat[maxn][maxn], ans_big[maxn];
+bool ans_big[maxn];
 int MAP[maxn];
 
 void dfs(int node) {
@@ -66,7 +66,6 @@ int main() {
         int u, v;
         scanf("%d %d", &u, &v);
         graph[u].pb(v);
-        mat[u][v] = true;
     }
     dfs(1);
     reverse(all(topo));

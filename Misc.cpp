@@ -11,91 +11,108 @@
 #include <bitset>
 #include <cstring>
 #include <map>
-#include <unordered_map>
-#include <unordered_set>
 #include <iomanip> //cout << setprecision(node) << fixed << num
 #include <stack>
 #include <sstream>
 
-
-#define all(x) x.begin(), x.end()
-#define pb push_back
+#define EPS 1e-9
+#define INF 1070000000LL
+#define MOD 1000000007LL
+#define fir first
+#define foreach(it,X) for(auto it=(X).begin();it!=(X).end();it++)
+#define ite iterator
 #define mp make_pair
-#define fi first
-#define se second
-#define print(arr) for (auto it = arr.begin(); it != arr.end(); ++it) cout << *it << " "; cout << endl;
-#define debug(x) cout << x << endl;
-#define debug2(x,y) cout << x << " " << y << endl;
-#define debug3(x,y,z) cout << x << " " << y << " " << z << endl;
+#define mt make_tuple
+#define rep(i,n) rep2(i,0,n)
+#define rep2(i,m,n) for(int i=m;i<(n);i++)
+#define pb push_back
+#define sec second
+#define sz(x) ((int)(x).size())
 
-typedef long long int ll;
-typedef long double ld;
-typedef unsigned long long int ull;
-typedef std::pair <int, int> ii;
-typedef std::vector <int> vi;
-typedef std::vector <ll> vll;
-typedef std::vector <ld> vld;
-
-const int INF = int(1e9);
-const ll INF64 = ll(1e18);
-const ld EPS = 1e-9, PI = 3.1415926535897932384626433832795;
 using namespace std;
 
-string N;
-const int mod = (int) 1e9 + 7;
-ll dp2[1007][1007][2], dp[1007][1007];
+typedef istringstream iss;
+typedef long long ll;
+typedef pair<ll,ll> pi;
+typedef stringstream sst;
+typedef vector<ll> vi;
 
+const int N = 100010;
 
-int count_on(int x) {
-    int cnt = 0;
-    for (int i = 20; i >= 0 && x; i--) {
-        if ((1 << i) & x)
-            cnt++;
-    }
-    return cnt;
-}
-ll rec(int i, int j, int b) {
-    if (j < 0)
-        return 0;
-    if (dp2[i][j][b] != -1)
-        return dp2[i][j][b];
-    ll ret = 0;
-    if (i == N.size()) {
-        if (j == 0) return 1;
-        else return 0;
-    }
-    if (N[i] == '0') {
-        ret = rec(i+1, j, b);
-        if (b) ret += rec(i+1, j-1, b);
-    }
-    else {
-        ret = rec(i+1, j, 1) + rec(i+1, j-1, b);
-    }
-    ret %= mod;
-    return dp2[i][j][b] = ret;
+int n, m;
+vi g[N];
+vi rg[N];
+vi vs;
+bool used[N];
+int cmp[N], cmpsize[N];
+
+void add_edge(int from, int to){
+    g[from].pb(to);
+    rg[to].pb(from);
 }
 
-int main() {
-    memset(dp2, -1, sizeof(dp2));
-    cin >> N;
-    int K;
-    cin >> K;
-    if (K == 0) {
-        cout << 1 << endl;
-        return 0;
+void dfs(int v){
+    used[v] = 1;
+    rep(i, sz(g[v])){
+        if(!used[g[v][i]]) dfs(g[v][i]);
     }
-    dp[1][0] = 1;
-    ll ans = 0;
-    for (int i = 2; i <= 1000; i++) {
-        for (int k = 1; k <= K; k++) {
-            dp[i][k] = dp[__builtin_popcountll(i)][k-1];
+    vs.pb(v);
+}
+
+void rdfs(int v, int k){
+    used[v] = 1;
+    cmp[v] = k;
+    rep(i, sz(rg[v])){
+        if(!used[rg[v][i]]) rdfs(rg[v][i], k);
+    }
+}
+
+int scc(){
+    memset(used, 0, sizeof(used));
+    vs.clear();
+    rep(v, n){
+        if(!used[v])
+            dfs(v);
+    }
+    memset(used, 0, sizeof(used));
+    int k = 0;
+    for(int i = sz(vs) - 1; i >= 0; i--){
+        if(!used[vs[i]]) rdfs(vs[i], k++);
+    }
+    return k;
+}
+
+int dfs2(int v){
+    used[v] = 1;
+    int res = cmpsize[cmp[v]] == 1;
+    rep(i,sz(g[v])) if(!used[g[v][i]]){
+            res &= dfs2(g[v][i]);
         }
-    }
-    ans += dp[1][K-1] * (rec(0, 1, 0) - 1);
-    for (int i = 2; i <= 1000; i++) {
-        ans += (dp[i][K-1] * rec(0, i, 0)) % mod;
-        ans %= mod;
-    }
-    cout << ans << endl;
+    rep(i,sz(rg[v])) if(!used[rg[v][i]]){
+            res &= dfs2(rg[v][i]);
+        }
+    return res;
+}
 
+int main(){
+    cin.tie(0);
+    ios_base::sync_with_stdio(0);
+
+    cin >> n >> m;
+    rep(i, m){
+        int a, b;
+        cin >> a >> b;
+        add_edge(a-1, b-1);
+    }
+    scc();
+    memset(cmpsize, 0, sizeof(cmpsize));
+    rep(i, n){
+        cmpsize[cmp[i]]++;
+    }
+    memset(used, 0, sizeof(used));
+    int ans = n;
+    rep(i, n) if(!used[i]){
+            ans -= dfs2(i);
+        }
+    cout << ans << endl;
 }
