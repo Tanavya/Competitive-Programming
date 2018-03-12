@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/SPOJ_NKLeaves.dir/DynamicProgramming/SPOJ_NKLeaves.cpp.o  -o SPOJ_NKLeaves 

@@ -111,6 +111,149 @@ depend:
 .PHONY : depend
 
 #=============================================================================
+# Target rules for targets named CF950E_DataCenterMaintenance
+
+# Build rule for target.
+CF950E_DataCenterMaintenance: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 CF950E_DataCenterMaintenance
+.PHONY : CF950E_DataCenterMaintenance
+
+# fast build rule for target.
+CF950E_DataCenterMaintenance/fast:
+	$(MAKE) -f CMakeFiles/CF950E_DataCenterMaintenance.dir/build.make CMakeFiles/CF950E_DataCenterMaintenance.dir/build
+.PHONY : CF950E_DataCenterMaintenance/fast
+
+#=============================================================================
+# Target rules for targets named HR_AlienLanguages
+
+# Build rule for target.
+HR_AlienLanguages: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 HR_AlienLanguages
+.PHONY : HR_AlienLanguages
+
+# fast build rule for target.
+HR_AlienLanguages/fast:
+	$(MAKE) -f CMakeFiles/HR_AlienLanguages.dir/build.make CMakeFiles/HR_AlienLanguages.dir/build
+.PHONY : HR_AlienLanguages/fast
+
+#=============================================================================
+# Target rules for targets named SPOJ_BRKSTRING
+
+# Build rule for target.
+SPOJ_BRKSTRING: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 SPOJ_BRKSTRING
+.PHONY : SPOJ_BRKSTRING
+
+# fast build rule for target.
+SPOJ_BRKSTRING/fast:
+	$(MAKE) -f CMakeFiles/SPOJ_BRKSTRING.dir/build.make CMakeFiles/SPOJ_BRKSTRING.dir/build
+.PHONY : SPOJ_BRKSTRING/fast
+
+#=============================================================================
+# Target rules for targets named CF321E_CielAndGondolas
+
+# Build rule for target.
+CF321E_CielAndGondolas: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 CF321E_CielAndGondolas
+.PHONY : CF321E_CielAndGondolas
+
+# fast build rule for target.
+CF321E_CielAndGondolas/fast:
+	$(MAKE) -f CMakeFiles/CF321E_CielAndGondolas.dir/build.make CMakeFiles/CF321E_CielAndGondolas.dir/build
+.PHONY : CF321E_CielAndGondolas/fast
+
+#=============================================================================
+# Target rules for targets named CF319C_KalilaAndDimna
+
+# Build rule for target.
+CF319C_KalilaAndDimna: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 CF319C_KalilaAndDimna
+.PHONY : CF319C_KalilaAndDimna
+
+# fast build rule for target.
+CF319C_KalilaAndDimna/fast:
+	$(MAKE) -f CMakeFiles/CF319C_KalilaAndDimna.dir/build.make CMakeFiles/CF319C_KalilaAndDimna.dir/build
+.PHONY : CF319C_KalilaAndDimna/fast
+
+#=============================================================================
+# Target rules for targets named DivideAndConquerOptimisation
+
+# Build rule for target.
+DivideAndConquerOptimisation: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 DivideAndConquerOptimisation
+.PHONY : DivideAndConquerOptimisation
+
+# fast build rule for target.
+DivideAndConquerOptimisation/fast:
+	$(MAKE) -f CMakeFiles/DivideAndConquerOptimisation.dir/build.make CMakeFiles/DivideAndConquerOptimisation.dir/build
+.PHONY : DivideAndConquerOptimisation/fast
+
+#=============================================================================
+# Target rules for targets named 1D1DOptimisation
+
+# Build rule for target.
+1D1DOptimisation: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 1D1DOptimisation
+.PHONY : 1D1DOptimisation
+
+# fast build rule for target.
+1D1DOptimisation/fast:
+	$(MAKE) -f CMakeFiles/1D1DOptimisation.dir/build.make CMakeFiles/1D1DOptimisation.dir/build
+.PHONY : 1D1DOptimisation/fast
+
+#=============================================================================
+# Target rules for targets named KnuthOptimisation
+
+# Build rule for target.
+KnuthOptimisation: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 KnuthOptimisation
+.PHONY : KnuthOptimisation
+
+# fast build rule for target.
+KnuthOptimisation/fast:
+	$(MAKE) -f CMakeFiles/KnuthOptimisation.dir/build.make CMakeFiles/KnuthOptimisation.dir/build
+.PHONY : KnuthOptimisation/fast
+
+#=============================================================================
+# Target rules for targets named SPOJ_ACQUIRE
+
+# Build rule for target.
+SPOJ_ACQUIRE: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 SPOJ_ACQUIRE
+.PHONY : SPOJ_ACQUIRE
+
+# fast build rule for target.
+SPOJ_ACQUIRE/fast:
+	$(MAKE) -f CMakeFiles/SPOJ_ACQUIRE.dir/build.make CMakeFiles/SPOJ_ACQUIRE.dir/build
+.PHONY : SPOJ_ACQUIRE/fast
+
+#=============================================================================
+# Target rules for targets named SPOJ_QTREE4
+
+# Build rule for target.
+SPOJ_QTREE4: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 SPOJ_QTREE4
+.PHONY : SPOJ_QTREE4
+
+# fast build rule for target.
+SPOJ_QTREE4/fast:
+	$(MAKE) -f CMakeFiles/SPOJ_QTREE4.dir/build.make CMakeFiles/SPOJ_QTREE4.dir/build
+.PHONY : SPOJ_QTREE4/fast
+
+#=============================================================================
+# Target rules for targets named SPOJ_QTREE5
+
+# Build rule for target.
+SPOJ_QTREE5: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 SPOJ_QTREE5
+.PHONY : SPOJ_QTREE5
+
+# fast build rule for target.
+SPOJ_QTREE5/fast:
+	$(MAKE) -f CMakeFiles/SPOJ_QTREE5.dir/build.make CMakeFiles/SPOJ_QTREE5.dir/build
+.PHONY : SPOJ_QTREE5/fast
+
+#=============================================================================
 # Target rules for targets named CF505D_KitayutasTechnology
 
 # Build rule for target.
@@ -122,6 +265,19 @@ CF505D_KitayutasTechnology: cmake_check_build_system
 CF505D_KitayutasTechnology/fast:
 	$(MAKE) -f CMakeFiles/CF505D_KitayutasTechnology.dir/build.make CMakeFiles/CF505D_KitayutasTechnology.dir/build
 .PHONY : CF505D_KitayutasTechnology/fast
+
+#=============================================================================
+# Target rules for targets named ConvexHullTrick2
+
+# Build rule for target.
+ConvexHullTrick2: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 ConvexHullTrick2
+.PHONY : ConvexHullTrick2
+
+# fast build rule for target.
+ConvexHullTrick2/fast:
+	$(MAKE) -f CMakeFiles/ConvexHullTrick2.dir/build.make CMakeFiles/ConvexHullTrick2.dir/build
+.PHONY : ConvexHullTrick2/fast
 
 #=============================================================================
 # Target rules for targets named CF81E_Pairs
@@ -148,6 +304,19 @@ IOITC_GraphLIS: cmake_check_build_system
 IOITC_GraphLIS/fast:
 	$(MAKE) -f CMakeFiles/IOITC_GraphLIS.dir/build.make CMakeFiles/IOITC_GraphLIS.dir/build
 .PHONY : IOITC_GraphLIS/fast
+
+#=============================================================================
+# Target rules for targets named ConvexHullTrick
+
+# Build rule for target.
+ConvexHullTrick: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 ConvexHullTrick
+.PHONY : ConvexHullTrick
+
+# fast build rule for target.
+ConvexHullTrick/fast:
+	$(MAKE) -f CMakeFiles/ConvexHullTrick.dir/build.make CMakeFiles/ConvexHullTrick.dir/build
+.PHONY : ConvexHullTrick/fast
 
 #=============================================================================
 # Target rules for targets named CF932D_Tree
@@ -254,6 +423,19 @@ CF375D_TreeAndQueries/fast:
 .PHONY : CF375D_TreeAndQueries/fast
 
 #=============================================================================
+# Target rules for targets named CF311B_CatsTransport
+
+# Build rule for target.
+CF311B_CatsTransport: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 CF311B_CatsTransport
+.PHONY : CF311B_CatsTransport
+
+# fast build rule for target.
+CF311B_CatsTransport/fast:
+	$(MAKE) -f CMakeFiles/CF311B_CatsTransport.dir/build.make CMakeFiles/CF311B_CatsTransport.dir/build
+.PHONY : CF311B_CatsTransport/fast
+
+#=============================================================================
 # Target rules for targets named SPOJ_GSS6
 
 # Build rule for target.
@@ -278,6 +460,19 @@ SPOJ_OrderStatisticSet_Treap: cmake_check_build_system
 SPOJ_OrderStatisticSet_Treap/fast:
 	$(MAKE) -f CMakeFiles/SPOJ_OrderStatisticSet_Treap.dir/build.make CMakeFiles/SPOJ_OrderStatisticSet_Treap.dir/build
 .PHONY : SPOJ_OrderStatisticSet_Treap/fast
+
+#=============================================================================
+# Target rules for targets named LiChaoSegmentTree
+
+# Build rule for target.
+LiChaoSegmentTree: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 LiChaoSegmentTree
+.PHONY : LiChaoSegmentTree
+
+# fast build rule for target.
+LiChaoSegmentTree/fast:
+	$(MAKE) -f CMakeFiles/LiChaoSegmentTree.dir/build.make CMakeFiles/LiChaoSegmentTree.dir/build
+.PHONY : LiChaoSegmentTree/fast
 
 #=============================================================================
 # Target rules for targets named CC_StrangeQueries
@@ -410,6 +605,19 @@ CF145E_LuckyQueries/fast:
 .PHONY : CF145E_LuckyQueries/fast
 
 #=============================================================================
+# Target rules for targets named HR_GuardiansOfTheLunatics
+
+# Build rule for target.
+HR_GuardiansOfTheLunatics: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 HR_GuardiansOfTheLunatics
+.PHONY : HR_GuardiansOfTheLunatics
+
+# fast build rule for target.
+HR_GuardiansOfTheLunatics/fast:
+	$(MAKE) -f CMakeFiles/HR_GuardiansOfTheLunatics.dir/build.make CMakeFiles/HR_GuardiansOfTheLunatics.dir/build
+.PHONY : HR_GuardiansOfTheLunatics/fast
+
+#=============================================================================
 # Target rules for targets named CC_XorQueries
 
 # Build rule for target.
@@ -514,6 +722,19 @@ SPOJ_DQuery_Persistence/fast:
 .PHONY : SPOJ_DQuery_Persistence/fast
 
 #=============================================================================
+# Target rules for targets named CF600E_LomsatGelral
+
+# Build rule for target.
+CF600E_LomsatGelral: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 CF600E_LomsatGelral
+.PHONY : CF600E_LomsatGelral
+
+# fast build rule for target.
+CF600E_LomsatGelral/fast:
+	$(MAKE) -f CMakeFiles/CF600E_LomsatGelral.dir/build.make CMakeFiles/CF600E_LomsatGelral.dir/build
+.PHONY : CF600E_LomsatGelral/fast
+
+#=============================================================================
 # Target rules for targets named ModularInverse
 
 # Build rule for target.
@@ -551,6 +772,19 @@ SPOJ_GSS2: cmake_check_build_system
 SPOJ_GSS2/fast:
 	$(MAKE) -f CMakeFiles/SPOJ_GSS2.dir/build.make CMakeFiles/SPOJ_GSS2.dir/build
 .PHONY : SPOJ_GSS2/fast
+
+#=============================================================================
+# Target rules for targets named IOI2011_Race
+
+# Build rule for target.
+IOI2011_Race: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 IOI2011_Race
+.PHONY : IOI2011_Race
+
+# fast build rule for target.
+IOI2011_Race/fast:
+	$(MAKE) -f CMakeFiles/IOI2011_Race.dir/build.make CMakeFiles/IOI2011_Race.dir/build
+.PHONY : IOI2011_Race/fast
 
 #=============================================================================
 # Target rules for targets named DFSConnectedComponents
@@ -616,6 +850,19 @@ SPOJ_KQuery: cmake_check_build_system
 SPOJ_KQuery/fast:
 	$(MAKE) -f CMakeFiles/SPOJ_KQuery.dir/build.make CMakeFiles/SPOJ_KQuery.dir/build
 .PHONY : SPOJ_KQuery/fast
+
+#=============================================================================
+# Target rules for targets named SPOJ_ACQUIRE_1D1D
+
+# Build rule for target.
+SPOJ_ACQUIRE_1D1D: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 SPOJ_ACQUIRE_1D1D
+.PHONY : SPOJ_ACQUIRE_1D1D
+
+# fast build rule for target.
+SPOJ_ACQUIRE_1D1D/fast:
+	$(MAKE) -f CMakeFiles/SPOJ_ACQUIRE_1D1D.dir/build.make CMakeFiles/SPOJ_ACQUIRE_1D1D.dir/build
+.PHONY : SPOJ_ACQUIRE_1D1D/fast
 
 #=============================================================================
 # Target rules for targets named CC_GiveAway
@@ -1177,6 +1424,19 @@ CF864E_Fire/fast:
 .PHONY : CF864E_Fire/fast
 
 #=============================================================================
+# Target rules for targets named CF342E_XeniaAndTree_Centroid
+
+# Build rule for target.
+CF342E_XeniaAndTree_Centroid: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 CF342E_XeniaAndTree_Centroid
+.PHONY : CF342E_XeniaAndTree_Centroid
+
+# fast build rule for target.
+CF342E_XeniaAndTree_Centroid/fast:
+	$(MAKE) -f CMakeFiles/CF342E_XeniaAndTree_Centroid.dir/build.make CMakeFiles/CF342E_XeniaAndTree_Centroid.dir/build
+.PHONY : CF342E_XeniaAndTree_Centroid/fast
+
+#=============================================================================
 # Target rules for targets named SPOJ_KthNumber_Persistence
 
 # Build rule for target.
@@ -1255,6 +1515,19 @@ SCCTarjan/fast:
 .PHONY : SCCTarjan/fast
 
 #=============================================================================
+# Target rules for targets named SPOJ_NKLeaves
+
+# Build rule for target.
+SPOJ_NKLeaves: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 SPOJ_NKLeaves
+.PHONY : SPOJ_NKLeaves
+
+# fast build rule for target.
+SPOJ_NKLeaves/fast:
+	$(MAKE) -f CMakeFiles/SPOJ_NKLeaves.dir/build.make CMakeFiles/SPOJ_NKLeaves.dir/build
+.PHONY : SPOJ_NKLeaves/fast
+
+#=============================================================================
 # Target rules for targets named Treap
 
 # Build rule for target.
@@ -1305,6 +1578,19 @@ PointsLinesAndStuff: cmake_check_build_system
 PointsLinesAndStuff/fast:
 	$(MAKE) -f CMakeFiles/PointsLinesAndStuff.dir/build.make CMakeFiles/PointsLinesAndStuff.dir/build
 .PHONY : PointsLinesAndStuff/fast
+
+#=============================================================================
+# Target rules for targets named CC_CyclistRace
+
+# Build rule for target.
+CC_CyclistRace: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 CC_CyclistRace
+.PHONY : CC_CyclistRace
+
+# fast build rule for target.
+CC_CyclistRace/fast:
+	$(MAKE) -f CMakeFiles/CC_CyclistRace.dir/build.make CMakeFiles/CC_CyclistRace.dir/build
+.PHONY : CC_CyclistRace/fast
 
 #=============================================================================
 # Target rules for targets named HeavyLightDecomposition
@@ -1383,6 +1669,19 @@ SPOJ_QTREE1: cmake_check_build_system
 SPOJ_QTREE1/fast:
 	$(MAKE) -f CMakeFiles/SPOJ_QTREE1.dir/build.make CMakeFiles/SPOJ_QTREE1.dir/build
 .PHONY : SPOJ_QTREE1/fast
+
+#=============================================================================
+# Target rules for targets named CF626F_GroupProjects
+
+# Build rule for target.
+CF626F_GroupProjects: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 CF626F_GroupProjects
+.PHONY : CF626F_GroupProjects
+
+# fast build rule for target.
+CF626F_GroupProjects/fast:
+	$(MAKE) -f CMakeFiles/CF626F_GroupProjects.dir/build.make CMakeFiles/CF626F_GroupProjects.dir/build
+.PHONY : CF626F_GroupProjects/fast
 
 #=============================================================================
 # Target rules for targets named CF519E_AAndBLectureRooms
@@ -1690,7 +1989,6 @@ AIO_CoreysParty.o: AIO_CoreysParty.cpp.o
 # target to build an object file
 AIO_CoreysParty.cpp.o:
 	$(MAKE) -f CMakeFiles/AIO_CoreysParty.dir/build.make CMakeFiles/AIO_CoreysParty.dir/AIO_CoreysParty.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/AIO_CoreysParty.cpp.o
 .PHONY : AIO_CoreysParty.cpp.o
 
 AIO_CoreysParty.i: AIO_CoreysParty.cpp.i
@@ -1700,7 +1998,6 @@ AIO_CoreysParty.i: AIO_CoreysParty.cpp.i
 # target to preprocess a source file
 AIO_CoreysParty.cpp.i:
 	$(MAKE) -f CMakeFiles/AIO_CoreysParty.dir/build.make CMakeFiles/AIO_CoreysParty.dir/AIO_CoreysParty.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/AIO_CoreysParty.cpp.i
 .PHONY : AIO_CoreysParty.cpp.i
 
 AIO_CoreysParty.s: AIO_CoreysParty.cpp.s
@@ -1710,89 +2007,7 @@ AIO_CoreysParty.s: AIO_CoreysParty.cpp.s
 # target to generate assembly for a file
 AIO_CoreysParty.cpp.s:
 	$(MAKE) -f CMakeFiles/AIO_CoreysParty.dir/build.make CMakeFiles/AIO_CoreysParty.dir/AIO_CoreysParty.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/AIO_CoreysParty.cpp.s
 .PHONY : AIO_CoreysParty.cpp.s
-
-BitMasking.o: BitMasking.cpp.o
-
-.PHONY : BitMasking.o
-
-# target to build an object file
-BitMasking.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/BitMasking.cpp.o
-.PHONY : BitMasking.cpp.o
-
-BitMasking.i: BitMasking.cpp.i
-
-.PHONY : BitMasking.i
-
-# target to preprocess a source file
-BitMasking.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/BitMasking.cpp.i
-.PHONY : BitMasking.cpp.i
-
-BitMasking.s: BitMasking.cpp.s
-
-.PHONY : BitMasking.s
-
-# target to generate assembly for a file
-BitMasking.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/BitMasking.cpp.s
-.PHONY : BitMasking.cpp.s
-
-BlownGarland.o: BlownGarland.cpp.o
-
-.PHONY : BlownGarland.o
-
-# target to build an object file
-BlownGarland.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/BlownGarland.cpp.o
-.PHONY : BlownGarland.cpp.o
-
-BlownGarland.i: BlownGarland.cpp.i
-
-.PHONY : BlownGarland.i
-
-# target to preprocess a source file
-BlownGarland.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/BlownGarland.cpp.i
-.PHONY : BlownGarland.cpp.i
-
-BlownGarland.s: BlownGarland.cpp.s
-
-.PHONY : BlownGarland.s
-
-# target to generate assembly for a file
-BlownGarland.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/BlownGarland.cpp.s
-.PHONY : BlownGarland.cpp.s
-
-CCC_GreedyForPies.o: CCC_GreedyForPies.cpp.o
-
-.PHONY : CCC_GreedyForPies.o
-
-# target to build an object file
-CCC_GreedyForPies.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CCC_GreedyForPies.cpp.o
-.PHONY : CCC_GreedyForPies.cpp.o
-
-CCC_GreedyForPies.i: CCC_GreedyForPies.cpp.i
-
-.PHONY : CCC_GreedyForPies.i
-
-# target to preprocess a source file
-CCC_GreedyForPies.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CCC_GreedyForPies.cpp.i
-.PHONY : CCC_GreedyForPies.cpp.i
-
-CCC_GreedyForPies.s: CCC_GreedyForPies.cpp.s
-
-.PHONY : CCC_GreedyForPies.s
-
-# target to generate assembly for a file
-CCC_GreedyForPies.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CCC_GreedyForPies.cpp.s
-.PHONY : CCC_GreedyForPies.cpp.s
 
 CC_BrokenClock.o: CC_BrokenClock.cpp.o
 
@@ -1801,7 +2016,6 @@ CC_BrokenClock.o: CC_BrokenClock.cpp.o
 # target to build an object file
 CC_BrokenClock.cpp.o:
 	$(MAKE) -f CMakeFiles/CC_BrokenClock.dir/build.make CMakeFiles/CC_BrokenClock.dir/CC_BrokenClock.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_BrokenClock.cpp.o
 .PHONY : CC_BrokenClock.cpp.o
 
 CC_BrokenClock.i: CC_BrokenClock.cpp.i
@@ -1811,7 +2025,6 @@ CC_BrokenClock.i: CC_BrokenClock.cpp.i
 # target to preprocess a source file
 CC_BrokenClock.cpp.i:
 	$(MAKE) -f CMakeFiles/CC_BrokenClock.dir/build.make CMakeFiles/CC_BrokenClock.dir/CC_BrokenClock.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_BrokenClock.cpp.i
 .PHONY : CC_BrokenClock.cpp.i
 
 CC_BrokenClock.s: CC_BrokenClock.cpp.s
@@ -1821,332 +2034,7 @@ CC_BrokenClock.s: CC_BrokenClock.cpp.s
 # target to generate assembly for a file
 CC_BrokenClock.cpp.s:
 	$(MAKE) -f CMakeFiles/CC_BrokenClock.dir/build.make CMakeFiles/CC_BrokenClock.dir/CC_BrokenClock.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_BrokenClock.cpp.s
 .PHONY : CC_BrokenClock.cpp.s
-
-CC_CAPTCITI.o: CC_CAPTCITI.cpp.o
-
-.PHONY : CC_CAPTCITI.o
-
-# target to build an object file
-CC_CAPTCITI.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_CAPTCITI.cpp.o
-.PHONY : CC_CAPTCITI.cpp.o
-
-CC_CAPTCITI.i: CC_CAPTCITI.cpp.i
-
-.PHONY : CC_CAPTCITI.i
-
-# target to preprocess a source file
-CC_CAPTCITI.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_CAPTCITI.cpp.i
-.PHONY : CC_CAPTCITI.cpp.i
-
-CC_CAPTCITI.s: CC_CAPTCITI.cpp.s
-
-.PHONY : CC_CAPTCITI.s
-
-# target to generate assembly for a file
-CC_CAPTCITI.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_CAPTCITI.cpp.s
-.PHONY : CC_CAPTCITI.cpp.s
-
-CC_CHEFSIGN.o: CC_CHEFSIGN.cpp.o
-
-.PHONY : CC_CHEFSIGN.o
-
-# target to build an object file
-CC_CHEFSIGN.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_CHEFSIGN.cpp.o
-.PHONY : CC_CHEFSIGN.cpp.o
-
-CC_CHEFSIGN.i: CC_CHEFSIGN.cpp.i
-
-.PHONY : CC_CHEFSIGN.i
-
-# target to preprocess a source file
-CC_CHEFSIGN.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_CHEFSIGN.cpp.i
-.PHONY : CC_CHEFSIGN.cpp.i
-
-CC_CHEFSIGN.s: CC_CHEFSIGN.cpp.s
-
-.PHONY : CC_CHEFSIGN.s
-
-# target to generate assembly for a file
-CC_CHEFSIGN.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_CHEFSIGN.cpp.s
-.PHONY : CC_CHEFSIGN.cpp.s
-
-CC_Calculator.o: CC_Calculator.cpp.o
-
-.PHONY : CC_Calculator.o
-
-# target to build an object file
-CC_Calculator.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_Calculator.cpp.o
-.PHONY : CC_Calculator.cpp.o
-
-CC_Calculator.i: CC_Calculator.cpp.i
-
-.PHONY : CC_Calculator.i
-
-# target to preprocess a source file
-CC_Calculator.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_Calculator.cpp.i
-.PHONY : CC_Calculator.cpp.i
-
-CC_Calculator.s: CC_Calculator.cpp.s
-
-.PHONY : CC_Calculator.s
-
-# target to generate assembly for a file
-CC_Calculator.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_Calculator.cpp.s
-.PHONY : CC_Calculator.cpp.s
-
-CC_ChefAndDice.o: CC_ChefAndDice.cpp.o
-
-.PHONY : CC_ChefAndDice.o
-
-# target to build an object file
-CC_ChefAndDice.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_ChefAndDice.cpp.o
-.PHONY : CC_ChefAndDice.cpp.o
-
-CC_ChefAndDice.i: CC_ChefAndDice.cpp.i
-
-.PHONY : CC_ChefAndDice.i
-
-# target to preprocess a source file
-CC_ChefAndDice.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_ChefAndDice.cpp.i
-.PHONY : CC_ChefAndDice.cpp.i
-
-CC_ChefAndDice.s: CC_ChefAndDice.cpp.s
-
-.PHONY : CC_ChefAndDice.s
-
-# target to generate assembly for a file
-CC_ChefAndDice.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_ChefAndDice.cpp.s
-.PHONY : CC_ChefAndDice.cpp.s
-
-CC_ChefAndFeast.o: CC_ChefAndFeast.cpp.o
-
-.PHONY : CC_ChefAndFeast.o
-
-# target to build an object file
-CC_ChefAndFeast.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_ChefAndFeast.cpp.o
-.PHONY : CC_ChefAndFeast.cpp.o
-
-CC_ChefAndFeast.i: CC_ChefAndFeast.cpp.i
-
-.PHONY : CC_ChefAndFeast.i
-
-# target to preprocess a source file
-CC_ChefAndFeast.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_ChefAndFeast.cpp.i
-.PHONY : CC_ChefAndFeast.cpp.i
-
-CC_ChefAndFeast.s: CC_ChefAndFeast.cpp.s
-
-.PHONY : CC_ChefAndFeast.s
-
-# target to generate assembly for a file
-CC_ChefAndFeast.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_ChefAndFeast.cpp.s
-.PHONY : CC_ChefAndFeast.cpp.s
-
-CC_ChefAndFibonacciArray.o: CC_ChefAndFibonacciArray.cpp.o
-
-.PHONY : CC_ChefAndFibonacciArray.o
-
-# target to build an object file
-CC_ChefAndFibonacciArray.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_ChefAndFibonacciArray.cpp.o
-.PHONY : CC_ChefAndFibonacciArray.cpp.o
-
-CC_ChefAndFibonacciArray.i: CC_ChefAndFibonacciArray.cpp.i
-
-.PHONY : CC_ChefAndFibonacciArray.i
-
-# target to preprocess a source file
-CC_ChefAndFibonacciArray.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_ChefAndFibonacciArray.cpp.i
-.PHONY : CC_ChefAndFibonacciArray.cpp.i
-
-CC_ChefAndFibonacciArray.s: CC_ChefAndFibonacciArray.cpp.s
-
-.PHONY : CC_ChefAndFibonacciArray.s
-
-# target to generate assembly for a file
-CC_ChefAndFibonacciArray.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_ChefAndFibonacciArray.cpp.s
-.PHONY : CC_ChefAndFibonacciArray.cpp.s
-
-CC_ChefAndMagicArrays.o: CC_ChefAndMagicArrays.cpp.o
-
-.PHONY : CC_ChefAndMagicArrays.o
-
-# target to build an object file
-CC_ChefAndMagicArrays.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_ChefAndMagicArrays.cpp.o
-.PHONY : CC_ChefAndMagicArrays.cpp.o
-
-CC_ChefAndMagicArrays.i: CC_ChefAndMagicArrays.cpp.i
-
-.PHONY : CC_ChefAndMagicArrays.i
-
-# target to preprocess a source file
-CC_ChefAndMagicArrays.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_ChefAndMagicArrays.cpp.i
-.PHONY : CC_ChefAndMagicArrays.cpp.i
-
-CC_ChefAndMagicArrays.s: CC_ChefAndMagicArrays.cpp.s
-
-.PHONY : CC_ChefAndMagicArrays.s
-
-# target to generate assembly for a file
-CC_ChefAndMagicArrays.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_ChefAndMagicArrays.cpp.s
-.PHONY : CC_ChefAndMagicArrays.cpp.s
-
-CC_ChefAndPrimeQueries.o: CC_ChefAndPrimeQueries.cpp.o
-
-.PHONY : CC_ChefAndPrimeQueries.o
-
-# target to build an object file
-CC_ChefAndPrimeQueries.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_ChefAndPrimeQueries.cpp.o
-.PHONY : CC_ChefAndPrimeQueries.cpp.o
-
-CC_ChefAndPrimeQueries.i: CC_ChefAndPrimeQueries.cpp.i
-
-.PHONY : CC_ChefAndPrimeQueries.i
-
-# target to preprocess a source file
-CC_ChefAndPrimeQueries.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_ChefAndPrimeQueries.cpp.i
-.PHONY : CC_ChefAndPrimeQueries.cpp.i
-
-CC_ChefAndPrimeQueries.s: CC_ChefAndPrimeQueries.cpp.s
-
-.PHONY : CC_ChefAndPrimeQueries.s
-
-# target to generate assembly for a file
-CC_ChefAndPrimeQueries.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_ChefAndPrimeQueries.cpp.s
-.PHONY : CC_ChefAndPrimeQueries.cpp.s
-
-CC_ChefAndSubarray.o: CC_ChefAndSubarray.cpp.o
-
-.PHONY : CC_ChefAndSubarray.o
-
-# target to build an object file
-CC_ChefAndSubarray.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_ChefAndSubarray.cpp.o
-.PHONY : CC_ChefAndSubarray.cpp.o
-
-CC_ChefAndSubarray.i: CC_ChefAndSubarray.cpp.i
-
-.PHONY : CC_ChefAndSubarray.i
-
-# target to preprocess a source file
-CC_ChefAndSubarray.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_ChefAndSubarray.cpp.i
-.PHONY : CC_ChefAndSubarray.cpp.i
-
-CC_ChefAndSubarray.s: CC_ChefAndSubarray.cpp.s
-
-.PHONY : CC_ChefAndSubarray.s
-
-# target to generate assembly for a file
-CC_ChefAndSubarray.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_ChefAndSubarray.cpp.s
-.PHONY : CC_ChefAndSubarray.cpp.s
-
-CC_ChefAndSubsequences.o: CC_ChefAndSubsequences.cpp.o
-
-.PHONY : CC_ChefAndSubsequences.o
-
-# target to build an object file
-CC_ChefAndSubsequences.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_ChefAndSubsequences.cpp.o
-.PHONY : CC_ChefAndSubsequences.cpp.o
-
-CC_ChefAndSubsequences.i: CC_ChefAndSubsequences.cpp.i
-
-.PHONY : CC_ChefAndSubsequences.i
-
-# target to preprocess a source file
-CC_ChefAndSubsequences.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_ChefAndSubsequences.cpp.i
-.PHONY : CC_ChefAndSubsequences.cpp.i
-
-CC_ChefAndSubsequences.s: CC_ChefAndSubsequences.cpp.s
-
-.PHONY : CC_ChefAndSubsequences.s
-
-# target to generate assembly for a file
-CC_ChefAndSubsequences.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_ChefAndSubsequences.cpp.s
-.PHONY : CC_ChefAndSubsequences.cpp.s
-
-CC_ChefAndTraingles.o: CC_ChefAndTraingles.cpp.o
-
-.PHONY : CC_ChefAndTraingles.o
-
-# target to build an object file
-CC_ChefAndTraingles.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_ChefAndTraingles.cpp.o
-.PHONY : CC_ChefAndTraingles.cpp.o
-
-CC_ChefAndTraingles.i: CC_ChefAndTraingles.cpp.i
-
-.PHONY : CC_ChefAndTraingles.i
-
-# target to preprocess a source file
-CC_ChefAndTraingles.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_ChefAndTraingles.cpp.i
-.PHONY : CC_ChefAndTraingles.cpp.i
-
-CC_ChefAndTraingles.s: CC_ChefAndTraingles.cpp.s
-
-.PHONY : CC_ChefAndTraingles.s
-
-# target to generate assembly for a file
-CC_ChefAndTraingles.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_ChefAndTraingles.cpp.s
-.PHONY : CC_ChefAndTraingles.cpp.s
-
-CC_ChefAndVolunteerService.o: CC_ChefAndVolunteerService.cpp.o
-
-.PHONY : CC_ChefAndVolunteerService.o
-
-# target to build an object file
-CC_ChefAndVolunteerService.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_ChefAndVolunteerService.cpp.o
-.PHONY : CC_ChefAndVolunteerService.cpp.o
-
-CC_ChefAndVolunteerService.i: CC_ChefAndVolunteerService.cpp.i
-
-.PHONY : CC_ChefAndVolunteerService.i
-
-# target to preprocess a source file
-CC_ChefAndVolunteerService.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_ChefAndVolunteerService.cpp.i
-.PHONY : CC_ChefAndVolunteerService.cpp.i
-
-CC_ChefAndVolunteerService.s: CC_ChefAndVolunteerService.cpp.s
-
-.PHONY : CC_ChefAndVolunteerService.s
-
-# target to generate assembly for a file
-CC_ChefAndVolunteerService.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_ChefAndVolunteerService.cpp.s
-.PHONY : CC_ChefAndVolunteerService.cpp.s
 
 CC_ChefAndXorQueries.o: CC_ChefAndXorQueries.cpp.o
 
@@ -2155,7 +2043,6 @@ CC_ChefAndXorQueries.o: CC_ChefAndXorQueries.cpp.o
 # target to build an object file
 CC_ChefAndXorQueries.cpp.o:
 	$(MAKE) -f CMakeFiles/CC_ChefAndXorQueries.dir/build.make CMakeFiles/CC_ChefAndXorQueries.dir/CC_ChefAndXorQueries.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_ChefAndXorQueries.cpp.o
 .PHONY : CC_ChefAndXorQueries.cpp.o
 
 CC_ChefAndXorQueries.i: CC_ChefAndXorQueries.cpp.i
@@ -2165,7 +2052,6 @@ CC_ChefAndXorQueries.i: CC_ChefAndXorQueries.cpp.i
 # target to preprocess a source file
 CC_ChefAndXorQueries.cpp.i:
 	$(MAKE) -f CMakeFiles/CC_ChefAndXorQueries.dir/build.make CMakeFiles/CC_ChefAndXorQueries.dir/CC_ChefAndXorQueries.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_ChefAndXorQueries.cpp.i
 .PHONY : CC_ChefAndXorQueries.cpp.i
 
 CC_ChefAndXorQueries.s: CC_ChefAndXorQueries.cpp.s
@@ -2175,7 +2061,6 @@ CC_ChefAndXorQueries.s: CC_ChefAndXorQueries.cpp.s
 # target to generate assembly for a file
 CC_ChefAndXorQueries.cpp.s:
 	$(MAKE) -f CMakeFiles/CC_ChefAndXorQueries.dir/build.make CMakeFiles/CC_ChefAndXorQueries.dir/CC_ChefAndXorQueries.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_ChefAndXorQueries.cpp.s
 .PHONY : CC_ChefAndXorQueries.cpp.s
 
 CC_ChefGoesLeftRight.o: CC_ChefGoesLeftRight.cpp.o
@@ -2185,7 +2070,6 @@ CC_ChefGoesLeftRight.o: CC_ChefGoesLeftRight.cpp.o
 # target to build an object file
 CC_ChefGoesLeftRight.cpp.o:
 	$(MAKE) -f CMakeFiles/CC_ChefGoesLeftRight.dir/build.make CMakeFiles/CC_ChefGoesLeftRight.dir/CC_ChefGoesLeftRight.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_ChefGoesLeftRight.cpp.o
 .PHONY : CC_ChefGoesLeftRight.cpp.o
 
 CC_ChefGoesLeftRight.i: CC_ChefGoesLeftRight.cpp.i
@@ -2195,7 +2079,6 @@ CC_ChefGoesLeftRight.i: CC_ChefGoesLeftRight.cpp.i
 # target to preprocess a source file
 CC_ChefGoesLeftRight.cpp.i:
 	$(MAKE) -f CMakeFiles/CC_ChefGoesLeftRight.dir/build.make CMakeFiles/CC_ChefGoesLeftRight.dir/CC_ChefGoesLeftRight.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_ChefGoesLeftRight.cpp.i
 .PHONY : CC_ChefGoesLeftRight.cpp.i
 
 CC_ChefGoesLeftRight.s: CC_ChefGoesLeftRight.cpp.s
@@ -2205,251 +2088,7 @@ CC_ChefGoesLeftRight.s: CC_ChefGoesLeftRight.cpp.s
 # target to generate assembly for a file
 CC_ChefGoesLeftRight.cpp.s:
 	$(MAKE) -f CMakeFiles/CC_ChefGoesLeftRight.dir/build.make CMakeFiles/CC_ChefGoesLeftRight.dir/CC_ChefGoesLeftRight.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_ChefGoesLeftRight.cpp.s
 .PHONY : CC_ChefGoesLeftRight.cpp.s
-
-CC_ChefandCycledCycles.o: CC_ChefandCycledCycles.cpp.o
-
-.PHONY : CC_ChefandCycledCycles.o
-
-# target to build an object file
-CC_ChefandCycledCycles.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_ChefandCycledCycles.cpp.o
-.PHONY : CC_ChefandCycledCycles.cpp.o
-
-CC_ChefandCycledCycles.i: CC_ChefandCycledCycles.cpp.i
-
-.PHONY : CC_ChefandCycledCycles.i
-
-# target to preprocess a source file
-CC_ChefandCycledCycles.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_ChefandCycledCycles.cpp.i
-.PHONY : CC_ChefandCycledCycles.cpp.i
-
-CC_ChefandCycledCycles.s: CC_ChefandCycledCycles.cpp.s
-
-.PHONY : CC_ChefandCycledCycles.s
-
-# target to generate assembly for a file
-CC_ChefandCycledCycles.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_ChefandCycledCycles.cpp.s
-.PHONY : CC_ChefandCycledCycles.cpp.s
-
-CC_CleaningTheSpace.o: CC_CleaningTheSpace.cpp.o
-
-.PHONY : CC_CleaningTheSpace.o
-
-# target to build an object file
-CC_CleaningTheSpace.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_CleaningTheSpace.cpp.o
-.PHONY : CC_CleaningTheSpace.cpp.o
-
-CC_CleaningTheSpace.i: CC_CleaningTheSpace.cpp.i
-
-.PHONY : CC_CleaningTheSpace.i
-
-# target to preprocess a source file
-CC_CleaningTheSpace.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_CleaningTheSpace.cpp.i
-.PHONY : CC_CleaningTheSpace.cpp.i
-
-CC_CleaningTheSpace.s: CC_CleaningTheSpace.cpp.s
-
-.PHONY : CC_CleaningTheSpace.s
-
-# target to generate assembly for a file
-CC_CleaningTheSpace.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_CleaningTheSpace.cpp.s
-.PHONY : CC_CleaningTheSpace.cpp.s
-
-CC_ConnectingComputers.o: CC_ConnectingComputers.cpp.o
-
-.PHONY : CC_ConnectingComputers.o
-
-# target to build an object file
-CC_ConnectingComputers.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_ConnectingComputers.cpp.o
-.PHONY : CC_ConnectingComputers.cpp.o
-
-CC_ConnectingComputers.i: CC_ConnectingComputers.cpp.i
-
-.PHONY : CC_ConnectingComputers.i
-
-# target to preprocess a source file
-CC_ConnectingComputers.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_ConnectingComputers.cpp.i
-.PHONY : CC_ConnectingComputers.cpp.i
-
-CC_ConnectingComputers.s: CC_ConnectingComputers.cpp.s
-
-.PHONY : CC_ConnectingComputers.s
-
-# target to generate assembly for a file
-CC_ConnectingComputers.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_ConnectingComputers.cpp.s
-.PHONY : CC_ConnectingComputers.cpp.s
-
-CC_ConsecutiveSnakes.o: CC_ConsecutiveSnakes.cpp.o
-
-.PHONY : CC_ConsecutiveSnakes.o
-
-# target to build an object file
-CC_ConsecutiveSnakes.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_ConsecutiveSnakes.cpp.o
-.PHONY : CC_ConsecutiveSnakes.cpp.o
-
-CC_ConsecutiveSnakes.i: CC_ConsecutiveSnakes.cpp.i
-
-.PHONY : CC_ConsecutiveSnakes.i
-
-# target to preprocess a source file
-CC_ConsecutiveSnakes.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_ConsecutiveSnakes.cpp.i
-.PHONY : CC_ConsecutiveSnakes.cpp.i
-
-CC_ConsecutiveSnakes.s: CC_ConsecutiveSnakes.cpp.s
-
-.PHONY : CC_ConsecutiveSnakes.s
-
-# target to generate assembly for a file
-CC_ConsecutiveSnakes.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_ConsecutiveSnakes.cpp.s
-.PHONY : CC_ConsecutiveSnakes.cpp.s
-
-CC_FillTheMatrix.o: CC_FillTheMatrix.cpp.o
-
-.PHONY : CC_FillTheMatrix.o
-
-# target to build an object file
-CC_FillTheMatrix.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_FillTheMatrix.cpp.o
-.PHONY : CC_FillTheMatrix.cpp.o
-
-CC_FillTheMatrix.i: CC_FillTheMatrix.cpp.i
-
-.PHONY : CC_FillTheMatrix.i
-
-# target to preprocess a source file
-CC_FillTheMatrix.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_FillTheMatrix.cpp.i
-.PHONY : CC_FillTheMatrix.cpp.i
-
-CC_FillTheMatrix.s: CC_FillTheMatrix.cpp.s
-
-.PHONY : CC_FillTheMatrix.s
-
-# target to generate assembly for a file
-CC_FillTheMatrix.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_FillTheMatrix.cpp.s
-.PHONY : CC_FillTheMatrix.cpp.s
-
-CC_IPCTrainers.o: CC_IPCTrainers.cpp.o
-
-.PHONY : CC_IPCTrainers.o
-
-# target to build an object file
-CC_IPCTrainers.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_IPCTrainers.cpp.o
-.PHONY : CC_IPCTrainers.cpp.o
-
-CC_IPCTrainers.i: CC_IPCTrainers.cpp.i
-
-.PHONY : CC_IPCTrainers.i
-
-# target to preprocess a source file
-CC_IPCTrainers.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_IPCTrainers.cpp.i
-.PHONY : CC_IPCTrainers.cpp.i
-
-CC_IPCTrainers.s: CC_IPCTrainers.cpp.s
-
-.PHONY : CC_IPCTrainers.s
-
-# target to generate assembly for a file
-CC_IPCTrainers.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_IPCTrainers.cpp.s
-.PHONY : CC_IPCTrainers.cpp.s
-
-CC_Impersonating.o: CC_Impersonating.cpp.o
-
-.PHONY : CC_Impersonating.o
-
-# target to build an object file
-CC_Impersonating.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_Impersonating.cpp.o
-.PHONY : CC_Impersonating.cpp.o
-
-CC_Impersonating.i: CC_Impersonating.cpp.i
-
-.PHONY : CC_Impersonating.i
-
-# target to preprocess a source file
-CC_Impersonating.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_Impersonating.cpp.i
-.PHONY : CC_Impersonating.cpp.i
-
-CC_Impersonating.s: CC_Impersonating.cpp.s
-
-.PHONY : CC_Impersonating.s
-
-# target to generate assembly for a file
-CC_Impersonating.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_Impersonating.cpp.s
-.PHONY : CC_Impersonating.cpp.s
-
-CC_JosephLand.o: CC_JosephLand.cpp.o
-
-.PHONY : CC_JosephLand.o
-
-# target to build an object file
-CC_JosephLand.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_JosephLand.cpp.o
-.PHONY : CC_JosephLand.cpp.o
-
-CC_JosephLand.i: CC_JosephLand.cpp.i
-
-.PHONY : CC_JosephLand.i
-
-# target to preprocess a source file
-CC_JosephLand.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_JosephLand.cpp.i
-.PHONY : CC_JosephLand.cpp.i
-
-CC_JosephLand.s: CC_JosephLand.cpp.s
-
-.PHONY : CC_JosephLand.s
-
-# target to generate assembly for a file
-CC_JosephLand.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_JosephLand.cpp.s
-.PHONY : CC_JosephLand.cpp.s
-
-CC_PairWiseUnionOfSet.o: CC_PairWiseUnionOfSet.cpp.o
-
-.PHONY : CC_PairWiseUnionOfSet.o
-
-# target to build an object file
-CC_PairWiseUnionOfSet.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_PairWiseUnionOfSet.cpp.o
-.PHONY : CC_PairWiseUnionOfSet.cpp.o
-
-CC_PairWiseUnionOfSet.i: CC_PairWiseUnionOfSet.cpp.i
-
-.PHONY : CC_PairWiseUnionOfSet.i
-
-# target to preprocess a source file
-CC_PairWiseUnionOfSet.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_PairWiseUnionOfSet.cpp.i
-.PHONY : CC_PairWiseUnionOfSet.cpp.i
-
-CC_PairWiseUnionOfSet.s: CC_PairWiseUnionOfSet.cpp.s
-
-.PHONY : CC_PairWiseUnionOfSet.s
-
-# target to generate assembly for a file
-CC_PairWiseUnionOfSet.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_PairWiseUnionOfSet.cpp.s
-.PHONY : CC_PairWiseUnionOfSet.cpp.s
 
 CC_ProductOnSegment.o: CC_ProductOnSegment.cpp.o
 
@@ -2457,7 +2096,6 @@ CC_ProductOnSegment.o: CC_ProductOnSegment.cpp.o
 
 # target to build an object file
 CC_ProductOnSegment.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_ProductOnSegment.cpp.o
 	$(MAKE) -f CMakeFiles/CC_ProductOnSegment.dir/build.make CMakeFiles/CC_ProductOnSegment.dir/CC_ProductOnSegment.cpp.o
 .PHONY : CC_ProductOnSegment.cpp.o
 
@@ -2467,7 +2105,6 @@ CC_ProductOnSegment.i: CC_ProductOnSegment.cpp.i
 
 # target to preprocess a source file
 CC_ProductOnSegment.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_ProductOnSegment.cpp.i
 	$(MAKE) -f CMakeFiles/CC_ProductOnSegment.dir/build.make CMakeFiles/CC_ProductOnSegment.dir/CC_ProductOnSegment.cpp.i
 .PHONY : CC_ProductOnSegment.cpp.i
 
@@ -2477,414 +2114,8 @@ CC_ProductOnSegment.s: CC_ProductOnSegment.cpp.s
 
 # target to generate assembly for a file
 CC_ProductOnSegment.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_ProductOnSegment.cpp.s
 	$(MAKE) -f CMakeFiles/CC_ProductOnSegment.dir/build.make CMakeFiles/CC_ProductOnSegment.dir/CC_ProductOnSegment.cpp.s
 .PHONY : CC_ProductOnSegment.cpp.s
-
-CC_PyramidFalls.o: CC_PyramidFalls.cpp.o
-
-.PHONY : CC_PyramidFalls.o
-
-# target to build an object file
-CC_PyramidFalls.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_PyramidFalls.cpp.o
-.PHONY : CC_PyramidFalls.cpp.o
-
-CC_PyramidFalls.i: CC_PyramidFalls.cpp.i
-
-.PHONY : CC_PyramidFalls.i
-
-# target to preprocess a source file
-CC_PyramidFalls.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_PyramidFalls.cpp.i
-.PHONY : CC_PyramidFalls.cpp.i
-
-CC_PyramidFalls.s: CC_PyramidFalls.cpp.s
-
-.PHONY : CC_PyramidFalls.s
-
-# target to generate assembly for a file
-CC_PyramidFalls.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_PyramidFalls.cpp.s
-.PHONY : CC_PyramidFalls.cpp.s
-
-CC_RobotsInADAG.o: CC_RobotsInADAG.cpp.o
-
-.PHONY : CC_RobotsInADAG.o
-
-# target to build an object file
-CC_RobotsInADAG.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_RobotsInADAG.cpp.o
-.PHONY : CC_RobotsInADAG.cpp.o
-
-CC_RobotsInADAG.i: CC_RobotsInADAG.cpp.i
-
-.PHONY : CC_RobotsInADAG.i
-
-# target to preprocess a source file
-CC_RobotsInADAG.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_RobotsInADAG.cpp.i
-.PHONY : CC_RobotsInADAG.cpp.i
-
-CC_RobotsInADAG.s: CC_RobotsInADAG.cpp.s
-
-.PHONY : CC_RobotsInADAG.s
-
-# target to generate assembly for a file
-CC_RobotsInADAG.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_RobotsInADAG.cpp.s
-.PHONY : CC_RobotsInADAG.cpp.s
-
-CC_SNCOUP.o: CC_SNCOUP.cpp.o
-
-.PHONY : CC_SNCOUP.o
-
-# target to build an object file
-CC_SNCOUP.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_SNCOUP.cpp.o
-.PHONY : CC_SNCOUP.cpp.o
-
-CC_SNCOUP.i: CC_SNCOUP.cpp.i
-
-.PHONY : CC_SNCOUP.i
-
-# target to preprocess a source file
-CC_SNCOUP.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_SNCOUP.cpp.i
-.PHONY : CC_SNCOUP.cpp.i
-
-CC_SNCOUP.s: CC_SNCOUP.cpp.s
-
-.PHONY : CC_SNCOUP.s
-
-# target to generate assembly for a file
-CC_SNCOUP.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_SNCOUP.cpp.s
-.PHONY : CC_SNCOUP.cpp.s
-
-CC_SerejaAndCommands.o: CC_SerejaAndCommands.cpp.o
-
-.PHONY : CC_SerejaAndCommands.o
-
-# target to build an object file
-CC_SerejaAndCommands.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_SerejaAndCommands.cpp.o
-.PHONY : CC_SerejaAndCommands.cpp.o
-
-CC_SerejaAndCommands.i: CC_SerejaAndCommands.cpp.i
-
-.PHONY : CC_SerejaAndCommands.i
-
-# target to preprocess a source file
-CC_SerejaAndCommands.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_SerejaAndCommands.cpp.i
-.PHONY : CC_SerejaAndCommands.cpp.i
-
-CC_SerejaAndCommands.s: CC_SerejaAndCommands.cpp.s
-
-.PHONY : CC_SerejaAndCommands.s
-
-# target to generate assembly for a file
-CC_SerejaAndCommands.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_SerejaAndCommands.cpp.s
-.PHONY : CC_SerejaAndCommands.cpp.s
-
-CC_ShootingOnTheArray.o: CC_ShootingOnTheArray.cpp.o
-
-.PHONY : CC_ShootingOnTheArray.o
-
-# target to build an object file
-CC_ShootingOnTheArray.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_ShootingOnTheArray.cpp.o
-.PHONY : CC_ShootingOnTheArray.cpp.o
-
-CC_ShootingOnTheArray.i: CC_ShootingOnTheArray.cpp.i
-
-.PHONY : CC_ShootingOnTheArray.i
-
-# target to preprocess a source file
-CC_ShootingOnTheArray.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_ShootingOnTheArray.cpp.i
-.PHONY : CC_ShootingOnTheArray.cpp.i
-
-CC_ShootingOnTheArray.s: CC_ShootingOnTheArray.cpp.s
-
-.PHONY : CC_ShootingOnTheArray.s
-
-# target to generate assembly for a file
-CC_ShootingOnTheArray.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_ShootingOnTheArray.cpp.s
-.PHONY : CC_ShootingOnTheArray.cpp.s
-
-CC_SnakesAndDiscussion.o: CC_SnakesAndDiscussion.cpp.o
-
-.PHONY : CC_SnakesAndDiscussion.o
-
-# target to build an object file
-CC_SnakesAndDiscussion.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_SnakesAndDiscussion.cpp.o
-.PHONY : CC_SnakesAndDiscussion.cpp.o
-
-CC_SnakesAndDiscussion.i: CC_SnakesAndDiscussion.cpp.i
-
-.PHONY : CC_SnakesAndDiscussion.i
-
-# target to preprocess a source file
-CC_SnakesAndDiscussion.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_SnakesAndDiscussion.cpp.i
-.PHONY : CC_SnakesAndDiscussion.cpp.i
-
-CC_SnakesAndDiscussion.s: CC_SnakesAndDiscussion.cpp.s
-
-.PHONY : CC_SnakesAndDiscussion.s
-
-# target to generate assembly for a file
-CC_SnakesAndDiscussion.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_SnakesAndDiscussion.cpp.s
-.PHONY : CC_SnakesAndDiscussion.cpp.s
-
-CC_SnakesAndGraph.o: CC_SnakesAndGraph.cpp.o
-
-.PHONY : CC_SnakesAndGraph.o
-
-# target to build an object file
-CC_SnakesAndGraph.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_SnakesAndGraph.cpp.o
-.PHONY : CC_SnakesAndGraph.cpp.o
-
-CC_SnakesAndGraph.i: CC_SnakesAndGraph.cpp.i
-
-.PHONY : CC_SnakesAndGraph.i
-
-# target to preprocess a source file
-CC_SnakesAndGraph.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_SnakesAndGraph.cpp.i
-.PHONY : CC_SnakesAndGraph.cpp.i
-
-CC_SnakesAndGraph.s: CC_SnakesAndGraph.cpp.s
-
-.PHONY : CC_SnakesAndGraph.s
-
-# target to generate assembly for a file
-CC_SnakesAndGraph.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_SnakesAndGraph.cpp.s
-.PHONY : CC_SnakesAndGraph.cpp.s
-
-CC_SumOfCubes.o: CC_SumOfCubes.cpp.o
-
-.PHONY : CC_SumOfCubes.o
-
-# target to build an object file
-CC_SumOfCubes.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_SumOfCubes.cpp.o
-.PHONY : CC_SumOfCubes.cpp.o
-
-CC_SumOfCubes.i: CC_SumOfCubes.cpp.i
-
-.PHONY : CC_SumOfCubes.i
-
-# target to preprocess a source file
-CC_SumOfCubes.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_SumOfCubes.cpp.i
-.PHONY : CC_SumOfCubes.cpp.i
-
-CC_SumOfCubes.s: CC_SumOfCubes.cpp.s
-
-.PHONY : CC_SumOfCubes.s
-
-# target to generate assembly for a file
-CC_SumOfCubes.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_SumOfCubes.cpp.s
-.PHONY : CC_SumOfCubes.cpp.s
-
-CC_TiduAndRatings.o: CC_TiduAndRatings.cpp.o
-
-.PHONY : CC_TiduAndRatings.o
-
-# target to build an object file
-CC_TiduAndRatings.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_TiduAndRatings.cpp.o
-.PHONY : CC_TiduAndRatings.cpp.o
-
-CC_TiduAndRatings.i: CC_TiduAndRatings.cpp.i
-
-.PHONY : CC_TiduAndRatings.i
-
-# target to preprocess a source file
-CC_TiduAndRatings.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_TiduAndRatings.cpp.i
-.PHONY : CC_TiduAndRatings.cpp.i
-
-CC_TiduAndRatings.s: CC_TiduAndRatings.cpp.s
-
-.PHONY : CC_TiduAndRatings.s
-
-# target to generate assembly for a file
-CC_TiduAndRatings.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_TiduAndRatings.cpp.s
-.PHONY : CC_TiduAndRatings.cpp.s
-
-CC_TravelingMinister.o: CC_TravelingMinister.cpp.o
-
-.PHONY : CC_TravelingMinister.o
-
-# target to build an object file
-CC_TravelingMinister.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_TravelingMinister.cpp.o
-.PHONY : CC_TravelingMinister.cpp.o
-
-CC_TravelingMinister.i: CC_TravelingMinister.cpp.i
-
-.PHONY : CC_TravelingMinister.i
-
-# target to preprocess a source file
-CC_TravelingMinister.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_TravelingMinister.cpp.i
-.PHONY : CC_TravelingMinister.cpp.i
-
-CC_TravelingMinister.s: CC_TravelingMinister.cpp.s
-
-.PHONY : CC_TravelingMinister.s
-
-# target to generate assembly for a file
-CC_TravelingMinister.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_TravelingMinister.cpp.s
-.PHONY : CC_TravelingMinister.cpp.s
-
-CC_Triplets.o: CC_Triplets.cpp.o
-
-.PHONY : CC_Triplets.o
-
-# target to build an object file
-CC_Triplets.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_Triplets.cpp.o
-.PHONY : CC_Triplets.cpp.o
-
-CC_Triplets.i: CC_Triplets.cpp.i
-
-.PHONY : CC_Triplets.i
-
-# target to preprocess a source file
-CC_Triplets.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_Triplets.cpp.i
-.PHONY : CC_Triplets.cpp.i
-
-CC_Triplets.s: CC_Triplets.cpp.s
-
-.PHONY : CC_Triplets.s
-
-# target to generate assembly for a file
-CC_Triplets.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_Triplets.cpp.s
-.PHONY : CC_Triplets.cpp.s
-
-CC_WeaselDoesXOROnTree.o: CC_WeaselDoesXOROnTree.cpp.o
-
-.PHONY : CC_WeaselDoesXOROnTree.o
-
-# target to build an object file
-CC_WeaselDoesXOROnTree.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_WeaselDoesXOROnTree.cpp.o
-.PHONY : CC_WeaselDoesXOROnTree.cpp.o
-
-CC_WeaselDoesXOROnTree.i: CC_WeaselDoesXOROnTree.cpp.i
-
-.PHONY : CC_WeaselDoesXOROnTree.i
-
-# target to preprocess a source file
-CC_WeaselDoesXOROnTree.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_WeaselDoesXOROnTree.cpp.i
-.PHONY : CC_WeaselDoesXOROnTree.cpp.i
-
-CC_WeaselDoesXOROnTree.s: CC_WeaselDoesXOROnTree.cpp.s
-
-.PHONY : CC_WeaselDoesXOROnTree.s
-
-# target to generate assembly for a file
-CC_WeaselDoesXOROnTree.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_WeaselDoesXOROnTree.cpp.s
-.PHONY : CC_WeaselDoesXOROnTree.cpp.s
-
-CC_WeaselFindsStaircase.o: CC_WeaselFindsStaircase.cpp.o
-
-.PHONY : CC_WeaselFindsStaircase.o
-
-# target to build an object file
-CC_WeaselFindsStaircase.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_WeaselFindsStaircase.cpp.o
-.PHONY : CC_WeaselFindsStaircase.cpp.o
-
-CC_WeaselFindsStaircase.i: CC_WeaselFindsStaircase.cpp.i
-
-.PHONY : CC_WeaselFindsStaircase.i
-
-# target to preprocess a source file
-CC_WeaselFindsStaircase.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_WeaselFindsStaircase.cpp.i
-.PHONY : CC_WeaselFindsStaircase.cpp.i
-
-CC_WeaselFindsStaircase.s: CC_WeaselFindsStaircase.cpp.s
-
-.PHONY : CC_WeaselFindsStaircase.s
-
-# target to generate assembly for a file
-CC_WeaselFindsStaircase.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_WeaselFindsStaircase.cpp.s
-.PHONY : CC_WeaselFindsStaircase.cpp.s
-
-CC_WeirdBacteria.o: CC_WeirdBacteria.cpp.o
-
-.PHONY : CC_WeirdBacteria.o
-
-# target to build an object file
-CC_WeirdBacteria.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_WeirdBacteria.cpp.o
-.PHONY : CC_WeirdBacteria.cpp.o
-
-CC_WeirdBacteria.i: CC_WeirdBacteria.cpp.i
-
-.PHONY : CC_WeirdBacteria.i
-
-# target to preprocess a source file
-CC_WeirdBacteria.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_WeirdBacteria.cpp.i
-.PHONY : CC_WeirdBacteria.cpp.i
-
-CC_WeirdBacteria.s: CC_WeirdBacteria.cpp.s
-
-.PHONY : CC_WeirdBacteria.s
-
-# target to generate assembly for a file
-CC_WeirdBacteria.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC_WeirdBacteria.cpp.s
-.PHONY : CC_WeirdBacteria.cpp.s
-
-CC__CHEFPCHF.o: CC__CHEFPCHF.cpp.o
-
-.PHONY : CC__CHEFPCHF.o
-
-# target to build an object file
-CC__CHEFPCHF.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC__CHEFPCHF.cpp.o
-.PHONY : CC__CHEFPCHF.cpp.o
-
-CC__CHEFPCHF.i: CC__CHEFPCHF.cpp.i
-
-.PHONY : CC__CHEFPCHF.i
-
-# target to preprocess a source file
-CC__CHEFPCHF.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC__CHEFPCHF.cpp.i
-.PHONY : CC__CHEFPCHF.cpp.i
-
-CC__CHEFPCHF.s: CC__CHEFPCHF.cpp.s
-
-.PHONY : CC__CHEFPCHF.s
-
-# target to generate assembly for a file
-CC__CHEFPCHF.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CC__CHEFPCHF.cpp.s
-.PHONY : CC__CHEFPCHF.cpp.s
 
 CF13E_Holes.o: CF13E_Holes.cpp.o
 
@@ -2893,7 +2124,6 @@ CF13E_Holes.o: CF13E_Holes.cpp.o
 # target to build an object file
 CF13E_Holes.cpp.o:
 	$(MAKE) -f CMakeFiles/CF13E_Holes.dir/build.make CMakeFiles/CF13E_Holes.dir/CF13E_Holes.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CF13E_Holes.cpp.o
 .PHONY : CF13E_Holes.cpp.o
 
 CF13E_Holes.i: CF13E_Holes.cpp.i
@@ -2903,7 +2133,6 @@ CF13E_Holes.i: CF13E_Holes.cpp.i
 # target to preprocess a source file
 CF13E_Holes.cpp.i:
 	$(MAKE) -f CMakeFiles/CF13E_Holes.dir/build.make CMakeFiles/CF13E_Holes.dir/CF13E_Holes.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CF13E_Holes.cpp.i
 .PHONY : CF13E_Holes.cpp.i
 
 CF13E_Holes.s: CF13E_Holes.cpp.s
@@ -2913,7 +2142,6 @@ CF13E_Holes.s: CF13E_Holes.cpp.s
 # target to generate assembly for a file
 CF13E_Holes.cpp.s:
 	$(MAKE) -f CMakeFiles/CF13E_Holes.dir/build.make CMakeFiles/CF13E_Holes.dir/CF13E_Holes.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CF13E_Holes.cpp.s
 .PHONY : CF13E_Holes.cpp.s
 
 CF220B_LittleElephantAndArray.o: CF220B_LittleElephantAndArray.cpp.o
@@ -2923,7 +2151,6 @@ CF220B_LittleElephantAndArray.o: CF220B_LittleElephantAndArray.cpp.o
 # target to build an object file
 CF220B_LittleElephantAndArray.cpp.o:
 	$(MAKE) -f CMakeFiles/CF220B_LittleElephantAndArray.dir/build.make CMakeFiles/CF220B_LittleElephantAndArray.dir/CF220B_LittleElephantAndArray.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CF220B_LittleElephantAndArray.cpp.o
 .PHONY : CF220B_LittleElephantAndArray.cpp.o
 
 CF220B_LittleElephantAndArray.i: CF220B_LittleElephantAndArray.cpp.i
@@ -2933,7 +2160,6 @@ CF220B_LittleElephantAndArray.i: CF220B_LittleElephantAndArray.cpp.i
 # target to preprocess a source file
 CF220B_LittleElephantAndArray.cpp.i:
 	$(MAKE) -f CMakeFiles/CF220B_LittleElephantAndArray.dir/build.make CMakeFiles/CF220B_LittleElephantAndArray.dir/CF220B_LittleElephantAndArray.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CF220B_LittleElephantAndArray.cpp.i
 .PHONY : CF220B_LittleElephantAndArray.cpp.i
 
 CF220B_LittleElephantAndArray.s: CF220B_LittleElephantAndArray.cpp.s
@@ -2943,35 +2169,7 @@ CF220B_LittleElephantAndArray.s: CF220B_LittleElephantAndArray.cpp.s
 # target to generate assembly for a file
 CF220B_LittleElephantAndArray.cpp.s:
 	$(MAKE) -f CMakeFiles/CF220B_LittleElephantAndArray.dir/build.make CMakeFiles/CF220B_LittleElephantAndArray.dir/CF220B_LittleElephantAndArray.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CF220B_LittleElephantAndArray.cpp.s
 .PHONY : CF220B_LittleElephantAndArray.cpp.s
-
-CF27E_SmallestNumberWithGivenDivisors.o: CF27E_SmallestNumberWithGivenDivisors.cpp.o
-
-.PHONY : CF27E_SmallestNumberWithGivenDivisors.o
-
-# target to build an object file
-CF27E_SmallestNumberWithGivenDivisors.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CF27E_SmallestNumberWithGivenDivisors.cpp.o
-.PHONY : CF27E_SmallestNumberWithGivenDivisors.cpp.o
-
-CF27E_SmallestNumberWithGivenDivisors.i: CF27E_SmallestNumberWithGivenDivisors.cpp.i
-
-.PHONY : CF27E_SmallestNumberWithGivenDivisors.i
-
-# target to preprocess a source file
-CF27E_SmallestNumberWithGivenDivisors.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CF27E_SmallestNumberWithGivenDivisors.cpp.i
-.PHONY : CF27E_SmallestNumberWithGivenDivisors.cpp.i
-
-CF27E_SmallestNumberWithGivenDivisors.s: CF27E_SmallestNumberWithGivenDivisors.cpp.s
-
-.PHONY : CF27E_SmallestNumberWithGivenDivisors.s
-
-# target to generate assembly for a file
-CF27E_SmallestNumberWithGivenDivisors.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CF27E_SmallestNumberWithGivenDivisors.cpp.s
-.PHONY : CF27E_SmallestNumberWithGivenDivisors.cpp.s
 
 CF340D_BubbleSortGraph.o: CF340D_BubbleSortGraph.cpp.o
 
@@ -2980,7 +2178,6 @@ CF340D_BubbleSortGraph.o: CF340D_BubbleSortGraph.cpp.o
 # target to build an object file
 CF340D_BubbleSortGraph.cpp.o:
 	$(MAKE) -f CMakeFiles/CF340D_BubbleSortGraph.dir/build.make CMakeFiles/CF340D_BubbleSortGraph.dir/CF340D_BubbleSortGraph.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CF340D_BubbleSortGraph.cpp.o
 .PHONY : CF340D_BubbleSortGraph.cpp.o
 
 CF340D_BubbleSortGraph.i: CF340D_BubbleSortGraph.cpp.i
@@ -2990,7 +2187,6 @@ CF340D_BubbleSortGraph.i: CF340D_BubbleSortGraph.cpp.i
 # target to preprocess a source file
 CF340D_BubbleSortGraph.cpp.i:
 	$(MAKE) -f CMakeFiles/CF340D_BubbleSortGraph.dir/build.make CMakeFiles/CF340D_BubbleSortGraph.dir/CF340D_BubbleSortGraph.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CF340D_BubbleSortGraph.cpp.i
 .PHONY : CF340D_BubbleSortGraph.cpp.i
 
 CF340D_BubbleSortGraph.s: CF340D_BubbleSortGraph.cpp.s
@@ -3000,7 +2196,6 @@ CF340D_BubbleSortGraph.s: CF340D_BubbleSortGraph.cpp.s
 # target to generate assembly for a file
 CF340D_BubbleSortGraph.cpp.s:
 	$(MAKE) -f CMakeFiles/CF340D_BubbleSortGraph.dir/build.make CMakeFiles/CF340D_BubbleSortGraph.dir/CF340D_BubbleSortGraph.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CF340D_BubbleSortGraph.cpp.s
 .PHONY : CF340D_BubbleSortGraph.cpp.s
 
 CF519E_AAndBLectureRooms.o: CF519E_AAndBLectureRooms.cpp.o
@@ -3010,7 +2205,6 @@ CF519E_AAndBLectureRooms.o: CF519E_AAndBLectureRooms.cpp.o
 # target to build an object file
 CF519E_AAndBLectureRooms.cpp.o:
 	$(MAKE) -f CMakeFiles/CF519E_AAndBLectureRooms.dir/build.make CMakeFiles/CF519E_AAndBLectureRooms.dir/CF519E_AAndBLectureRooms.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CF519E_AAndBLectureRooms.cpp.o
 .PHONY : CF519E_AAndBLectureRooms.cpp.o
 
 CF519E_AAndBLectureRooms.i: CF519E_AAndBLectureRooms.cpp.i
@@ -3020,7 +2214,6 @@ CF519E_AAndBLectureRooms.i: CF519E_AAndBLectureRooms.cpp.i
 # target to preprocess a source file
 CF519E_AAndBLectureRooms.cpp.i:
 	$(MAKE) -f CMakeFiles/CF519E_AAndBLectureRooms.dir/build.make CMakeFiles/CF519E_AAndBLectureRooms.dir/CF519E_AAndBLectureRooms.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CF519E_AAndBLectureRooms.cpp.i
 .PHONY : CF519E_AAndBLectureRooms.cpp.i
 
 CF519E_AAndBLectureRooms.s: CF519E_AAndBLectureRooms.cpp.s
@@ -3030,7 +2223,6 @@ CF519E_AAndBLectureRooms.s: CF519E_AAndBLectureRooms.cpp.s
 # target to generate assembly for a file
 CF519E_AAndBLectureRooms.cpp.s:
 	$(MAKE) -f CMakeFiles/CF519E_AAndBLectureRooms.dir/build.make CMakeFiles/CF519E_AAndBLectureRooms.dir/CF519E_AAndBLectureRooms.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CF519E_AAndBLectureRooms.cpp.s
 .PHONY : CF519E_AAndBLectureRooms.cpp.s
 
 CF525E_AnyaAndCubes.o: CF525E_AnyaAndCubes.cpp.o
@@ -3039,7 +2231,6 @@ CF525E_AnyaAndCubes.o: CF525E_AnyaAndCubes.cpp.o
 
 # target to build an object file
 CF525E_AnyaAndCubes.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CF525E_AnyaAndCubes.cpp.o
 	$(MAKE) -f CMakeFiles/CF525E_AnyaAndCubes.dir/build.make CMakeFiles/CF525E_AnyaAndCubes.dir/CF525E_AnyaAndCubes.cpp.o
 .PHONY : CF525E_AnyaAndCubes.cpp.o
 
@@ -3049,7 +2240,6 @@ CF525E_AnyaAndCubes.i: CF525E_AnyaAndCubes.cpp.i
 
 # target to preprocess a source file
 CF525E_AnyaAndCubes.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CF525E_AnyaAndCubes.cpp.i
 	$(MAKE) -f CMakeFiles/CF525E_AnyaAndCubes.dir/build.make CMakeFiles/CF525E_AnyaAndCubes.dir/CF525E_AnyaAndCubes.cpp.i
 .PHONY : CF525E_AnyaAndCubes.cpp.i
 
@@ -3059,7 +2249,6 @@ CF525E_AnyaAndCubes.s: CF525E_AnyaAndCubes.cpp.s
 
 # target to generate assembly for a file
 CF525E_AnyaAndCubes.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CF525E_AnyaAndCubes.cpp.s
 	$(MAKE) -f CMakeFiles/CF525E_AnyaAndCubes.dir/build.make CMakeFiles/CF525E_AnyaAndCubes.dir/CF525E_AnyaAndCubes.cpp.s
 .PHONY : CF525E_AnyaAndCubes.cpp.s
 
@@ -3070,7 +2259,6 @@ CF688E_TheValuesYouCanMake.o: CF688E_TheValuesYouCanMake.cpp.o
 # target to build an object file
 CF688E_TheValuesYouCanMake.cpp.o:
 	$(MAKE) -f CMakeFiles/CF688E_TheValuesYouCanMake.dir/build.make CMakeFiles/CF688E_TheValuesYouCanMake.dir/CF688E_TheValuesYouCanMake.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CF688E_TheValuesYouCanMake.cpp.o
 .PHONY : CF688E_TheValuesYouCanMake.cpp.o
 
 CF688E_TheValuesYouCanMake.i: CF688E_TheValuesYouCanMake.cpp.i
@@ -3080,7 +2268,6 @@ CF688E_TheValuesYouCanMake.i: CF688E_TheValuesYouCanMake.cpp.i
 # target to preprocess a source file
 CF688E_TheValuesYouCanMake.cpp.i:
 	$(MAKE) -f CMakeFiles/CF688E_TheValuesYouCanMake.dir/build.make CMakeFiles/CF688E_TheValuesYouCanMake.dir/CF688E_TheValuesYouCanMake.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CF688E_TheValuesYouCanMake.cpp.i
 .PHONY : CF688E_TheValuesYouCanMake.cpp.i
 
 CF688E_TheValuesYouCanMake.s: CF688E_TheValuesYouCanMake.cpp.s
@@ -3090,116 +2277,7 @@ CF688E_TheValuesYouCanMake.s: CF688E_TheValuesYouCanMake.cpp.s
 # target to generate assembly for a file
 CF688E_TheValuesYouCanMake.cpp.s:
 	$(MAKE) -f CMakeFiles/CF688E_TheValuesYouCanMake.dir/build.make CMakeFiles/CF688E_TheValuesYouCanMake.dir/CF688E_TheValuesYouCanMake.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CF688E_TheValuesYouCanMake.cpp.s
 .PHONY : CF688E_TheValuesYouCanMake.cpp.s
-
-CF747C_Servers.o: CF747C_Servers.cpp.o
-
-.PHONY : CF747C_Servers.o
-
-# target to build an object file
-CF747C_Servers.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CF747C_Servers.cpp.o
-.PHONY : CF747C_Servers.cpp.o
-
-CF747C_Servers.i: CF747C_Servers.cpp.i
-
-.PHONY : CF747C_Servers.i
-
-# target to preprocess a source file
-CF747C_Servers.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CF747C_Servers.cpp.i
-.PHONY : CF747C_Servers.cpp.i
-
-CF747C_Servers.s: CF747C_Servers.cpp.s
-
-.PHONY : CF747C_Servers.s
-
-# target to generate assembly for a file
-CF747C_Servers.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CF747C_Servers.cpp.s
-.PHONY : CF747C_Servers.cpp.s
-
-CF747D_WinterIsComing.o: CF747D_WinterIsComing.cpp.o
-
-.PHONY : CF747D_WinterIsComing.o
-
-# target to build an object file
-CF747D_WinterIsComing.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CF747D_WinterIsComing.cpp.o
-.PHONY : CF747D_WinterIsComing.cpp.o
-
-CF747D_WinterIsComing.i: CF747D_WinterIsComing.cpp.i
-
-.PHONY : CF747D_WinterIsComing.i
-
-# target to preprocess a source file
-CF747D_WinterIsComing.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CF747D_WinterIsComing.cpp.i
-.PHONY : CF747D_WinterIsComing.cpp.i
-
-CF747D_WinterIsComing.s: CF747D_WinterIsComing.cpp.s
-
-.PHONY : CF747D_WinterIsComing.s
-
-# target to generate assembly for a file
-CF747D_WinterIsComing.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/CF747D_WinterIsComing.cpp.s
-.PHONY : CF747D_WinterIsComing.cpp.s
-
-COREPrelims_AuntyPrime.o: COREPrelims_AuntyPrime.cpp.o
-
-.PHONY : COREPrelims_AuntyPrime.o
-
-# target to build an object file
-COREPrelims_AuntyPrime.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/COREPrelims_AuntyPrime.cpp.o
-.PHONY : COREPrelims_AuntyPrime.cpp.o
-
-COREPrelims_AuntyPrime.i: COREPrelims_AuntyPrime.cpp.i
-
-.PHONY : COREPrelims_AuntyPrime.i
-
-# target to preprocess a source file
-COREPrelims_AuntyPrime.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/COREPrelims_AuntyPrime.cpp.i
-.PHONY : COREPrelims_AuntyPrime.cpp.i
-
-COREPrelims_AuntyPrime.s: COREPrelims_AuntyPrime.cpp.s
-
-.PHONY : COREPrelims_AuntyPrime.s
-
-# target to generate assembly for a file
-COREPrelims_AuntyPrime.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/COREPrelims_AuntyPrime.cpp.s
-.PHONY : COREPrelims_AuntyPrime.cpp.s
-
-ComputationalGeometry/Implementation/GeometryStuff.o: ComputationalGeometry/Implementation/GeometryStuff.cpp.o
-
-.PHONY : ComputationalGeometry/Implementation/GeometryStuff.o
-
-# target to build an object file
-ComputationalGeometry/Implementation/GeometryStuff.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/ComputationalGeometry/Implementation/GeometryStuff.cpp.o
-.PHONY : ComputationalGeometry/Implementation/GeometryStuff.cpp.o
-
-ComputationalGeometry/Implementation/GeometryStuff.i: ComputationalGeometry/Implementation/GeometryStuff.cpp.i
-
-.PHONY : ComputationalGeometry/Implementation/GeometryStuff.i
-
-# target to preprocess a source file
-ComputationalGeometry/Implementation/GeometryStuff.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/ComputationalGeometry/Implementation/GeometryStuff.cpp.i
-.PHONY : ComputationalGeometry/Implementation/GeometryStuff.cpp.i
-
-ComputationalGeometry/Implementation/GeometryStuff.s: ComputationalGeometry/Implementation/GeometryStuff.cpp.s
-
-.PHONY : ComputationalGeometry/Implementation/GeometryStuff.s
-
-# target to generate assembly for a file
-ComputationalGeometry/Implementation/GeometryStuff.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/ComputationalGeometry/Implementation/GeometryStuff.cpp.s
-.PHONY : ComputationalGeometry/Implementation/GeometryStuff.cpp.s
 
 ComputationalGeometry/Implementation/PointsLinesAndStuff.o: ComputationalGeometry/Implementation/PointsLinesAndStuff.cpp.o
 
@@ -3208,7 +2286,6 @@ ComputationalGeometry/Implementation/PointsLinesAndStuff.o: ComputationalGeometr
 # target to build an object file
 ComputationalGeometry/Implementation/PointsLinesAndStuff.cpp.o:
 	$(MAKE) -f CMakeFiles/PointsLinesAndStuff.dir/build.make CMakeFiles/PointsLinesAndStuff.dir/ComputationalGeometry/Implementation/PointsLinesAndStuff.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/ComputationalGeometry/Implementation/PointsLinesAndStuff.cpp.o
 .PHONY : ComputationalGeometry/Implementation/PointsLinesAndStuff.cpp.o
 
 ComputationalGeometry/Implementation/PointsLinesAndStuff.i: ComputationalGeometry/Implementation/PointsLinesAndStuff.cpp.i
@@ -3218,7 +2295,6 @@ ComputationalGeometry/Implementation/PointsLinesAndStuff.i: ComputationalGeometr
 # target to preprocess a source file
 ComputationalGeometry/Implementation/PointsLinesAndStuff.cpp.i:
 	$(MAKE) -f CMakeFiles/PointsLinesAndStuff.dir/build.make CMakeFiles/PointsLinesAndStuff.dir/ComputationalGeometry/Implementation/PointsLinesAndStuff.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/ComputationalGeometry/Implementation/PointsLinesAndStuff.cpp.i
 .PHONY : ComputationalGeometry/Implementation/PointsLinesAndStuff.cpp.i
 
 ComputationalGeometry/Implementation/PointsLinesAndStuff.s: ComputationalGeometry/Implementation/PointsLinesAndStuff.cpp.s
@@ -3228,116 +2304,7 @@ ComputationalGeometry/Implementation/PointsLinesAndStuff.s: ComputationalGeometr
 # target to generate assembly for a file
 ComputationalGeometry/Implementation/PointsLinesAndStuff.cpp.s:
 	$(MAKE) -f CMakeFiles/PointsLinesAndStuff.dir/build.make CMakeFiles/PointsLinesAndStuff.dir/ComputationalGeometry/Implementation/PointsLinesAndStuff.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/ComputationalGeometry/Implementation/PointsLinesAndStuff.cpp.s
 .PHONY : ComputationalGeometry/Implementation/PointsLinesAndStuff.cpp.s
-
-DataStructures/(TODO)HackerEarth_LittleDeepuAndArray.o: DataStructures/(TODO)HackerEarth_LittleDeepuAndArray.cpp.o
-
-.PHONY : DataStructures/(TODO)HackerEarth_LittleDeepuAndArray.o
-
-# target to build an object file
-DataStructures/(TODO)HackerEarth_LittleDeepuAndArray.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make "CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)HackerEarth_LittleDeepuAndArray.cpp.o"
-.PHONY : DataStructures/(TODO)HackerEarth_LittleDeepuAndArray.cpp.o
-
-DataStructures/(TODO)HackerEarth_LittleDeepuAndArray.i: DataStructures/(TODO)HackerEarth_LittleDeepuAndArray.cpp.i
-
-.PHONY : DataStructures/(TODO)HackerEarth_LittleDeepuAndArray.i
-
-# target to preprocess a source file
-DataStructures/(TODO)HackerEarth_LittleDeepuAndArray.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make "CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)HackerEarth_LittleDeepuAndArray.cpp.i"
-.PHONY : DataStructures/(TODO)HackerEarth_LittleDeepuAndArray.cpp.i
-
-DataStructures/(TODO)HackerEarth_LittleDeepuAndArray.s: DataStructures/(TODO)HackerEarth_LittleDeepuAndArray.cpp.s
-
-.PHONY : DataStructures/(TODO)HackerEarth_LittleDeepuAndArray.s
-
-# target to generate assembly for a file
-DataStructures/(TODO)HackerEarth_LittleDeepuAndArray.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make "CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)HackerEarth_LittleDeepuAndArray.cpp.s"
-.PHONY : DataStructures/(TODO)HackerEarth_LittleDeepuAndArray.cpp.s
-
-DataStructures/(TODO)OPC_FindThePermutation.o: DataStructures/(TODO)OPC_FindThePermutation.cpp.o
-
-.PHONY : DataStructures/(TODO)OPC_FindThePermutation.o
-
-# target to build an object file
-DataStructures/(TODO)OPC_FindThePermutation.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make "CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)OPC_FindThePermutation.cpp.o"
-.PHONY : DataStructures/(TODO)OPC_FindThePermutation.cpp.o
-
-DataStructures/(TODO)OPC_FindThePermutation.i: DataStructures/(TODO)OPC_FindThePermutation.cpp.i
-
-.PHONY : DataStructures/(TODO)OPC_FindThePermutation.i
-
-# target to preprocess a source file
-DataStructures/(TODO)OPC_FindThePermutation.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make "CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)OPC_FindThePermutation.cpp.i"
-.PHONY : DataStructures/(TODO)OPC_FindThePermutation.cpp.i
-
-DataStructures/(TODO)OPC_FindThePermutation.s: DataStructures/(TODO)OPC_FindThePermutation.cpp.s
-
-.PHONY : DataStructures/(TODO)OPC_FindThePermutation.s
-
-# target to generate assembly for a file
-DataStructures/(TODO)OPC_FindThePermutation.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make "CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)OPC_FindThePermutation.cpp.s"
-.PHONY : DataStructures/(TODO)OPC_FindThePermutation.cpp.s
-
-DataStructures/(TODO)SPOJ_DynamicGraphConnectivity.o: DataStructures/(TODO)SPOJ_DynamicGraphConnectivity.cpp.o
-
-.PHONY : DataStructures/(TODO)SPOJ_DynamicGraphConnectivity.o
-
-# target to build an object file
-DataStructures/(TODO)SPOJ_DynamicGraphConnectivity.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make "CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)SPOJ_DynamicGraphConnectivity.cpp.o"
-.PHONY : DataStructures/(TODO)SPOJ_DynamicGraphConnectivity.cpp.o
-
-DataStructures/(TODO)SPOJ_DynamicGraphConnectivity.i: DataStructures/(TODO)SPOJ_DynamicGraphConnectivity.cpp.i
-
-.PHONY : DataStructures/(TODO)SPOJ_DynamicGraphConnectivity.i
-
-# target to preprocess a source file
-DataStructures/(TODO)SPOJ_DynamicGraphConnectivity.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make "CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)SPOJ_DynamicGraphConnectivity.cpp.i"
-.PHONY : DataStructures/(TODO)SPOJ_DynamicGraphConnectivity.cpp.i
-
-DataStructures/(TODO)SPOJ_DynamicGraphConnectivity.s: DataStructures/(TODO)SPOJ_DynamicGraphConnectivity.cpp.s
-
-.PHONY : DataStructures/(TODO)SPOJ_DynamicGraphConnectivity.s
-
-# target to generate assembly for a file
-DataStructures/(TODO)SPOJ_DynamicGraphConnectivity.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make "CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)SPOJ_DynamicGraphConnectivity.cpp.s"
-.PHONY : DataStructures/(TODO)SPOJ_DynamicGraphConnectivity.cpp.s
-
-DataStructures/CC_BlockedWebsites.o: DataStructures/CC_BlockedWebsites.cpp.o
-
-.PHONY : DataStructures/CC_BlockedWebsites.o
-
-# target to build an object file
-DataStructures/CC_BlockedWebsites.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CC_BlockedWebsites.cpp.o
-.PHONY : DataStructures/CC_BlockedWebsites.cpp.o
-
-DataStructures/CC_BlockedWebsites.i: DataStructures/CC_BlockedWebsites.cpp.i
-
-.PHONY : DataStructures/CC_BlockedWebsites.i
-
-# target to preprocess a source file
-DataStructures/CC_BlockedWebsites.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CC_BlockedWebsites.cpp.i
-.PHONY : DataStructures/CC_BlockedWebsites.cpp.i
-
-DataStructures/CC_BlockedWebsites.s: DataStructures/CC_BlockedWebsites.cpp.s
-
-.PHONY : DataStructures/CC_BlockedWebsites.s
-
-# target to generate assembly for a file
-DataStructures/CC_BlockedWebsites.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CC_BlockedWebsites.cpp.s
-.PHONY : DataStructures/CC_BlockedWebsites.cpp.s
 
 DataStructures/CC_ChefAndGraphQueries.o: DataStructures/CC_ChefAndGraphQueries.cpp.o
 
@@ -3346,7 +2313,6 @@ DataStructures/CC_ChefAndGraphQueries.o: DataStructures/CC_ChefAndGraphQueries.c
 # target to build an object file
 DataStructures/CC_ChefAndGraphQueries.cpp.o:
 	$(MAKE) -f CMakeFiles/CC_ChefAndGraphQueries.dir/build.make CMakeFiles/CC_ChefAndGraphQueries.dir/DataStructures/CC_ChefAndGraphQueries.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndGraphQueries.cpp.o
 .PHONY : DataStructures/CC_ChefAndGraphQueries.cpp.o
 
 DataStructures/CC_ChefAndGraphQueries.i: DataStructures/CC_ChefAndGraphQueries.cpp.i
@@ -3356,7 +2322,6 @@ DataStructures/CC_ChefAndGraphQueries.i: DataStructures/CC_ChefAndGraphQueries.c
 # target to preprocess a source file
 DataStructures/CC_ChefAndGraphQueries.cpp.i:
 	$(MAKE) -f CMakeFiles/CC_ChefAndGraphQueries.dir/build.make CMakeFiles/CC_ChefAndGraphQueries.dir/DataStructures/CC_ChefAndGraphQueries.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndGraphQueries.cpp.i
 .PHONY : DataStructures/CC_ChefAndGraphQueries.cpp.i
 
 DataStructures/CC_ChefAndGraphQueries.s: DataStructures/CC_ChefAndGraphQueries.cpp.s
@@ -3366,7 +2331,6 @@ DataStructures/CC_ChefAndGraphQueries.s: DataStructures/CC_ChefAndGraphQueries.c
 # target to generate assembly for a file
 DataStructures/CC_ChefAndGraphQueries.cpp.s:
 	$(MAKE) -f CMakeFiles/CC_ChefAndGraphQueries.dir/build.make CMakeFiles/CC_ChefAndGraphQueries.dir/DataStructures/CC_ChefAndGraphQueries.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndGraphQueries.cpp.s
 .PHONY : DataStructures/CC_ChefAndGraphQueries.cpp.s
 
 DataStructures/CC_ChefAndMediumProblem2.o: DataStructures/CC_ChefAndMediumProblem2.cpp.o
@@ -3375,7 +2339,6 @@ DataStructures/CC_ChefAndMediumProblem2.o: DataStructures/CC_ChefAndMediumProble
 
 # target to build an object file
 DataStructures/CC_ChefAndMediumProblem2.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndMediumProblem2.cpp.o
 	$(MAKE) -f CMakeFiles/CC_ChefAndMediumProblem2.dir/build.make CMakeFiles/CC_ChefAndMediumProblem2.dir/DataStructures/CC_ChefAndMediumProblem2.cpp.o
 .PHONY : DataStructures/CC_ChefAndMediumProblem2.cpp.o
 
@@ -3385,7 +2348,6 @@ DataStructures/CC_ChefAndMediumProblem2.i: DataStructures/CC_ChefAndMediumProble
 
 # target to preprocess a source file
 DataStructures/CC_ChefAndMediumProblem2.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndMediumProblem2.cpp.i
 	$(MAKE) -f CMakeFiles/CC_ChefAndMediumProblem2.dir/build.make CMakeFiles/CC_ChefAndMediumProblem2.dir/DataStructures/CC_ChefAndMediumProblem2.cpp.i
 .PHONY : DataStructures/CC_ChefAndMediumProblem2.cpp.i
 
@@ -3395,7 +2357,6 @@ DataStructures/CC_ChefAndMediumProblem2.s: DataStructures/CC_ChefAndMediumProble
 
 # target to generate assembly for a file
 DataStructures/CC_ChefAndMediumProblem2.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndMediumProblem2.cpp.s
 	$(MAKE) -f CMakeFiles/CC_ChefAndMediumProblem2.dir/build.make CMakeFiles/CC_ChefAndMediumProblem2.dir/DataStructures/CC_ChefAndMediumProblem2.cpp.s
 .PHONY : DataStructures/CC_ChefAndMediumProblem2.cpp.s
 
@@ -3406,7 +2367,6 @@ DataStructures/CC_ChefAndOddQueries.o: DataStructures/CC_ChefAndOddQueries.cpp.o
 # target to build an object file
 DataStructures/CC_ChefAndOddQueries.cpp.o:
 	$(MAKE) -f CMakeFiles/CC_ChefAndOddQueries.dir/build.make CMakeFiles/CC_ChefAndOddQueries.dir/DataStructures/CC_ChefAndOddQueries.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndOddQueries.cpp.o
 .PHONY : DataStructures/CC_ChefAndOddQueries.cpp.o
 
 DataStructures/CC_ChefAndOddQueries.i: DataStructures/CC_ChefAndOddQueries.cpp.i
@@ -3416,7 +2376,6 @@ DataStructures/CC_ChefAndOddQueries.i: DataStructures/CC_ChefAndOddQueries.cpp.i
 # target to preprocess a source file
 DataStructures/CC_ChefAndOddQueries.cpp.i:
 	$(MAKE) -f CMakeFiles/CC_ChefAndOddQueries.dir/build.make CMakeFiles/CC_ChefAndOddQueries.dir/DataStructures/CC_ChefAndOddQueries.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndOddQueries.cpp.i
 .PHONY : DataStructures/CC_ChefAndOddQueries.cpp.i
 
 DataStructures/CC_ChefAndOddQueries.s: DataStructures/CC_ChefAndOddQueries.cpp.s
@@ -3426,7 +2385,6 @@ DataStructures/CC_ChefAndOddQueries.s: DataStructures/CC_ChefAndOddQueries.cpp.s
 # target to generate assembly for a file
 DataStructures/CC_ChefAndOddQueries.cpp.s:
 	$(MAKE) -f CMakeFiles/CC_ChefAndOddQueries.dir/build.make CMakeFiles/CC_ChefAndOddQueries.dir/DataStructures/CC_ChefAndOddQueries.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndOddQueries.cpp.s
 .PHONY : DataStructures/CC_ChefAndOddQueries.cpp.s
 
 DataStructures/CC_ChefAndQueries.o: DataStructures/CC_ChefAndQueries.cpp.o
@@ -3435,7 +2393,6 @@ DataStructures/CC_ChefAndQueries.o: DataStructures/CC_ChefAndQueries.cpp.o
 
 # target to build an object file
 DataStructures/CC_ChefAndQueries.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndQueries.cpp.o
 	$(MAKE) -f CMakeFiles/CC_ChefAndQueries.dir/build.make CMakeFiles/CC_ChefAndQueries.dir/DataStructures/CC_ChefAndQueries.cpp.o
 .PHONY : DataStructures/CC_ChefAndQueries.cpp.o
 
@@ -3445,7 +2402,6 @@ DataStructures/CC_ChefAndQueries.i: DataStructures/CC_ChefAndQueries.cpp.i
 
 # target to preprocess a source file
 DataStructures/CC_ChefAndQueries.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndQueries.cpp.i
 	$(MAKE) -f CMakeFiles/CC_ChefAndQueries.dir/build.make CMakeFiles/CC_ChefAndQueries.dir/DataStructures/CC_ChefAndQueries.cpp.i
 .PHONY : DataStructures/CC_ChefAndQueries.cpp.i
 
@@ -3455,7 +2411,6 @@ DataStructures/CC_ChefAndQueries.s: DataStructures/CC_ChefAndQueries.cpp.s
 
 # target to generate assembly for a file
 DataStructures/CC_ChefAndQueries.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndQueries.cpp.s
 	$(MAKE) -f CMakeFiles/CC_ChefAndQueries.dir/build.make CMakeFiles/CC_ChefAndQueries.dir/DataStructures/CC_ChefAndQueries.cpp.s
 .PHONY : DataStructures/CC_ChefAndQueries.cpp.s
 
@@ -3466,7 +2421,6 @@ DataStructures/CC_ChefAndSubarrayQueries.o: DataStructures/CC_ChefAndSubarrayQue
 # target to build an object file
 DataStructures/CC_ChefAndSubarrayQueries.cpp.o:
 	$(MAKE) -f CMakeFiles/CC_ChefAndSubarrayQueries.dir/build.make CMakeFiles/CC_ChefAndSubarrayQueries.dir/DataStructures/CC_ChefAndSubarrayQueries.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndSubarrayQueries.cpp.o
 .PHONY : DataStructures/CC_ChefAndSubarrayQueries.cpp.o
 
 DataStructures/CC_ChefAndSubarrayQueries.i: DataStructures/CC_ChefAndSubarrayQueries.cpp.i
@@ -3476,7 +2430,6 @@ DataStructures/CC_ChefAndSubarrayQueries.i: DataStructures/CC_ChefAndSubarrayQue
 # target to preprocess a source file
 DataStructures/CC_ChefAndSubarrayQueries.cpp.i:
 	$(MAKE) -f CMakeFiles/CC_ChefAndSubarrayQueries.dir/build.make CMakeFiles/CC_ChefAndSubarrayQueries.dir/DataStructures/CC_ChefAndSubarrayQueries.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndSubarrayQueries.cpp.i
 .PHONY : DataStructures/CC_ChefAndSubarrayQueries.cpp.i
 
 DataStructures/CC_ChefAndSubarrayQueries.s: DataStructures/CC_ChefAndSubarrayQueries.cpp.s
@@ -3486,7 +2439,6 @@ DataStructures/CC_ChefAndSubarrayQueries.s: DataStructures/CC_ChefAndSubarrayQue
 # target to generate assembly for a file
 DataStructures/CC_ChefAndSubarrayQueries.cpp.s:
 	$(MAKE) -f CMakeFiles/CC_ChefAndSubarrayQueries.dir/build.make CMakeFiles/CC_ChefAndSubarrayQueries.dir/DataStructures/CC_ChefAndSubarrayQueries.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndSubarrayQueries.cpp.s
 .PHONY : DataStructures/CC_ChefAndSubarrayQueries.cpp.s
 
 DataStructures/CC_ChefAndSubarrayQueries2.o: DataStructures/CC_ChefAndSubarrayQueries2.cpp.o
@@ -3496,7 +2448,6 @@ DataStructures/CC_ChefAndSubarrayQueries2.o: DataStructures/CC_ChefAndSubarrayQu
 # target to build an object file
 DataStructures/CC_ChefAndSubarrayQueries2.cpp.o:
 	$(MAKE) -f CMakeFiles/CC_ChefAndSubarrayQueries2.dir/build.make CMakeFiles/CC_ChefAndSubarrayQueries2.dir/DataStructures/CC_ChefAndSubarrayQueries2.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndSubarrayQueries2.cpp.o
 .PHONY : DataStructures/CC_ChefAndSubarrayQueries2.cpp.o
 
 DataStructures/CC_ChefAndSubarrayQueries2.i: DataStructures/CC_ChefAndSubarrayQueries2.cpp.i
@@ -3506,7 +2457,6 @@ DataStructures/CC_ChefAndSubarrayQueries2.i: DataStructures/CC_ChefAndSubarrayQu
 # target to preprocess a source file
 DataStructures/CC_ChefAndSubarrayQueries2.cpp.i:
 	$(MAKE) -f CMakeFiles/CC_ChefAndSubarrayQueries2.dir/build.make CMakeFiles/CC_ChefAndSubarrayQueries2.dir/DataStructures/CC_ChefAndSubarrayQueries2.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndSubarrayQueries2.cpp.i
 .PHONY : DataStructures/CC_ChefAndSubarrayQueries2.cpp.i
 
 DataStructures/CC_ChefAndSubarrayQueries2.s: DataStructures/CC_ChefAndSubarrayQueries2.cpp.s
@@ -3516,7 +2466,6 @@ DataStructures/CC_ChefAndSubarrayQueries2.s: DataStructures/CC_ChefAndSubarrayQu
 # target to generate assembly for a file
 DataStructures/CC_ChefAndSubarrayQueries2.cpp.s:
 	$(MAKE) -f CMakeFiles/CC_ChefAndSubarrayQueries2.dir/build.make CMakeFiles/CC_ChefAndSubarrayQueries2.dir/DataStructures/CC_ChefAndSubarrayQueries2.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndSubarrayQueries2.cpp.s
 .PHONY : DataStructures/CC_ChefAndSubarrayQueries2.cpp.s
 
 DataStructures/CC_CloneMe.o: DataStructures/CC_CloneMe.cpp.o
@@ -3526,7 +2475,6 @@ DataStructures/CC_CloneMe.o: DataStructures/CC_CloneMe.cpp.o
 # target to build an object file
 DataStructures/CC_CloneMe.cpp.o:
 	$(MAKE) -f CMakeFiles/CC_CloneMe.dir/build.make CMakeFiles/CC_CloneMe.dir/DataStructures/CC_CloneMe.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CC_CloneMe.cpp.o
 .PHONY : DataStructures/CC_CloneMe.cpp.o
 
 DataStructures/CC_CloneMe.i: DataStructures/CC_CloneMe.cpp.i
@@ -3536,7 +2484,6 @@ DataStructures/CC_CloneMe.i: DataStructures/CC_CloneMe.cpp.i
 # target to preprocess a source file
 DataStructures/CC_CloneMe.cpp.i:
 	$(MAKE) -f CMakeFiles/CC_CloneMe.dir/build.make CMakeFiles/CC_CloneMe.dir/DataStructures/CC_CloneMe.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CC_CloneMe.cpp.i
 .PHONY : DataStructures/CC_CloneMe.cpp.i
 
 DataStructures/CC_CloneMe.s: DataStructures/CC_CloneMe.cpp.s
@@ -3546,8 +2493,34 @@ DataStructures/CC_CloneMe.s: DataStructures/CC_CloneMe.cpp.s
 # target to generate assembly for a file
 DataStructures/CC_CloneMe.cpp.s:
 	$(MAKE) -f CMakeFiles/CC_CloneMe.dir/build.make CMakeFiles/CC_CloneMe.dir/DataStructures/CC_CloneMe.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CC_CloneMe.cpp.s
 .PHONY : DataStructures/CC_CloneMe.cpp.s
+
+DataStructures/CC_CyclistRace.o: DataStructures/CC_CyclistRace.cpp.o
+
+.PHONY : DataStructures/CC_CyclistRace.o
+
+# target to build an object file
+DataStructures/CC_CyclistRace.cpp.o:
+	$(MAKE) -f CMakeFiles/CC_CyclistRace.dir/build.make CMakeFiles/CC_CyclistRace.dir/DataStructures/CC_CyclistRace.cpp.o
+.PHONY : DataStructures/CC_CyclistRace.cpp.o
+
+DataStructures/CC_CyclistRace.i: DataStructures/CC_CyclistRace.cpp.i
+
+.PHONY : DataStructures/CC_CyclistRace.i
+
+# target to preprocess a source file
+DataStructures/CC_CyclistRace.cpp.i:
+	$(MAKE) -f CMakeFiles/CC_CyclistRace.dir/build.make CMakeFiles/CC_CyclistRace.dir/DataStructures/CC_CyclistRace.cpp.i
+.PHONY : DataStructures/CC_CyclistRace.cpp.i
+
+DataStructures/CC_CyclistRace.s: DataStructures/CC_CyclistRace.cpp.s
+
+.PHONY : DataStructures/CC_CyclistRace.s
+
+# target to generate assembly for a file
+DataStructures/CC_CyclistRace.cpp.s:
+	$(MAKE) -f CMakeFiles/CC_CyclistRace.dir/build.make CMakeFiles/CC_CyclistRace.dir/DataStructures/CC_CyclistRace.cpp.s
+.PHONY : DataStructures/CC_CyclistRace.cpp.s
 
 DataStructures/CC_GiveAway.o: DataStructures/CC_GiveAway.cpp.o
 
@@ -3556,7 +2529,6 @@ DataStructures/CC_GiveAway.o: DataStructures/CC_GiveAway.cpp.o
 # target to build an object file
 DataStructures/CC_GiveAway.cpp.o:
 	$(MAKE) -f CMakeFiles/CC_GiveAway.dir/build.make CMakeFiles/CC_GiveAway.dir/DataStructures/CC_GiveAway.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CC_GiveAway.cpp.o
 .PHONY : DataStructures/CC_GiveAway.cpp.o
 
 DataStructures/CC_GiveAway.i: DataStructures/CC_GiveAway.cpp.i
@@ -3566,7 +2538,6 @@ DataStructures/CC_GiveAway.i: DataStructures/CC_GiveAway.cpp.i
 # target to preprocess a source file
 DataStructures/CC_GiveAway.cpp.i:
 	$(MAKE) -f CMakeFiles/CC_GiveAway.dir/build.make CMakeFiles/CC_GiveAway.dir/DataStructures/CC_GiveAway.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CC_GiveAway.cpp.i
 .PHONY : DataStructures/CC_GiveAway.cpp.i
 
 DataStructures/CC_GiveAway.s: DataStructures/CC_GiveAway.cpp.s
@@ -3576,7 +2547,6 @@ DataStructures/CC_GiveAway.s: DataStructures/CC_GiveAway.cpp.s
 # target to generate assembly for a file
 DataStructures/CC_GiveAway.cpp.s:
 	$(MAKE) -f CMakeFiles/CC_GiveAway.dir/build.make CMakeFiles/CC_GiveAway.dir/DataStructures/CC_GiveAway.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CC_GiveAway.cpp.s
 .PHONY : DataStructures/CC_GiveAway.cpp.s
 
 DataStructures/CC_LoversGift.o: DataStructures/CC_LoversGift.cpp.o
@@ -3586,7 +2556,6 @@ DataStructures/CC_LoversGift.o: DataStructures/CC_LoversGift.cpp.o
 # target to build an object file
 DataStructures/CC_LoversGift.cpp.o:
 	$(MAKE) -f CMakeFiles/CC_LoversGift.dir/build.make CMakeFiles/CC_LoversGift.dir/DataStructures/CC_LoversGift.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CC_LoversGift.cpp.o
 .PHONY : DataStructures/CC_LoversGift.cpp.o
 
 DataStructures/CC_LoversGift.i: DataStructures/CC_LoversGift.cpp.i
@@ -3596,7 +2565,6 @@ DataStructures/CC_LoversGift.i: DataStructures/CC_LoversGift.cpp.i
 # target to preprocess a source file
 DataStructures/CC_LoversGift.cpp.i:
 	$(MAKE) -f CMakeFiles/CC_LoversGift.dir/build.make CMakeFiles/CC_LoversGift.dir/DataStructures/CC_LoversGift.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CC_LoversGift.cpp.i
 .PHONY : DataStructures/CC_LoversGift.cpp.i
 
 DataStructures/CC_LoversGift.s: DataStructures/CC_LoversGift.cpp.s
@@ -3606,62 +2574,7 @@ DataStructures/CC_LoversGift.s: DataStructures/CC_LoversGift.cpp.s
 # target to generate assembly for a file
 DataStructures/CC_LoversGift.cpp.s:
 	$(MAKE) -f CMakeFiles/CC_LoversGift.dir/build.make CMakeFiles/CC_LoversGift.dir/DataStructures/CC_LoversGift.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CC_LoversGift.cpp.s
 .PHONY : DataStructures/CC_LoversGift.cpp.s
-
-DataStructures/CC_LoversGift2.cpp.o: DataStructures/CC_LoversGift2.cpp.cpp.o
-
-.PHONY : DataStructures/CC_LoversGift2.cpp.o
-
-# target to build an object file
-DataStructures/CC_LoversGift2.cpp.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CC_LoversGift2.cpp.cpp.o
-.PHONY : DataStructures/CC_LoversGift2.cpp.cpp.o
-
-DataStructures/CC_LoversGift2.cpp.i: DataStructures/CC_LoversGift2.cpp.cpp.i
-
-.PHONY : DataStructures/CC_LoversGift2.cpp.i
-
-# target to preprocess a source file
-DataStructures/CC_LoversGift2.cpp.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CC_LoversGift2.cpp.cpp.i
-.PHONY : DataStructures/CC_LoversGift2.cpp.cpp.i
-
-DataStructures/CC_LoversGift2.cpp.s: DataStructures/CC_LoversGift2.cpp.cpp.s
-
-.PHONY : DataStructures/CC_LoversGift2.cpp.s
-
-# target to generate assembly for a file
-DataStructures/CC_LoversGift2.cpp.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CC_LoversGift2.cpp.cpp.s
-.PHONY : DataStructures/CC_LoversGift2.cpp.cpp.s
-
-DataStructures/CC_MultiplesOf3.o: DataStructures/CC_MultiplesOf3.cpp.o
-
-.PHONY : DataStructures/CC_MultiplesOf3.o
-
-# target to build an object file
-DataStructures/CC_MultiplesOf3.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CC_MultiplesOf3.cpp.o
-.PHONY : DataStructures/CC_MultiplesOf3.cpp.o
-
-DataStructures/CC_MultiplesOf3.i: DataStructures/CC_MultiplesOf3.cpp.i
-
-.PHONY : DataStructures/CC_MultiplesOf3.i
-
-# target to preprocess a source file
-DataStructures/CC_MultiplesOf3.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CC_MultiplesOf3.cpp.i
-.PHONY : DataStructures/CC_MultiplesOf3.cpp.i
-
-DataStructures/CC_MultiplesOf3.s: DataStructures/CC_MultiplesOf3.cpp.s
-
-.PHONY : DataStructures/CC_MultiplesOf3.s
-
-# target to generate assembly for a file
-DataStructures/CC_MultiplesOf3.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CC_MultiplesOf3.cpp.s
-.PHONY : DataStructures/CC_MultiplesOf3.cpp.s
 
 DataStructures/CC_PishtyAndTree.o: DataStructures/CC_PishtyAndTree.cpp.o
 
@@ -3670,7 +2583,6 @@ DataStructures/CC_PishtyAndTree.o: DataStructures/CC_PishtyAndTree.cpp.o
 # target to build an object file
 DataStructures/CC_PishtyAndTree.cpp.o:
 	$(MAKE) -f CMakeFiles/CC_PishtyAndTree.dir/build.make CMakeFiles/CC_PishtyAndTree.dir/DataStructures/CC_PishtyAndTree.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CC_PishtyAndTree.cpp.o
 .PHONY : DataStructures/CC_PishtyAndTree.cpp.o
 
 DataStructures/CC_PishtyAndTree.i: DataStructures/CC_PishtyAndTree.cpp.i
@@ -3680,7 +2592,6 @@ DataStructures/CC_PishtyAndTree.i: DataStructures/CC_PishtyAndTree.cpp.i
 # target to preprocess a source file
 DataStructures/CC_PishtyAndTree.cpp.i:
 	$(MAKE) -f CMakeFiles/CC_PishtyAndTree.dir/build.make CMakeFiles/CC_PishtyAndTree.dir/DataStructures/CC_PishtyAndTree.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CC_PishtyAndTree.cpp.i
 .PHONY : DataStructures/CC_PishtyAndTree.cpp.i
 
 DataStructures/CC_PishtyAndTree.s: DataStructures/CC_PishtyAndTree.cpp.s
@@ -3690,7 +2601,6 @@ DataStructures/CC_PishtyAndTree.s: DataStructures/CC_PishtyAndTree.cpp.s
 # target to generate assembly for a file
 DataStructures/CC_PishtyAndTree.cpp.s:
 	$(MAKE) -f CMakeFiles/CC_PishtyAndTree.dir/build.make CMakeFiles/CC_PishtyAndTree.dir/DataStructures/CC_PishtyAndTree.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CC_PishtyAndTree.cpp.s
 .PHONY : DataStructures/CC_PishtyAndTree.cpp.s
 
 DataStructures/CC_PishtyAndTree_Alternate.o: DataStructures/CC_PishtyAndTree_Alternate.cpp.o
@@ -3727,7 +2637,6 @@ DataStructures/CC_Sorting.o: DataStructures/CC_Sorting.cpp.o
 # target to build an object file
 DataStructures/CC_Sorting.cpp.o:
 	$(MAKE) -f CMakeFiles/CC_Sorting.dir/build.make CMakeFiles/CC_Sorting.dir/DataStructures/CC_Sorting.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CC_Sorting.cpp.o
 .PHONY : DataStructures/CC_Sorting.cpp.o
 
 DataStructures/CC_Sorting.i: DataStructures/CC_Sorting.cpp.i
@@ -3737,7 +2646,6 @@ DataStructures/CC_Sorting.i: DataStructures/CC_Sorting.cpp.i
 # target to preprocess a source file
 DataStructures/CC_Sorting.cpp.i:
 	$(MAKE) -f CMakeFiles/CC_Sorting.dir/build.make CMakeFiles/CC_Sorting.dir/DataStructures/CC_Sorting.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CC_Sorting.cpp.i
 .PHONY : DataStructures/CC_Sorting.cpp.i
 
 DataStructures/CC_Sorting.s: DataStructures/CC_Sorting.cpp.s
@@ -3747,7 +2655,6 @@ DataStructures/CC_Sorting.s: DataStructures/CC_Sorting.cpp.s
 # target to generate assembly for a file
 DataStructures/CC_Sorting.cpp.s:
 	$(MAKE) -f CMakeFiles/CC_Sorting.dir/build.make CMakeFiles/CC_Sorting.dir/DataStructures/CC_Sorting.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CC_Sorting.cpp.s
 .PHONY : DataStructures/CC_Sorting.cpp.s
 
 DataStructures/CC_StrangeQueries.o: DataStructures/CC_StrangeQueries.cpp.o
@@ -3757,7 +2664,6 @@ DataStructures/CC_StrangeQueries.o: DataStructures/CC_StrangeQueries.cpp.o
 # target to build an object file
 DataStructures/CC_StrangeQueries.cpp.o:
 	$(MAKE) -f CMakeFiles/CC_StrangeQueries.dir/build.make CMakeFiles/CC_StrangeQueries.dir/DataStructures/CC_StrangeQueries.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CC_StrangeQueries.cpp.o
 .PHONY : DataStructures/CC_StrangeQueries.cpp.o
 
 DataStructures/CC_StrangeQueries.i: DataStructures/CC_StrangeQueries.cpp.i
@@ -3767,7 +2673,6 @@ DataStructures/CC_StrangeQueries.i: DataStructures/CC_StrangeQueries.cpp.i
 # target to preprocess a source file
 DataStructures/CC_StrangeQueries.cpp.i:
 	$(MAKE) -f CMakeFiles/CC_StrangeQueries.dir/build.make CMakeFiles/CC_StrangeQueries.dir/DataStructures/CC_StrangeQueries.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CC_StrangeQueries.cpp.i
 .PHONY : DataStructures/CC_StrangeQueries.cpp.i
 
 DataStructures/CC_StrangeQueries.s: DataStructures/CC_StrangeQueries.cpp.s
@@ -3777,7 +2682,6 @@ DataStructures/CC_StrangeQueries.s: DataStructures/CC_StrangeQueries.cpp.s
 # target to generate assembly for a file
 DataStructures/CC_StrangeQueries.cpp.s:
 	$(MAKE) -f CMakeFiles/CC_StrangeQueries.dir/build.make CMakeFiles/CC_StrangeQueries.dir/DataStructures/CC_StrangeQueries.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CC_StrangeQueries.cpp.s
 .PHONY : DataStructures/CC_StrangeQueries.cpp.s
 
 DataStructures/CC_SubInversing.o: DataStructures/CC_SubInversing.cpp.o
@@ -3787,7 +2691,6 @@ DataStructures/CC_SubInversing.o: DataStructures/CC_SubInversing.cpp.o
 # target to build an object file
 DataStructures/CC_SubInversing.cpp.o:
 	$(MAKE) -f CMakeFiles/CC_SubInversing.dir/build.make CMakeFiles/CC_SubInversing.dir/DataStructures/CC_SubInversing.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CC_SubInversing.cpp.o
 .PHONY : DataStructures/CC_SubInversing.cpp.o
 
 DataStructures/CC_SubInversing.i: DataStructures/CC_SubInversing.cpp.i
@@ -3797,7 +2700,6 @@ DataStructures/CC_SubInversing.i: DataStructures/CC_SubInversing.cpp.i
 # target to preprocess a source file
 DataStructures/CC_SubInversing.cpp.i:
 	$(MAKE) -f CMakeFiles/CC_SubInversing.dir/build.make CMakeFiles/CC_SubInversing.dir/DataStructures/CC_SubInversing.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CC_SubInversing.cpp.i
 .PHONY : DataStructures/CC_SubInversing.cpp.i
 
 DataStructures/CC_SubInversing.s: DataStructures/CC_SubInversing.cpp.s
@@ -3807,7 +2709,6 @@ DataStructures/CC_SubInversing.s: DataStructures/CC_SubInversing.cpp.s
 # target to generate assembly for a file
 DataStructures/CC_SubInversing.cpp.s:
 	$(MAKE) -f CMakeFiles/CC_SubInversing.dir/build.make CMakeFiles/CC_SubInversing.dir/DataStructures/CC_SubInversing.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CC_SubInversing.cpp.s
 .PHONY : DataStructures/CC_SubInversing.cpp.s
 
 DataStructures/CC_XorQueries.o: DataStructures/CC_XorQueries.cpp.o
@@ -3817,7 +2718,6 @@ DataStructures/CC_XorQueries.o: DataStructures/CC_XorQueries.cpp.o
 # target to build an object file
 DataStructures/CC_XorQueries.cpp.o:
 	$(MAKE) -f CMakeFiles/CC_XorQueries.dir/build.make CMakeFiles/CC_XorQueries.dir/DataStructures/CC_XorQueries.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CC_XorQueries.cpp.o
 .PHONY : DataStructures/CC_XorQueries.cpp.o
 
 DataStructures/CC_XorQueries.i: DataStructures/CC_XorQueries.cpp.i
@@ -3827,7 +2727,6 @@ DataStructures/CC_XorQueries.i: DataStructures/CC_XorQueries.cpp.i
 # target to preprocess a source file
 DataStructures/CC_XorQueries.cpp.i:
 	$(MAKE) -f CMakeFiles/CC_XorQueries.dir/build.make CMakeFiles/CC_XorQueries.dir/DataStructures/CC_XorQueries.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CC_XorQueries.cpp.i
 .PHONY : DataStructures/CC_XorQueries.cpp.i
 
 DataStructures/CC_XorQueries.s: DataStructures/CC_XorQueries.cpp.s
@@ -3837,7 +2736,6 @@ DataStructures/CC_XorQueries.s: DataStructures/CC_XorQueries.cpp.s
 # target to generate assembly for a file
 DataStructures/CC_XorQueries.cpp.s:
 	$(MAKE) -f CMakeFiles/CC_XorQueries.dir/build.make CMakeFiles/CC_XorQueries.dir/DataStructures/CC_XorQueries.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CC_XorQueries.cpp.s
 .PHONY : DataStructures/CC_XorQueries.cpp.s
 
 DataStructures/CF145E_LuckyQueries.o: DataStructures/CF145E_LuckyQueries.cpp.o
@@ -3847,7 +2745,6 @@ DataStructures/CF145E_LuckyQueries.o: DataStructures/CF145E_LuckyQueries.cpp.o
 # target to build an object file
 DataStructures/CF145E_LuckyQueries.cpp.o:
 	$(MAKE) -f CMakeFiles/CF145E_LuckyQueries.dir/build.make CMakeFiles/CF145E_LuckyQueries.dir/DataStructures/CF145E_LuckyQueries.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CF145E_LuckyQueries.cpp.o
 .PHONY : DataStructures/CF145E_LuckyQueries.cpp.o
 
 DataStructures/CF145E_LuckyQueries.i: DataStructures/CF145E_LuckyQueries.cpp.i
@@ -3857,7 +2754,6 @@ DataStructures/CF145E_LuckyQueries.i: DataStructures/CF145E_LuckyQueries.cpp.i
 # target to preprocess a source file
 DataStructures/CF145E_LuckyQueries.cpp.i:
 	$(MAKE) -f CMakeFiles/CF145E_LuckyQueries.dir/build.make CMakeFiles/CF145E_LuckyQueries.dir/DataStructures/CF145E_LuckyQueries.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CF145E_LuckyQueries.cpp.i
 .PHONY : DataStructures/CF145E_LuckyQueries.cpp.i
 
 DataStructures/CF145E_LuckyQueries.s: DataStructures/CF145E_LuckyQueries.cpp.s
@@ -3867,35 +2763,7 @@ DataStructures/CF145E_LuckyQueries.s: DataStructures/CF145E_LuckyQueries.cpp.s
 # target to generate assembly for a file
 DataStructures/CF145E_LuckyQueries.cpp.s:
 	$(MAKE) -f CMakeFiles/CF145E_LuckyQueries.dir/build.make CMakeFiles/CF145E_LuckyQueries.dir/DataStructures/CF145E_LuckyQueries.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CF145E_LuckyQueries.cpp.s
 .PHONY : DataStructures/CF145E_LuckyQueries.cpp.s
-
-DataStructures/CF226E_NobleKnightsPath.o: DataStructures/CF226E_NobleKnightsPath.cpp.o
-
-.PHONY : DataStructures/CF226E_NobleKnightsPath.o
-
-# target to build an object file
-DataStructures/CF226E_NobleKnightsPath.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CF226E_NobleKnightsPath.cpp.o
-.PHONY : DataStructures/CF226E_NobleKnightsPath.cpp.o
-
-DataStructures/CF226E_NobleKnightsPath.i: DataStructures/CF226E_NobleKnightsPath.cpp.i
-
-.PHONY : DataStructures/CF226E_NobleKnightsPath.i
-
-# target to preprocess a source file
-DataStructures/CF226E_NobleKnightsPath.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CF226E_NobleKnightsPath.cpp.i
-.PHONY : DataStructures/CF226E_NobleKnightsPath.cpp.i
-
-DataStructures/CF226E_NobleKnightsPath.s: DataStructures/CF226E_NobleKnightsPath.cpp.s
-
-.PHONY : DataStructures/CF226E_NobleKnightsPath.s
-
-# target to generate assembly for a file
-DataStructures/CF226E_NobleKnightsPath.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CF226E_NobleKnightsPath.cpp.s
-.PHONY : DataStructures/CF226E_NobleKnightsPath.cpp.s
 
 DataStructures/CF342E_XeniaAndTree.o: DataStructures/CF342E_XeniaAndTree.cpp.o
 
@@ -3904,7 +2772,6 @@ DataStructures/CF342E_XeniaAndTree.o: DataStructures/CF342E_XeniaAndTree.cpp.o
 # target to build an object file
 DataStructures/CF342E_XeniaAndTree.cpp.o:
 	$(MAKE) -f CMakeFiles/CF342E_XeniaAndTree.dir/build.make CMakeFiles/CF342E_XeniaAndTree.dir/DataStructures/CF342E_XeniaAndTree.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CF342E_XeniaAndTree.cpp.o
 .PHONY : DataStructures/CF342E_XeniaAndTree.cpp.o
 
 DataStructures/CF342E_XeniaAndTree.i: DataStructures/CF342E_XeniaAndTree.cpp.i
@@ -3914,7 +2781,6 @@ DataStructures/CF342E_XeniaAndTree.i: DataStructures/CF342E_XeniaAndTree.cpp.i
 # target to preprocess a source file
 DataStructures/CF342E_XeniaAndTree.cpp.i:
 	$(MAKE) -f CMakeFiles/CF342E_XeniaAndTree.dir/build.make CMakeFiles/CF342E_XeniaAndTree.dir/DataStructures/CF342E_XeniaAndTree.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CF342E_XeniaAndTree.cpp.i
 .PHONY : DataStructures/CF342E_XeniaAndTree.cpp.i
 
 DataStructures/CF342E_XeniaAndTree.s: DataStructures/CF342E_XeniaAndTree.cpp.s
@@ -3924,8 +2790,34 @@ DataStructures/CF342E_XeniaAndTree.s: DataStructures/CF342E_XeniaAndTree.cpp.s
 # target to generate assembly for a file
 DataStructures/CF342E_XeniaAndTree.cpp.s:
 	$(MAKE) -f CMakeFiles/CF342E_XeniaAndTree.dir/build.make CMakeFiles/CF342E_XeniaAndTree.dir/DataStructures/CF342E_XeniaAndTree.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CF342E_XeniaAndTree.cpp.s
 .PHONY : DataStructures/CF342E_XeniaAndTree.cpp.s
+
+DataStructures/CF342E_XeniaAndTree_Centroid.o: DataStructures/CF342E_XeniaAndTree_Centroid.cpp.o
+
+.PHONY : DataStructures/CF342E_XeniaAndTree_Centroid.o
+
+# target to build an object file
+DataStructures/CF342E_XeniaAndTree_Centroid.cpp.o:
+	$(MAKE) -f CMakeFiles/CF342E_XeniaAndTree_Centroid.dir/build.make CMakeFiles/CF342E_XeniaAndTree_Centroid.dir/DataStructures/CF342E_XeniaAndTree_Centroid.cpp.o
+.PHONY : DataStructures/CF342E_XeniaAndTree_Centroid.cpp.o
+
+DataStructures/CF342E_XeniaAndTree_Centroid.i: DataStructures/CF342E_XeniaAndTree_Centroid.cpp.i
+
+.PHONY : DataStructures/CF342E_XeniaAndTree_Centroid.i
+
+# target to preprocess a source file
+DataStructures/CF342E_XeniaAndTree_Centroid.cpp.i:
+	$(MAKE) -f CMakeFiles/CF342E_XeniaAndTree_Centroid.dir/build.make CMakeFiles/CF342E_XeniaAndTree_Centroid.dir/DataStructures/CF342E_XeniaAndTree_Centroid.cpp.i
+.PHONY : DataStructures/CF342E_XeniaAndTree_Centroid.cpp.i
+
+DataStructures/CF342E_XeniaAndTree_Centroid.s: DataStructures/CF342E_XeniaAndTree_Centroid.cpp.s
+
+.PHONY : DataStructures/CF342E_XeniaAndTree_Centroid.s
+
+# target to generate assembly for a file
+DataStructures/CF342E_XeniaAndTree_Centroid.cpp.s:
+	$(MAKE) -f CMakeFiles/CF342E_XeniaAndTree_Centroid.dir/build.make CMakeFiles/CF342E_XeniaAndTree_Centroid.dir/DataStructures/CF342E_XeniaAndTree_Centroid.cpp.s
+.PHONY : DataStructures/CF342E_XeniaAndTree_Centroid.cpp.s
 
 DataStructures/CF348C_SubsetSums.o: DataStructures/CF348C_SubsetSums.cpp.o
 
@@ -3934,7 +2826,6 @@ DataStructures/CF348C_SubsetSums.o: DataStructures/CF348C_SubsetSums.cpp.o
 # target to build an object file
 DataStructures/CF348C_SubsetSums.cpp.o:
 	$(MAKE) -f CMakeFiles/CF348C_SubsetSums.dir/build.make CMakeFiles/CF348C_SubsetSums.dir/DataStructures/CF348C_SubsetSums.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CF348C_SubsetSums.cpp.o
 .PHONY : DataStructures/CF348C_SubsetSums.cpp.o
 
 DataStructures/CF348C_SubsetSums.i: DataStructures/CF348C_SubsetSums.cpp.i
@@ -3944,7 +2835,6 @@ DataStructures/CF348C_SubsetSums.i: DataStructures/CF348C_SubsetSums.cpp.i
 # target to preprocess a source file
 DataStructures/CF348C_SubsetSums.cpp.i:
 	$(MAKE) -f CMakeFiles/CF348C_SubsetSums.dir/build.make CMakeFiles/CF348C_SubsetSums.dir/DataStructures/CF348C_SubsetSums.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CF348C_SubsetSums.cpp.i
 .PHONY : DataStructures/CF348C_SubsetSums.cpp.i
 
 DataStructures/CF348C_SubsetSums.s: DataStructures/CF348C_SubsetSums.cpp.s
@@ -3954,7 +2844,6 @@ DataStructures/CF348C_SubsetSums.s: DataStructures/CF348C_SubsetSums.cpp.s
 # target to generate assembly for a file
 DataStructures/CF348C_SubsetSums.cpp.s:
 	$(MAKE) -f CMakeFiles/CF348C_SubsetSums.dir/build.make CMakeFiles/CF348C_SubsetSums.dir/DataStructures/CF348C_SubsetSums.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CF348C_SubsetSums.cpp.s
 .PHONY : DataStructures/CF348C_SubsetSums.cpp.s
 
 DataStructures/CF375D_TreeAndQueries.o: DataStructures/CF375D_TreeAndQueries.cpp.o
@@ -3964,7 +2853,6 @@ DataStructures/CF375D_TreeAndQueries.o: DataStructures/CF375D_TreeAndQueries.cpp
 # target to build an object file
 DataStructures/CF375D_TreeAndQueries.cpp.o:
 	$(MAKE) -f CMakeFiles/CF375D_TreeAndQueries.dir/build.make CMakeFiles/CF375D_TreeAndQueries.dir/DataStructures/CF375D_TreeAndQueries.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CF375D_TreeAndQueries.cpp.o
 .PHONY : DataStructures/CF375D_TreeAndQueries.cpp.o
 
 DataStructures/CF375D_TreeAndQueries.i: DataStructures/CF375D_TreeAndQueries.cpp.i
@@ -3974,7 +2862,6 @@ DataStructures/CF375D_TreeAndQueries.i: DataStructures/CF375D_TreeAndQueries.cpp
 # target to preprocess a source file
 DataStructures/CF375D_TreeAndQueries.cpp.i:
 	$(MAKE) -f CMakeFiles/CF375D_TreeAndQueries.dir/build.make CMakeFiles/CF375D_TreeAndQueries.dir/DataStructures/CF375D_TreeAndQueries.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CF375D_TreeAndQueries.cpp.i
 .PHONY : DataStructures/CF375D_TreeAndQueries.cpp.i
 
 DataStructures/CF375D_TreeAndQueries.s: DataStructures/CF375D_TreeAndQueries.cpp.s
@@ -3984,7 +2871,6 @@ DataStructures/CF375D_TreeAndQueries.s: DataStructures/CF375D_TreeAndQueries.cpp
 # target to generate assembly for a file
 DataStructures/CF375D_TreeAndQueries.cpp.s:
 	$(MAKE) -f CMakeFiles/CF375D_TreeAndQueries.dir/build.make CMakeFiles/CF375D_TreeAndQueries.dir/DataStructures/CF375D_TreeAndQueries.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CF375D_TreeAndQueries.cpp.s
 .PHONY : DataStructures/CF375D_TreeAndQueries.cpp.s
 
 DataStructures/CF398D_InstantMessenger.o: DataStructures/CF398D_InstantMessenger.cpp.o
@@ -3994,7 +2880,6 @@ DataStructures/CF398D_InstantMessenger.o: DataStructures/CF398D_InstantMessenger
 # target to build an object file
 DataStructures/CF398D_InstantMessenger.cpp.o:
 	$(MAKE) -f CMakeFiles/CF398D_InstantMessenger.dir/build.make CMakeFiles/CF398D_InstantMessenger.dir/DataStructures/CF398D_InstantMessenger.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CF398D_InstantMessenger.cpp.o
 .PHONY : DataStructures/CF398D_InstantMessenger.cpp.o
 
 DataStructures/CF398D_InstantMessenger.i: DataStructures/CF398D_InstantMessenger.cpp.i
@@ -4004,7 +2889,6 @@ DataStructures/CF398D_InstantMessenger.i: DataStructures/CF398D_InstantMessenger
 # target to preprocess a source file
 DataStructures/CF398D_InstantMessenger.cpp.i:
 	$(MAKE) -f CMakeFiles/CF398D_InstantMessenger.dir/build.make CMakeFiles/CF398D_InstantMessenger.dir/DataStructures/CF398D_InstantMessenger.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CF398D_InstantMessenger.cpp.i
 .PHONY : DataStructures/CF398D_InstantMessenger.cpp.i
 
 DataStructures/CF398D_InstantMessenger.s: DataStructures/CF398D_InstantMessenger.cpp.s
@@ -4014,7 +2898,6 @@ DataStructures/CF398D_InstantMessenger.s: DataStructures/CF398D_InstantMessenger
 # target to generate assembly for a file
 DataStructures/CF398D_InstantMessenger.cpp.s:
 	$(MAKE) -f CMakeFiles/CF398D_InstantMessenger.dir/build.make CMakeFiles/CF398D_InstantMessenger.dir/DataStructures/CF398D_InstantMessenger.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CF398D_InstantMessenger.cpp.s
 .PHONY : DataStructures/CF398D_InstantMessenger.cpp.s
 
 DataStructures/CF446C_DZYLovesFibonacciNumbers.o: DataStructures/CF446C_DZYLovesFibonacciNumbers.cpp.o
@@ -4024,7 +2907,6 @@ DataStructures/CF446C_DZYLovesFibonacciNumbers.o: DataStructures/CF446C_DZYLoves
 # target to build an object file
 DataStructures/CF446C_DZYLovesFibonacciNumbers.cpp.o:
 	$(MAKE) -f CMakeFiles/CF446C_DZYLovesFibonacciNumbers.dir/build.make CMakeFiles/CF446C_DZYLovesFibonacciNumbers.dir/DataStructures/CF446C_DZYLovesFibonacciNumbers.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CF446C_DZYLovesFibonacciNumbers.cpp.o
 .PHONY : DataStructures/CF446C_DZYLovesFibonacciNumbers.cpp.o
 
 DataStructures/CF446C_DZYLovesFibonacciNumbers.i: DataStructures/CF446C_DZYLovesFibonacciNumbers.cpp.i
@@ -4034,7 +2916,6 @@ DataStructures/CF446C_DZYLovesFibonacciNumbers.i: DataStructures/CF446C_DZYLoves
 # target to preprocess a source file
 DataStructures/CF446C_DZYLovesFibonacciNumbers.cpp.i:
 	$(MAKE) -f CMakeFiles/CF446C_DZYLovesFibonacciNumbers.dir/build.make CMakeFiles/CF446C_DZYLovesFibonacciNumbers.dir/DataStructures/CF446C_DZYLovesFibonacciNumbers.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CF446C_DZYLovesFibonacciNumbers.cpp.i
 .PHONY : DataStructures/CF446C_DZYLovesFibonacciNumbers.cpp.i
 
 DataStructures/CF446C_DZYLovesFibonacciNumbers.s: DataStructures/CF446C_DZYLovesFibonacciNumbers.cpp.s
@@ -4044,7 +2925,6 @@ DataStructures/CF446C_DZYLovesFibonacciNumbers.s: DataStructures/CF446C_DZYLoves
 # target to generate assembly for a file
 DataStructures/CF446C_DZYLovesFibonacciNumbers.cpp.s:
 	$(MAKE) -f CMakeFiles/CF446C_DZYLovesFibonacciNumbers.dir/build.make CMakeFiles/CF446C_DZYLovesFibonacciNumbers.dir/DataStructures/CF446C_DZYLovesFibonacciNumbers.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CF446C_DZYLovesFibonacciNumbers.cpp.s
 .PHONY : DataStructures/CF446C_DZYLovesFibonacciNumbers.cpp.s
 
 DataStructures/CF506_MrKutayutasColorfulGraph.o: DataStructures/CF506_MrKutayutasColorfulGraph.cpp.o
@@ -4054,7 +2934,6 @@ DataStructures/CF506_MrKutayutasColorfulGraph.o: DataStructures/CF506_MrKutayuta
 # target to build an object file
 DataStructures/CF506_MrKutayutasColorfulGraph.cpp.o:
 	$(MAKE) -f CMakeFiles/CF506_MrKutayutasColorfulGraph.dir/build.make CMakeFiles/CF506_MrKutayutasColorfulGraph.dir/DataStructures/CF506_MrKutayutasColorfulGraph.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CF506_MrKutayutasColorfulGraph.cpp.o
 .PHONY : DataStructures/CF506_MrKutayutasColorfulGraph.cpp.o
 
 DataStructures/CF506_MrKutayutasColorfulGraph.i: DataStructures/CF506_MrKutayutasColorfulGraph.cpp.i
@@ -4064,7 +2943,6 @@ DataStructures/CF506_MrKutayutasColorfulGraph.i: DataStructures/CF506_MrKutayuta
 # target to preprocess a source file
 DataStructures/CF506_MrKutayutasColorfulGraph.cpp.i:
 	$(MAKE) -f CMakeFiles/CF506_MrKutayutasColorfulGraph.dir/build.make CMakeFiles/CF506_MrKutayutasColorfulGraph.dir/DataStructures/CF506_MrKutayutasColorfulGraph.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CF506_MrKutayutasColorfulGraph.cpp.i
 .PHONY : DataStructures/CF506_MrKutayutasColorfulGraph.cpp.i
 
 DataStructures/CF506_MrKutayutasColorfulGraph.s: DataStructures/CF506_MrKutayutasColorfulGraph.cpp.s
@@ -4074,7 +2952,6 @@ DataStructures/CF506_MrKutayutasColorfulGraph.s: DataStructures/CF506_MrKutayuta
 # target to generate assembly for a file
 DataStructures/CF506_MrKutayutasColorfulGraph.cpp.s:
 	$(MAKE) -f CMakeFiles/CF506_MrKutayutasColorfulGraph.dir/build.make CMakeFiles/CF506_MrKutayutasColorfulGraph.dir/DataStructures/CF506_MrKutayutasColorfulGraph.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CF506_MrKutayutasColorfulGraph.cpp.s
 .PHONY : DataStructures/CF506_MrKutayutasColorfulGraph.cpp.s
 
 DataStructures/CF589G_Hiring.o: DataStructures/CF589G_Hiring.cpp.o
@@ -4084,7 +2961,6 @@ DataStructures/CF589G_Hiring.o: DataStructures/CF589G_Hiring.cpp.o
 # target to build an object file
 DataStructures/CF589G_Hiring.cpp.o:
 	$(MAKE) -f CMakeFiles/CF589G_Hiring.dir/build.make CMakeFiles/CF589G_Hiring.dir/DataStructures/CF589G_Hiring.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CF589G_Hiring.cpp.o
 .PHONY : DataStructures/CF589G_Hiring.cpp.o
 
 DataStructures/CF589G_Hiring.i: DataStructures/CF589G_Hiring.cpp.i
@@ -4094,7 +2970,6 @@ DataStructures/CF589G_Hiring.i: DataStructures/CF589G_Hiring.cpp.i
 # target to preprocess a source file
 DataStructures/CF589G_Hiring.cpp.i:
 	$(MAKE) -f CMakeFiles/CF589G_Hiring.dir/build.make CMakeFiles/CF589G_Hiring.dir/DataStructures/CF589G_Hiring.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CF589G_Hiring.cpp.i
 .PHONY : DataStructures/CF589G_Hiring.cpp.i
 
 DataStructures/CF589G_Hiring.s: DataStructures/CF589G_Hiring.cpp.s
@@ -4104,8 +2979,34 @@ DataStructures/CF589G_Hiring.s: DataStructures/CF589G_Hiring.cpp.s
 # target to generate assembly for a file
 DataStructures/CF589G_Hiring.cpp.s:
 	$(MAKE) -f CMakeFiles/CF589G_Hiring.dir/build.make CMakeFiles/CF589G_Hiring.dir/DataStructures/CF589G_Hiring.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CF589G_Hiring.cpp.s
 .PHONY : DataStructures/CF589G_Hiring.cpp.s
+
+DataStructures/CF600E_LomsatGelral.o: DataStructures/CF600E_LomsatGelral.cpp.o
+
+.PHONY : DataStructures/CF600E_LomsatGelral.o
+
+# target to build an object file
+DataStructures/CF600E_LomsatGelral.cpp.o:
+	$(MAKE) -f CMakeFiles/CF600E_LomsatGelral.dir/build.make CMakeFiles/CF600E_LomsatGelral.dir/DataStructures/CF600E_LomsatGelral.cpp.o
+.PHONY : DataStructures/CF600E_LomsatGelral.cpp.o
+
+DataStructures/CF600E_LomsatGelral.i: DataStructures/CF600E_LomsatGelral.cpp.i
+
+.PHONY : DataStructures/CF600E_LomsatGelral.i
+
+# target to preprocess a source file
+DataStructures/CF600E_LomsatGelral.cpp.i:
+	$(MAKE) -f CMakeFiles/CF600E_LomsatGelral.dir/build.make CMakeFiles/CF600E_LomsatGelral.dir/DataStructures/CF600E_LomsatGelral.cpp.i
+.PHONY : DataStructures/CF600E_LomsatGelral.cpp.i
+
+DataStructures/CF600E_LomsatGelral.s: DataStructures/CF600E_LomsatGelral.cpp.s
+
+.PHONY : DataStructures/CF600E_LomsatGelral.s
+
+# target to generate assembly for a file
+DataStructures/CF600E_LomsatGelral.cpp.s:
+	$(MAKE) -f CMakeFiles/CF600E_LomsatGelral.dir/build.make CMakeFiles/CF600E_LomsatGelral.dir/DataStructures/CF600E_LomsatGelral.cpp.s
+.PHONY : DataStructures/CF600E_LomsatGelral.cpp.s
 
 DataStructures/CF617E_XORAndFavouriteNumber.o: DataStructures/CF617E_XORAndFavouriteNumber.cpp.o
 
@@ -4113,7 +3014,6 @@ DataStructures/CF617E_XORAndFavouriteNumber.o: DataStructures/CF617E_XORAndFavou
 
 # target to build an object file
 DataStructures/CF617E_XORAndFavouriteNumber.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CF617E_XORAndFavouriteNumber.cpp.o
 	$(MAKE) -f CMakeFiles/CF617E_XORAndFavouriteNumber.dir/build.make CMakeFiles/CF617E_XORAndFavouriteNumber.dir/DataStructures/CF617E_XORAndFavouriteNumber.cpp.o
 .PHONY : DataStructures/CF617E_XORAndFavouriteNumber.cpp.o
 
@@ -4123,7 +3023,6 @@ DataStructures/CF617E_XORAndFavouriteNumber.i: DataStructures/CF617E_XORAndFavou
 
 # target to preprocess a source file
 DataStructures/CF617E_XORAndFavouriteNumber.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CF617E_XORAndFavouriteNumber.cpp.i
 	$(MAKE) -f CMakeFiles/CF617E_XORAndFavouriteNumber.dir/build.make CMakeFiles/CF617E_XORAndFavouriteNumber.dir/DataStructures/CF617E_XORAndFavouriteNumber.cpp.i
 .PHONY : DataStructures/CF617E_XORAndFavouriteNumber.cpp.i
 
@@ -4133,7 +3032,6 @@ DataStructures/CF617E_XORAndFavouriteNumber.s: DataStructures/CF617E_XORAndFavou
 
 # target to generate assembly for a file
 DataStructures/CF617E_XORAndFavouriteNumber.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CF617E_XORAndFavouriteNumber.cpp.s
 	$(MAKE) -f CMakeFiles/CF617E_XORAndFavouriteNumber.dir/build.make CMakeFiles/CF617E_XORAndFavouriteNumber.dir/DataStructures/CF617E_XORAndFavouriteNumber.cpp.s
 .PHONY : DataStructures/CF617E_XORAndFavouriteNumber.cpp.s
 
@@ -4143,7 +3041,6 @@ DataStructures/CF686D_KayAndSnowflake.o: DataStructures/CF686D_KayAndSnowflake.c
 
 # target to build an object file
 DataStructures/CF686D_KayAndSnowflake.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CF686D_KayAndSnowflake.cpp.o
 	$(MAKE) -f CMakeFiles/CF686D_KayAndSnowflake.dir/build.make CMakeFiles/CF686D_KayAndSnowflake.dir/DataStructures/CF686D_KayAndSnowflake.cpp.o
 .PHONY : DataStructures/CF686D_KayAndSnowflake.cpp.o
 
@@ -4153,7 +3050,6 @@ DataStructures/CF686D_KayAndSnowflake.i: DataStructures/CF686D_KayAndSnowflake.c
 
 # target to preprocess a source file
 DataStructures/CF686D_KayAndSnowflake.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CF686D_KayAndSnowflake.cpp.i
 	$(MAKE) -f CMakeFiles/CF686D_KayAndSnowflake.dir/build.make CMakeFiles/CF686D_KayAndSnowflake.dir/DataStructures/CF686D_KayAndSnowflake.cpp.i
 .PHONY : DataStructures/CF686D_KayAndSnowflake.cpp.i
 
@@ -4163,7 +3059,6 @@ DataStructures/CF686D_KayAndSnowflake.s: DataStructures/CF686D_KayAndSnowflake.c
 
 # target to generate assembly for a file
 DataStructures/CF686D_KayAndSnowflake.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CF686D_KayAndSnowflake.cpp.s
 	$(MAKE) -f CMakeFiles/CF686D_KayAndSnowflake.dir/build.make CMakeFiles/CF686D_KayAndSnowflake.dir/DataStructures/CF686D_KayAndSnowflake.cpp.s
 .PHONY : DataStructures/CF686D_KayAndSnowflake.cpp.s
 
@@ -4174,7 +3069,6 @@ DataStructures/CF86D_PowerfulArray.o: DataStructures/CF86D_PowerfulArray.cpp.o
 # target to build an object file
 DataStructures/CF86D_PowerfulArray.cpp.o:
 	$(MAKE) -f CMakeFiles/CF86D_PowerfulArray.dir/build.make CMakeFiles/CF86D_PowerfulArray.dir/DataStructures/CF86D_PowerfulArray.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CF86D_PowerfulArray.cpp.o
 .PHONY : DataStructures/CF86D_PowerfulArray.cpp.o
 
 DataStructures/CF86D_PowerfulArray.i: DataStructures/CF86D_PowerfulArray.cpp.i
@@ -4184,7 +3078,6 @@ DataStructures/CF86D_PowerfulArray.i: DataStructures/CF86D_PowerfulArray.cpp.i
 # target to preprocess a source file
 DataStructures/CF86D_PowerfulArray.cpp.i:
 	$(MAKE) -f CMakeFiles/CF86D_PowerfulArray.dir/build.make CMakeFiles/CF86D_PowerfulArray.dir/DataStructures/CF86D_PowerfulArray.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CF86D_PowerfulArray.cpp.i
 .PHONY : DataStructures/CF86D_PowerfulArray.cpp.i
 
 DataStructures/CF86D_PowerfulArray.s: DataStructures/CF86D_PowerfulArray.cpp.s
@@ -4194,35 +3087,7 @@ DataStructures/CF86D_PowerfulArray.s: DataStructures/CF86D_PowerfulArray.cpp.s
 # target to generate assembly for a file
 DataStructures/CF86D_PowerfulArray.cpp.s:
 	$(MAKE) -f CMakeFiles/CF86D_PowerfulArray.dir/build.make CMakeFiles/CF86D_PowerfulArray.dir/DataStructures/CF86D_PowerfulArray.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CF86D_PowerfulArray.cpp.s
 .PHONY : DataStructures/CF86D_PowerfulArray.cpp.s
-
-DataStructures/CF899E_SegmentsRemoval.o: DataStructures/CF899E_SegmentsRemoval.cpp.o
-
-.PHONY : DataStructures/CF899E_SegmentsRemoval.o
-
-# target to build an object file
-DataStructures/CF899E_SegmentsRemoval.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CF899E_SegmentsRemoval.cpp.o
-.PHONY : DataStructures/CF899E_SegmentsRemoval.cpp.o
-
-DataStructures/CF899E_SegmentsRemoval.i: DataStructures/CF899E_SegmentsRemoval.cpp.i
-
-.PHONY : DataStructures/CF899E_SegmentsRemoval.i
-
-# target to preprocess a source file
-DataStructures/CF899E_SegmentsRemoval.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CF899E_SegmentsRemoval.cpp.i
-.PHONY : DataStructures/CF899E_SegmentsRemoval.cpp.i
-
-DataStructures/CF899E_SegmentsRemoval.s: DataStructures/CF899E_SegmentsRemoval.cpp.s
-
-.PHONY : DataStructures/CF899E_SegmentsRemoval.s
-
-# target to generate assembly for a file
-DataStructures/CF899E_SegmentsRemoval.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CF899E_SegmentsRemoval.cpp.s
-.PHONY : DataStructures/CF899E_SegmentsRemoval.cpp.s
 
 DataStructures/CF899F_LettersRemoving.o: DataStructures/CF899F_LettersRemoving.cpp.o
 
@@ -4231,7 +3096,6 @@ DataStructures/CF899F_LettersRemoving.o: DataStructures/CF899F_LettersRemoving.c
 # target to build an object file
 DataStructures/CF899F_LettersRemoving.cpp.o:
 	$(MAKE) -f CMakeFiles/CF899F_LettersRemoving.dir/build.make CMakeFiles/CF899F_LettersRemoving.dir/DataStructures/CF899F_LettersRemoving.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CF899F_LettersRemoving.cpp.o
 .PHONY : DataStructures/CF899F_LettersRemoving.cpp.o
 
 DataStructures/CF899F_LettersRemoving.i: DataStructures/CF899F_LettersRemoving.cpp.i
@@ -4241,7 +3105,6 @@ DataStructures/CF899F_LettersRemoving.i: DataStructures/CF899F_LettersRemoving.c
 # target to preprocess a source file
 DataStructures/CF899F_LettersRemoving.cpp.i:
 	$(MAKE) -f CMakeFiles/CF899F_LettersRemoving.dir/build.make CMakeFiles/CF899F_LettersRemoving.dir/DataStructures/CF899F_LettersRemoving.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CF899F_LettersRemoving.cpp.i
 .PHONY : DataStructures/CF899F_LettersRemoving.cpp.i
 
 DataStructures/CF899F_LettersRemoving.s: DataStructures/CF899F_LettersRemoving.cpp.s
@@ -4251,7 +3114,6 @@ DataStructures/CF899F_LettersRemoving.s: DataStructures/CF899F_LettersRemoving.c
 # target to generate assembly for a file
 DataStructures/CF899F_LettersRemoving.cpp.s:
 	$(MAKE) -f CMakeFiles/CF899F_LettersRemoving.dir/build.make CMakeFiles/CF899F_LettersRemoving.dir/DataStructures/CF899F_LettersRemoving.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CF899F_LettersRemoving.cpp.s
 .PHONY : DataStructures/CF899F_LettersRemoving.cpp.s
 
 DataStructures/Exun2017_ArrayStudy.o: DataStructures/Exun2017_ArrayStudy.cpp.o
@@ -4261,7 +3123,6 @@ DataStructures/Exun2017_ArrayStudy.o: DataStructures/Exun2017_ArrayStudy.cpp.o
 # target to build an object file
 DataStructures/Exun2017_ArrayStudy.cpp.o:
 	$(MAKE) -f CMakeFiles/Exun2017_ArrayStudy.dir/build.make CMakeFiles/Exun2017_ArrayStudy.dir/DataStructures/Exun2017_ArrayStudy.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/Exun2017_ArrayStudy.cpp.o
 .PHONY : DataStructures/Exun2017_ArrayStudy.cpp.o
 
 DataStructures/Exun2017_ArrayStudy.i: DataStructures/Exun2017_ArrayStudy.cpp.i
@@ -4271,7 +3132,6 @@ DataStructures/Exun2017_ArrayStudy.i: DataStructures/Exun2017_ArrayStudy.cpp.i
 # target to preprocess a source file
 DataStructures/Exun2017_ArrayStudy.cpp.i:
 	$(MAKE) -f CMakeFiles/Exun2017_ArrayStudy.dir/build.make CMakeFiles/Exun2017_ArrayStudy.dir/DataStructures/Exun2017_ArrayStudy.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/Exun2017_ArrayStudy.cpp.i
 .PHONY : DataStructures/Exun2017_ArrayStudy.cpp.i
 
 DataStructures/Exun2017_ArrayStudy.s: DataStructures/Exun2017_ArrayStudy.cpp.s
@@ -4281,197 +3141,7 @@ DataStructures/Exun2017_ArrayStudy.s: DataStructures/Exun2017_ArrayStudy.cpp.s
 # target to generate assembly for a file
 DataStructures/Exun2017_ArrayStudy.cpp.s:
 	$(MAKE) -f CMakeFiles/Exun2017_ArrayStudy.dir/build.make CMakeFiles/Exun2017_ArrayStudy.dir/DataStructures/Exun2017_ArrayStudy.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/Exun2017_ArrayStudy.cpp.s
 .PHONY : DataStructures/Exun2017_ArrayStudy.cpp.s
-
-DataStructures/HackerEarth_CityAndCampers2.o: DataStructures/HackerEarth_CityAndCampers2.cpp.o
-
-.PHONY : DataStructures/HackerEarth_CityAndCampers2.o
-
-# target to build an object file
-DataStructures/HackerEarth_CityAndCampers2.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_CityAndCampers2.cpp.o
-.PHONY : DataStructures/HackerEarth_CityAndCampers2.cpp.o
-
-DataStructures/HackerEarth_CityAndCampers2.i: DataStructures/HackerEarth_CityAndCampers2.cpp.i
-
-.PHONY : DataStructures/HackerEarth_CityAndCampers2.i
-
-# target to preprocess a source file
-DataStructures/HackerEarth_CityAndCampers2.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_CityAndCampers2.cpp.i
-.PHONY : DataStructures/HackerEarth_CityAndCampers2.cpp.i
-
-DataStructures/HackerEarth_CityAndCampers2.s: DataStructures/HackerEarth_CityAndCampers2.cpp.s
-
-.PHONY : DataStructures/HackerEarth_CityAndCampers2.s
-
-# target to generate assembly for a file
-DataStructures/HackerEarth_CityAndCampers2.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_CityAndCampers2.cpp.s
-.PHONY : DataStructures/HackerEarth_CityAndCampers2.cpp.s
-
-DataStructures/HackerEarth_CityAndSoldiers.o: DataStructures/HackerEarth_CityAndSoldiers.cpp.o
-
-.PHONY : DataStructures/HackerEarth_CityAndSoldiers.o
-
-# target to build an object file
-DataStructures/HackerEarth_CityAndSoldiers.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_CityAndSoldiers.cpp.o
-.PHONY : DataStructures/HackerEarth_CityAndSoldiers.cpp.o
-
-DataStructures/HackerEarth_CityAndSoldiers.i: DataStructures/HackerEarth_CityAndSoldiers.cpp.i
-
-.PHONY : DataStructures/HackerEarth_CityAndSoldiers.i
-
-# target to preprocess a source file
-DataStructures/HackerEarth_CityAndSoldiers.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_CityAndSoldiers.cpp.i
-.PHONY : DataStructures/HackerEarth_CityAndSoldiers.cpp.i
-
-DataStructures/HackerEarth_CityAndSoldiers.s: DataStructures/HackerEarth_CityAndSoldiers.cpp.s
-
-.PHONY : DataStructures/HackerEarth_CityAndSoldiers.s
-
-# target to generate assembly for a file
-DataStructures/HackerEarth_CityAndSoldiers.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_CityAndSoldiers.cpp.s
-.PHONY : DataStructures/HackerEarth_CityAndSoldiers.cpp.s
-
-DataStructures/HackerEarth_FightInNinjaWorld.o: DataStructures/HackerEarth_FightInNinjaWorld.cpp.o
-
-.PHONY : DataStructures/HackerEarth_FightInNinjaWorld.o
-
-# target to build an object file
-DataStructures/HackerEarth_FightInNinjaWorld.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_FightInNinjaWorld.cpp.o
-.PHONY : DataStructures/HackerEarth_FightInNinjaWorld.cpp.o
-
-DataStructures/HackerEarth_FightInNinjaWorld.i: DataStructures/HackerEarth_FightInNinjaWorld.cpp.i
-
-.PHONY : DataStructures/HackerEarth_FightInNinjaWorld.i
-
-# target to preprocess a source file
-DataStructures/HackerEarth_FightInNinjaWorld.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_FightInNinjaWorld.cpp.i
-.PHONY : DataStructures/HackerEarth_FightInNinjaWorld.cpp.i
-
-DataStructures/HackerEarth_FightInNinjaWorld.s: DataStructures/HackerEarth_FightInNinjaWorld.cpp.s
-
-.PHONY : DataStructures/HackerEarth_FightInNinjaWorld.s
-
-# target to generate assembly for a file
-DataStructures/HackerEarth_FightInNinjaWorld.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_FightInNinjaWorld.cpp.s
-.PHONY : DataStructures/HackerEarth_FightInNinjaWorld.cpp.s
-
-DataStructures/HackerEarth_HelpAshu.o: DataStructures/HackerEarth_HelpAshu.cpp.o
-
-.PHONY : DataStructures/HackerEarth_HelpAshu.o
-
-# target to build an object file
-DataStructures/HackerEarth_HelpAshu.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_HelpAshu.cpp.o
-.PHONY : DataStructures/HackerEarth_HelpAshu.cpp.o
-
-DataStructures/HackerEarth_HelpAshu.i: DataStructures/HackerEarth_HelpAshu.cpp.i
-
-.PHONY : DataStructures/HackerEarth_HelpAshu.i
-
-# target to preprocess a source file
-DataStructures/HackerEarth_HelpAshu.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_HelpAshu.cpp.i
-.PHONY : DataStructures/HackerEarth_HelpAshu.cpp.i
-
-DataStructures/HackerEarth_HelpAshu.s: DataStructures/HackerEarth_HelpAshu.cpp.s
-
-.PHONY : DataStructures/HackerEarth_HelpAshu.s
-
-# target to generate assembly for a file
-DataStructures/HackerEarth_HelpAshu.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_HelpAshu.cpp.s
-.PHONY : DataStructures/HackerEarth_HelpAshu.cpp.s
-
-DataStructures/HackerEarth_ModifiedLIS.o: DataStructures/HackerEarth_ModifiedLIS.cpp.o
-
-.PHONY : DataStructures/HackerEarth_ModifiedLIS.o
-
-# target to build an object file
-DataStructures/HackerEarth_ModifiedLIS.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_ModifiedLIS.cpp.o
-.PHONY : DataStructures/HackerEarth_ModifiedLIS.cpp.o
-
-DataStructures/HackerEarth_ModifiedLIS.i: DataStructures/HackerEarth_ModifiedLIS.cpp.i
-
-.PHONY : DataStructures/HackerEarth_ModifiedLIS.i
-
-# target to preprocess a source file
-DataStructures/HackerEarth_ModifiedLIS.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_ModifiedLIS.cpp.i
-.PHONY : DataStructures/HackerEarth_ModifiedLIS.cpp.i
-
-DataStructures/HackerEarth_ModifiedLIS.s: DataStructures/HackerEarth_ModifiedLIS.cpp.s
-
-.PHONY : DataStructures/HackerEarth_ModifiedLIS.s
-
-# target to generate assembly for a file
-DataStructures/HackerEarth_ModifiedLIS.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_ModifiedLIS.cpp.s
-.PHONY : DataStructures/HackerEarth_ModifiedLIS.cpp.s
-
-DataStructures/HackerEarth_MonkAndOtakuland.o: DataStructures/HackerEarth_MonkAndOtakuland.cpp.o
-
-.PHONY : DataStructures/HackerEarth_MonkAndOtakuland.o
-
-# target to build an object file
-DataStructures/HackerEarth_MonkAndOtakuland.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_MonkAndOtakuland.cpp.o
-.PHONY : DataStructures/HackerEarth_MonkAndOtakuland.cpp.o
-
-DataStructures/HackerEarth_MonkAndOtakuland.i: DataStructures/HackerEarth_MonkAndOtakuland.cpp.i
-
-.PHONY : DataStructures/HackerEarth_MonkAndOtakuland.i
-
-# target to preprocess a source file
-DataStructures/HackerEarth_MonkAndOtakuland.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_MonkAndOtakuland.cpp.i
-.PHONY : DataStructures/HackerEarth_MonkAndOtakuland.cpp.i
-
-DataStructures/HackerEarth_MonkAndOtakuland.s: DataStructures/HackerEarth_MonkAndOtakuland.cpp.s
-
-.PHONY : DataStructures/HackerEarth_MonkAndOtakuland.s
-
-# target to generate assembly for a file
-DataStructures/HackerEarth_MonkAndOtakuland.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_MonkAndOtakuland.cpp.s
-.PHONY : DataStructures/HackerEarth_MonkAndOtakuland.cpp.s
-
-DataStructures/HackerEarth_RoyAndCoinBoxes.o: DataStructures/HackerEarth_RoyAndCoinBoxes.cpp.o
-
-.PHONY : DataStructures/HackerEarth_RoyAndCoinBoxes.o
-
-# target to build an object file
-DataStructures/HackerEarth_RoyAndCoinBoxes.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_RoyAndCoinBoxes.cpp.o
-.PHONY : DataStructures/HackerEarth_RoyAndCoinBoxes.cpp.o
-
-DataStructures/HackerEarth_RoyAndCoinBoxes.i: DataStructures/HackerEarth_RoyAndCoinBoxes.cpp.i
-
-.PHONY : DataStructures/HackerEarth_RoyAndCoinBoxes.i
-
-# target to preprocess a source file
-DataStructures/HackerEarth_RoyAndCoinBoxes.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_RoyAndCoinBoxes.cpp.i
-.PHONY : DataStructures/HackerEarth_RoyAndCoinBoxes.cpp.i
-
-DataStructures/HackerEarth_RoyAndCoinBoxes.s: DataStructures/HackerEarth_RoyAndCoinBoxes.cpp.s
-
-.PHONY : DataStructures/HackerEarth_RoyAndCoinBoxes.s
-
-# target to generate assembly for a file
-DataStructures/HackerEarth_RoyAndCoinBoxes.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_RoyAndCoinBoxes.cpp.s
-.PHONY : DataStructures/HackerEarth_RoyAndCoinBoxes.cpp.s
 
 DataStructures/HackerEarth_Trie.o: DataStructures/HackerEarth_Trie.cpp.o
 
@@ -4480,7 +3150,6 @@ DataStructures/HackerEarth_Trie.o: DataStructures/HackerEarth_Trie.cpp.o
 # target to build an object file
 DataStructures/HackerEarth_Trie.cpp.o:
 	$(MAKE) -f CMakeFiles/HackerEarth_Trie.dir/build.make CMakeFiles/HackerEarth_Trie.dir/DataStructures/HackerEarth_Trie.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_Trie.cpp.o
 .PHONY : DataStructures/HackerEarth_Trie.cpp.o
 
 DataStructures/HackerEarth_Trie.i: DataStructures/HackerEarth_Trie.cpp.i
@@ -4490,7 +3159,6 @@ DataStructures/HackerEarth_Trie.i: DataStructures/HackerEarth_Trie.cpp.i
 # target to preprocess a source file
 DataStructures/HackerEarth_Trie.cpp.i:
 	$(MAKE) -f CMakeFiles/HackerEarth_Trie.dir/build.make CMakeFiles/HackerEarth_Trie.dir/DataStructures/HackerEarth_Trie.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_Trie.cpp.i
 .PHONY : DataStructures/HackerEarth_Trie.cpp.i
 
 DataStructures/HackerEarth_Trie.s: DataStructures/HackerEarth_Trie.cpp.s
@@ -4500,62 +3168,34 @@ DataStructures/HackerEarth_Trie.s: DataStructures/HackerEarth_Trie.cpp.s
 # target to generate assembly for a file
 DataStructures/HackerEarth_Trie.cpp.s:
 	$(MAKE) -f CMakeFiles/HackerEarth_Trie.dir/build.make CMakeFiles/HackerEarth_Trie.dir/DataStructures/HackerEarth_Trie.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_Trie.cpp.s
 .PHONY : DataStructures/HackerEarth_Trie.cpp.s
 
-DataStructures/Implementation/BinaryIndexedTrees.o: DataStructures/Implementation/BinaryIndexedTrees.cpp.o
+DataStructures/IOI2011_Race.o: DataStructures/IOI2011_Race.cpp.o
 
-.PHONY : DataStructures/Implementation/BinaryIndexedTrees.o
-
-# target to build an object file
-DataStructures/Implementation/BinaryIndexedTrees.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/BinaryIndexedTrees.cpp.o
-.PHONY : DataStructures/Implementation/BinaryIndexedTrees.cpp.o
-
-DataStructures/Implementation/BinaryIndexedTrees.i: DataStructures/Implementation/BinaryIndexedTrees.cpp.i
-
-.PHONY : DataStructures/Implementation/BinaryIndexedTrees.i
-
-# target to preprocess a source file
-DataStructures/Implementation/BinaryIndexedTrees.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/BinaryIndexedTrees.cpp.i
-.PHONY : DataStructures/Implementation/BinaryIndexedTrees.cpp.i
-
-DataStructures/Implementation/BinaryIndexedTrees.s: DataStructures/Implementation/BinaryIndexedTrees.cpp.s
-
-.PHONY : DataStructures/Implementation/BinaryIndexedTrees.s
-
-# target to generate assembly for a file
-DataStructures/Implementation/BinaryIndexedTrees.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/BinaryIndexedTrees.cpp.s
-.PHONY : DataStructures/Implementation/BinaryIndexedTrees.cpp.s
-
-DataStructures/Implementation/DisjointSets.o: DataStructures/Implementation/DisjointSets.cpp.o
-
-.PHONY : DataStructures/Implementation/DisjointSets.o
+.PHONY : DataStructures/IOI2011_Race.o
 
 # target to build an object file
-DataStructures/Implementation/DisjointSets.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/DisjointSets.cpp.o
-.PHONY : DataStructures/Implementation/DisjointSets.cpp.o
+DataStructures/IOI2011_Race.cpp.o:
+	$(MAKE) -f CMakeFiles/IOI2011_Race.dir/build.make CMakeFiles/IOI2011_Race.dir/DataStructures/IOI2011_Race.cpp.o
+.PHONY : DataStructures/IOI2011_Race.cpp.o
 
-DataStructures/Implementation/DisjointSets.i: DataStructures/Implementation/DisjointSets.cpp.i
+DataStructures/IOI2011_Race.i: DataStructures/IOI2011_Race.cpp.i
 
-.PHONY : DataStructures/Implementation/DisjointSets.i
+.PHONY : DataStructures/IOI2011_Race.i
 
 # target to preprocess a source file
-DataStructures/Implementation/DisjointSets.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/DisjointSets.cpp.i
-.PHONY : DataStructures/Implementation/DisjointSets.cpp.i
+DataStructures/IOI2011_Race.cpp.i:
+	$(MAKE) -f CMakeFiles/IOI2011_Race.dir/build.make CMakeFiles/IOI2011_Race.dir/DataStructures/IOI2011_Race.cpp.i
+.PHONY : DataStructures/IOI2011_Race.cpp.i
 
-DataStructures/Implementation/DisjointSets.s: DataStructures/Implementation/DisjointSets.cpp.s
+DataStructures/IOI2011_Race.s: DataStructures/IOI2011_Race.cpp.s
 
-.PHONY : DataStructures/Implementation/DisjointSets.s
+.PHONY : DataStructures/IOI2011_Race.s
 
 # target to generate assembly for a file
-DataStructures/Implementation/DisjointSets.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/DisjointSets.cpp.s
-.PHONY : DataStructures/Implementation/DisjointSets.cpp.s
+DataStructures/IOI2011_Race.cpp.s:
+	$(MAKE) -f CMakeFiles/IOI2011_Race.dir/build.make CMakeFiles/IOI2011_Race.dir/DataStructures/IOI2011_Race.cpp.s
+.PHONY : DataStructures/IOI2011_Race.cpp.s
 
 DataStructures/Implementation/HeavyLightDecomposition.o: DataStructures/Implementation/HeavyLightDecomposition.cpp.o
 
@@ -4564,7 +3204,6 @@ DataStructures/Implementation/HeavyLightDecomposition.o: DataStructures/Implemen
 # target to build an object file
 DataStructures/Implementation/HeavyLightDecomposition.cpp.o:
 	$(MAKE) -f CMakeFiles/HeavyLightDecomposition.dir/build.make CMakeFiles/HeavyLightDecomposition.dir/DataStructures/Implementation/HeavyLightDecomposition.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/HeavyLightDecomposition.cpp.o
 .PHONY : DataStructures/Implementation/HeavyLightDecomposition.cpp.o
 
 DataStructures/Implementation/HeavyLightDecomposition.i: DataStructures/Implementation/HeavyLightDecomposition.cpp.i
@@ -4574,7 +3213,6 @@ DataStructures/Implementation/HeavyLightDecomposition.i: DataStructures/Implemen
 # target to preprocess a source file
 DataStructures/Implementation/HeavyLightDecomposition.cpp.i:
 	$(MAKE) -f CMakeFiles/HeavyLightDecomposition.dir/build.make CMakeFiles/HeavyLightDecomposition.dir/DataStructures/Implementation/HeavyLightDecomposition.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/HeavyLightDecomposition.cpp.i
 .PHONY : DataStructures/Implementation/HeavyLightDecomposition.cpp.i
 
 DataStructures/Implementation/HeavyLightDecomposition.s: DataStructures/Implementation/HeavyLightDecomposition.cpp.s
@@ -4584,7 +3222,6 @@ DataStructures/Implementation/HeavyLightDecomposition.s: DataStructures/Implemen
 # target to generate assembly for a file
 DataStructures/Implementation/HeavyLightDecomposition.cpp.s:
 	$(MAKE) -f CMakeFiles/HeavyLightDecomposition.dir/build.make CMakeFiles/HeavyLightDecomposition.dir/DataStructures/Implementation/HeavyLightDecomposition.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/HeavyLightDecomposition.cpp.s
 .PHONY : DataStructures/Implementation/HeavyLightDecomposition.cpp.s
 
 DataStructures/Implementation/ImplicitTreap.o: DataStructures/Implementation/ImplicitTreap.cpp.o
@@ -4594,7 +3231,6 @@ DataStructures/Implementation/ImplicitTreap.o: DataStructures/Implementation/Imp
 # target to build an object file
 DataStructures/Implementation/ImplicitTreap.cpp.o:
 	$(MAKE) -f CMakeFiles/ImplicitTreap.dir/build.make CMakeFiles/ImplicitTreap.dir/DataStructures/Implementation/ImplicitTreap.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/ImplicitTreap.cpp.o
 .PHONY : DataStructures/Implementation/ImplicitTreap.cpp.o
 
 DataStructures/Implementation/ImplicitTreap.i: DataStructures/Implementation/ImplicitTreap.cpp.i
@@ -4604,7 +3240,6 @@ DataStructures/Implementation/ImplicitTreap.i: DataStructures/Implementation/Imp
 # target to preprocess a source file
 DataStructures/Implementation/ImplicitTreap.cpp.i:
 	$(MAKE) -f CMakeFiles/ImplicitTreap.dir/build.make CMakeFiles/ImplicitTreap.dir/DataStructures/Implementation/ImplicitTreap.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/ImplicitTreap.cpp.i
 .PHONY : DataStructures/Implementation/ImplicitTreap.cpp.i
 
 DataStructures/Implementation/ImplicitTreap.s: DataStructures/Implementation/ImplicitTreap.cpp.s
@@ -4614,7 +3249,6 @@ DataStructures/Implementation/ImplicitTreap.s: DataStructures/Implementation/Imp
 # target to generate assembly for a file
 DataStructures/Implementation/ImplicitTreap.cpp.s:
 	$(MAKE) -f CMakeFiles/ImplicitTreap.dir/build.make CMakeFiles/ImplicitTreap.dir/DataStructures/Implementation/ImplicitTreap.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/ImplicitTreap.cpp.s
 .PHONY : DataStructures/Implementation/ImplicitTreap.cpp.s
 
 DataStructures/Implementation/LazyPropSegmentTree_IntervalSum.o: DataStructures/Implementation/LazyPropSegmentTree_IntervalSum.cpp.o
@@ -4624,7 +3258,6 @@ DataStructures/Implementation/LazyPropSegmentTree_IntervalSum.o: DataStructures/
 # target to build an object file
 DataStructures/Implementation/LazyPropSegmentTree_IntervalSum.cpp.o:
 	$(MAKE) -f CMakeFiles/LazyPropSegmentTree_IntervalSum.dir/build.make CMakeFiles/LazyPropSegmentTree_IntervalSum.dir/DataStructures/Implementation/LazyPropSegmentTree_IntervalSum.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/LazyPropSegmentTree_IntervalSum.cpp.o
 .PHONY : DataStructures/Implementation/LazyPropSegmentTree_IntervalSum.cpp.o
 
 DataStructures/Implementation/LazyPropSegmentTree_IntervalSum.i: DataStructures/Implementation/LazyPropSegmentTree_IntervalSum.cpp.i
@@ -4634,7 +3267,6 @@ DataStructures/Implementation/LazyPropSegmentTree_IntervalSum.i: DataStructures/
 # target to preprocess a source file
 DataStructures/Implementation/LazyPropSegmentTree_IntervalSum.cpp.i:
 	$(MAKE) -f CMakeFiles/LazyPropSegmentTree_IntervalSum.dir/build.make CMakeFiles/LazyPropSegmentTree_IntervalSum.dir/DataStructures/Implementation/LazyPropSegmentTree_IntervalSum.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/LazyPropSegmentTree_IntervalSum.cpp.i
 .PHONY : DataStructures/Implementation/LazyPropSegmentTree_IntervalSum.cpp.i
 
 DataStructures/Implementation/LazyPropSegmentTree_IntervalSum.s: DataStructures/Implementation/LazyPropSegmentTree_IntervalSum.cpp.s
@@ -4644,116 +3276,34 @@ DataStructures/Implementation/LazyPropSegmentTree_IntervalSum.s: DataStructures/
 # target to generate assembly for a file
 DataStructures/Implementation/LazyPropSegmentTree_IntervalSum.cpp.s:
 	$(MAKE) -f CMakeFiles/LazyPropSegmentTree_IntervalSum.dir/build.make CMakeFiles/LazyPropSegmentTree_IntervalSum.dir/DataStructures/Implementation/LazyPropSegmentTree_IntervalSum.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/LazyPropSegmentTree_IntervalSum.cpp.s
 .PHONY : DataStructures/Implementation/LazyPropSegmentTree_IntervalSum.cpp.s
 
-DataStructures/Implementation/MergeSortTree.o: DataStructures/Implementation/MergeSortTree.cpp.o
+DataStructures/Implementation/LiChaoSegmentTree.o: DataStructures/Implementation/LiChaoSegmentTree.cpp.o
 
-.PHONY : DataStructures/Implementation/MergeSortTree.o
-
-# target to build an object file
-DataStructures/Implementation/MergeSortTree.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/MergeSortTree.cpp.o
-.PHONY : DataStructures/Implementation/MergeSortTree.cpp.o
-
-DataStructures/Implementation/MergeSortTree.i: DataStructures/Implementation/MergeSortTree.cpp.i
-
-.PHONY : DataStructures/Implementation/MergeSortTree.i
-
-# target to preprocess a source file
-DataStructures/Implementation/MergeSortTree.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/MergeSortTree.cpp.i
-.PHONY : DataStructures/Implementation/MergeSortTree.cpp.i
-
-DataStructures/Implementation/MergeSortTree.s: DataStructures/Implementation/MergeSortTree.cpp.s
-
-.PHONY : DataStructures/Implementation/MergeSortTree.s
-
-# target to generate assembly for a file
-DataStructures/Implementation/MergeSortTree.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/MergeSortTree.cpp.s
-.PHONY : DataStructures/Implementation/MergeSortTree.cpp.s
-
-DataStructures/Implementation/PersistentSegmentTree.o: DataStructures/Implementation/PersistentSegmentTree.cpp.o
-
-.PHONY : DataStructures/Implementation/PersistentSegmentTree.o
+.PHONY : DataStructures/Implementation/LiChaoSegmentTree.o
 
 # target to build an object file
-DataStructures/Implementation/PersistentSegmentTree.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/PersistentSegmentTree.cpp.o
-.PHONY : DataStructures/Implementation/PersistentSegmentTree.cpp.o
+DataStructures/Implementation/LiChaoSegmentTree.cpp.o:
+	$(MAKE) -f CMakeFiles/LiChaoSegmentTree.dir/build.make CMakeFiles/LiChaoSegmentTree.dir/DataStructures/Implementation/LiChaoSegmentTree.cpp.o
+.PHONY : DataStructures/Implementation/LiChaoSegmentTree.cpp.o
 
-DataStructures/Implementation/PersistentSegmentTree.i: DataStructures/Implementation/PersistentSegmentTree.cpp.i
+DataStructures/Implementation/LiChaoSegmentTree.i: DataStructures/Implementation/LiChaoSegmentTree.cpp.i
 
-.PHONY : DataStructures/Implementation/PersistentSegmentTree.i
-
-# target to preprocess a source file
-DataStructures/Implementation/PersistentSegmentTree.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/PersistentSegmentTree.cpp.i
-.PHONY : DataStructures/Implementation/PersistentSegmentTree.cpp.i
-
-DataStructures/Implementation/PersistentSegmentTree.s: DataStructures/Implementation/PersistentSegmentTree.cpp.s
-
-.PHONY : DataStructures/Implementation/PersistentSegmentTree.s
-
-# target to generate assembly for a file
-DataStructures/Implementation/PersistentSegmentTree.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/PersistentSegmentTree.cpp.s
-.PHONY : DataStructures/Implementation/PersistentSegmentTree.cpp.s
-
-DataStructures/Implementation/PersistentSegmentTreeWithoutPointers.o: DataStructures/Implementation/PersistentSegmentTreeWithoutPointers.cpp.o
-
-.PHONY : DataStructures/Implementation/PersistentSegmentTreeWithoutPointers.o
-
-# target to build an object file
-DataStructures/Implementation/PersistentSegmentTreeWithoutPointers.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/PersistentSegmentTreeWithoutPointers.cpp.o
-.PHONY : DataStructures/Implementation/PersistentSegmentTreeWithoutPointers.cpp.o
-
-DataStructures/Implementation/PersistentSegmentTreeWithoutPointers.i: DataStructures/Implementation/PersistentSegmentTreeWithoutPointers.cpp.i
-
-.PHONY : DataStructures/Implementation/PersistentSegmentTreeWithoutPointers.i
+.PHONY : DataStructures/Implementation/LiChaoSegmentTree.i
 
 # target to preprocess a source file
-DataStructures/Implementation/PersistentSegmentTreeWithoutPointers.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/PersistentSegmentTreeWithoutPointers.cpp.i
-.PHONY : DataStructures/Implementation/PersistentSegmentTreeWithoutPointers.cpp.i
+DataStructures/Implementation/LiChaoSegmentTree.cpp.i:
+	$(MAKE) -f CMakeFiles/LiChaoSegmentTree.dir/build.make CMakeFiles/LiChaoSegmentTree.dir/DataStructures/Implementation/LiChaoSegmentTree.cpp.i
+.PHONY : DataStructures/Implementation/LiChaoSegmentTree.cpp.i
 
-DataStructures/Implementation/PersistentSegmentTreeWithoutPointers.s: DataStructures/Implementation/PersistentSegmentTreeWithoutPointers.cpp.s
+DataStructures/Implementation/LiChaoSegmentTree.s: DataStructures/Implementation/LiChaoSegmentTree.cpp.s
 
-.PHONY : DataStructures/Implementation/PersistentSegmentTreeWithoutPointers.s
-
-# target to generate assembly for a file
-DataStructures/Implementation/PersistentSegmentTreeWithoutPointers.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/PersistentSegmentTreeWithoutPointers.cpp.s
-.PHONY : DataStructures/Implementation/PersistentSegmentTreeWithoutPointers.cpp.s
-
-DataStructures/Implementation/Pointers.o: DataStructures/Implementation/Pointers.cpp.o
-
-.PHONY : DataStructures/Implementation/Pointers.o
-
-# target to build an object file
-DataStructures/Implementation/Pointers.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/Pointers.cpp.o
-.PHONY : DataStructures/Implementation/Pointers.cpp.o
-
-DataStructures/Implementation/Pointers.i: DataStructures/Implementation/Pointers.cpp.i
-
-.PHONY : DataStructures/Implementation/Pointers.i
-
-# target to preprocess a source file
-DataStructures/Implementation/Pointers.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/Pointers.cpp.i
-.PHONY : DataStructures/Implementation/Pointers.cpp.i
-
-DataStructures/Implementation/Pointers.s: DataStructures/Implementation/Pointers.cpp.s
-
-.PHONY : DataStructures/Implementation/Pointers.s
+.PHONY : DataStructures/Implementation/LiChaoSegmentTree.s
 
 # target to generate assembly for a file
-DataStructures/Implementation/Pointers.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/Pointers.cpp.s
-.PHONY : DataStructures/Implementation/Pointers.cpp.s
+DataStructures/Implementation/LiChaoSegmentTree.cpp.s:
+	$(MAKE) -f CMakeFiles/LiChaoSegmentTree.dir/build.make CMakeFiles/LiChaoSegmentTree.dir/DataStructures/Implementation/LiChaoSegmentTree.cpp.s
+.PHONY : DataStructures/Implementation/LiChaoSegmentTree.cpp.s
 
 DataStructures/Implementation/RangeQueryAndUpdates_PrefixTrick.o: DataStructures/Implementation/RangeQueryAndUpdates_PrefixTrick.cpp.o
 
@@ -4762,7 +3312,6 @@ DataStructures/Implementation/RangeQueryAndUpdates_PrefixTrick.o: DataStructures
 # target to build an object file
 DataStructures/Implementation/RangeQueryAndUpdates_PrefixTrick.cpp.o:
 	$(MAKE) -f CMakeFiles/RangeQueryAndUpdates_PrefixTrick.dir/build.make CMakeFiles/RangeQueryAndUpdates_PrefixTrick.dir/DataStructures/Implementation/RangeQueryAndUpdates_PrefixTrick.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/RangeQueryAndUpdates_PrefixTrick.cpp.o
 .PHONY : DataStructures/Implementation/RangeQueryAndUpdates_PrefixTrick.cpp.o
 
 DataStructures/Implementation/RangeQueryAndUpdates_PrefixTrick.i: DataStructures/Implementation/RangeQueryAndUpdates_PrefixTrick.cpp.i
@@ -4772,7 +3321,6 @@ DataStructures/Implementation/RangeQueryAndUpdates_PrefixTrick.i: DataStructures
 # target to preprocess a source file
 DataStructures/Implementation/RangeQueryAndUpdates_PrefixTrick.cpp.i:
 	$(MAKE) -f CMakeFiles/RangeQueryAndUpdates_PrefixTrick.dir/build.make CMakeFiles/RangeQueryAndUpdates_PrefixTrick.dir/DataStructures/Implementation/RangeQueryAndUpdates_PrefixTrick.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/RangeQueryAndUpdates_PrefixTrick.cpp.i
 .PHONY : DataStructures/Implementation/RangeQueryAndUpdates_PrefixTrick.cpp.i
 
 DataStructures/Implementation/RangeQueryAndUpdates_PrefixTrick.s: DataStructures/Implementation/RangeQueryAndUpdates_PrefixTrick.cpp.s
@@ -4782,35 +3330,7 @@ DataStructures/Implementation/RangeQueryAndUpdates_PrefixTrick.s: DataStructures
 # target to generate assembly for a file
 DataStructures/Implementation/RangeQueryAndUpdates_PrefixTrick.cpp.s:
 	$(MAKE) -f CMakeFiles/RangeQueryAndUpdates_PrefixTrick.dir/build.make CMakeFiles/RangeQueryAndUpdates_PrefixTrick.dir/DataStructures/Implementation/RangeQueryAndUpdates_PrefixTrick.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/RangeQueryAndUpdates_PrefixTrick.cpp.s
 .PHONY : DataStructures/Implementation/RangeQueryAndUpdates_PrefixTrick.cpp.s
-
-DataStructures/Implementation/SegmentTree_RMQ.o: DataStructures/Implementation/SegmentTree_RMQ.cpp.o
-
-.PHONY : DataStructures/Implementation/SegmentTree_RMQ.o
-
-# target to build an object file
-DataStructures/Implementation/SegmentTree_RMQ.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/SegmentTree_RMQ.cpp.o
-.PHONY : DataStructures/Implementation/SegmentTree_RMQ.cpp.o
-
-DataStructures/Implementation/SegmentTree_RMQ.i: DataStructures/Implementation/SegmentTree_RMQ.cpp.i
-
-.PHONY : DataStructures/Implementation/SegmentTree_RMQ.i
-
-# target to preprocess a source file
-DataStructures/Implementation/SegmentTree_RMQ.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/SegmentTree_RMQ.cpp.i
-.PHONY : DataStructures/Implementation/SegmentTree_RMQ.cpp.i
-
-DataStructures/Implementation/SegmentTree_RMQ.s: DataStructures/Implementation/SegmentTree_RMQ.cpp.s
-
-.PHONY : DataStructures/Implementation/SegmentTree_RMQ.s
-
-# target to generate assembly for a file
-DataStructures/Implementation/SegmentTree_RMQ.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/SegmentTree_RMQ.cpp.s
-.PHONY : DataStructures/Implementation/SegmentTree_RMQ.cpp.s
 
 DataStructures/Implementation/SqrtDecomposition_IntervalSum.o: DataStructures/Implementation/SqrtDecomposition_IntervalSum.cpp.o
 
@@ -4818,7 +3338,6 @@ DataStructures/Implementation/SqrtDecomposition_IntervalSum.o: DataStructures/Im
 
 # target to build an object file
 DataStructures/Implementation/SqrtDecomposition_IntervalSum.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/SqrtDecomposition_IntervalSum.cpp.o
 	$(MAKE) -f CMakeFiles/SqrtDecomposition_IntervalSum.dir/build.make CMakeFiles/SqrtDecomposition_IntervalSum.dir/DataStructures/Implementation/SqrtDecomposition_IntervalSum.cpp.o
 .PHONY : DataStructures/Implementation/SqrtDecomposition_IntervalSum.cpp.o
 
@@ -4828,7 +3347,6 @@ DataStructures/Implementation/SqrtDecomposition_IntervalSum.i: DataStructures/Im
 
 # target to preprocess a source file
 DataStructures/Implementation/SqrtDecomposition_IntervalSum.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/SqrtDecomposition_IntervalSum.cpp.i
 	$(MAKE) -f CMakeFiles/SqrtDecomposition_IntervalSum.dir/build.make CMakeFiles/SqrtDecomposition_IntervalSum.dir/DataStructures/Implementation/SqrtDecomposition_IntervalSum.cpp.i
 .PHONY : DataStructures/Implementation/SqrtDecomposition_IntervalSum.cpp.i
 
@@ -4838,7 +3356,6 @@ DataStructures/Implementation/SqrtDecomposition_IntervalSum.s: DataStructures/Im
 
 # target to generate assembly for a file
 DataStructures/Implementation/SqrtDecomposition_IntervalSum.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/SqrtDecomposition_IntervalSum.cpp.s
 	$(MAKE) -f CMakeFiles/SqrtDecomposition_IntervalSum.dir/build.make CMakeFiles/SqrtDecomposition_IntervalSum.dir/DataStructures/Implementation/SqrtDecomposition_IntervalSum.cpp.s
 .PHONY : DataStructures/Implementation/SqrtDecomposition_IntervalSum.cpp.s
 
@@ -4849,7 +3366,6 @@ DataStructures/Implementation/Treap.o: DataStructures/Implementation/Treap.cpp.o
 # target to build an object file
 DataStructures/Implementation/Treap.cpp.o:
 	$(MAKE) -f CMakeFiles/Treap.dir/build.make CMakeFiles/Treap.dir/DataStructures/Implementation/Treap.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/Treap.cpp.o
 .PHONY : DataStructures/Implementation/Treap.cpp.o
 
 DataStructures/Implementation/Treap.i: DataStructures/Implementation/Treap.cpp.i
@@ -4859,7 +3375,6 @@ DataStructures/Implementation/Treap.i: DataStructures/Implementation/Treap.cpp.i
 # target to preprocess a source file
 DataStructures/Implementation/Treap.cpp.i:
 	$(MAKE) -f CMakeFiles/Treap.dir/build.make CMakeFiles/Treap.dir/DataStructures/Implementation/Treap.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/Treap.cpp.i
 .PHONY : DataStructures/Implementation/Treap.cpp.i
 
 DataStructures/Implementation/Treap.s: DataStructures/Implementation/Treap.cpp.s
@@ -4869,7 +3384,6 @@ DataStructures/Implementation/Treap.s: DataStructures/Implementation/Treap.cpp.s
 # target to generate assembly for a file
 DataStructures/Implementation/Treap.cpp.s:
 	$(MAKE) -f CMakeFiles/Treap.dir/build.make CMakeFiles/Treap.dir/DataStructures/Implementation/Treap.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/Treap.cpp.s
 .PHONY : DataStructures/Implementation/Treap.cpp.s
 
 DataStructures/Implementation/Tries.o: DataStructures/Implementation/Tries.cpp.o
@@ -4878,7 +3392,6 @@ DataStructures/Implementation/Tries.o: DataStructures/Implementation/Tries.cpp.o
 
 # target to build an object file
 DataStructures/Implementation/Tries.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/Tries.cpp.o
 	$(MAKE) -f CMakeFiles/Tries.dir/build.make CMakeFiles/Tries.dir/DataStructures/Implementation/Tries.cpp.o
 .PHONY : DataStructures/Implementation/Tries.cpp.o
 
@@ -4888,7 +3401,6 @@ DataStructures/Implementation/Tries.i: DataStructures/Implementation/Tries.cpp.i
 
 # target to preprocess a source file
 DataStructures/Implementation/Tries.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/Tries.cpp.i
 	$(MAKE) -f CMakeFiles/Tries.dir/build.make CMakeFiles/Tries.dir/DataStructures/Implementation/Tries.cpp.i
 .PHONY : DataStructures/Implementation/Tries.cpp.i
 
@@ -4898,7 +3410,6 @@ DataStructures/Implementation/Tries.s: DataStructures/Implementation/Tries.cpp.s
 
 # target to generate assembly for a file
 DataStructures/Implementation/Tries.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/Tries.cpp.s
 	$(MAKE) -f CMakeFiles/Tries.dir/build.make CMakeFiles/Tries.dir/DataStructures/Implementation/Tries.cpp.s
 .PHONY : DataStructures/Implementation/Tries.cpp.s
 
@@ -4909,7 +3420,6 @@ DataStructures/KQuery2_alternate.o: DataStructures/KQuery2_alternate.cpp.o
 # target to build an object file
 DataStructures/KQuery2_alternate.cpp.o:
 	$(MAKE) -f CMakeFiles/KQuery2_alternate.dir/build.make CMakeFiles/KQuery2_alternate.dir/DataStructures/KQuery2_alternate.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/KQuery2_alternate.cpp.o
 .PHONY : DataStructures/KQuery2_alternate.cpp.o
 
 DataStructures/KQuery2_alternate.i: DataStructures/KQuery2_alternate.cpp.i
@@ -4919,7 +3429,6 @@ DataStructures/KQuery2_alternate.i: DataStructures/KQuery2_alternate.cpp.i
 # target to preprocess a source file
 DataStructures/KQuery2_alternate.cpp.i:
 	$(MAKE) -f CMakeFiles/KQuery2_alternate.dir/build.make CMakeFiles/KQuery2_alternate.dir/DataStructures/KQuery2_alternate.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/KQuery2_alternate.cpp.i
 .PHONY : DataStructures/KQuery2_alternate.cpp.i
 
 DataStructures/KQuery2_alternate.s: DataStructures/KQuery2_alternate.cpp.s
@@ -4929,7 +3438,6 @@ DataStructures/KQuery2_alternate.s: DataStructures/KQuery2_alternate.cpp.s
 # target to generate assembly for a file
 DataStructures/KQuery2_alternate.cpp.s:
 	$(MAKE) -f CMakeFiles/KQuery2_alternate.dir/build.make CMakeFiles/KQuery2_alternate.dir/DataStructures/KQuery2_alternate.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/KQuery2_alternate.cpp.s
 .PHONY : DataStructures/KQuery2_alternate.cpp.s
 
 DataStructures/LiveArchive_XorSum.o: DataStructures/LiveArchive_XorSum.cpp.o
@@ -4939,7 +3447,6 @@ DataStructures/LiveArchive_XorSum.o: DataStructures/LiveArchive_XorSum.cpp.o
 # target to build an object file
 DataStructures/LiveArchive_XorSum.cpp.o:
 	$(MAKE) -f CMakeFiles/LiveArchive_XorSum.dir/build.make CMakeFiles/LiveArchive_XorSum.dir/DataStructures/LiveArchive_XorSum.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/LiveArchive_XorSum.cpp.o
 .PHONY : DataStructures/LiveArchive_XorSum.cpp.o
 
 DataStructures/LiveArchive_XorSum.i: DataStructures/LiveArchive_XorSum.cpp.i
@@ -4949,7 +3456,6 @@ DataStructures/LiveArchive_XorSum.i: DataStructures/LiveArchive_XorSum.cpp.i
 # target to preprocess a source file
 DataStructures/LiveArchive_XorSum.cpp.i:
 	$(MAKE) -f CMakeFiles/LiveArchive_XorSum.dir/build.make CMakeFiles/LiveArchive_XorSum.dir/DataStructures/LiveArchive_XorSum.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/LiveArchive_XorSum.cpp.i
 .PHONY : DataStructures/LiveArchive_XorSum.cpp.i
 
 DataStructures/LiveArchive_XorSum.s: DataStructures/LiveArchive_XorSum.cpp.s
@@ -4959,8 +3465,34 @@ DataStructures/LiveArchive_XorSum.s: DataStructures/LiveArchive_XorSum.cpp.s
 # target to generate assembly for a file
 DataStructures/LiveArchive_XorSum.cpp.s:
 	$(MAKE) -f CMakeFiles/LiveArchive_XorSum.dir/build.make CMakeFiles/LiveArchive_XorSum.dir/DataStructures/LiveArchive_XorSum.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/LiveArchive_XorSum.cpp.s
 .PHONY : DataStructures/LiveArchive_XorSum.cpp.s
+
+DataStructures/SPOJ_ACQUIRE.o: DataStructures/SPOJ_ACQUIRE.cpp.o
+
+.PHONY : DataStructures/SPOJ_ACQUIRE.o
+
+# target to build an object file
+DataStructures/SPOJ_ACQUIRE.cpp.o:
+	$(MAKE) -f CMakeFiles/SPOJ_ACQUIRE.dir/build.make CMakeFiles/SPOJ_ACQUIRE.dir/DataStructures/SPOJ_ACQUIRE.cpp.o
+.PHONY : DataStructures/SPOJ_ACQUIRE.cpp.o
+
+DataStructures/SPOJ_ACQUIRE.i: DataStructures/SPOJ_ACQUIRE.cpp.i
+
+.PHONY : DataStructures/SPOJ_ACQUIRE.i
+
+# target to preprocess a source file
+DataStructures/SPOJ_ACQUIRE.cpp.i:
+	$(MAKE) -f CMakeFiles/SPOJ_ACQUIRE.dir/build.make CMakeFiles/SPOJ_ACQUIRE.dir/DataStructures/SPOJ_ACQUIRE.cpp.i
+.PHONY : DataStructures/SPOJ_ACQUIRE.cpp.i
+
+DataStructures/SPOJ_ACQUIRE.s: DataStructures/SPOJ_ACQUIRE.cpp.s
+
+.PHONY : DataStructures/SPOJ_ACQUIRE.s
+
+# target to generate assembly for a file
+DataStructures/SPOJ_ACQUIRE.cpp.s:
+	$(MAKE) -f CMakeFiles/SPOJ_ACQUIRE.dir/build.make CMakeFiles/SPOJ_ACQUIRE.dir/DataStructures/SPOJ_ACQUIRE.cpp.s
+.PHONY : DataStructures/SPOJ_ACQUIRE.cpp.s
 
 DataStructures/SPOJ_COT.o: DataStructures/SPOJ_COT.cpp.o
 
@@ -4969,7 +3501,6 @@ DataStructures/SPOJ_COT.o: DataStructures/SPOJ_COT.cpp.o
 # target to build an object file
 DataStructures/SPOJ_COT.cpp.o:
 	$(MAKE) -f CMakeFiles/SPOJ_COT.dir/build.make CMakeFiles/SPOJ_COT.dir/DataStructures/SPOJ_COT.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_COT.cpp.o
 .PHONY : DataStructures/SPOJ_COT.cpp.o
 
 DataStructures/SPOJ_COT.i: DataStructures/SPOJ_COT.cpp.i
@@ -4979,7 +3510,6 @@ DataStructures/SPOJ_COT.i: DataStructures/SPOJ_COT.cpp.i
 # target to preprocess a source file
 DataStructures/SPOJ_COT.cpp.i:
 	$(MAKE) -f CMakeFiles/SPOJ_COT.dir/build.make CMakeFiles/SPOJ_COT.dir/DataStructures/SPOJ_COT.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_COT.cpp.i
 .PHONY : DataStructures/SPOJ_COT.cpp.i
 
 DataStructures/SPOJ_COT.s: DataStructures/SPOJ_COT.cpp.s
@@ -4989,7 +3519,6 @@ DataStructures/SPOJ_COT.s: DataStructures/SPOJ_COT.cpp.s
 # target to generate assembly for a file
 DataStructures/SPOJ_COT.cpp.s:
 	$(MAKE) -f CMakeFiles/SPOJ_COT.dir/build.make CMakeFiles/SPOJ_COT.dir/DataStructures/SPOJ_COT.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_COT.cpp.s
 .PHONY : DataStructures/SPOJ_COT.cpp.s
 
 DataStructures/SPOJ_COT2.o: DataStructures/SPOJ_COT2.cpp.o
@@ -4999,7 +3528,6 @@ DataStructures/SPOJ_COT2.o: DataStructures/SPOJ_COT2.cpp.o
 # target to build an object file
 DataStructures/SPOJ_COT2.cpp.o:
 	$(MAKE) -f CMakeFiles/SPOJ_COT2.dir/build.make CMakeFiles/SPOJ_COT2.dir/DataStructures/SPOJ_COT2.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_COT2.cpp.o
 .PHONY : DataStructures/SPOJ_COT2.cpp.o
 
 DataStructures/SPOJ_COT2.i: DataStructures/SPOJ_COT2.cpp.i
@@ -5009,7 +3537,6 @@ DataStructures/SPOJ_COT2.i: DataStructures/SPOJ_COT2.cpp.i
 # target to preprocess a source file
 DataStructures/SPOJ_COT2.cpp.i:
 	$(MAKE) -f CMakeFiles/SPOJ_COT2.dir/build.make CMakeFiles/SPOJ_COT2.dir/DataStructures/SPOJ_COT2.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_COT2.cpp.i
 .PHONY : DataStructures/SPOJ_COT2.cpp.i
 
 DataStructures/SPOJ_COT2.s: DataStructures/SPOJ_COT2.cpp.s
@@ -5019,35 +3546,7 @@ DataStructures/SPOJ_COT2.s: DataStructures/SPOJ_COT2.cpp.s
 # target to generate assembly for a file
 DataStructures/SPOJ_COT2.cpp.s:
 	$(MAKE) -f CMakeFiles/SPOJ_COT2.dir/build.make CMakeFiles/SPOJ_COT2.dir/DataStructures/SPOJ_COT2.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_COT2.cpp.s
 .PHONY : DataStructures/SPOJ_COT2.cpp.s
-
-DataStructures/SPOJ_DQuery.o: DataStructures/SPOJ_DQuery.cpp.o
-
-.PHONY : DataStructures/SPOJ_DQuery.o
-
-# target to build an object file
-DataStructures/SPOJ_DQuery.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_DQuery.cpp.o
-.PHONY : DataStructures/SPOJ_DQuery.cpp.o
-
-DataStructures/SPOJ_DQuery.i: DataStructures/SPOJ_DQuery.cpp.i
-
-.PHONY : DataStructures/SPOJ_DQuery.i
-
-# target to preprocess a source file
-DataStructures/SPOJ_DQuery.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_DQuery.cpp.i
-.PHONY : DataStructures/SPOJ_DQuery.cpp.i
-
-DataStructures/SPOJ_DQuery.s: DataStructures/SPOJ_DQuery.cpp.s
-
-.PHONY : DataStructures/SPOJ_DQuery.s
-
-# target to generate assembly for a file
-DataStructures/SPOJ_DQuery.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_DQuery.cpp.s
-.PHONY : DataStructures/SPOJ_DQuery.cpp.s
 
 DataStructures/SPOJ_DQuery_MosAlgo.o: DataStructures/SPOJ_DQuery_MosAlgo.cpp.o
 
@@ -5056,7 +3555,6 @@ DataStructures/SPOJ_DQuery_MosAlgo.o: DataStructures/SPOJ_DQuery_MosAlgo.cpp.o
 # target to build an object file
 DataStructures/SPOJ_DQuery_MosAlgo.cpp.o:
 	$(MAKE) -f CMakeFiles/SPOJ_DQuery_MosAlgo.dir/build.make CMakeFiles/SPOJ_DQuery_MosAlgo.dir/DataStructures/SPOJ_DQuery_MosAlgo.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_DQuery_MosAlgo.cpp.o
 .PHONY : DataStructures/SPOJ_DQuery_MosAlgo.cpp.o
 
 DataStructures/SPOJ_DQuery_MosAlgo.i: DataStructures/SPOJ_DQuery_MosAlgo.cpp.i
@@ -5066,7 +3564,6 @@ DataStructures/SPOJ_DQuery_MosAlgo.i: DataStructures/SPOJ_DQuery_MosAlgo.cpp.i
 # target to preprocess a source file
 DataStructures/SPOJ_DQuery_MosAlgo.cpp.i:
 	$(MAKE) -f CMakeFiles/SPOJ_DQuery_MosAlgo.dir/build.make CMakeFiles/SPOJ_DQuery_MosAlgo.dir/DataStructures/SPOJ_DQuery_MosAlgo.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_DQuery_MosAlgo.cpp.i
 .PHONY : DataStructures/SPOJ_DQuery_MosAlgo.cpp.i
 
 DataStructures/SPOJ_DQuery_MosAlgo.s: DataStructures/SPOJ_DQuery_MosAlgo.cpp.s
@@ -5076,7 +3573,6 @@ DataStructures/SPOJ_DQuery_MosAlgo.s: DataStructures/SPOJ_DQuery_MosAlgo.cpp.s
 # target to generate assembly for a file
 DataStructures/SPOJ_DQuery_MosAlgo.cpp.s:
 	$(MAKE) -f CMakeFiles/SPOJ_DQuery_MosAlgo.dir/build.make CMakeFiles/SPOJ_DQuery_MosAlgo.dir/DataStructures/SPOJ_DQuery_MosAlgo.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_DQuery_MosAlgo.cpp.s
 .PHONY : DataStructures/SPOJ_DQuery_MosAlgo.cpp.s
 
 DataStructures/SPOJ_DQuery_Persistence.o: DataStructures/SPOJ_DQuery_Persistence.cpp.o
@@ -5086,7 +3582,6 @@ DataStructures/SPOJ_DQuery_Persistence.o: DataStructures/SPOJ_DQuery_Persistence
 # target to build an object file
 DataStructures/SPOJ_DQuery_Persistence.cpp.o:
 	$(MAKE) -f CMakeFiles/SPOJ_DQuery_Persistence.dir/build.make CMakeFiles/SPOJ_DQuery_Persistence.dir/DataStructures/SPOJ_DQuery_Persistence.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_DQuery_Persistence.cpp.o
 .PHONY : DataStructures/SPOJ_DQuery_Persistence.cpp.o
 
 DataStructures/SPOJ_DQuery_Persistence.i: DataStructures/SPOJ_DQuery_Persistence.cpp.i
@@ -5096,7 +3591,6 @@ DataStructures/SPOJ_DQuery_Persistence.i: DataStructures/SPOJ_DQuery_Persistence
 # target to preprocess a source file
 DataStructures/SPOJ_DQuery_Persistence.cpp.i:
 	$(MAKE) -f CMakeFiles/SPOJ_DQuery_Persistence.dir/build.make CMakeFiles/SPOJ_DQuery_Persistence.dir/DataStructures/SPOJ_DQuery_Persistence.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_DQuery_Persistence.cpp.i
 .PHONY : DataStructures/SPOJ_DQuery_Persistence.cpp.i
 
 DataStructures/SPOJ_DQuery_Persistence.s: DataStructures/SPOJ_DQuery_Persistence.cpp.s
@@ -5106,7 +3600,6 @@ DataStructures/SPOJ_DQuery_Persistence.s: DataStructures/SPOJ_DQuery_Persistence
 # target to generate assembly for a file
 DataStructures/SPOJ_DQuery_Persistence.cpp.s:
 	$(MAKE) -f CMakeFiles/SPOJ_DQuery_Persistence.dir/build.make CMakeFiles/SPOJ_DQuery_Persistence.dir/DataStructures/SPOJ_DQuery_Persistence.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_DQuery_Persistence.cpp.s
 .PHONY : DataStructures/SPOJ_DQuery_Persistence.cpp.s
 
 DataStructures/SPOJ_GSS1.o: DataStructures/SPOJ_GSS1.cpp.o
@@ -5115,7 +3608,6 @@ DataStructures/SPOJ_GSS1.o: DataStructures/SPOJ_GSS1.cpp.o
 
 # target to build an object file
 DataStructures/SPOJ_GSS1.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_GSS1.cpp.o
 	$(MAKE) -f CMakeFiles/SPOJ_GSS1.dir/build.make CMakeFiles/SPOJ_GSS1.dir/DataStructures/SPOJ_GSS1.cpp.o
 .PHONY : DataStructures/SPOJ_GSS1.cpp.o
 
@@ -5125,7 +3617,6 @@ DataStructures/SPOJ_GSS1.i: DataStructures/SPOJ_GSS1.cpp.i
 
 # target to preprocess a source file
 DataStructures/SPOJ_GSS1.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_GSS1.cpp.i
 	$(MAKE) -f CMakeFiles/SPOJ_GSS1.dir/build.make CMakeFiles/SPOJ_GSS1.dir/DataStructures/SPOJ_GSS1.cpp.i
 .PHONY : DataStructures/SPOJ_GSS1.cpp.i
 
@@ -5135,7 +3626,6 @@ DataStructures/SPOJ_GSS1.s: DataStructures/SPOJ_GSS1.cpp.s
 
 # target to generate assembly for a file
 DataStructures/SPOJ_GSS1.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_GSS1.cpp.s
 	$(MAKE) -f CMakeFiles/SPOJ_GSS1.dir/build.make CMakeFiles/SPOJ_GSS1.dir/DataStructures/SPOJ_GSS1.cpp.s
 .PHONY : DataStructures/SPOJ_GSS1.cpp.s
 
@@ -5146,7 +3636,6 @@ DataStructures/SPOJ_GSS2.o: DataStructures/SPOJ_GSS2.cpp.o
 # target to build an object file
 DataStructures/SPOJ_GSS2.cpp.o:
 	$(MAKE) -f CMakeFiles/SPOJ_GSS2.dir/build.make CMakeFiles/SPOJ_GSS2.dir/DataStructures/SPOJ_GSS2.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_GSS2.cpp.o
 .PHONY : DataStructures/SPOJ_GSS2.cpp.o
 
 DataStructures/SPOJ_GSS2.i: DataStructures/SPOJ_GSS2.cpp.i
@@ -5156,7 +3645,6 @@ DataStructures/SPOJ_GSS2.i: DataStructures/SPOJ_GSS2.cpp.i
 # target to preprocess a source file
 DataStructures/SPOJ_GSS2.cpp.i:
 	$(MAKE) -f CMakeFiles/SPOJ_GSS2.dir/build.make CMakeFiles/SPOJ_GSS2.dir/DataStructures/SPOJ_GSS2.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_GSS2.cpp.i
 .PHONY : DataStructures/SPOJ_GSS2.cpp.i
 
 DataStructures/SPOJ_GSS2.s: DataStructures/SPOJ_GSS2.cpp.s
@@ -5166,7 +3654,6 @@ DataStructures/SPOJ_GSS2.s: DataStructures/SPOJ_GSS2.cpp.s
 # target to generate assembly for a file
 DataStructures/SPOJ_GSS2.cpp.s:
 	$(MAKE) -f CMakeFiles/SPOJ_GSS2.dir/build.make CMakeFiles/SPOJ_GSS2.dir/DataStructures/SPOJ_GSS2.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_GSS2.cpp.s
 .PHONY : DataStructures/SPOJ_GSS2.cpp.s
 
 DataStructures/SPOJ_GSS3.o: DataStructures/SPOJ_GSS3.cpp.o
@@ -5176,7 +3663,6 @@ DataStructures/SPOJ_GSS3.o: DataStructures/SPOJ_GSS3.cpp.o
 # target to build an object file
 DataStructures/SPOJ_GSS3.cpp.o:
 	$(MAKE) -f CMakeFiles/SPOJ_GSS3.dir/build.make CMakeFiles/SPOJ_GSS3.dir/DataStructures/SPOJ_GSS3.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_GSS3.cpp.o
 .PHONY : DataStructures/SPOJ_GSS3.cpp.o
 
 DataStructures/SPOJ_GSS3.i: DataStructures/SPOJ_GSS3.cpp.i
@@ -5186,7 +3672,6 @@ DataStructures/SPOJ_GSS3.i: DataStructures/SPOJ_GSS3.cpp.i
 # target to preprocess a source file
 DataStructures/SPOJ_GSS3.cpp.i:
 	$(MAKE) -f CMakeFiles/SPOJ_GSS3.dir/build.make CMakeFiles/SPOJ_GSS3.dir/DataStructures/SPOJ_GSS3.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_GSS3.cpp.i
 .PHONY : DataStructures/SPOJ_GSS3.cpp.i
 
 DataStructures/SPOJ_GSS3.s: DataStructures/SPOJ_GSS3.cpp.s
@@ -5196,7 +3681,6 @@ DataStructures/SPOJ_GSS3.s: DataStructures/SPOJ_GSS3.cpp.s
 # target to generate assembly for a file
 DataStructures/SPOJ_GSS3.cpp.s:
 	$(MAKE) -f CMakeFiles/SPOJ_GSS3.dir/build.make CMakeFiles/SPOJ_GSS3.dir/DataStructures/SPOJ_GSS3.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_GSS3.cpp.s
 .PHONY : DataStructures/SPOJ_GSS3.cpp.s
 
 DataStructures/SPOJ_GSS4.o: DataStructures/SPOJ_GSS4.cpp.o
@@ -5206,7 +3690,6 @@ DataStructures/SPOJ_GSS4.o: DataStructures/SPOJ_GSS4.cpp.o
 # target to build an object file
 DataStructures/SPOJ_GSS4.cpp.o:
 	$(MAKE) -f CMakeFiles/SPOJ_GSS4.dir/build.make CMakeFiles/SPOJ_GSS4.dir/DataStructures/SPOJ_GSS4.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_GSS4.cpp.o
 .PHONY : DataStructures/SPOJ_GSS4.cpp.o
 
 DataStructures/SPOJ_GSS4.i: DataStructures/SPOJ_GSS4.cpp.i
@@ -5216,7 +3699,6 @@ DataStructures/SPOJ_GSS4.i: DataStructures/SPOJ_GSS4.cpp.i
 # target to preprocess a source file
 DataStructures/SPOJ_GSS4.cpp.i:
 	$(MAKE) -f CMakeFiles/SPOJ_GSS4.dir/build.make CMakeFiles/SPOJ_GSS4.dir/DataStructures/SPOJ_GSS4.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_GSS4.cpp.i
 .PHONY : DataStructures/SPOJ_GSS4.cpp.i
 
 DataStructures/SPOJ_GSS4.s: DataStructures/SPOJ_GSS4.cpp.s
@@ -5226,7 +3708,6 @@ DataStructures/SPOJ_GSS4.s: DataStructures/SPOJ_GSS4.cpp.s
 # target to generate assembly for a file
 DataStructures/SPOJ_GSS4.cpp.s:
 	$(MAKE) -f CMakeFiles/SPOJ_GSS4.dir/build.make CMakeFiles/SPOJ_GSS4.dir/DataStructures/SPOJ_GSS4.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_GSS4.cpp.s
 .PHONY : DataStructures/SPOJ_GSS4.cpp.s
 
 DataStructures/SPOJ_GSS5.o: DataStructures/SPOJ_GSS5.cpp.o
@@ -5236,7 +3717,6 @@ DataStructures/SPOJ_GSS5.o: DataStructures/SPOJ_GSS5.cpp.o
 # target to build an object file
 DataStructures/SPOJ_GSS5.cpp.o:
 	$(MAKE) -f CMakeFiles/SPOJ_GSS5.dir/build.make CMakeFiles/SPOJ_GSS5.dir/DataStructures/SPOJ_GSS5.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_GSS5.cpp.o
 .PHONY : DataStructures/SPOJ_GSS5.cpp.o
 
 DataStructures/SPOJ_GSS5.i: DataStructures/SPOJ_GSS5.cpp.i
@@ -5246,7 +3726,6 @@ DataStructures/SPOJ_GSS5.i: DataStructures/SPOJ_GSS5.cpp.i
 # target to preprocess a source file
 DataStructures/SPOJ_GSS5.cpp.i:
 	$(MAKE) -f CMakeFiles/SPOJ_GSS5.dir/build.make CMakeFiles/SPOJ_GSS5.dir/DataStructures/SPOJ_GSS5.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_GSS5.cpp.i
 .PHONY : DataStructures/SPOJ_GSS5.cpp.i
 
 DataStructures/SPOJ_GSS5.s: DataStructures/SPOJ_GSS5.cpp.s
@@ -5256,7 +3735,6 @@ DataStructures/SPOJ_GSS5.s: DataStructures/SPOJ_GSS5.cpp.s
 # target to generate assembly for a file
 DataStructures/SPOJ_GSS5.cpp.s:
 	$(MAKE) -f CMakeFiles/SPOJ_GSS5.dir/build.make CMakeFiles/SPOJ_GSS5.dir/DataStructures/SPOJ_GSS5.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_GSS5.cpp.s
 .PHONY : DataStructures/SPOJ_GSS5.cpp.s
 
 DataStructures/SPOJ_GSS6.o: DataStructures/SPOJ_GSS6.cpp.o
@@ -5266,7 +3744,6 @@ DataStructures/SPOJ_GSS6.o: DataStructures/SPOJ_GSS6.cpp.o
 # target to build an object file
 DataStructures/SPOJ_GSS6.cpp.o:
 	$(MAKE) -f CMakeFiles/SPOJ_GSS6.dir/build.make CMakeFiles/SPOJ_GSS6.dir/DataStructures/SPOJ_GSS6.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_GSS6.cpp.o
 .PHONY : DataStructures/SPOJ_GSS6.cpp.o
 
 DataStructures/SPOJ_GSS6.i: DataStructures/SPOJ_GSS6.cpp.i
@@ -5276,7 +3753,6 @@ DataStructures/SPOJ_GSS6.i: DataStructures/SPOJ_GSS6.cpp.i
 # target to preprocess a source file
 DataStructures/SPOJ_GSS6.cpp.i:
 	$(MAKE) -f CMakeFiles/SPOJ_GSS6.dir/build.make CMakeFiles/SPOJ_GSS6.dir/DataStructures/SPOJ_GSS6.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_GSS6.cpp.i
 .PHONY : DataStructures/SPOJ_GSS6.cpp.i
 
 DataStructures/SPOJ_GSS6.s: DataStructures/SPOJ_GSS6.cpp.s
@@ -5286,7 +3762,6 @@ DataStructures/SPOJ_GSS6.s: DataStructures/SPOJ_GSS6.cpp.s
 # target to generate assembly for a file
 DataStructures/SPOJ_GSS6.cpp.s:
 	$(MAKE) -f CMakeFiles/SPOJ_GSS6.dir/build.make CMakeFiles/SPOJ_GSS6.dir/DataStructures/SPOJ_GSS6.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_GSS6.cpp.s
 .PHONY : DataStructures/SPOJ_GSS6.cpp.s
 
 DataStructures/SPOJ_KQuery.o: DataStructures/SPOJ_KQuery.cpp.o
@@ -5296,7 +3771,6 @@ DataStructures/SPOJ_KQuery.o: DataStructures/SPOJ_KQuery.cpp.o
 # target to build an object file
 DataStructures/SPOJ_KQuery.cpp.o:
 	$(MAKE) -f CMakeFiles/SPOJ_KQuery.dir/build.make CMakeFiles/SPOJ_KQuery.dir/DataStructures/SPOJ_KQuery.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_KQuery.cpp.o
 .PHONY : DataStructures/SPOJ_KQuery.cpp.o
 
 DataStructures/SPOJ_KQuery.i: DataStructures/SPOJ_KQuery.cpp.i
@@ -5306,7 +3780,6 @@ DataStructures/SPOJ_KQuery.i: DataStructures/SPOJ_KQuery.cpp.i
 # target to preprocess a source file
 DataStructures/SPOJ_KQuery.cpp.i:
 	$(MAKE) -f CMakeFiles/SPOJ_KQuery.dir/build.make CMakeFiles/SPOJ_KQuery.dir/DataStructures/SPOJ_KQuery.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_KQuery.cpp.i
 .PHONY : DataStructures/SPOJ_KQuery.cpp.i
 
 DataStructures/SPOJ_KQuery.s: DataStructures/SPOJ_KQuery.cpp.s
@@ -5316,7 +3789,6 @@ DataStructures/SPOJ_KQuery.s: DataStructures/SPOJ_KQuery.cpp.s
 # target to generate assembly for a file
 DataStructures/SPOJ_KQuery.cpp.s:
 	$(MAKE) -f CMakeFiles/SPOJ_KQuery.dir/build.make CMakeFiles/SPOJ_KQuery.dir/DataStructures/SPOJ_KQuery.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_KQuery.cpp.s
 .PHONY : DataStructures/SPOJ_KQuery.cpp.s
 
 DataStructures/SPOJ_KQuery2.o: DataStructures/SPOJ_KQuery2.cpp.o
@@ -5326,7 +3798,6 @@ DataStructures/SPOJ_KQuery2.o: DataStructures/SPOJ_KQuery2.cpp.o
 # target to build an object file
 DataStructures/SPOJ_KQuery2.cpp.o:
 	$(MAKE) -f CMakeFiles/SPOJ_KQuery2.dir/build.make CMakeFiles/SPOJ_KQuery2.dir/DataStructures/SPOJ_KQuery2.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_KQuery2.cpp.o
 .PHONY : DataStructures/SPOJ_KQuery2.cpp.o
 
 DataStructures/SPOJ_KQuery2.i: DataStructures/SPOJ_KQuery2.cpp.i
@@ -5336,7 +3807,6 @@ DataStructures/SPOJ_KQuery2.i: DataStructures/SPOJ_KQuery2.cpp.i
 # target to preprocess a source file
 DataStructures/SPOJ_KQuery2.cpp.i:
 	$(MAKE) -f CMakeFiles/SPOJ_KQuery2.dir/build.make CMakeFiles/SPOJ_KQuery2.dir/DataStructures/SPOJ_KQuery2.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_KQuery2.cpp.i
 .PHONY : DataStructures/SPOJ_KQuery2.cpp.i
 
 DataStructures/SPOJ_KQuery2.s: DataStructures/SPOJ_KQuery2.cpp.s
@@ -5346,7 +3816,6 @@ DataStructures/SPOJ_KQuery2.s: DataStructures/SPOJ_KQuery2.cpp.s
 # target to generate assembly for a file
 DataStructures/SPOJ_KQuery2.cpp.s:
 	$(MAKE) -f CMakeFiles/SPOJ_KQuery2.dir/build.make CMakeFiles/SPOJ_KQuery2.dir/DataStructures/SPOJ_KQuery2.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_KQuery2.cpp.s
 .PHONY : DataStructures/SPOJ_KQuery2.cpp.s
 
 DataStructures/SPOJ_KQueryo.o: DataStructures/SPOJ_KQueryo.cpp.o
@@ -5356,7 +3825,6 @@ DataStructures/SPOJ_KQueryo.o: DataStructures/SPOJ_KQueryo.cpp.o
 # target to build an object file
 DataStructures/SPOJ_KQueryo.cpp.o:
 	$(MAKE) -f CMakeFiles/SPOJ_KQueryo.dir/build.make CMakeFiles/SPOJ_KQueryo.dir/DataStructures/SPOJ_KQueryo.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_KQueryo.cpp.o
 .PHONY : DataStructures/SPOJ_KQueryo.cpp.o
 
 DataStructures/SPOJ_KQueryo.i: DataStructures/SPOJ_KQueryo.cpp.i
@@ -5366,7 +3834,6 @@ DataStructures/SPOJ_KQueryo.i: DataStructures/SPOJ_KQueryo.cpp.i
 # target to preprocess a source file
 DataStructures/SPOJ_KQueryo.cpp.i:
 	$(MAKE) -f CMakeFiles/SPOJ_KQueryo.dir/build.make CMakeFiles/SPOJ_KQueryo.dir/DataStructures/SPOJ_KQueryo.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_KQueryo.cpp.i
 .PHONY : DataStructures/SPOJ_KQueryo.cpp.i
 
 DataStructures/SPOJ_KQueryo.s: DataStructures/SPOJ_KQueryo.cpp.s
@@ -5376,35 +3843,7 @@ DataStructures/SPOJ_KQueryo.s: DataStructures/SPOJ_KQueryo.cpp.s
 # target to generate assembly for a file
 DataStructures/SPOJ_KQueryo.cpp.s:
 	$(MAKE) -f CMakeFiles/SPOJ_KQueryo.dir/build.make CMakeFiles/SPOJ_KQueryo.dir/DataStructures/SPOJ_KQueryo.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_KQueryo.cpp.s
 .PHONY : DataStructures/SPOJ_KQueryo.cpp.s
-
-DataStructures/SPOJ_KthNumber.o: DataStructures/SPOJ_KthNumber.cpp.o
-
-.PHONY : DataStructures/SPOJ_KthNumber.o
-
-# target to build an object file
-DataStructures/SPOJ_KthNumber.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_KthNumber.cpp.o
-.PHONY : DataStructures/SPOJ_KthNumber.cpp.o
-
-DataStructures/SPOJ_KthNumber.i: DataStructures/SPOJ_KthNumber.cpp.i
-
-.PHONY : DataStructures/SPOJ_KthNumber.i
-
-# target to preprocess a source file
-DataStructures/SPOJ_KthNumber.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_KthNumber.cpp.i
-.PHONY : DataStructures/SPOJ_KthNumber.cpp.i
-
-DataStructures/SPOJ_KthNumber.s: DataStructures/SPOJ_KthNumber.cpp.s
-
-.PHONY : DataStructures/SPOJ_KthNumber.s
-
-# target to generate assembly for a file
-DataStructures/SPOJ_KthNumber.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_KthNumber.cpp.s
-.PHONY : DataStructures/SPOJ_KthNumber.cpp.s
 
 DataStructures/SPOJ_KthNumber_Persistence.o: DataStructures/SPOJ_KthNumber_Persistence.cpp.o
 
@@ -5413,7 +3852,6 @@ DataStructures/SPOJ_KthNumber_Persistence.o: DataStructures/SPOJ_KthNumber_Persi
 # target to build an object file
 DataStructures/SPOJ_KthNumber_Persistence.cpp.o:
 	$(MAKE) -f CMakeFiles/SPOJ_KthNumber_Persistence.dir/build.make CMakeFiles/SPOJ_KthNumber_Persistence.dir/DataStructures/SPOJ_KthNumber_Persistence.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_KthNumber_Persistence.cpp.o
 .PHONY : DataStructures/SPOJ_KthNumber_Persistence.cpp.o
 
 DataStructures/SPOJ_KthNumber_Persistence.i: DataStructures/SPOJ_KthNumber_Persistence.cpp.i
@@ -5423,7 +3861,6 @@ DataStructures/SPOJ_KthNumber_Persistence.i: DataStructures/SPOJ_KthNumber_Persi
 # target to preprocess a source file
 DataStructures/SPOJ_KthNumber_Persistence.cpp.i:
 	$(MAKE) -f CMakeFiles/SPOJ_KthNumber_Persistence.dir/build.make CMakeFiles/SPOJ_KthNumber_Persistence.dir/DataStructures/SPOJ_KthNumber_Persistence.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_KthNumber_Persistence.cpp.i
 .PHONY : DataStructures/SPOJ_KthNumber_Persistence.cpp.i
 
 DataStructures/SPOJ_KthNumber_Persistence.s: DataStructures/SPOJ_KthNumber_Persistence.cpp.s
@@ -5433,35 +3870,7 @@ DataStructures/SPOJ_KthNumber_Persistence.s: DataStructures/SPOJ_KthNumber_Persi
 # target to generate assembly for a file
 DataStructures/SPOJ_KthNumber_Persistence.cpp.s:
 	$(MAKE) -f CMakeFiles/SPOJ_KthNumber_Persistence.dir/build.make CMakeFiles/SPOJ_KthNumber_Persistence.dir/DataStructures/SPOJ_KthNumber_Persistence.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_KthNumber_Persistence.cpp.s
 .PHONY : DataStructures/SPOJ_KthNumber_Persistence.cpp.s
-
-DataStructures/SPOJ_OrderStatisticSet.o: DataStructures/SPOJ_OrderStatisticSet.cpp.o
-
-.PHONY : DataStructures/SPOJ_OrderStatisticSet.o
-
-# target to build an object file
-DataStructures/SPOJ_OrderStatisticSet.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_OrderStatisticSet.cpp.o
-.PHONY : DataStructures/SPOJ_OrderStatisticSet.cpp.o
-
-DataStructures/SPOJ_OrderStatisticSet.i: DataStructures/SPOJ_OrderStatisticSet.cpp.i
-
-.PHONY : DataStructures/SPOJ_OrderStatisticSet.i
-
-# target to preprocess a source file
-DataStructures/SPOJ_OrderStatisticSet.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_OrderStatisticSet.cpp.i
-.PHONY : DataStructures/SPOJ_OrderStatisticSet.cpp.i
-
-DataStructures/SPOJ_OrderStatisticSet.s: DataStructures/SPOJ_OrderStatisticSet.cpp.s
-
-.PHONY : DataStructures/SPOJ_OrderStatisticSet.s
-
-# target to generate assembly for a file
-DataStructures/SPOJ_OrderStatisticSet.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_OrderStatisticSet.cpp.s
-.PHONY : DataStructures/SPOJ_OrderStatisticSet.cpp.s
 
 DataStructures/SPOJ_OrderStatisticSet_Treap.o: DataStructures/SPOJ_OrderStatisticSet_Treap.cpp.o
 
@@ -5470,7 +3879,6 @@ DataStructures/SPOJ_OrderStatisticSet_Treap.o: DataStructures/SPOJ_OrderStatisti
 # target to build an object file
 DataStructures/SPOJ_OrderStatisticSet_Treap.cpp.o:
 	$(MAKE) -f CMakeFiles/SPOJ_OrderStatisticSet_Treap.dir/build.make CMakeFiles/SPOJ_OrderStatisticSet_Treap.dir/DataStructures/SPOJ_OrderStatisticSet_Treap.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_OrderStatisticSet_Treap.cpp.o
 .PHONY : DataStructures/SPOJ_OrderStatisticSet_Treap.cpp.o
 
 DataStructures/SPOJ_OrderStatisticSet_Treap.i: DataStructures/SPOJ_OrderStatisticSet_Treap.cpp.i
@@ -5480,7 +3888,6 @@ DataStructures/SPOJ_OrderStatisticSet_Treap.i: DataStructures/SPOJ_OrderStatisti
 # target to preprocess a source file
 DataStructures/SPOJ_OrderStatisticSet_Treap.cpp.i:
 	$(MAKE) -f CMakeFiles/SPOJ_OrderStatisticSet_Treap.dir/build.make CMakeFiles/SPOJ_OrderStatisticSet_Treap.dir/DataStructures/SPOJ_OrderStatisticSet_Treap.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_OrderStatisticSet_Treap.cpp.i
 .PHONY : DataStructures/SPOJ_OrderStatisticSet_Treap.cpp.i
 
 DataStructures/SPOJ_OrderStatisticSet_Treap.s: DataStructures/SPOJ_OrderStatisticSet_Treap.cpp.s
@@ -5490,7 +3897,6 @@ DataStructures/SPOJ_OrderStatisticSet_Treap.s: DataStructures/SPOJ_OrderStatisti
 # target to generate assembly for a file
 DataStructures/SPOJ_OrderStatisticSet_Treap.cpp.s:
 	$(MAKE) -f CMakeFiles/SPOJ_OrderStatisticSet_Treap.dir/build.make CMakeFiles/SPOJ_OrderStatisticSet_Treap.dir/DataStructures/SPOJ_OrderStatisticSet_Treap.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_OrderStatisticSet_Treap.cpp.s
 .PHONY : DataStructures/SPOJ_OrderStatisticSet_Treap.cpp.s
 
 DataStructures/SPOJ_QTREE1.o: DataStructures/SPOJ_QTREE1.cpp.o
@@ -5500,7 +3906,6 @@ DataStructures/SPOJ_QTREE1.o: DataStructures/SPOJ_QTREE1.cpp.o
 # target to build an object file
 DataStructures/SPOJ_QTREE1.cpp.o:
 	$(MAKE) -f CMakeFiles/SPOJ_QTREE1.dir/build.make CMakeFiles/SPOJ_QTREE1.dir/DataStructures/SPOJ_QTREE1.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_QTREE1.cpp.o
 .PHONY : DataStructures/SPOJ_QTREE1.cpp.o
 
 DataStructures/SPOJ_QTREE1.i: DataStructures/SPOJ_QTREE1.cpp.i
@@ -5510,7 +3915,6 @@ DataStructures/SPOJ_QTREE1.i: DataStructures/SPOJ_QTREE1.cpp.i
 # target to preprocess a source file
 DataStructures/SPOJ_QTREE1.cpp.i:
 	$(MAKE) -f CMakeFiles/SPOJ_QTREE1.dir/build.make CMakeFiles/SPOJ_QTREE1.dir/DataStructures/SPOJ_QTREE1.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_QTREE1.cpp.i
 .PHONY : DataStructures/SPOJ_QTREE1.cpp.i
 
 DataStructures/SPOJ_QTREE1.s: DataStructures/SPOJ_QTREE1.cpp.s
@@ -5520,8 +3924,61 @@ DataStructures/SPOJ_QTREE1.s: DataStructures/SPOJ_QTREE1.cpp.s
 # target to generate assembly for a file
 DataStructures/SPOJ_QTREE1.cpp.s:
 	$(MAKE) -f CMakeFiles/SPOJ_QTREE1.dir/build.make CMakeFiles/SPOJ_QTREE1.dir/DataStructures/SPOJ_QTREE1.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_QTREE1.cpp.s
 .PHONY : DataStructures/SPOJ_QTREE1.cpp.s
+
+DataStructures/SPOJ_QTREE4.o: DataStructures/SPOJ_QTREE4.cpp.o
+
+.PHONY : DataStructures/SPOJ_QTREE4.o
+
+# target to build an object file
+DataStructures/SPOJ_QTREE4.cpp.o:
+	$(MAKE) -f CMakeFiles/SPOJ_QTREE4.dir/build.make CMakeFiles/SPOJ_QTREE4.dir/DataStructures/SPOJ_QTREE4.cpp.o
+.PHONY : DataStructures/SPOJ_QTREE4.cpp.o
+
+DataStructures/SPOJ_QTREE4.i: DataStructures/SPOJ_QTREE4.cpp.i
+
+.PHONY : DataStructures/SPOJ_QTREE4.i
+
+# target to preprocess a source file
+DataStructures/SPOJ_QTREE4.cpp.i:
+	$(MAKE) -f CMakeFiles/SPOJ_QTREE4.dir/build.make CMakeFiles/SPOJ_QTREE4.dir/DataStructures/SPOJ_QTREE4.cpp.i
+.PHONY : DataStructures/SPOJ_QTREE4.cpp.i
+
+DataStructures/SPOJ_QTREE4.s: DataStructures/SPOJ_QTREE4.cpp.s
+
+.PHONY : DataStructures/SPOJ_QTREE4.s
+
+# target to generate assembly for a file
+DataStructures/SPOJ_QTREE4.cpp.s:
+	$(MAKE) -f CMakeFiles/SPOJ_QTREE4.dir/build.make CMakeFiles/SPOJ_QTREE4.dir/DataStructures/SPOJ_QTREE4.cpp.s
+.PHONY : DataStructures/SPOJ_QTREE4.cpp.s
+
+DataStructures/SPOJ_QTREE5.o: DataStructures/SPOJ_QTREE5.cpp.o
+
+.PHONY : DataStructures/SPOJ_QTREE5.o
+
+# target to build an object file
+DataStructures/SPOJ_QTREE5.cpp.o:
+	$(MAKE) -f CMakeFiles/SPOJ_QTREE5.dir/build.make CMakeFiles/SPOJ_QTREE5.dir/DataStructures/SPOJ_QTREE5.cpp.o
+.PHONY : DataStructures/SPOJ_QTREE5.cpp.o
+
+DataStructures/SPOJ_QTREE5.i: DataStructures/SPOJ_QTREE5.cpp.i
+
+.PHONY : DataStructures/SPOJ_QTREE5.i
+
+# target to preprocess a source file
+DataStructures/SPOJ_QTREE5.cpp.i:
+	$(MAKE) -f CMakeFiles/SPOJ_QTREE5.dir/build.make CMakeFiles/SPOJ_QTREE5.dir/DataStructures/SPOJ_QTREE5.cpp.i
+.PHONY : DataStructures/SPOJ_QTREE5.cpp.i
+
+DataStructures/SPOJ_QTREE5.s: DataStructures/SPOJ_QTREE5.cpp.s
+
+.PHONY : DataStructures/SPOJ_QTREE5.s
+
+# target to generate assembly for a file
+DataStructures/SPOJ_QTREE5.cpp.s:
+	$(MAKE) -f CMakeFiles/SPOJ_QTREE5.dir/build.make CMakeFiles/SPOJ_QTREE5.dir/DataStructures/SPOJ_QTREE5.cpp.s
+.PHONY : DataStructures/SPOJ_QTREE5.cpp.s
 
 DataStructures/SPOJ_RPAR.o: DataStructures/SPOJ_RPAR.cpp.o
 
@@ -5530,7 +3987,6 @@ DataStructures/SPOJ_RPAR.o: DataStructures/SPOJ_RPAR.cpp.o
 # target to build an object file
 DataStructures/SPOJ_RPAR.cpp.o:
 	$(MAKE) -f CMakeFiles/SPOJ_RPAR.dir/build.make CMakeFiles/SPOJ_RPAR.dir/DataStructures/SPOJ_RPAR.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_RPAR.cpp.o
 .PHONY : DataStructures/SPOJ_RPAR.cpp.o
 
 DataStructures/SPOJ_RPAR.i: DataStructures/SPOJ_RPAR.cpp.i
@@ -5540,7 +3996,6 @@ DataStructures/SPOJ_RPAR.i: DataStructures/SPOJ_RPAR.cpp.i
 # target to preprocess a source file
 DataStructures/SPOJ_RPAR.cpp.i:
 	$(MAKE) -f CMakeFiles/SPOJ_RPAR.dir/build.make CMakeFiles/SPOJ_RPAR.dir/DataStructures/SPOJ_RPAR.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_RPAR.cpp.i
 .PHONY : DataStructures/SPOJ_RPAR.cpp.i
 
 DataStructures/SPOJ_RPAR.s: DataStructures/SPOJ_RPAR.cpp.s
@@ -5550,7 +4005,6 @@ DataStructures/SPOJ_RPAR.s: DataStructures/SPOJ_RPAR.cpp.s
 # target to generate assembly for a file
 DataStructures/SPOJ_RPAR.cpp.s:
 	$(MAKE) -f CMakeFiles/SPOJ_RPAR.dir/build.make CMakeFiles/SPOJ_RPAR.dir/DataStructures/SPOJ_RPAR.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_RPAR.cpp.s
 .PHONY : DataStructures/SPOJ_RPAR.cpp.s
 
 DataStructures/SPOJ_SEGSQRSS.o: DataStructures/SPOJ_SEGSQRSS.cpp.o
@@ -5560,7 +4014,6 @@ DataStructures/SPOJ_SEGSQRSS.o: DataStructures/SPOJ_SEGSQRSS.cpp.o
 # target to build an object file
 DataStructures/SPOJ_SEGSQRSS.cpp.o:
 	$(MAKE) -f CMakeFiles/SPOJ_SEGSQRSS.dir/build.make CMakeFiles/SPOJ_SEGSQRSS.dir/DataStructures/SPOJ_SEGSQRSS.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_SEGSQRSS.cpp.o
 .PHONY : DataStructures/SPOJ_SEGSQRSS.cpp.o
 
 DataStructures/SPOJ_SEGSQRSS.i: DataStructures/SPOJ_SEGSQRSS.cpp.i
@@ -5570,7 +4023,6 @@ DataStructures/SPOJ_SEGSQRSS.i: DataStructures/SPOJ_SEGSQRSS.cpp.i
 # target to preprocess a source file
 DataStructures/SPOJ_SEGSQRSS.cpp.i:
 	$(MAKE) -f CMakeFiles/SPOJ_SEGSQRSS.dir/build.make CMakeFiles/SPOJ_SEGSQRSS.dir/DataStructures/SPOJ_SEGSQRSS.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_SEGSQRSS.cpp.i
 .PHONY : DataStructures/SPOJ_SEGSQRSS.cpp.i
 
 DataStructures/SPOJ_SEGSQRSS.s: DataStructures/SPOJ_SEGSQRSS.cpp.s
@@ -5580,7 +4032,6 @@ DataStructures/SPOJ_SEGSQRSS.s: DataStructures/SPOJ_SEGSQRSS.cpp.s
 # target to generate assembly for a file
 DataStructures/SPOJ_SEGSQRSS.cpp.s:
 	$(MAKE) -f CMakeFiles/SPOJ_SEGSQRSS.dir/build.make CMakeFiles/SPOJ_SEGSQRSS.dir/DataStructures/SPOJ_SEGSQRSS.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_SEGSQRSS.cpp.s
 .PHONY : DataStructures/SPOJ_SEGSQRSS.cpp.s
 
 DynamicProgramming/CC_PartitionCount.o: DynamicProgramming/CC_PartitionCount.cpp.o
@@ -5590,7 +4041,6 @@ DynamicProgramming/CC_PartitionCount.o: DynamicProgramming/CC_PartitionCount.cpp
 # target to build an object file
 DynamicProgramming/CC_PartitionCount.cpp.o:
 	$(MAKE) -f CMakeFiles/CC_PartitionCount.dir/build.make CMakeFiles/CC_PartitionCount.dir/DynamicProgramming/CC_PartitionCount.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CC_PartitionCount.cpp.o
 .PHONY : DynamicProgramming/CC_PartitionCount.cpp.o
 
 DynamicProgramming/CC_PartitionCount.i: DynamicProgramming/CC_PartitionCount.cpp.i
@@ -5600,7 +4050,6 @@ DynamicProgramming/CC_PartitionCount.i: DynamicProgramming/CC_PartitionCount.cpp
 # target to preprocess a source file
 DynamicProgramming/CC_PartitionCount.cpp.i:
 	$(MAKE) -f CMakeFiles/CC_PartitionCount.dir/build.make CMakeFiles/CC_PartitionCount.dir/DynamicProgramming/CC_PartitionCount.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CC_PartitionCount.cpp.i
 .PHONY : DynamicProgramming/CC_PartitionCount.cpp.i
 
 DynamicProgramming/CC_PartitionCount.s: DynamicProgramming/CC_PartitionCount.cpp.s
@@ -5610,62 +4059,7 @@ DynamicProgramming/CC_PartitionCount.s: DynamicProgramming/CC_PartitionCount.cpp
 # target to generate assembly for a file
 DynamicProgramming/CC_PartitionCount.cpp.s:
 	$(MAKE) -f CMakeFiles/CC_PartitionCount.dir/build.make CMakeFiles/CC_PartitionCount.dir/DynamicProgramming/CC_PartitionCount.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CC_PartitionCount.cpp.s
 .PHONY : DynamicProgramming/CC_PartitionCount.cpp.s
-
-DynamicProgramming/CC_SealingUp.o: DynamicProgramming/CC_SealingUp.cpp.o
-
-.PHONY : DynamicProgramming/CC_SealingUp.o
-
-# target to build an object file
-DynamicProgramming/CC_SealingUp.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CC_SealingUp.cpp.o
-.PHONY : DynamicProgramming/CC_SealingUp.cpp.o
-
-DynamicProgramming/CC_SealingUp.i: DynamicProgramming/CC_SealingUp.cpp.i
-
-.PHONY : DynamicProgramming/CC_SealingUp.i
-
-# target to preprocess a source file
-DynamicProgramming/CC_SealingUp.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CC_SealingUp.cpp.i
-.PHONY : DynamicProgramming/CC_SealingUp.cpp.i
-
-DynamicProgramming/CC_SealingUp.s: DynamicProgramming/CC_SealingUp.cpp.s
-
-.PHONY : DynamicProgramming/CC_SealingUp.s
-
-# target to generate assembly for a file
-DynamicProgramming/CC_SealingUp.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CC_SealingUp.cpp.s
-.PHONY : DynamicProgramming/CC_SealingUp.cpp.s
-
-DynamicProgramming/CC_TiduAndFrustratedTeacher.o: DynamicProgramming/CC_TiduAndFrustratedTeacher.cpp.o
-
-.PHONY : DynamicProgramming/CC_TiduAndFrustratedTeacher.o
-
-# target to build an object file
-DynamicProgramming/CC_TiduAndFrustratedTeacher.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CC_TiduAndFrustratedTeacher.cpp.o
-.PHONY : DynamicProgramming/CC_TiduAndFrustratedTeacher.cpp.o
-
-DynamicProgramming/CC_TiduAndFrustratedTeacher.i: DynamicProgramming/CC_TiduAndFrustratedTeacher.cpp.i
-
-.PHONY : DynamicProgramming/CC_TiduAndFrustratedTeacher.i
-
-# target to preprocess a source file
-DynamicProgramming/CC_TiduAndFrustratedTeacher.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CC_TiduAndFrustratedTeacher.cpp.i
-.PHONY : DynamicProgramming/CC_TiduAndFrustratedTeacher.cpp.i
-
-DynamicProgramming/CC_TiduAndFrustratedTeacher.s: DynamicProgramming/CC_TiduAndFrustratedTeacher.cpp.s
-
-.PHONY : DynamicProgramming/CC_TiduAndFrustratedTeacher.s
-
-# target to generate assembly for a file
-DynamicProgramming/CC_TiduAndFrustratedTeacher.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CC_TiduAndFrustratedTeacher.cpp.s
-.PHONY : DynamicProgramming/CC_TiduAndFrustratedTeacher.cpp.s
 
 DynamicProgramming/CC_TooMuchSweetness.o: DynamicProgramming/CC_TooMuchSweetness.cpp.o
 
@@ -5674,7 +4068,6 @@ DynamicProgramming/CC_TooMuchSweetness.o: DynamicProgramming/CC_TooMuchSweetness
 # target to build an object file
 DynamicProgramming/CC_TooMuchSweetness.cpp.o:
 	$(MAKE) -f CMakeFiles/CC_TooMuchSweetness.dir/build.make CMakeFiles/CC_TooMuchSweetness.dir/DynamicProgramming/CC_TooMuchSweetness.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CC_TooMuchSweetness.cpp.o
 .PHONY : DynamicProgramming/CC_TooMuchSweetness.cpp.o
 
 DynamicProgramming/CC_TooMuchSweetness.i: DynamicProgramming/CC_TooMuchSweetness.cpp.i
@@ -5684,7 +4077,6 @@ DynamicProgramming/CC_TooMuchSweetness.i: DynamicProgramming/CC_TooMuchSweetness
 # target to preprocess a source file
 DynamicProgramming/CC_TooMuchSweetness.cpp.i:
 	$(MAKE) -f CMakeFiles/CC_TooMuchSweetness.dir/build.make CMakeFiles/CC_TooMuchSweetness.dir/DynamicProgramming/CC_TooMuchSweetness.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CC_TooMuchSweetness.cpp.i
 .PHONY : DynamicProgramming/CC_TooMuchSweetness.cpp.i
 
 DynamicProgramming/CC_TooMuchSweetness.s: DynamicProgramming/CC_TooMuchSweetness.cpp.s
@@ -5694,7 +4086,6 @@ DynamicProgramming/CC_TooMuchSweetness.s: DynamicProgramming/CC_TooMuchSweetness
 # target to generate assembly for a file
 DynamicProgramming/CC_TooMuchSweetness.cpp.s:
 	$(MAKE) -f CMakeFiles/CC_TooMuchSweetness.dir/build.make CMakeFiles/CC_TooMuchSweetness.dir/DynamicProgramming/CC_TooMuchSweetness.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CC_TooMuchSweetness.cpp.s
 .PHONY : DynamicProgramming/CC_TooMuchSweetness.cpp.s
 
 DynamicProgramming/CF118D_CaesarsLegions.o: DynamicProgramming/CF118D_CaesarsLegions.cpp.o
@@ -5704,7 +4095,6 @@ DynamicProgramming/CF118D_CaesarsLegions.o: DynamicProgramming/CF118D_CaesarsLeg
 # target to build an object file
 DynamicProgramming/CF118D_CaesarsLegions.cpp.o:
 	$(MAKE) -f CMakeFiles/CF118D_CaesarsLegions.dir/build.make CMakeFiles/CF118D_CaesarsLegions.dir/DynamicProgramming/CF118D_CaesarsLegions.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF118D_CaesarsLegions.cpp.o
 .PHONY : DynamicProgramming/CF118D_CaesarsLegions.cpp.o
 
 DynamicProgramming/CF118D_CaesarsLegions.i: DynamicProgramming/CF118D_CaesarsLegions.cpp.i
@@ -5714,7 +4104,6 @@ DynamicProgramming/CF118D_CaesarsLegions.i: DynamicProgramming/CF118D_CaesarsLeg
 # target to preprocess a source file
 DynamicProgramming/CF118D_CaesarsLegions.cpp.i:
 	$(MAKE) -f CMakeFiles/CF118D_CaesarsLegions.dir/build.make CMakeFiles/CF118D_CaesarsLegions.dir/DynamicProgramming/CF118D_CaesarsLegions.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF118D_CaesarsLegions.cpp.i
 .PHONY : DynamicProgramming/CF118D_CaesarsLegions.cpp.i
 
 DynamicProgramming/CF118D_CaesarsLegions.s: DynamicProgramming/CF118D_CaesarsLegions.cpp.s
@@ -5724,35 +4113,88 @@ DynamicProgramming/CF118D_CaesarsLegions.s: DynamicProgramming/CF118D_CaesarsLeg
 # target to generate assembly for a file
 DynamicProgramming/CF118D_CaesarsLegions.cpp.s:
 	$(MAKE) -f CMakeFiles/CF118D_CaesarsLegions.dir/build.make CMakeFiles/CF118D_CaesarsLegions.dir/DynamicProgramming/CF118D_CaesarsLegions.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF118D_CaesarsLegions.cpp.s
 .PHONY : DynamicProgramming/CF118D_CaesarsLegions.cpp.s
 
-DynamicProgramming/CF347D_LuckyCommonSubsequence.o: DynamicProgramming/CF347D_LuckyCommonSubsequence.cpp.o
+DynamicProgramming/CF311B_CatsTransport.o: DynamicProgramming/CF311B_CatsTransport.cpp.o
 
-.PHONY : DynamicProgramming/CF347D_LuckyCommonSubsequence.o
+.PHONY : DynamicProgramming/CF311B_CatsTransport.o
 
 # target to build an object file
-DynamicProgramming/CF347D_LuckyCommonSubsequence.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF347D_LuckyCommonSubsequence.cpp.o
-.PHONY : DynamicProgramming/CF347D_LuckyCommonSubsequence.cpp.o
+DynamicProgramming/CF311B_CatsTransport.cpp.o:
+	$(MAKE) -f CMakeFiles/CF311B_CatsTransport.dir/build.make CMakeFiles/CF311B_CatsTransport.dir/DynamicProgramming/CF311B_CatsTransport.cpp.o
+.PHONY : DynamicProgramming/CF311B_CatsTransport.cpp.o
 
-DynamicProgramming/CF347D_LuckyCommonSubsequence.i: DynamicProgramming/CF347D_LuckyCommonSubsequence.cpp.i
+DynamicProgramming/CF311B_CatsTransport.i: DynamicProgramming/CF311B_CatsTransport.cpp.i
 
-.PHONY : DynamicProgramming/CF347D_LuckyCommonSubsequence.i
+.PHONY : DynamicProgramming/CF311B_CatsTransport.i
 
 # target to preprocess a source file
-DynamicProgramming/CF347D_LuckyCommonSubsequence.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF347D_LuckyCommonSubsequence.cpp.i
-.PHONY : DynamicProgramming/CF347D_LuckyCommonSubsequence.cpp.i
+DynamicProgramming/CF311B_CatsTransport.cpp.i:
+	$(MAKE) -f CMakeFiles/CF311B_CatsTransport.dir/build.make CMakeFiles/CF311B_CatsTransport.dir/DynamicProgramming/CF311B_CatsTransport.cpp.i
+.PHONY : DynamicProgramming/CF311B_CatsTransport.cpp.i
 
-DynamicProgramming/CF347D_LuckyCommonSubsequence.s: DynamicProgramming/CF347D_LuckyCommonSubsequence.cpp.s
+DynamicProgramming/CF311B_CatsTransport.s: DynamicProgramming/CF311B_CatsTransport.cpp.s
 
-.PHONY : DynamicProgramming/CF347D_LuckyCommonSubsequence.s
+.PHONY : DynamicProgramming/CF311B_CatsTransport.s
 
 # target to generate assembly for a file
-DynamicProgramming/CF347D_LuckyCommonSubsequence.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF347D_LuckyCommonSubsequence.cpp.s
-.PHONY : DynamicProgramming/CF347D_LuckyCommonSubsequence.cpp.s
+DynamicProgramming/CF311B_CatsTransport.cpp.s:
+	$(MAKE) -f CMakeFiles/CF311B_CatsTransport.dir/build.make CMakeFiles/CF311B_CatsTransport.dir/DynamicProgramming/CF311B_CatsTransport.cpp.s
+.PHONY : DynamicProgramming/CF311B_CatsTransport.cpp.s
+
+DynamicProgramming/CF319C_KalilaAndDimna.o: DynamicProgramming/CF319C_KalilaAndDimna.cpp.o
+
+.PHONY : DynamicProgramming/CF319C_KalilaAndDimna.o
+
+# target to build an object file
+DynamicProgramming/CF319C_KalilaAndDimna.cpp.o:
+	$(MAKE) -f CMakeFiles/CF319C_KalilaAndDimna.dir/build.make CMakeFiles/CF319C_KalilaAndDimna.dir/DynamicProgramming/CF319C_KalilaAndDimna.cpp.o
+.PHONY : DynamicProgramming/CF319C_KalilaAndDimna.cpp.o
+
+DynamicProgramming/CF319C_KalilaAndDimna.i: DynamicProgramming/CF319C_KalilaAndDimna.cpp.i
+
+.PHONY : DynamicProgramming/CF319C_KalilaAndDimna.i
+
+# target to preprocess a source file
+DynamicProgramming/CF319C_KalilaAndDimna.cpp.i:
+	$(MAKE) -f CMakeFiles/CF319C_KalilaAndDimna.dir/build.make CMakeFiles/CF319C_KalilaAndDimna.dir/DynamicProgramming/CF319C_KalilaAndDimna.cpp.i
+.PHONY : DynamicProgramming/CF319C_KalilaAndDimna.cpp.i
+
+DynamicProgramming/CF319C_KalilaAndDimna.s: DynamicProgramming/CF319C_KalilaAndDimna.cpp.s
+
+.PHONY : DynamicProgramming/CF319C_KalilaAndDimna.s
+
+# target to generate assembly for a file
+DynamicProgramming/CF319C_KalilaAndDimna.cpp.s:
+	$(MAKE) -f CMakeFiles/CF319C_KalilaAndDimna.dir/build.make CMakeFiles/CF319C_KalilaAndDimna.dir/DynamicProgramming/CF319C_KalilaAndDimna.cpp.s
+.PHONY : DynamicProgramming/CF319C_KalilaAndDimna.cpp.s
+
+DynamicProgramming/CF321E_CielAndGondolas.o: DynamicProgramming/CF321E_CielAndGondolas.cpp.o
+
+.PHONY : DynamicProgramming/CF321E_CielAndGondolas.o
+
+# target to build an object file
+DynamicProgramming/CF321E_CielAndGondolas.cpp.o:
+	$(MAKE) -f CMakeFiles/CF321E_CielAndGondolas.dir/build.make CMakeFiles/CF321E_CielAndGondolas.dir/DynamicProgramming/CF321E_CielAndGondolas.cpp.o
+.PHONY : DynamicProgramming/CF321E_CielAndGondolas.cpp.o
+
+DynamicProgramming/CF321E_CielAndGondolas.i: DynamicProgramming/CF321E_CielAndGondolas.cpp.i
+
+.PHONY : DynamicProgramming/CF321E_CielAndGondolas.i
+
+# target to preprocess a source file
+DynamicProgramming/CF321E_CielAndGondolas.cpp.i:
+	$(MAKE) -f CMakeFiles/CF321E_CielAndGondolas.dir/build.make CMakeFiles/CF321E_CielAndGondolas.dir/DynamicProgramming/CF321E_CielAndGondolas.cpp.i
+.PHONY : DynamicProgramming/CF321E_CielAndGondolas.cpp.i
+
+DynamicProgramming/CF321E_CielAndGondolas.s: DynamicProgramming/CF321E_CielAndGondolas.cpp.s
+
+.PHONY : DynamicProgramming/CF321E_CielAndGondolas.s
+
+# target to generate assembly for a file
+DynamicProgramming/CF321E_CielAndGondolas.cpp.s:
+	$(MAKE) -f CMakeFiles/CF321E_CielAndGondolas.dir/build.make CMakeFiles/CF321E_CielAndGondolas.dir/DynamicProgramming/CF321E_CielAndGondolas.cpp.s
+.PHONY : DynamicProgramming/CF321E_CielAndGondolas.cpp.s
 
 DynamicProgramming/CF347D_LuckyCommonSubsequence2.o: DynamicProgramming/CF347D_LuckyCommonSubsequence2.cpp.o
 
@@ -5761,7 +4203,6 @@ DynamicProgramming/CF347D_LuckyCommonSubsequence2.o: DynamicProgramming/CF347D_L
 # target to build an object file
 DynamicProgramming/CF347D_LuckyCommonSubsequence2.cpp.o:
 	$(MAKE) -f CMakeFiles/CF347D_LuckyCommonSubsequence2.dir/build.make CMakeFiles/CF347D_LuckyCommonSubsequence2.dir/DynamicProgramming/CF347D_LuckyCommonSubsequence2.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF347D_LuckyCommonSubsequence2.cpp.o
 .PHONY : DynamicProgramming/CF347D_LuckyCommonSubsequence2.cpp.o
 
 DynamicProgramming/CF347D_LuckyCommonSubsequence2.i: DynamicProgramming/CF347D_LuckyCommonSubsequence2.cpp.i
@@ -5771,7 +4212,6 @@ DynamicProgramming/CF347D_LuckyCommonSubsequence2.i: DynamicProgramming/CF347D_L
 # target to preprocess a source file
 DynamicProgramming/CF347D_LuckyCommonSubsequence2.cpp.i:
 	$(MAKE) -f CMakeFiles/CF347D_LuckyCommonSubsequence2.dir/build.make CMakeFiles/CF347D_LuckyCommonSubsequence2.dir/DynamicProgramming/CF347D_LuckyCommonSubsequence2.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF347D_LuckyCommonSubsequence2.cpp.i
 .PHONY : DynamicProgramming/CF347D_LuckyCommonSubsequence2.cpp.i
 
 DynamicProgramming/CF347D_LuckyCommonSubsequence2.s: DynamicProgramming/CF347D_LuckyCommonSubsequence2.cpp.s
@@ -5781,7 +4221,6 @@ DynamicProgramming/CF347D_LuckyCommonSubsequence2.s: DynamicProgramming/CF347D_L
 # target to generate assembly for a file
 DynamicProgramming/CF347D_LuckyCommonSubsequence2.cpp.s:
 	$(MAKE) -f CMakeFiles/CF347D_LuckyCommonSubsequence2.dir/build.make CMakeFiles/CF347D_LuckyCommonSubsequence2.dir/DynamicProgramming/CF347D_LuckyCommonSubsequence2.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF347D_LuckyCommonSubsequence2.cpp.s
 .PHONY : DynamicProgramming/CF347D_LuckyCommonSubsequence2.cpp.s
 
 DynamicProgramming/CF383D_Antimatter.o: DynamicProgramming/CF383D_Antimatter.cpp.o
@@ -5790,7 +4229,6 @@ DynamicProgramming/CF383D_Antimatter.o: DynamicProgramming/CF383D_Antimatter.cpp
 
 # target to build an object file
 DynamicProgramming/CF383D_Antimatter.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF383D_Antimatter.cpp.o
 	$(MAKE) -f CMakeFiles/CF383D_Antimatter.dir/build.make CMakeFiles/CF383D_Antimatter.dir/DynamicProgramming/CF383D_Antimatter.cpp.o
 .PHONY : DynamicProgramming/CF383D_Antimatter.cpp.o
 
@@ -5800,7 +4238,6 @@ DynamicProgramming/CF383D_Antimatter.i: DynamicProgramming/CF383D_Antimatter.cpp
 
 # target to preprocess a source file
 DynamicProgramming/CF383D_Antimatter.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF383D_Antimatter.cpp.i
 	$(MAKE) -f CMakeFiles/CF383D_Antimatter.dir/build.make CMakeFiles/CF383D_Antimatter.dir/DynamicProgramming/CF383D_Antimatter.cpp.i
 .PHONY : DynamicProgramming/CF383D_Antimatter.cpp.i
 
@@ -5810,36 +4247,8 @@ DynamicProgramming/CF383D_Antimatter.s: DynamicProgramming/CF383D_Antimatter.cpp
 
 # target to generate assembly for a file
 DynamicProgramming/CF383D_Antimatter.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF383D_Antimatter.cpp.s
 	$(MAKE) -f CMakeFiles/CF383D_Antimatter.dir/build.make CMakeFiles/CF383D_Antimatter.dir/DynamicProgramming/CF383D_Antimatter.cpp.s
 .PHONY : DynamicProgramming/CF383D_Antimatter.cpp.s
-
-DynamicProgramming/CF385C_BearAndPrimeNumbers.o: DynamicProgramming/CF385C_BearAndPrimeNumbers.cpp.o
-
-.PHONY : DynamicProgramming/CF385C_BearAndPrimeNumbers.o
-
-# target to build an object file
-DynamicProgramming/CF385C_BearAndPrimeNumbers.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF385C_BearAndPrimeNumbers.cpp.o
-.PHONY : DynamicProgramming/CF385C_BearAndPrimeNumbers.cpp.o
-
-DynamicProgramming/CF385C_BearAndPrimeNumbers.i: DynamicProgramming/CF385C_BearAndPrimeNumbers.cpp.i
-
-.PHONY : DynamicProgramming/CF385C_BearAndPrimeNumbers.i
-
-# target to preprocess a source file
-DynamicProgramming/CF385C_BearAndPrimeNumbers.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF385C_BearAndPrimeNumbers.cpp.i
-.PHONY : DynamicProgramming/CF385C_BearAndPrimeNumbers.cpp.i
-
-DynamicProgramming/CF385C_BearAndPrimeNumbers.s: DynamicProgramming/CF385C_BearAndPrimeNumbers.cpp.s
-
-.PHONY : DynamicProgramming/CF385C_BearAndPrimeNumbers.s
-
-# target to generate assembly for a file
-DynamicProgramming/CF385C_BearAndPrimeNumbers.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF385C_BearAndPrimeNumbers.cpp.s
-.PHONY : DynamicProgramming/CF385C_BearAndPrimeNumbers.cpp.s
 
 DynamicProgramming/CF407B_LongPath.o: DynamicProgramming/CF407B_LongPath.cpp.o
 
@@ -5848,7 +4257,6 @@ DynamicProgramming/CF407B_LongPath.o: DynamicProgramming/CF407B_LongPath.cpp.o
 # target to build an object file
 DynamicProgramming/CF407B_LongPath.cpp.o:
 	$(MAKE) -f CMakeFiles/CF407B_LongPath.dir/build.make CMakeFiles/CF407B_LongPath.dir/DynamicProgramming/CF407B_LongPath.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF407B_LongPath.cpp.o
 .PHONY : DynamicProgramming/CF407B_LongPath.cpp.o
 
 DynamicProgramming/CF407B_LongPath.i: DynamicProgramming/CF407B_LongPath.cpp.i
@@ -5858,7 +4266,6 @@ DynamicProgramming/CF407B_LongPath.i: DynamicProgramming/CF407B_LongPath.cpp.i
 # target to preprocess a source file
 DynamicProgramming/CF407B_LongPath.cpp.i:
 	$(MAKE) -f CMakeFiles/CF407B_LongPath.dir/build.make CMakeFiles/CF407B_LongPath.dir/DynamicProgramming/CF407B_LongPath.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF407B_LongPath.cpp.i
 .PHONY : DynamicProgramming/CF407B_LongPath.cpp.i
 
 DynamicProgramming/CF407B_LongPath.s: DynamicProgramming/CF407B_LongPath.cpp.s
@@ -5868,143 +4275,7 @@ DynamicProgramming/CF407B_LongPath.s: DynamicProgramming/CF407B_LongPath.cpp.s
 # target to generate assembly for a file
 DynamicProgramming/CF407B_LongPath.cpp.s:
 	$(MAKE) -f CMakeFiles/CF407B_LongPath.dir/build.make CMakeFiles/CF407B_LongPath.dir/DynamicProgramming/CF407B_LongPath.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF407B_LongPath.cpp.s
 .PHONY : DynamicProgramming/CF407B_LongPath.cpp.s
-
-DynamicProgramming/CF414B_MashmokhAndACM.o: DynamicProgramming/CF414B_MashmokhAndACM.cpp.o
-
-.PHONY : DynamicProgramming/CF414B_MashmokhAndACM.o
-
-# target to build an object file
-DynamicProgramming/CF414B_MashmokhAndACM.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF414B_MashmokhAndACM.cpp.o
-.PHONY : DynamicProgramming/CF414B_MashmokhAndACM.cpp.o
-
-DynamicProgramming/CF414B_MashmokhAndACM.i: DynamicProgramming/CF414B_MashmokhAndACM.cpp.i
-
-.PHONY : DynamicProgramming/CF414B_MashmokhAndACM.i
-
-# target to preprocess a source file
-DynamicProgramming/CF414B_MashmokhAndACM.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF414B_MashmokhAndACM.cpp.i
-.PHONY : DynamicProgramming/CF414B_MashmokhAndACM.cpp.i
-
-DynamicProgramming/CF414B_MashmokhAndACM.s: DynamicProgramming/CF414B_MashmokhAndACM.cpp.s
-
-.PHONY : DynamicProgramming/CF414B_MashmokhAndACM.s
-
-# target to generate assembly for a file
-DynamicProgramming/CF414B_MashmokhAndACM.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF414B_MashmokhAndACM.cpp.s
-.PHONY : DynamicProgramming/CF414B_MashmokhAndACM.cpp.s
-
-DynamicProgramming/CF416C_BookingSystem.o: DynamicProgramming/CF416C_BookingSystem.cpp.o
-
-.PHONY : DynamicProgramming/CF416C_BookingSystem.o
-
-# target to build an object file
-DynamicProgramming/CF416C_BookingSystem.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF416C_BookingSystem.cpp.o
-.PHONY : DynamicProgramming/CF416C_BookingSystem.cpp.o
-
-DynamicProgramming/CF416C_BookingSystem.i: DynamicProgramming/CF416C_BookingSystem.cpp.i
-
-.PHONY : DynamicProgramming/CF416C_BookingSystem.i
-
-# target to preprocess a source file
-DynamicProgramming/CF416C_BookingSystem.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF416C_BookingSystem.cpp.i
-.PHONY : DynamicProgramming/CF416C_BookingSystem.cpp.i
-
-DynamicProgramming/CF416C_BookingSystem.s: DynamicProgramming/CF416C_BookingSystem.cpp.s
-
-.PHONY : DynamicProgramming/CF416C_BookingSystem.s
-
-# target to generate assembly for a file
-DynamicProgramming/CF416C_BookingSystem.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF416C_BookingSystem.cpp.s
-.PHONY : DynamicProgramming/CF416C_BookingSystem.cpp.s
-
-DynamicProgramming/CF430D_WorkingOut.o: DynamicProgramming/CF430D_WorkingOut.cpp.o
-
-.PHONY : DynamicProgramming/CF430D_WorkingOut.o
-
-# target to build an object file
-DynamicProgramming/CF430D_WorkingOut.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF430D_WorkingOut.cpp.o
-.PHONY : DynamicProgramming/CF430D_WorkingOut.cpp.o
-
-DynamicProgramming/CF430D_WorkingOut.i: DynamicProgramming/CF430D_WorkingOut.cpp.i
-
-.PHONY : DynamicProgramming/CF430D_WorkingOut.i
-
-# target to preprocess a source file
-DynamicProgramming/CF430D_WorkingOut.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF430D_WorkingOut.cpp.i
-.PHONY : DynamicProgramming/CF430D_WorkingOut.cpp.i
-
-DynamicProgramming/CF430D_WorkingOut.s: DynamicProgramming/CF430D_WorkingOut.cpp.s
-
-.PHONY : DynamicProgramming/CF430D_WorkingOut.s
-
-# target to generate assembly for a file
-DynamicProgramming/CF430D_WorkingOut.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF430D_WorkingOut.cpp.s
-.PHONY : DynamicProgramming/CF430D_WorkingOut.cpp.s
-
-DynamicProgramming/CF474D_Flowers.o: DynamicProgramming/CF474D_Flowers.cpp.o
-
-.PHONY : DynamicProgramming/CF474D_Flowers.o
-
-# target to build an object file
-DynamicProgramming/CF474D_Flowers.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF474D_Flowers.cpp.o
-.PHONY : DynamicProgramming/CF474D_Flowers.cpp.o
-
-DynamicProgramming/CF474D_Flowers.i: DynamicProgramming/CF474D_Flowers.cpp.i
-
-.PHONY : DynamicProgramming/CF474D_Flowers.i
-
-# target to preprocess a source file
-DynamicProgramming/CF474D_Flowers.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF474D_Flowers.cpp.i
-.PHONY : DynamicProgramming/CF474D_Flowers.cpp.i
-
-DynamicProgramming/CF474D_Flowers.s: DynamicProgramming/CF474D_Flowers.cpp.s
-
-.PHONY : DynamicProgramming/CF474D_Flowers.s
-
-# target to generate assembly for a file
-DynamicProgramming/CF474D_Flowers.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF474D_Flowers.cpp.s
-.PHONY : DynamicProgramming/CF474D_Flowers.cpp.s
-
-DynamicProgramming/CF478D_RedGreenTowers.o: DynamicProgramming/CF478D_RedGreenTowers.cpp.o
-
-.PHONY : DynamicProgramming/CF478D_RedGreenTowers.o
-
-# target to build an object file
-DynamicProgramming/CF478D_RedGreenTowers.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF478D_RedGreenTowers.cpp.o
-.PHONY : DynamicProgramming/CF478D_RedGreenTowers.cpp.o
-
-DynamicProgramming/CF478D_RedGreenTowers.i: DynamicProgramming/CF478D_RedGreenTowers.cpp.i
-
-.PHONY : DynamicProgramming/CF478D_RedGreenTowers.i
-
-# target to preprocess a source file
-DynamicProgramming/CF478D_RedGreenTowers.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF478D_RedGreenTowers.cpp.i
-.PHONY : DynamicProgramming/CF478D_RedGreenTowers.cpp.i
-
-DynamicProgramming/CF478D_RedGreenTowers.s: DynamicProgramming/CF478D_RedGreenTowers.cpp.s
-
-.PHONY : DynamicProgramming/CF478D_RedGreenTowers.s
-
-# target to generate assembly for a file
-DynamicProgramming/CF478D_RedGreenTowers.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF478D_RedGreenTowers.cpp.s
-.PHONY : DynamicProgramming/CF478D_RedGreenTowers.cpp.s
 
 DynamicProgramming/CF479D_RidingInALift.o: DynamicProgramming/CF479D_RidingInALift.cpp.o
 
@@ -6013,7 +4284,6 @@ DynamicProgramming/CF479D_RidingInALift.o: DynamicProgramming/CF479D_RidingInALi
 # target to build an object file
 DynamicProgramming/CF479D_RidingInALift.cpp.o:
 	$(MAKE) -f CMakeFiles/CF479D_RidingInALift.dir/build.make CMakeFiles/CF479D_RidingInALift.dir/DynamicProgramming/CF479D_RidingInALift.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF479D_RidingInALift.cpp.o
 .PHONY : DynamicProgramming/CF479D_RidingInALift.cpp.o
 
 DynamicProgramming/CF479D_RidingInALift.i: DynamicProgramming/CF479D_RidingInALift.cpp.i
@@ -6023,7 +4293,6 @@ DynamicProgramming/CF479D_RidingInALift.i: DynamicProgramming/CF479D_RidingInALi
 # target to preprocess a source file
 DynamicProgramming/CF479D_RidingInALift.cpp.i:
 	$(MAKE) -f CMakeFiles/CF479D_RidingInALift.dir/build.make CMakeFiles/CF479D_RidingInALift.dir/DynamicProgramming/CF479D_RidingInALift.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF479D_RidingInALift.cpp.i
 .PHONY : DynamicProgramming/CF479D_RidingInALift.cpp.i
 
 DynamicProgramming/CF479D_RidingInALift.s: DynamicProgramming/CF479D_RidingInALift.cpp.s
@@ -6033,7 +4302,6 @@ DynamicProgramming/CF479D_RidingInALift.s: DynamicProgramming/CF479D_RidingInALi
 # target to generate assembly for a file
 DynamicProgramming/CF479D_RidingInALift.cpp.s:
 	$(MAKE) -f CMakeFiles/CF479D_RidingInALift.dir/build.make CMakeFiles/CF479D_RidingInALift.dir/DynamicProgramming/CF479D_RidingInALift.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF479D_RidingInALift.cpp.s
 .PHONY : DynamicProgramming/CF479D_RidingInALift.cpp.s
 
 DynamicProgramming/CF495D_ObsessiveString.o: DynamicProgramming/CF495D_ObsessiveString.cpp.o
@@ -6043,7 +4311,6 @@ DynamicProgramming/CF495D_ObsessiveString.o: DynamicProgramming/CF495D_Obsessive
 # target to build an object file
 DynamicProgramming/CF495D_ObsessiveString.cpp.o:
 	$(MAKE) -f CMakeFiles/CF495D_ObsessiveString.dir/build.make CMakeFiles/CF495D_ObsessiveString.dir/DynamicProgramming/CF495D_ObsessiveString.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF495D_ObsessiveString.cpp.o
 .PHONY : DynamicProgramming/CF495D_ObsessiveString.cpp.o
 
 DynamicProgramming/CF495D_ObsessiveString.i: DynamicProgramming/CF495D_ObsessiveString.cpp.i
@@ -6053,7 +4320,6 @@ DynamicProgramming/CF495D_ObsessiveString.i: DynamicProgramming/CF495D_Obsessive
 # target to preprocess a source file
 DynamicProgramming/CF495D_ObsessiveString.cpp.i:
 	$(MAKE) -f CMakeFiles/CF495D_ObsessiveString.dir/build.make CMakeFiles/CF495D_ObsessiveString.dir/DynamicProgramming/CF495D_ObsessiveString.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF495D_ObsessiveString.cpp.i
 .PHONY : DynamicProgramming/CF495D_ObsessiveString.cpp.i
 
 DynamicProgramming/CF495D_ObsessiveString.s: DynamicProgramming/CF495D_ObsessiveString.cpp.s
@@ -6063,305 +4329,34 @@ DynamicProgramming/CF495D_ObsessiveString.s: DynamicProgramming/CF495D_Obsessive
 # target to generate assembly for a file
 DynamicProgramming/CF495D_ObsessiveString.cpp.s:
 	$(MAKE) -f CMakeFiles/CF495D_ObsessiveString.dir/build.make CMakeFiles/CF495D_ObsessiveString.dir/DynamicProgramming/CF495D_ObsessiveString.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF495D_ObsessiveString.cpp.s
 .PHONY : DynamicProgramming/CF495D_ObsessiveString.cpp.s
 
-DynamicProgramming/CF4D_MysteriousPresent.o: DynamicProgramming/CF4D_MysteriousPresent.cpp.o
+DynamicProgramming/CF626F_GroupProjects.o: DynamicProgramming/CF626F_GroupProjects.cpp.o
 
-.PHONY : DynamicProgramming/CF4D_MysteriousPresent.o
-
-# target to build an object file
-DynamicProgramming/CF4D_MysteriousPresent.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF4D_MysteriousPresent.cpp.o
-.PHONY : DynamicProgramming/CF4D_MysteriousPresent.cpp.o
-
-DynamicProgramming/CF4D_MysteriousPresent.i: DynamicProgramming/CF4D_MysteriousPresent.cpp.i
-
-.PHONY : DynamicProgramming/CF4D_MysteriousPresent.i
-
-# target to preprocess a source file
-DynamicProgramming/CF4D_MysteriousPresent.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF4D_MysteriousPresent.cpp.i
-.PHONY : DynamicProgramming/CF4D_MysteriousPresent.cpp.i
-
-DynamicProgramming/CF4D_MysteriousPresent.s: DynamicProgramming/CF4D_MysteriousPresent.cpp.s
-
-.PHONY : DynamicProgramming/CF4D_MysteriousPresent.s
-
-# target to generate assembly for a file
-DynamicProgramming/CF4D_MysteriousPresent.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF4D_MysteriousPresent.cpp.s
-.PHONY : DynamicProgramming/CF4D_MysteriousPresent.cpp.s
-
-DynamicProgramming/CF507D_TheMathsLecture.o: DynamicProgramming/CF507D_TheMathsLecture.cpp.o
-
-.PHONY : DynamicProgramming/CF507D_TheMathsLecture.o
+.PHONY : DynamicProgramming/CF626F_GroupProjects.o
 
 # target to build an object file
-DynamicProgramming/CF507D_TheMathsLecture.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF507D_TheMathsLecture.cpp.o
-.PHONY : DynamicProgramming/CF507D_TheMathsLecture.cpp.o
+DynamicProgramming/CF626F_GroupProjects.cpp.o:
+	$(MAKE) -f CMakeFiles/CF626F_GroupProjects.dir/build.make CMakeFiles/CF626F_GroupProjects.dir/DynamicProgramming/CF626F_GroupProjects.cpp.o
+.PHONY : DynamicProgramming/CF626F_GroupProjects.cpp.o
 
-DynamicProgramming/CF507D_TheMathsLecture.i: DynamicProgramming/CF507D_TheMathsLecture.cpp.i
+DynamicProgramming/CF626F_GroupProjects.i: DynamicProgramming/CF626F_GroupProjects.cpp.i
 
-.PHONY : DynamicProgramming/CF507D_TheMathsLecture.i
-
-# target to preprocess a source file
-DynamicProgramming/CF507D_TheMathsLecture.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF507D_TheMathsLecture.cpp.i
-.PHONY : DynamicProgramming/CF507D_TheMathsLecture.cpp.i
-
-DynamicProgramming/CF507D_TheMathsLecture.s: DynamicProgramming/CF507D_TheMathsLecture.cpp.s
-
-.PHONY : DynamicProgramming/CF507D_TheMathsLecture.s
-
-# target to generate assembly for a file
-DynamicProgramming/CF507D_TheMathsLecture.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF507D_TheMathsLecture.cpp.s
-.PHONY : DynamicProgramming/CF507D_TheMathsLecture.cpp.s
-
-DynamicProgramming/CF544C_WritingCode.o: DynamicProgramming/CF544C_WritingCode.cpp.o
-
-.PHONY : DynamicProgramming/CF544C_WritingCode.o
-
-# target to build an object file
-DynamicProgramming/CF544C_WritingCode.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF544C_WritingCode.cpp.o
-.PHONY : DynamicProgramming/CF544C_WritingCode.cpp.o
-
-DynamicProgramming/CF544C_WritingCode.i: DynamicProgramming/CF544C_WritingCode.cpp.i
-
-.PHONY : DynamicProgramming/CF544C_WritingCode.i
+.PHONY : DynamicProgramming/CF626F_GroupProjects.i
 
 # target to preprocess a source file
-DynamicProgramming/CF544C_WritingCode.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF544C_WritingCode.cpp.i
-.PHONY : DynamicProgramming/CF544C_WritingCode.cpp.i
+DynamicProgramming/CF626F_GroupProjects.cpp.i:
+	$(MAKE) -f CMakeFiles/CF626F_GroupProjects.dir/build.make CMakeFiles/CF626F_GroupProjects.dir/DynamicProgramming/CF626F_GroupProjects.cpp.i
+.PHONY : DynamicProgramming/CF626F_GroupProjects.cpp.i
 
-DynamicProgramming/CF544C_WritingCode.s: DynamicProgramming/CF544C_WritingCode.cpp.s
+DynamicProgramming/CF626F_GroupProjects.s: DynamicProgramming/CF626F_GroupProjects.cpp.s
 
-.PHONY : DynamicProgramming/CF544C_WritingCode.s
-
-# target to generate assembly for a file
-DynamicProgramming/CF544C_WritingCode.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF544C_WritingCode.cpp.s
-.PHONY : DynamicProgramming/CF544C_WritingCode.cpp.s
-
-DynamicProgramming/CF580D_KefaAndDishes.o: DynamicProgramming/CF580D_KefaAndDishes.cpp.o
-
-.PHONY : DynamicProgramming/CF580D_KefaAndDishes.o
-
-# target to build an object file
-DynamicProgramming/CF580D_KefaAndDishes.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF580D_KefaAndDishes.cpp.o
-.PHONY : DynamicProgramming/CF580D_KefaAndDishes.cpp.o
-
-DynamicProgramming/CF580D_KefaAndDishes.i: DynamicProgramming/CF580D_KefaAndDishes.cpp.i
-
-.PHONY : DynamicProgramming/CF580D_KefaAndDishes.i
-
-# target to preprocess a source file
-DynamicProgramming/CF580D_KefaAndDishes.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF580D_KefaAndDishes.cpp.i
-.PHONY : DynamicProgramming/CF580D_KefaAndDishes.cpp.i
-
-DynamicProgramming/CF580D_KefaAndDishes.s: DynamicProgramming/CF580D_KefaAndDishes.cpp.s
-
-.PHONY : DynamicProgramming/CF580D_KefaAndDishes.s
+.PHONY : DynamicProgramming/CF626F_GroupProjects.s
 
 # target to generate assembly for a file
-DynamicProgramming/CF580D_KefaAndDishes.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF580D_KefaAndDishes.cpp.s
-.PHONY : DynamicProgramming/CF580D_KefaAndDishes.cpp.s
-
-DynamicProgramming/CF588D_DuffInBeach.o: DynamicProgramming/CF588D_DuffInBeach.cpp.o
-
-.PHONY : DynamicProgramming/CF588D_DuffInBeach.o
-
-# target to build an object file
-DynamicProgramming/CF588D_DuffInBeach.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF588D_DuffInBeach.cpp.o
-.PHONY : DynamicProgramming/CF588D_DuffInBeach.cpp.o
-
-DynamicProgramming/CF588D_DuffInBeach.i: DynamicProgramming/CF588D_DuffInBeach.cpp.i
-
-.PHONY : DynamicProgramming/CF588D_DuffInBeach.i
-
-# target to preprocess a source file
-DynamicProgramming/CF588D_DuffInBeach.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF588D_DuffInBeach.cpp.i
-.PHONY : DynamicProgramming/CF588D_DuffInBeach.cpp.i
-
-DynamicProgramming/CF588D_DuffInBeach.s: DynamicProgramming/CF588D_DuffInBeach.cpp.s
-
-.PHONY : DynamicProgramming/CF588D_DuffInBeach.s
-
-# target to generate assembly for a file
-DynamicProgramming/CF588D_DuffInBeach.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF588D_DuffInBeach.cpp.s
-.PHONY : DynamicProgramming/CF588D_DuffInBeach.cpp.s
-
-DynamicProgramming/CF61D_EternalVictory.o: DynamicProgramming/CF61D_EternalVictory.cpp.o
-
-.PHONY : DynamicProgramming/CF61D_EternalVictory.o
-
-# target to build an object file
-DynamicProgramming/CF61D_EternalVictory.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF61D_EternalVictory.cpp.o
-.PHONY : DynamicProgramming/CF61D_EternalVictory.cpp.o
-
-DynamicProgramming/CF61D_EternalVictory.i: DynamicProgramming/CF61D_EternalVictory.cpp.i
-
-.PHONY : DynamicProgramming/CF61D_EternalVictory.i
-
-# target to preprocess a source file
-DynamicProgramming/CF61D_EternalVictory.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF61D_EternalVictory.cpp.i
-.PHONY : DynamicProgramming/CF61D_EternalVictory.cpp.i
-
-DynamicProgramming/CF61D_EternalVictory.s: DynamicProgramming/CF61D_EternalVictory.cpp.s
-
-.PHONY : DynamicProgramming/CF61D_EternalVictory.s
-
-# target to generate assembly for a file
-DynamicProgramming/CF61D_EternalVictory.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF61D_EternalVictory.cpp.s
-.PHONY : DynamicProgramming/CF61D_EternalVictory.cpp.s
-
-DynamicProgramming/CF628B_NewSkateboard.o: DynamicProgramming/CF628B_NewSkateboard.cpp.o
-
-.PHONY : DynamicProgramming/CF628B_NewSkateboard.o
-
-# target to build an object file
-DynamicProgramming/CF628B_NewSkateboard.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF628B_NewSkateboard.cpp.o
-.PHONY : DynamicProgramming/CF628B_NewSkateboard.cpp.o
-
-DynamicProgramming/CF628B_NewSkateboard.i: DynamicProgramming/CF628B_NewSkateboard.cpp.i
-
-.PHONY : DynamicProgramming/CF628B_NewSkateboard.i
-
-# target to preprocess a source file
-DynamicProgramming/CF628B_NewSkateboard.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF628B_NewSkateboard.cpp.i
-.PHONY : DynamicProgramming/CF628B_NewSkateboard.cpp.i
-
-DynamicProgramming/CF628B_NewSkateboard.s: DynamicProgramming/CF628B_NewSkateboard.cpp.s
-
-.PHONY : DynamicProgramming/CF628B_NewSkateboard.s
-
-# target to generate assembly for a file
-DynamicProgramming/CF628B_NewSkateboard.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF628B_NewSkateboard.cpp.s
-.PHONY : DynamicProgramming/CF628B_NewSkateboard.cpp.s
-
-DynamicProgramming/CF706C_HardProblem.o: DynamicProgramming/CF706C_HardProblem.cpp.o
-
-.PHONY : DynamicProgramming/CF706C_HardProblem.o
-
-# target to build an object file
-DynamicProgramming/CF706C_HardProblem.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF706C_HardProblem.cpp.o
-.PHONY : DynamicProgramming/CF706C_HardProblem.cpp.o
-
-DynamicProgramming/CF706C_HardProblem.i: DynamicProgramming/CF706C_HardProblem.cpp.i
-
-.PHONY : DynamicProgramming/CF706C_HardProblem.i
-
-# target to preprocess a source file
-DynamicProgramming/CF706C_HardProblem.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF706C_HardProblem.cpp.i
-.PHONY : DynamicProgramming/CF706C_HardProblem.cpp.i
-
-DynamicProgramming/CF706C_HardProblem.s: DynamicProgramming/CF706C_HardProblem.cpp.s
-
-.PHONY : DynamicProgramming/CF706C_HardProblem.s
-
-# target to generate assembly for a file
-DynamicProgramming/CF706C_HardProblem.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF706C_HardProblem.cpp.s
-.PHONY : DynamicProgramming/CF706C_HardProblem.cpp.s
-
-DynamicProgramming/CF711C_ColoringTrees.o: DynamicProgramming/CF711C_ColoringTrees.cpp.o
-
-.PHONY : DynamicProgramming/CF711C_ColoringTrees.o
-
-# target to build an object file
-DynamicProgramming/CF711C_ColoringTrees.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF711C_ColoringTrees.cpp.o
-.PHONY : DynamicProgramming/CF711C_ColoringTrees.cpp.o
-
-DynamicProgramming/CF711C_ColoringTrees.i: DynamicProgramming/CF711C_ColoringTrees.cpp.i
-
-.PHONY : DynamicProgramming/CF711C_ColoringTrees.i
-
-# target to preprocess a source file
-DynamicProgramming/CF711C_ColoringTrees.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF711C_ColoringTrees.cpp.i
-.PHONY : DynamicProgramming/CF711C_ColoringTrees.cpp.i
-
-DynamicProgramming/CF711C_ColoringTrees.s: DynamicProgramming/CF711C_ColoringTrees.cpp.s
-
-.PHONY : DynamicProgramming/CF711C_ColoringTrees.s
-
-# target to generate assembly for a file
-DynamicProgramming/CF711C_ColoringTrees.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF711C_ColoringTrees.cpp.s
-.PHONY : DynamicProgramming/CF711C_ColoringTrees.cpp.s
-
-DynamicProgramming/CF762D_MaximumPath.o: DynamicProgramming/CF762D_MaximumPath.cpp.o
-
-.PHONY : DynamicProgramming/CF762D_MaximumPath.o
-
-# target to build an object file
-DynamicProgramming/CF762D_MaximumPath.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF762D_MaximumPath.cpp.o
-.PHONY : DynamicProgramming/CF762D_MaximumPath.cpp.o
-
-DynamicProgramming/CF762D_MaximumPath.i: DynamicProgramming/CF762D_MaximumPath.cpp.i
-
-.PHONY : DynamicProgramming/CF762D_MaximumPath.i
-
-# target to preprocess a source file
-DynamicProgramming/CF762D_MaximumPath.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF762D_MaximumPath.cpp.i
-.PHONY : DynamicProgramming/CF762D_MaximumPath.cpp.i
-
-DynamicProgramming/CF762D_MaximumPath.s: DynamicProgramming/CF762D_MaximumPath.cpp.s
-
-.PHONY : DynamicProgramming/CF762D_MaximumPath.s
-
-# target to generate assembly for a file
-DynamicProgramming/CF762D_MaximumPath.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF762D_MaximumPath.cpp.s
-.PHONY : DynamicProgramming/CF762D_MaximumPath.cpp.s
-
-DynamicProgramming/CF789C_FunctionsAgain.o: DynamicProgramming/CF789C_FunctionsAgain.cpp.o
-
-.PHONY : DynamicProgramming/CF789C_FunctionsAgain.o
-
-# target to build an object file
-DynamicProgramming/CF789C_FunctionsAgain.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF789C_FunctionsAgain.cpp.o
-.PHONY : DynamicProgramming/CF789C_FunctionsAgain.cpp.o
-
-DynamicProgramming/CF789C_FunctionsAgain.i: DynamicProgramming/CF789C_FunctionsAgain.cpp.i
-
-.PHONY : DynamicProgramming/CF789C_FunctionsAgain.i
-
-# target to preprocess a source file
-DynamicProgramming/CF789C_FunctionsAgain.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF789C_FunctionsAgain.cpp.i
-.PHONY : DynamicProgramming/CF789C_FunctionsAgain.cpp.i
-
-DynamicProgramming/CF789C_FunctionsAgain.s: DynamicProgramming/CF789C_FunctionsAgain.cpp.s
-
-.PHONY : DynamicProgramming/CF789C_FunctionsAgain.s
-
-# target to generate assembly for a file
-DynamicProgramming/CF789C_FunctionsAgain.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF789C_FunctionsAgain.cpp.s
-.PHONY : DynamicProgramming/CF789C_FunctionsAgain.cpp.s
+DynamicProgramming/CF626F_GroupProjects.cpp.s:
+	$(MAKE) -f CMakeFiles/CF626F_GroupProjects.dir/build.make CMakeFiles/CF626F_GroupProjects.dir/DynamicProgramming/CF626F_GroupProjects.cpp.s
+.PHONY : DynamicProgramming/CF626F_GroupProjects.cpp.s
 
 DynamicProgramming/CF81E_Pairs.o: DynamicProgramming/CF81E_Pairs.cpp.o
 
@@ -6370,7 +4365,6 @@ DynamicProgramming/CF81E_Pairs.o: DynamicProgramming/CF81E_Pairs.cpp.o
 # target to build an object file
 DynamicProgramming/CF81E_Pairs.cpp.o:
 	$(MAKE) -f CMakeFiles/CF81E_Pairs.dir/build.make CMakeFiles/CF81E_Pairs.dir/DynamicProgramming/CF81E_Pairs.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF81E_Pairs.cpp.o
 .PHONY : DynamicProgramming/CF81E_Pairs.cpp.o
 
 DynamicProgramming/CF81E_Pairs.i: DynamicProgramming/CF81E_Pairs.cpp.i
@@ -6380,7 +4374,6 @@ DynamicProgramming/CF81E_Pairs.i: DynamicProgramming/CF81E_Pairs.cpp.i
 # target to preprocess a source file
 DynamicProgramming/CF81E_Pairs.cpp.i:
 	$(MAKE) -f CMakeFiles/CF81E_Pairs.dir/build.make CMakeFiles/CF81E_Pairs.dir/DynamicProgramming/CF81E_Pairs.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF81E_Pairs.cpp.i
 .PHONY : DynamicProgramming/CF81E_Pairs.cpp.i
 
 DynamicProgramming/CF81E_Pairs.s: DynamicProgramming/CF81E_Pairs.cpp.s
@@ -6390,35 +4383,7 @@ DynamicProgramming/CF81E_Pairs.s: DynamicProgramming/CF81E_Pairs.cpp.s
 # target to generate assembly for a file
 DynamicProgramming/CF81E_Pairs.cpp.s:
 	$(MAKE) -f CMakeFiles/CF81E_Pairs.dir/build.make CMakeFiles/CF81E_Pairs.dir/DynamicProgramming/CF81E_Pairs.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF81E_Pairs.cpp.s
 .PHONY : DynamicProgramming/CF81E_Pairs.cpp.s
-
-DynamicProgramming/CF837D_RoundSubset.o: DynamicProgramming/CF837D_RoundSubset.cpp.o
-
-.PHONY : DynamicProgramming/CF837D_RoundSubset.o
-
-# target to build an object file
-DynamicProgramming/CF837D_RoundSubset.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF837D_RoundSubset.cpp.o
-.PHONY : DynamicProgramming/CF837D_RoundSubset.cpp.o
-
-DynamicProgramming/CF837D_RoundSubset.i: DynamicProgramming/CF837D_RoundSubset.cpp.i
-
-.PHONY : DynamicProgramming/CF837D_RoundSubset.i
-
-# target to preprocess a source file
-DynamicProgramming/CF837D_RoundSubset.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF837D_RoundSubset.cpp.i
-.PHONY : DynamicProgramming/CF837D_RoundSubset.cpp.i
-
-DynamicProgramming/CF837D_RoundSubset.s: DynamicProgramming/CF837D_RoundSubset.cpp.s
-
-.PHONY : DynamicProgramming/CF837D_RoundSubset.s
-
-# target to generate assembly for a file
-DynamicProgramming/CF837D_RoundSubset.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF837D_RoundSubset.cpp.s
-.PHONY : DynamicProgramming/CF837D_RoundSubset.cpp.s
 
 DynamicProgramming/CF864E_Fire.o: DynamicProgramming/CF864E_Fire.cpp.o
 
@@ -6427,7 +4392,6 @@ DynamicProgramming/CF864E_Fire.o: DynamicProgramming/CF864E_Fire.cpp.o
 # target to build an object file
 DynamicProgramming/CF864E_Fire.cpp.o:
 	$(MAKE) -f CMakeFiles/CF864E_Fire.dir/build.make CMakeFiles/CF864E_Fire.dir/DynamicProgramming/CF864E_Fire.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF864E_Fire.cpp.o
 .PHONY : DynamicProgramming/CF864E_Fire.cpp.o
 
 DynamicProgramming/CF864E_Fire.i: DynamicProgramming/CF864E_Fire.cpp.i
@@ -6437,7 +4401,6 @@ DynamicProgramming/CF864E_Fire.i: DynamicProgramming/CF864E_Fire.cpp.i
 # target to preprocess a source file
 DynamicProgramming/CF864E_Fire.cpp.i:
 	$(MAKE) -f CMakeFiles/CF864E_Fire.dir/build.make CMakeFiles/CF864E_Fire.dir/DynamicProgramming/CF864E_Fire.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF864E_Fire.cpp.i
 .PHONY : DynamicProgramming/CF864E_Fire.cpp.i
 
 DynamicProgramming/CF864E_Fire.s: DynamicProgramming/CF864E_Fire.cpp.s
@@ -6447,35 +4410,7 @@ DynamicProgramming/CF864E_Fire.s: DynamicProgramming/CF864E_Fire.cpp.s
 # target to generate assembly for a file
 DynamicProgramming/CF864E_Fire.cpp.s:
 	$(MAKE) -f CMakeFiles/CF864E_Fire.dir/build.make CMakeFiles/CF864E_Fire.dir/DynamicProgramming/CF864E_Fire.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF864E_Fire.cpp.s
 .PHONY : DynamicProgramming/CF864E_Fire.cpp.s
-
-DynamicProgramming/CoinChange.o: DynamicProgramming/CoinChange.cpp.o
-
-.PHONY : DynamicProgramming/CoinChange.o
-
-# target to build an object file
-DynamicProgramming/CoinChange.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CoinChange.cpp.o
-.PHONY : DynamicProgramming/CoinChange.cpp.o
-
-DynamicProgramming/CoinChange.i: DynamicProgramming/CoinChange.cpp.i
-
-.PHONY : DynamicProgramming/CoinChange.i
-
-# target to preprocess a source file
-DynamicProgramming/CoinChange.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CoinChange.cpp.i
-.PHONY : DynamicProgramming/CoinChange.cpp.i
-
-DynamicProgramming/CoinChange.s: DynamicProgramming/CoinChange.cpp.s
-
-.PHONY : DynamicProgramming/CoinChange.s
-
-# target to generate assembly for a file
-DynamicProgramming/CoinChange.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CoinChange.cpp.s
-.PHONY : DynamicProgramming/CoinChange.cpp.s
 
 DynamicProgramming/Exun2017_Digex.o: DynamicProgramming/Exun2017_Digex.cpp.o
 
@@ -6484,7 +4419,6 @@ DynamicProgramming/Exun2017_Digex.o: DynamicProgramming/Exun2017_Digex.cpp.o
 # target to build an object file
 DynamicProgramming/Exun2017_Digex.cpp.o:
 	$(MAKE) -f CMakeFiles/Exun2017_Digex.dir/build.make CMakeFiles/Exun2017_Digex.dir/DynamicProgramming/Exun2017_Digex.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/Exun2017_Digex.cpp.o
 .PHONY : DynamicProgramming/Exun2017_Digex.cpp.o
 
 DynamicProgramming/Exun2017_Digex.i: DynamicProgramming/Exun2017_Digex.cpp.i
@@ -6494,7 +4428,6 @@ DynamicProgramming/Exun2017_Digex.i: DynamicProgramming/Exun2017_Digex.cpp.i
 # target to preprocess a source file
 DynamicProgramming/Exun2017_Digex.cpp.i:
 	$(MAKE) -f CMakeFiles/Exun2017_Digex.dir/build.make CMakeFiles/Exun2017_Digex.dir/DynamicProgramming/Exun2017_Digex.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/Exun2017_Digex.cpp.i
 .PHONY : DynamicProgramming/Exun2017_Digex.cpp.i
 
 DynamicProgramming/Exun2017_Digex.s: DynamicProgramming/Exun2017_Digex.cpp.s
@@ -6504,7 +4437,6 @@ DynamicProgramming/Exun2017_Digex.s: DynamicProgramming/Exun2017_Digex.cpp.s
 # target to generate assembly for a file
 DynamicProgramming/Exun2017_Digex.cpp.s:
 	$(MAKE) -f CMakeFiles/Exun2017_Digex.dir/build.make CMakeFiles/Exun2017_Digex.dir/DynamicProgramming/Exun2017_Digex.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/Exun2017_Digex.cpp.s
 .PHONY : DynamicProgramming/Exun2017_Digex.cpp.s
 
 DynamicProgramming/Exun2017_DigexReturns.o: DynamicProgramming/Exun2017_DigexReturns.cpp.o
@@ -6513,7 +4445,6 @@ DynamicProgramming/Exun2017_DigexReturns.o: DynamicProgramming/Exun2017_DigexRet
 
 # target to build an object file
 DynamicProgramming/Exun2017_DigexReturns.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/Exun2017_DigexReturns.cpp.o
 	$(MAKE) -f CMakeFiles/Exun2017_DigexReturns.dir/build.make CMakeFiles/Exun2017_DigexReturns.dir/DynamicProgramming/Exun2017_DigexReturns.cpp.o
 .PHONY : DynamicProgramming/Exun2017_DigexReturns.cpp.o
 
@@ -6523,7 +4454,6 @@ DynamicProgramming/Exun2017_DigexReturns.i: DynamicProgramming/Exun2017_DigexRet
 
 # target to preprocess a source file
 DynamicProgramming/Exun2017_DigexReturns.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/Exun2017_DigexReturns.cpp.i
 	$(MAKE) -f CMakeFiles/Exun2017_DigexReturns.dir/build.make CMakeFiles/Exun2017_DigexReturns.dir/DynamicProgramming/Exun2017_DigexReturns.cpp.i
 .PHONY : DynamicProgramming/Exun2017_DigexReturns.cpp.i
 
@@ -6533,7 +4463,6 @@ DynamicProgramming/Exun2017_DigexReturns.s: DynamicProgramming/Exun2017_DigexRet
 
 # target to generate assembly for a file
 DynamicProgramming/Exun2017_DigexReturns.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/Exun2017_DigexReturns.cpp.s
 	$(MAKE) -f CMakeFiles/Exun2017_DigexReturns.dir/build.make CMakeFiles/Exun2017_DigexReturns.dir/DynamicProgramming/Exun2017_DigexReturns.cpp.s
 .PHONY : DynamicProgramming/Exun2017_DigexReturns.cpp.s
 
@@ -6544,7 +4473,6 @@ DynamicProgramming/ExunPrelimsP2.o: DynamicProgramming/ExunPrelimsP2.cpp.o
 # target to build an object file
 DynamicProgramming/ExunPrelimsP2.cpp.o:
 	$(MAKE) -f CMakeFiles/ExunPrelimsP2.dir/build.make CMakeFiles/ExunPrelimsP2.dir/DynamicProgramming/ExunPrelimsP2.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/ExunPrelimsP2.cpp.o
 .PHONY : DynamicProgramming/ExunPrelimsP2.cpp.o
 
 DynamicProgramming/ExunPrelimsP2.i: DynamicProgramming/ExunPrelimsP2.cpp.i
@@ -6554,7 +4482,6 @@ DynamicProgramming/ExunPrelimsP2.i: DynamicProgramming/ExunPrelimsP2.cpp.i
 # target to preprocess a source file
 DynamicProgramming/ExunPrelimsP2.cpp.i:
 	$(MAKE) -f CMakeFiles/ExunPrelimsP2.dir/build.make CMakeFiles/ExunPrelimsP2.dir/DynamicProgramming/ExunPrelimsP2.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/ExunPrelimsP2.cpp.i
 .PHONY : DynamicProgramming/ExunPrelimsP2.cpp.i
 
 DynamicProgramming/ExunPrelimsP2.s: DynamicProgramming/ExunPrelimsP2.cpp.s
@@ -6564,7 +4491,6 @@ DynamicProgramming/ExunPrelimsP2.s: DynamicProgramming/ExunPrelimsP2.cpp.s
 # target to generate assembly for a file
 DynamicProgramming/ExunPrelimsP2.cpp.s:
 	$(MAKE) -f CMakeFiles/ExunPrelimsP2.dir/build.make CMakeFiles/ExunPrelimsP2.dir/DynamicProgramming/ExunPrelimsP2.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/ExunPrelimsP2.cpp.s
 .PHONY : DynamicProgramming/ExunPrelimsP2.cpp.s
 
 DynamicProgramming/GCJ_LastHit.o: DynamicProgramming/GCJ_LastHit.cpp.o
@@ -6574,7 +4500,6 @@ DynamicProgramming/GCJ_LastHit.o: DynamicProgramming/GCJ_LastHit.cpp.o
 # target to build an object file
 DynamicProgramming/GCJ_LastHit.cpp.o:
 	$(MAKE) -f CMakeFiles/GCJ_LastHit.dir/build.make CMakeFiles/GCJ_LastHit.dir/DynamicProgramming/GCJ_LastHit.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/GCJ_LastHit.cpp.o
 .PHONY : DynamicProgramming/GCJ_LastHit.cpp.o
 
 DynamicProgramming/GCJ_LastHit.i: DynamicProgramming/GCJ_LastHit.cpp.i
@@ -6584,7 +4509,6 @@ DynamicProgramming/GCJ_LastHit.i: DynamicProgramming/GCJ_LastHit.cpp.i
 # target to preprocess a source file
 DynamicProgramming/GCJ_LastHit.cpp.i:
 	$(MAKE) -f CMakeFiles/GCJ_LastHit.dir/build.make CMakeFiles/GCJ_LastHit.dir/DynamicProgramming/GCJ_LastHit.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/GCJ_LastHit.cpp.i
 .PHONY : DynamicProgramming/GCJ_LastHit.cpp.i
 
 DynamicProgramming/GCJ_LastHit.s: DynamicProgramming/GCJ_LastHit.cpp.s
@@ -6594,7 +4518,6 @@ DynamicProgramming/GCJ_LastHit.s: DynamicProgramming/GCJ_LastHit.cpp.s
 # target to generate assembly for a file
 DynamicProgramming/GCJ_LastHit.cpp.s:
 	$(MAKE) -f CMakeFiles/GCJ_LastHit.dir/build.make CMakeFiles/GCJ_LastHit.dir/DynamicProgramming/GCJ_LastHit.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/GCJ_LastHit.cpp.s
 .PHONY : DynamicProgramming/GCJ_LastHit.cpp.s
 
 DynamicProgramming/GFG_ShortestCommonSupersequence.o: DynamicProgramming/GFG_ShortestCommonSupersequence.cpp.o
@@ -6604,7 +4527,6 @@ DynamicProgramming/GFG_ShortestCommonSupersequence.o: DynamicProgramming/GFG_Sho
 # target to build an object file
 DynamicProgramming/GFG_ShortestCommonSupersequence.cpp.o:
 	$(MAKE) -f CMakeFiles/GFG_ShortestCommonSupersequence.dir/build.make CMakeFiles/GFG_ShortestCommonSupersequence.dir/DynamicProgramming/GFG_ShortestCommonSupersequence.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/GFG_ShortestCommonSupersequence.cpp.o
 .PHONY : DynamicProgramming/GFG_ShortestCommonSupersequence.cpp.o
 
 DynamicProgramming/GFG_ShortestCommonSupersequence.i: DynamicProgramming/GFG_ShortestCommonSupersequence.cpp.i
@@ -6614,7 +4536,6 @@ DynamicProgramming/GFG_ShortestCommonSupersequence.i: DynamicProgramming/GFG_Sho
 # target to preprocess a source file
 DynamicProgramming/GFG_ShortestCommonSupersequence.cpp.i:
 	$(MAKE) -f CMakeFiles/GFG_ShortestCommonSupersequence.dir/build.make CMakeFiles/GFG_ShortestCommonSupersequence.dir/DynamicProgramming/GFG_ShortestCommonSupersequence.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/GFG_ShortestCommonSupersequence.cpp.i
 .PHONY : DynamicProgramming/GFG_ShortestCommonSupersequence.cpp.i
 
 DynamicProgramming/GFG_ShortestCommonSupersequence.s: DynamicProgramming/GFG_ShortestCommonSupersequence.cpp.s
@@ -6624,116 +4545,61 @@ DynamicProgramming/GFG_ShortestCommonSupersequence.s: DynamicProgramming/GFG_Sho
 # target to generate assembly for a file
 DynamicProgramming/GFG_ShortestCommonSupersequence.cpp.s:
 	$(MAKE) -f CMakeFiles/GFG_ShortestCommonSupersequence.dir/build.make CMakeFiles/GFG_ShortestCommonSupersequence.dir/DynamicProgramming/GFG_ShortestCommonSupersequence.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/GFG_ShortestCommonSupersequence.cpp.s
 .PHONY : DynamicProgramming/GFG_ShortestCommonSupersequence.cpp.s
 
-DynamicProgramming/HackerRank_Troyangles.o: DynamicProgramming/HackerRank_Troyangles.cpp.o
+DynamicProgramming/HR_AlienLanguages.o: DynamicProgramming/HR_AlienLanguages.cpp.o
 
-.PHONY : DynamicProgramming/HackerRank_Troyangles.o
-
-# target to build an object file
-DynamicProgramming/HackerRank_Troyangles.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/HackerRank_Troyangles.cpp.o
-.PHONY : DynamicProgramming/HackerRank_Troyangles.cpp.o
-
-DynamicProgramming/HackerRank_Troyangles.i: DynamicProgramming/HackerRank_Troyangles.cpp.i
-
-.PHONY : DynamicProgramming/HackerRank_Troyangles.i
-
-# target to preprocess a source file
-DynamicProgramming/HackerRank_Troyangles.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/HackerRank_Troyangles.cpp.i
-.PHONY : DynamicProgramming/HackerRank_Troyangles.cpp.i
-
-DynamicProgramming/HackerRank_Troyangles.s: DynamicProgramming/HackerRank_Troyangles.cpp.s
-
-.PHONY : DynamicProgramming/HackerRank_Troyangles.s
-
-# target to generate assembly for a file
-DynamicProgramming/HackerRank_Troyangles.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/HackerRank_Troyangles.cpp.s
-.PHONY : DynamicProgramming/HackerRank_Troyangles.cpp.s
-
-DynamicProgramming/INOI_Brackets.o: DynamicProgramming/INOI_Brackets.cpp.o
-
-.PHONY : DynamicProgramming/INOI_Brackets.o
+.PHONY : DynamicProgramming/HR_AlienLanguages.o
 
 # target to build an object file
-DynamicProgramming/INOI_Brackets.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/INOI_Brackets.cpp.o
-.PHONY : DynamicProgramming/INOI_Brackets.cpp.o
+DynamicProgramming/HR_AlienLanguages.cpp.o:
+	$(MAKE) -f CMakeFiles/HR_AlienLanguages.dir/build.make CMakeFiles/HR_AlienLanguages.dir/DynamicProgramming/HR_AlienLanguages.cpp.o
+.PHONY : DynamicProgramming/HR_AlienLanguages.cpp.o
 
-DynamicProgramming/INOI_Brackets.i: DynamicProgramming/INOI_Brackets.cpp.i
+DynamicProgramming/HR_AlienLanguages.i: DynamicProgramming/HR_AlienLanguages.cpp.i
 
-.PHONY : DynamicProgramming/INOI_Brackets.i
+.PHONY : DynamicProgramming/HR_AlienLanguages.i
 
 # target to preprocess a source file
-DynamicProgramming/INOI_Brackets.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/INOI_Brackets.cpp.i
-.PHONY : DynamicProgramming/INOI_Brackets.cpp.i
+DynamicProgramming/HR_AlienLanguages.cpp.i:
+	$(MAKE) -f CMakeFiles/HR_AlienLanguages.dir/build.make CMakeFiles/HR_AlienLanguages.dir/DynamicProgramming/HR_AlienLanguages.cpp.i
+.PHONY : DynamicProgramming/HR_AlienLanguages.cpp.i
 
-DynamicProgramming/INOI_Brackets.s: DynamicProgramming/INOI_Brackets.cpp.s
+DynamicProgramming/HR_AlienLanguages.s: DynamicProgramming/HR_AlienLanguages.cpp.s
 
-.PHONY : DynamicProgramming/INOI_Brackets.s
+.PHONY : DynamicProgramming/HR_AlienLanguages.s
 
 # target to generate assembly for a file
-DynamicProgramming/INOI_Brackets.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/INOI_Brackets.cpp.s
-.PHONY : DynamicProgramming/INOI_Brackets.cpp.s
+DynamicProgramming/HR_AlienLanguages.cpp.s:
+	$(MAKE) -f CMakeFiles/HR_AlienLanguages.dir/build.make CMakeFiles/HR_AlienLanguages.dir/DynamicProgramming/HR_AlienLanguages.cpp.s
+.PHONY : DynamicProgramming/HR_AlienLanguages.cpp.s
 
-DynamicProgramming/INOI_CalvinsGame.o: DynamicProgramming/INOI_CalvinsGame.cpp.o
+DynamicProgramming/HR_GuardiansOfTheLunatics.o: DynamicProgramming/HR_GuardiansOfTheLunatics.cpp.o
 
-.PHONY : DynamicProgramming/INOI_CalvinsGame.o
+.PHONY : DynamicProgramming/HR_GuardiansOfTheLunatics.o
 
 # target to build an object file
-DynamicProgramming/INOI_CalvinsGame.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/INOI_CalvinsGame.cpp.o
-.PHONY : DynamicProgramming/INOI_CalvinsGame.cpp.o
+DynamicProgramming/HR_GuardiansOfTheLunatics.cpp.o:
+	$(MAKE) -f CMakeFiles/HR_GuardiansOfTheLunatics.dir/build.make CMakeFiles/HR_GuardiansOfTheLunatics.dir/DynamicProgramming/HR_GuardiansOfTheLunatics.cpp.o
+.PHONY : DynamicProgramming/HR_GuardiansOfTheLunatics.cpp.o
 
-DynamicProgramming/INOI_CalvinsGame.i: DynamicProgramming/INOI_CalvinsGame.cpp.i
+DynamicProgramming/HR_GuardiansOfTheLunatics.i: DynamicProgramming/HR_GuardiansOfTheLunatics.cpp.i
 
-.PHONY : DynamicProgramming/INOI_CalvinsGame.i
-
-# target to preprocess a source file
-DynamicProgramming/INOI_CalvinsGame.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/INOI_CalvinsGame.cpp.i
-.PHONY : DynamicProgramming/INOI_CalvinsGame.cpp.i
-
-DynamicProgramming/INOI_CalvinsGame.s: DynamicProgramming/INOI_CalvinsGame.cpp.s
-
-.PHONY : DynamicProgramming/INOI_CalvinsGame.s
-
-# target to generate assembly for a file
-DynamicProgramming/INOI_CalvinsGame.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/INOI_CalvinsGame.cpp.s
-.PHONY : DynamicProgramming/INOI_CalvinsGame.cpp.s
-
-DynamicProgramming/INOI_SpecialSums.o: DynamicProgramming/INOI_SpecialSums.cpp.o
-
-.PHONY : DynamicProgramming/INOI_SpecialSums.o
-
-# target to build an object file
-DynamicProgramming/INOI_SpecialSums.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/INOI_SpecialSums.cpp.o
-.PHONY : DynamicProgramming/INOI_SpecialSums.cpp.o
-
-DynamicProgramming/INOI_SpecialSums.i: DynamicProgramming/INOI_SpecialSums.cpp.i
-
-.PHONY : DynamicProgramming/INOI_SpecialSums.i
+.PHONY : DynamicProgramming/HR_GuardiansOfTheLunatics.i
 
 # target to preprocess a source file
-DynamicProgramming/INOI_SpecialSums.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/INOI_SpecialSums.cpp.i
-.PHONY : DynamicProgramming/INOI_SpecialSums.cpp.i
+DynamicProgramming/HR_GuardiansOfTheLunatics.cpp.i:
+	$(MAKE) -f CMakeFiles/HR_GuardiansOfTheLunatics.dir/build.make CMakeFiles/HR_GuardiansOfTheLunatics.dir/DynamicProgramming/HR_GuardiansOfTheLunatics.cpp.i
+.PHONY : DynamicProgramming/HR_GuardiansOfTheLunatics.cpp.i
 
-DynamicProgramming/INOI_SpecialSums.s: DynamicProgramming/INOI_SpecialSums.cpp.s
+DynamicProgramming/HR_GuardiansOfTheLunatics.s: DynamicProgramming/HR_GuardiansOfTheLunatics.cpp.s
 
-.PHONY : DynamicProgramming/INOI_SpecialSums.s
+.PHONY : DynamicProgramming/HR_GuardiansOfTheLunatics.s
 
 # target to generate assembly for a file
-DynamicProgramming/INOI_SpecialSums.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/INOI_SpecialSums.cpp.s
-.PHONY : DynamicProgramming/INOI_SpecialSums.cpp.s
+DynamicProgramming/HR_GuardiansOfTheLunatics.cpp.s:
+	$(MAKE) -f CMakeFiles/HR_GuardiansOfTheLunatics.dir/build.make CMakeFiles/HR_GuardiansOfTheLunatics.dir/DynamicProgramming/HR_GuardiansOfTheLunatics.cpp.s
+.PHONY : DynamicProgramming/HR_GuardiansOfTheLunatics.cpp.s
 
 DynamicProgramming/IOI2000_PostOffices.o: DynamicProgramming/IOI2000_PostOffices.cpp.o
 
@@ -6742,7 +4608,6 @@ DynamicProgramming/IOI2000_PostOffices.o: DynamicProgramming/IOI2000_PostOffices
 # target to build an object file
 DynamicProgramming/IOI2000_PostOffices.cpp.o:
 	$(MAKE) -f CMakeFiles/IOI2000_PostOffices.dir/build.make CMakeFiles/IOI2000_PostOffices.dir/DynamicProgramming/IOI2000_PostOffices.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOI2000_PostOffices.cpp.o
 .PHONY : DynamicProgramming/IOI2000_PostOffices.cpp.o
 
 DynamicProgramming/IOI2000_PostOffices.i: DynamicProgramming/IOI2000_PostOffices.cpp.i
@@ -6752,7 +4617,6 @@ DynamicProgramming/IOI2000_PostOffices.i: DynamicProgramming/IOI2000_PostOffices
 # target to preprocess a source file
 DynamicProgramming/IOI2000_PostOffices.cpp.i:
 	$(MAKE) -f CMakeFiles/IOI2000_PostOffices.dir/build.make CMakeFiles/IOI2000_PostOffices.dir/DynamicProgramming/IOI2000_PostOffices.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOI2000_PostOffices.cpp.i
 .PHONY : DynamicProgramming/IOI2000_PostOffices.cpp.i
 
 DynamicProgramming/IOI2000_PostOffices.s: DynamicProgramming/IOI2000_PostOffices.cpp.s
@@ -6762,7 +4626,6 @@ DynamicProgramming/IOI2000_PostOffices.s: DynamicProgramming/IOI2000_PostOffices
 # target to generate assembly for a file
 DynamicProgramming/IOI2000_PostOffices.cpp.s:
 	$(MAKE) -f CMakeFiles/IOI2000_PostOffices.dir/build.make CMakeFiles/IOI2000_PostOffices.dir/DynamicProgramming/IOI2000_PostOffices.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOI2000_PostOffices.cpp.s
 .PHONY : DynamicProgramming/IOI2000_PostOffices.cpp.s
 
 DynamicProgramming/IOI96_AGame.o: DynamicProgramming/IOI96_AGame.cpp.o
@@ -6772,7 +4635,6 @@ DynamicProgramming/IOI96_AGame.o: DynamicProgramming/IOI96_AGame.cpp.o
 # target to build an object file
 DynamicProgramming/IOI96_AGame.cpp.o:
 	$(MAKE) -f CMakeFiles/IOI96_AGame.dir/build.make CMakeFiles/IOI96_AGame.dir/DynamicProgramming/IOI96_AGame.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOI96_AGame.cpp.o
 .PHONY : DynamicProgramming/IOI96_AGame.cpp.o
 
 DynamicProgramming/IOI96_AGame.i: DynamicProgramming/IOI96_AGame.cpp.i
@@ -6782,7 +4644,6 @@ DynamicProgramming/IOI96_AGame.i: DynamicProgramming/IOI96_AGame.cpp.i
 # target to preprocess a source file
 DynamicProgramming/IOI96_AGame.cpp.i:
 	$(MAKE) -f CMakeFiles/IOI96_AGame.dir/build.make CMakeFiles/IOI96_AGame.dir/DynamicProgramming/IOI96_AGame.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOI96_AGame.cpp.i
 .PHONY : DynamicProgramming/IOI96_AGame.cpp.i
 
 DynamicProgramming/IOI96_AGame.s: DynamicProgramming/IOI96_AGame.cpp.s
@@ -6792,251 +4653,7 @@ DynamicProgramming/IOI96_AGame.s: DynamicProgramming/IOI96_AGame.cpp.s
 # target to generate assembly for a file
 DynamicProgramming/IOI96_AGame.cpp.s:
 	$(MAKE) -f CMakeFiles/IOI96_AGame.dir/build.make CMakeFiles/IOI96_AGame.dir/DynamicProgramming/IOI96_AGame.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOI96_AGame.cpp.s
 .PHONY : DynamicProgramming/IOI96_AGame.cpp.s
-
-DynamicProgramming/OPC_LongestPalindrome.o: DynamicProgramming/OPC_LongestPalindrome.cpp.o
-
-.PHONY : DynamicProgramming/OPC_LongestPalindrome.o
-
-# target to build an object file
-DynamicProgramming/OPC_LongestPalindrome.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OPC_LongestPalindrome.cpp.o
-.PHONY : DynamicProgramming/OPC_LongestPalindrome.cpp.o
-
-DynamicProgramming/OPC_LongestPalindrome.i: DynamicProgramming/OPC_LongestPalindrome.cpp.i
-
-.PHONY : DynamicProgramming/OPC_LongestPalindrome.i
-
-# target to preprocess a source file
-DynamicProgramming/OPC_LongestPalindrome.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OPC_LongestPalindrome.cpp.i
-.PHONY : DynamicProgramming/OPC_LongestPalindrome.cpp.i
-
-DynamicProgramming/OPC_LongestPalindrome.s: DynamicProgramming/OPC_LongestPalindrome.cpp.s
-
-.PHONY : DynamicProgramming/OPC_LongestPalindrome.s
-
-# target to generate assembly for a file
-DynamicProgramming/OPC_LongestPalindrome.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OPC_LongestPalindrome.cpp.s
-.PHONY : DynamicProgramming/OPC_LongestPalindrome.cpp.s
-
-DynamicProgramming/OPC_NumberOfTilings.o: DynamicProgramming/OPC_NumberOfTilings.cpp.o
-
-.PHONY : DynamicProgramming/OPC_NumberOfTilings.o
-
-# target to build an object file
-DynamicProgramming/OPC_NumberOfTilings.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OPC_NumberOfTilings.cpp.o
-.PHONY : DynamicProgramming/OPC_NumberOfTilings.cpp.o
-
-DynamicProgramming/OPC_NumberOfTilings.i: DynamicProgramming/OPC_NumberOfTilings.cpp.i
-
-.PHONY : DynamicProgramming/OPC_NumberOfTilings.i
-
-# target to preprocess a source file
-DynamicProgramming/OPC_NumberOfTilings.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OPC_NumberOfTilings.cpp.i
-.PHONY : DynamicProgramming/OPC_NumberOfTilings.cpp.i
-
-DynamicProgramming/OPC_NumberOfTilings.s: DynamicProgramming/OPC_NumberOfTilings.cpp.s
-
-.PHONY : DynamicProgramming/OPC_NumberOfTilings.s
-
-# target to generate assembly for a file
-DynamicProgramming/OPC_NumberOfTilings.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OPC_NumberOfTilings.cpp.s
-.PHONY : DynamicProgramming/OPC_NumberOfTilings.cpp.s
-
-DynamicProgramming/OnTrees/CF161D_DistanceTree.o: DynamicProgramming/OnTrees/CF161D_DistanceTree.cpp.o
-
-.PHONY : DynamicProgramming/OnTrees/CF161D_DistanceTree.o
-
-# target to build an object file
-DynamicProgramming/OnTrees/CF161D_DistanceTree.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF161D_DistanceTree.cpp.o
-.PHONY : DynamicProgramming/OnTrees/CF161D_DistanceTree.cpp.o
-
-DynamicProgramming/OnTrees/CF161D_DistanceTree.i: DynamicProgramming/OnTrees/CF161D_DistanceTree.cpp.i
-
-.PHONY : DynamicProgramming/OnTrees/CF161D_DistanceTree.i
-
-# target to preprocess a source file
-DynamicProgramming/OnTrees/CF161D_DistanceTree.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF161D_DistanceTree.cpp.i
-.PHONY : DynamicProgramming/OnTrees/CF161D_DistanceTree.cpp.i
-
-DynamicProgramming/OnTrees/CF161D_DistanceTree.s: DynamicProgramming/OnTrees/CF161D_DistanceTree.cpp.s
-
-.PHONY : DynamicProgramming/OnTrees/CF161D_DistanceTree.s
-
-# target to generate assembly for a file
-DynamicProgramming/OnTrees/CF161D_DistanceTree.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF161D_DistanceTree.cpp.s
-.PHONY : DynamicProgramming/OnTrees/CF161D_DistanceTree.cpp.s
-
-DynamicProgramming/OnTrees/CF337D_BookOfEvil.o: DynamicProgramming/OnTrees/CF337D_BookOfEvil.cpp.o
-
-.PHONY : DynamicProgramming/OnTrees/CF337D_BookOfEvil.o
-
-# target to build an object file
-DynamicProgramming/OnTrees/CF337D_BookOfEvil.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF337D_BookOfEvil.cpp.o
-.PHONY : DynamicProgramming/OnTrees/CF337D_BookOfEvil.cpp.o
-
-DynamicProgramming/OnTrees/CF337D_BookOfEvil.i: DynamicProgramming/OnTrees/CF337D_BookOfEvil.cpp.i
-
-.PHONY : DynamicProgramming/OnTrees/CF337D_BookOfEvil.i
-
-# target to preprocess a source file
-DynamicProgramming/OnTrees/CF337D_BookOfEvil.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF337D_BookOfEvil.cpp.i
-.PHONY : DynamicProgramming/OnTrees/CF337D_BookOfEvil.cpp.i
-
-DynamicProgramming/OnTrees/CF337D_BookOfEvil.s: DynamicProgramming/OnTrees/CF337D_BookOfEvil.cpp.s
-
-.PHONY : DynamicProgramming/OnTrees/CF337D_BookOfEvil.s
-
-# target to generate assembly for a file
-DynamicProgramming/OnTrees/CF337D_BookOfEvil.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF337D_BookOfEvil.cpp.s
-.PHONY : DynamicProgramming/OnTrees/CF337D_BookOfEvil.cpp.s
-
-DynamicProgramming/OnTrees/CF440D_BerlandFederalization.o: DynamicProgramming/OnTrees/CF440D_BerlandFederalization.cpp.o
-
-.PHONY : DynamicProgramming/OnTrees/CF440D_BerlandFederalization.o
-
-# target to build an object file
-DynamicProgramming/OnTrees/CF440D_BerlandFederalization.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF440D_BerlandFederalization.cpp.o
-.PHONY : DynamicProgramming/OnTrees/CF440D_BerlandFederalization.cpp.o
-
-DynamicProgramming/OnTrees/CF440D_BerlandFederalization.i: DynamicProgramming/OnTrees/CF440D_BerlandFederalization.cpp.i
-
-.PHONY : DynamicProgramming/OnTrees/CF440D_BerlandFederalization.i
-
-# target to preprocess a source file
-DynamicProgramming/OnTrees/CF440D_BerlandFederalization.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF440D_BerlandFederalization.cpp.i
-.PHONY : DynamicProgramming/OnTrees/CF440D_BerlandFederalization.cpp.i
-
-DynamicProgramming/OnTrees/CF440D_BerlandFederalization.s: DynamicProgramming/OnTrees/CF440D_BerlandFederalization.cpp.s
-
-.PHONY : DynamicProgramming/OnTrees/CF440D_BerlandFederalization.s
-
-# target to generate assembly for a file
-DynamicProgramming/OnTrees/CF440D_BerlandFederalization.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF440D_BerlandFederalization.cpp.s
-.PHONY : DynamicProgramming/OnTrees/CF440D_BerlandFederalization.cpp.s
-
-DynamicProgramming/OnTrees/CF462D_ApplemanAndTree.o: DynamicProgramming/OnTrees/CF462D_ApplemanAndTree.cpp.o
-
-.PHONY : DynamicProgramming/OnTrees/CF462D_ApplemanAndTree.o
-
-# target to build an object file
-DynamicProgramming/OnTrees/CF462D_ApplemanAndTree.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF462D_ApplemanAndTree.cpp.o
-.PHONY : DynamicProgramming/OnTrees/CF462D_ApplemanAndTree.cpp.o
-
-DynamicProgramming/OnTrees/CF462D_ApplemanAndTree.i: DynamicProgramming/OnTrees/CF462D_ApplemanAndTree.cpp.i
-
-.PHONY : DynamicProgramming/OnTrees/CF462D_ApplemanAndTree.i
-
-# target to preprocess a source file
-DynamicProgramming/OnTrees/CF462D_ApplemanAndTree.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF462D_ApplemanAndTree.cpp.i
-.PHONY : DynamicProgramming/OnTrees/CF462D_ApplemanAndTree.cpp.i
-
-DynamicProgramming/OnTrees/CF462D_ApplemanAndTree.s: DynamicProgramming/OnTrees/CF462D_ApplemanAndTree.cpp.s
-
-.PHONY : DynamicProgramming/OnTrees/CF462D_ApplemanAndTree.s
-
-# target to generate assembly for a file
-DynamicProgramming/OnTrees/CF462D_ApplemanAndTree.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF462D_ApplemanAndTree.cpp.s
-.PHONY : DynamicProgramming/OnTrees/CF462D_ApplemanAndTree.cpp.s
-
-DynamicProgramming/OnTrees/CF682C_AlyonaAndTheTree.o: DynamicProgramming/OnTrees/CF682C_AlyonaAndTheTree.cpp.o
-
-.PHONY : DynamicProgramming/OnTrees/CF682C_AlyonaAndTheTree.o
-
-# target to build an object file
-DynamicProgramming/OnTrees/CF682C_AlyonaAndTheTree.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF682C_AlyonaAndTheTree.cpp.o
-.PHONY : DynamicProgramming/OnTrees/CF682C_AlyonaAndTheTree.cpp.o
-
-DynamicProgramming/OnTrees/CF682C_AlyonaAndTheTree.i: DynamicProgramming/OnTrees/CF682C_AlyonaAndTheTree.cpp.i
-
-.PHONY : DynamicProgramming/OnTrees/CF682C_AlyonaAndTheTree.i
-
-# target to preprocess a source file
-DynamicProgramming/OnTrees/CF682C_AlyonaAndTheTree.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF682C_AlyonaAndTheTree.cpp.i
-.PHONY : DynamicProgramming/OnTrees/CF682C_AlyonaAndTheTree.cpp.i
-
-DynamicProgramming/OnTrees/CF682C_AlyonaAndTheTree.s: DynamicProgramming/OnTrees/CF682C_AlyonaAndTheTree.cpp.s
-
-.PHONY : DynamicProgramming/OnTrees/CF682C_AlyonaAndTheTree.s
-
-# target to generate assembly for a file
-DynamicProgramming/OnTrees/CF682C_AlyonaAndTheTree.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF682C_AlyonaAndTheTree.cpp.s
-.PHONY : DynamicProgramming/OnTrees/CF682C_AlyonaAndTheTree.cpp.s
-
-DynamicProgramming/OnTrees/CF758E_BrokenTree.o: DynamicProgramming/OnTrees/CF758E_BrokenTree.cpp.o
-
-.PHONY : DynamicProgramming/OnTrees/CF758E_BrokenTree.o
-
-# target to build an object file
-DynamicProgramming/OnTrees/CF758E_BrokenTree.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF758E_BrokenTree.cpp.o
-.PHONY : DynamicProgramming/OnTrees/CF758E_BrokenTree.cpp.o
-
-DynamicProgramming/OnTrees/CF758E_BrokenTree.i: DynamicProgramming/OnTrees/CF758E_BrokenTree.cpp.i
-
-.PHONY : DynamicProgramming/OnTrees/CF758E_BrokenTree.i
-
-# target to preprocess a source file
-DynamicProgramming/OnTrees/CF758E_BrokenTree.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF758E_BrokenTree.cpp.i
-.PHONY : DynamicProgramming/OnTrees/CF758E_BrokenTree.cpp.i
-
-DynamicProgramming/OnTrees/CF758E_BrokenTree.s: DynamicProgramming/OnTrees/CF758E_BrokenTree.cpp.s
-
-.PHONY : DynamicProgramming/OnTrees/CF758E_BrokenTree.s
-
-# target to generate assembly for a file
-DynamicProgramming/OnTrees/CF758E_BrokenTree.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF758E_BrokenTree.cpp.s
-.PHONY : DynamicProgramming/OnTrees/CF758E_BrokenTree.cpp.s
-
-DynamicProgramming/OnTrees/CF771C_BearAndTreeJumps.o: DynamicProgramming/OnTrees/CF771C_BearAndTreeJumps.cpp.o
-
-.PHONY : DynamicProgramming/OnTrees/CF771C_BearAndTreeJumps.o
-
-# target to build an object file
-DynamicProgramming/OnTrees/CF771C_BearAndTreeJumps.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF771C_BearAndTreeJumps.cpp.o
-.PHONY : DynamicProgramming/OnTrees/CF771C_BearAndTreeJumps.cpp.o
-
-DynamicProgramming/OnTrees/CF771C_BearAndTreeJumps.i: DynamicProgramming/OnTrees/CF771C_BearAndTreeJumps.cpp.i
-
-.PHONY : DynamicProgramming/OnTrees/CF771C_BearAndTreeJumps.i
-
-# target to preprocess a source file
-DynamicProgramming/OnTrees/CF771C_BearAndTreeJumps.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF771C_BearAndTreeJumps.cpp.i
-.PHONY : DynamicProgramming/OnTrees/CF771C_BearAndTreeJumps.cpp.i
-
-DynamicProgramming/OnTrees/CF771C_BearAndTreeJumps.s: DynamicProgramming/OnTrees/CF771C_BearAndTreeJumps.cpp.s
-
-.PHONY : DynamicProgramming/OnTrees/CF771C_BearAndTreeJumps.s
-
-# target to generate assembly for a file
-DynamicProgramming/OnTrees/CF771C_BearAndTreeJumps.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF771C_BearAndTreeJumps.cpp.s
-.PHONY : DynamicProgramming/OnTrees/CF771C_BearAndTreeJumps.cpp.s
 
 DynamicProgramming/OnTrees/CF816C_KarenAndSupermarket.o: DynamicProgramming/OnTrees/CF816C_KarenAndSupermarket.cpp.o
 
@@ -7045,7 +4662,6 @@ DynamicProgramming/OnTrees/CF816C_KarenAndSupermarket.o: DynamicProgramming/OnTr
 # target to build an object file
 DynamicProgramming/OnTrees/CF816C_KarenAndSupermarket.cpp.o:
 	$(MAKE) -f CMakeFiles/CF816C_KarenAndSupermarket.dir/build.make CMakeFiles/CF816C_KarenAndSupermarket.dir/DynamicProgramming/OnTrees/CF816C_KarenAndSupermarket.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF816C_KarenAndSupermarket.cpp.o
 .PHONY : DynamicProgramming/OnTrees/CF816C_KarenAndSupermarket.cpp.o
 
 DynamicProgramming/OnTrees/CF816C_KarenAndSupermarket.i: DynamicProgramming/OnTrees/CF816C_KarenAndSupermarket.cpp.i
@@ -7055,7 +4671,6 @@ DynamicProgramming/OnTrees/CF816C_KarenAndSupermarket.i: DynamicProgramming/OnTr
 # target to preprocess a source file
 DynamicProgramming/OnTrees/CF816C_KarenAndSupermarket.cpp.i:
 	$(MAKE) -f CMakeFiles/CF816C_KarenAndSupermarket.dir/build.make CMakeFiles/CF816C_KarenAndSupermarket.dir/DynamicProgramming/OnTrees/CF816C_KarenAndSupermarket.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF816C_KarenAndSupermarket.cpp.i
 .PHONY : DynamicProgramming/OnTrees/CF816C_KarenAndSupermarket.cpp.i
 
 DynamicProgramming/OnTrees/CF816C_KarenAndSupermarket.s: DynamicProgramming/OnTrees/CF816C_KarenAndSupermarket.cpp.s
@@ -7065,7 +4680,6 @@ DynamicProgramming/OnTrees/CF816C_KarenAndSupermarket.s: DynamicProgramming/OnTr
 # target to generate assembly for a file
 DynamicProgramming/OnTrees/CF816C_KarenAndSupermarket.cpp.s:
 	$(MAKE) -f CMakeFiles/CF816C_KarenAndSupermarket.dir/build.make CMakeFiles/CF816C_KarenAndSupermarket.dir/DynamicProgramming/OnTrees/CF816C_KarenAndSupermarket.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF816C_KarenAndSupermarket.cpp.s
 .PHONY : DynamicProgramming/OnTrees/CF816C_KarenAndSupermarket.cpp.s
 
 DynamicProgramming/OnTrees/CF868E_PolicemanAndTree.o: DynamicProgramming/OnTrees/CF868E_PolicemanAndTree.cpp.o
@@ -7075,7 +4689,6 @@ DynamicProgramming/OnTrees/CF868E_PolicemanAndTree.o: DynamicProgramming/OnTrees
 # target to build an object file
 DynamicProgramming/OnTrees/CF868E_PolicemanAndTree.cpp.o:
 	$(MAKE) -f CMakeFiles/CF868E_PolicemanAndTree.dir/build.make CMakeFiles/CF868E_PolicemanAndTree.dir/DynamicProgramming/OnTrees/CF868E_PolicemanAndTree.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF868E_PolicemanAndTree.cpp.o
 .PHONY : DynamicProgramming/OnTrees/CF868E_PolicemanAndTree.cpp.o
 
 DynamicProgramming/OnTrees/CF868E_PolicemanAndTree.i: DynamicProgramming/OnTrees/CF868E_PolicemanAndTree.cpp.i
@@ -7085,7 +4698,6 @@ DynamicProgramming/OnTrees/CF868E_PolicemanAndTree.i: DynamicProgramming/OnTrees
 # target to preprocess a source file
 DynamicProgramming/OnTrees/CF868E_PolicemanAndTree.cpp.i:
 	$(MAKE) -f CMakeFiles/CF868E_PolicemanAndTree.dir/build.make CMakeFiles/CF868E_PolicemanAndTree.dir/DynamicProgramming/OnTrees/CF868E_PolicemanAndTree.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF868E_PolicemanAndTree.cpp.i
 .PHONY : DynamicProgramming/OnTrees/CF868E_PolicemanAndTree.cpp.i
 
 DynamicProgramming/OnTrees/CF868E_PolicemanAndTree.s: DynamicProgramming/OnTrees/CF868E_PolicemanAndTree.cpp.s
@@ -7095,7 +4707,6 @@ DynamicProgramming/OnTrees/CF868E_PolicemanAndTree.s: DynamicProgramming/OnTrees
 # target to generate assembly for a file
 DynamicProgramming/OnTrees/CF868E_PolicemanAndTree.cpp.s:
 	$(MAKE) -f CMakeFiles/CF868E_PolicemanAndTree.dir/build.make CMakeFiles/CF868E_PolicemanAndTree.dir/DynamicProgramming/OnTrees/CF868E_PolicemanAndTree.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF868E_PolicemanAndTree.cpp.s
 .PHONY : DynamicProgramming/OnTrees/CF868E_PolicemanAndTree.cpp.s
 
 DynamicProgramming/OnTrees/CF915F_ImbalanceValueOfTree.o: DynamicProgramming/OnTrees/CF915F_ImbalanceValueOfTree.cpp.o
@@ -7104,7 +4715,6 @@ DynamicProgramming/OnTrees/CF915F_ImbalanceValueOfTree.o: DynamicProgramming/OnT
 
 # target to build an object file
 DynamicProgramming/OnTrees/CF915F_ImbalanceValueOfTree.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF915F_ImbalanceValueOfTree.cpp.o
 	$(MAKE) -f CMakeFiles/CF915F_ImbalanceValueOfTree.dir/build.make CMakeFiles/CF915F_ImbalanceValueOfTree.dir/DynamicProgramming/OnTrees/CF915F_ImbalanceValueOfTree.cpp.o
 .PHONY : DynamicProgramming/OnTrees/CF915F_ImbalanceValueOfTree.cpp.o
 
@@ -7114,7 +4724,6 @@ DynamicProgramming/OnTrees/CF915F_ImbalanceValueOfTree.i: DynamicProgramming/OnT
 
 # target to preprocess a source file
 DynamicProgramming/OnTrees/CF915F_ImbalanceValueOfTree.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF915F_ImbalanceValueOfTree.cpp.i
 	$(MAKE) -f CMakeFiles/CF915F_ImbalanceValueOfTree.dir/build.make CMakeFiles/CF915F_ImbalanceValueOfTree.dir/DynamicProgramming/OnTrees/CF915F_ImbalanceValueOfTree.cpp.i
 .PHONY : DynamicProgramming/OnTrees/CF915F_ImbalanceValueOfTree.cpp.i
 
@@ -7124,198 +4733,8 @@ DynamicProgramming/OnTrees/CF915F_ImbalanceValueOfTree.s: DynamicProgramming/OnT
 
 # target to generate assembly for a file
 DynamicProgramming/OnTrees/CF915F_ImbalanceValueOfTree.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF915F_ImbalanceValueOfTree.cpp.s
 	$(MAKE) -f CMakeFiles/CF915F_ImbalanceValueOfTree.dir/build.make CMakeFiles/CF915F_ImbalanceValueOfTree.dir/DynamicProgramming/OnTrees/CF915F_ImbalanceValueOfTree.cpp.s
 .PHONY : DynamicProgramming/OnTrees/CF915F_ImbalanceValueOfTree.cpp.s
-
-DynamicProgramming/OnTrees/CFDPOnTreesTutP3b.o: DynamicProgramming/OnTrees/CFDPOnTreesTutP3b.cpp.o
-
-.PHONY : DynamicProgramming/OnTrees/CFDPOnTreesTutP3b.o
-
-# target to build an object file
-DynamicProgramming/OnTrees/CFDPOnTreesTutP3b.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CFDPOnTreesTutP3b.cpp.o
-.PHONY : DynamicProgramming/OnTrees/CFDPOnTreesTutP3b.cpp.o
-
-DynamicProgramming/OnTrees/CFDPOnTreesTutP3b.i: DynamicProgramming/OnTrees/CFDPOnTreesTutP3b.cpp.i
-
-.PHONY : DynamicProgramming/OnTrees/CFDPOnTreesTutP3b.i
-
-# target to preprocess a source file
-DynamicProgramming/OnTrees/CFDPOnTreesTutP3b.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CFDPOnTreesTutP3b.cpp.i
-.PHONY : DynamicProgramming/OnTrees/CFDPOnTreesTutP3b.cpp.i
-
-DynamicProgramming/OnTrees/CFDPOnTreesTutP3b.s: DynamicProgramming/OnTrees/CFDPOnTreesTutP3b.cpp.s
-
-.PHONY : DynamicProgramming/OnTrees/CFDPOnTreesTutP3b.s
-
-# target to generate assembly for a file
-DynamicProgramming/OnTrees/CFDPOnTreesTutP3b.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CFDPOnTreesTutP3b.cpp.s
-.PHONY : DynamicProgramming/OnTrees/CFDPOnTreesTutP3b.cpp.s
-
-DynamicProgramming/OnTrees/CFDPOnTreesTutP4.o: DynamicProgramming/OnTrees/CFDPOnTreesTutP4.cpp.o
-
-.PHONY : DynamicProgramming/OnTrees/CFDPOnTreesTutP4.o
-
-# target to build an object file
-DynamicProgramming/OnTrees/CFDPOnTreesTutP4.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CFDPOnTreesTutP4.cpp.o
-.PHONY : DynamicProgramming/OnTrees/CFDPOnTreesTutP4.cpp.o
-
-DynamicProgramming/OnTrees/CFDPOnTreesTutP4.i: DynamicProgramming/OnTrees/CFDPOnTreesTutP4.cpp.i
-
-.PHONY : DynamicProgramming/OnTrees/CFDPOnTreesTutP4.i
-
-# target to preprocess a source file
-DynamicProgramming/OnTrees/CFDPOnTreesTutP4.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CFDPOnTreesTutP4.cpp.i
-.PHONY : DynamicProgramming/OnTrees/CFDPOnTreesTutP4.cpp.i
-
-DynamicProgramming/OnTrees/CFDPOnTreesTutP4.s: DynamicProgramming/OnTrees/CFDPOnTreesTutP4.cpp.s
-
-.PHONY : DynamicProgramming/OnTrees/CFDPOnTreesTutP4.s
-
-# target to generate assembly for a file
-DynamicProgramming/OnTrees/CFDPOnTreesTutP4.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CFDPOnTreesTutP4.cpp.s
-.PHONY : DynamicProgramming/OnTrees/CFDPOnTreesTutP4.cpp.s
-
-DynamicProgramming/OnTrees/HackerEarth_CountingOnTree.o: DynamicProgramming/OnTrees/HackerEarth_CountingOnTree.cpp.o
-
-.PHONY : DynamicProgramming/OnTrees/HackerEarth_CountingOnTree.o
-
-# target to build an object file
-DynamicProgramming/OnTrees/HackerEarth_CountingOnTree.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/HackerEarth_CountingOnTree.cpp.o
-.PHONY : DynamicProgramming/OnTrees/HackerEarth_CountingOnTree.cpp.o
-
-DynamicProgramming/OnTrees/HackerEarth_CountingOnTree.i: DynamicProgramming/OnTrees/HackerEarth_CountingOnTree.cpp.i
-
-.PHONY : DynamicProgramming/OnTrees/HackerEarth_CountingOnTree.i
-
-# target to preprocess a source file
-DynamicProgramming/OnTrees/HackerEarth_CountingOnTree.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/HackerEarth_CountingOnTree.cpp.i
-.PHONY : DynamicProgramming/OnTrees/HackerEarth_CountingOnTree.cpp.i
-
-DynamicProgramming/OnTrees/HackerEarth_CountingOnTree.s: DynamicProgramming/OnTrees/HackerEarth_CountingOnTree.cpp.s
-
-.PHONY : DynamicProgramming/OnTrees/HackerEarth_CountingOnTree.s
-
-# target to generate assembly for a file
-DynamicProgramming/OnTrees/HackerEarth_CountingOnTree.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/HackerEarth_CountingOnTree.cpp.s
-.PHONY : DynamicProgramming/OnTrees/HackerEarth_CountingOnTree.cpp.s
-
-DynamicProgramming/OnTrees/IOI2005_Rivers.o: DynamicProgramming/OnTrees/IOI2005_Rivers.cpp.o
-
-.PHONY : DynamicProgramming/OnTrees/IOI2005_Rivers.o
-
-# target to build an object file
-DynamicProgramming/OnTrees/IOI2005_Rivers.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOI2005_Rivers.cpp.o
-.PHONY : DynamicProgramming/OnTrees/IOI2005_Rivers.cpp.o
-
-DynamicProgramming/OnTrees/IOI2005_Rivers.i: DynamicProgramming/OnTrees/IOI2005_Rivers.cpp.i
-
-.PHONY : DynamicProgramming/OnTrees/IOI2005_Rivers.i
-
-# target to preprocess a source file
-DynamicProgramming/OnTrees/IOI2005_Rivers.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOI2005_Rivers.cpp.i
-.PHONY : DynamicProgramming/OnTrees/IOI2005_Rivers.cpp.i
-
-DynamicProgramming/OnTrees/IOI2005_Rivers.s: DynamicProgramming/OnTrees/IOI2005_Rivers.cpp.s
-
-.PHONY : DynamicProgramming/OnTrees/IOI2005_Rivers.s
-
-# target to generate assembly for a file
-DynamicProgramming/OnTrees/IOI2005_Rivers.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOI2005_Rivers.cpp.s
-.PHONY : DynamicProgramming/OnTrees/IOI2005_Rivers.cpp.s
-
-DynamicProgramming/OnTrees/IOITC_CateringContracts.o: DynamicProgramming/OnTrees/IOITC_CateringContracts.cpp.o
-
-.PHONY : DynamicProgramming/OnTrees/IOITC_CateringContracts.o
-
-# target to build an object file
-DynamicProgramming/OnTrees/IOITC_CateringContracts.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC_CateringContracts.cpp.o
-.PHONY : DynamicProgramming/OnTrees/IOITC_CateringContracts.cpp.o
-
-DynamicProgramming/OnTrees/IOITC_CateringContracts.i: DynamicProgramming/OnTrees/IOITC_CateringContracts.cpp.i
-
-.PHONY : DynamicProgramming/OnTrees/IOITC_CateringContracts.i
-
-# target to preprocess a source file
-DynamicProgramming/OnTrees/IOITC_CateringContracts.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC_CateringContracts.cpp.i
-.PHONY : DynamicProgramming/OnTrees/IOITC_CateringContracts.cpp.i
-
-DynamicProgramming/OnTrees/IOITC_CateringContracts.s: DynamicProgramming/OnTrees/IOITC_CateringContracts.cpp.s
-
-.PHONY : DynamicProgramming/OnTrees/IOITC_CateringContracts.s
-
-# target to generate assembly for a file
-DynamicProgramming/OnTrees/IOITC_CateringContracts.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC_CateringContracts.cpp.s
-.PHONY : DynamicProgramming/OnTrees/IOITC_CateringContracts.cpp.s
-
-DynamicProgramming/OnTrees/OPC_3WaySplit.o: DynamicProgramming/OnTrees/OPC_3WaySplit.cpp.o
-
-.PHONY : DynamicProgramming/OnTrees/OPC_3WaySplit.o
-
-# target to build an object file
-DynamicProgramming/OnTrees/OPC_3WaySplit.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/OPC_3WaySplit.cpp.o
-.PHONY : DynamicProgramming/OnTrees/OPC_3WaySplit.cpp.o
-
-DynamicProgramming/OnTrees/OPC_3WaySplit.i: DynamicProgramming/OnTrees/OPC_3WaySplit.cpp.i
-
-.PHONY : DynamicProgramming/OnTrees/OPC_3WaySplit.i
-
-# target to preprocess a source file
-DynamicProgramming/OnTrees/OPC_3WaySplit.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/OPC_3WaySplit.cpp.i
-.PHONY : DynamicProgramming/OnTrees/OPC_3WaySplit.cpp.i
-
-DynamicProgramming/OnTrees/OPC_3WaySplit.s: DynamicProgramming/OnTrees/OPC_3WaySplit.cpp.s
-
-.PHONY : DynamicProgramming/OnTrees/OPC_3WaySplit.s
-
-# target to generate assembly for a file
-DynamicProgramming/OnTrees/OPC_3WaySplit.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/OPC_3WaySplit.cpp.s
-.PHONY : DynamicProgramming/OnTrees/OPC_3WaySplit.cpp.s
-
-DynamicProgramming/OnTrees/OPC_CateringContracts.o: DynamicProgramming/OnTrees/OPC_CateringContracts.cpp.o
-
-.PHONY : DynamicProgramming/OnTrees/OPC_CateringContracts.o
-
-# target to build an object file
-DynamicProgramming/OnTrees/OPC_CateringContracts.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/OPC_CateringContracts.cpp.o
-.PHONY : DynamicProgramming/OnTrees/OPC_CateringContracts.cpp.o
-
-DynamicProgramming/OnTrees/OPC_CateringContracts.i: DynamicProgramming/OnTrees/OPC_CateringContracts.cpp.i
-
-.PHONY : DynamicProgramming/OnTrees/OPC_CateringContracts.i
-
-# target to preprocess a source file
-DynamicProgramming/OnTrees/OPC_CateringContracts.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/OPC_CateringContracts.cpp.i
-.PHONY : DynamicProgramming/OnTrees/OPC_CateringContracts.cpp.i
-
-DynamicProgramming/OnTrees/OPC_CateringContracts.s: DynamicProgramming/OnTrees/OPC_CateringContracts.cpp.s
-
-.PHONY : DynamicProgramming/OnTrees/OPC_CateringContracts.s
-
-# target to generate assembly for a file
-DynamicProgramming/OnTrees/OPC_CateringContracts.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/OPC_CateringContracts.cpp.s
-.PHONY : DynamicProgramming/OnTrees/OPC_CateringContracts.cpp.s
 
 DynamicProgramming/OnTrees/SPOJ_TwoPaths.o: DynamicProgramming/OnTrees/SPOJ_TwoPaths.cpp.o
 
@@ -7324,7 +4743,6 @@ DynamicProgramming/OnTrees/SPOJ_TwoPaths.o: DynamicProgramming/OnTrees/SPOJ_TwoP
 # target to build an object file
 DynamicProgramming/OnTrees/SPOJ_TwoPaths.cpp.o:
 	$(MAKE) -f CMakeFiles/SPOJ_TwoPaths.dir/build.make CMakeFiles/SPOJ_TwoPaths.dir/DynamicProgramming/OnTrees/SPOJ_TwoPaths.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/SPOJ_TwoPaths.cpp.o
 .PHONY : DynamicProgramming/OnTrees/SPOJ_TwoPaths.cpp.o
 
 DynamicProgramming/OnTrees/SPOJ_TwoPaths.i: DynamicProgramming/OnTrees/SPOJ_TwoPaths.cpp.i
@@ -7334,7 +4752,6 @@ DynamicProgramming/OnTrees/SPOJ_TwoPaths.i: DynamicProgramming/OnTrees/SPOJ_TwoP
 # target to preprocess a source file
 DynamicProgramming/OnTrees/SPOJ_TwoPaths.cpp.i:
 	$(MAKE) -f CMakeFiles/SPOJ_TwoPaths.dir/build.make CMakeFiles/SPOJ_TwoPaths.dir/DynamicProgramming/OnTrees/SPOJ_TwoPaths.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/SPOJ_TwoPaths.cpp.i
 .PHONY : DynamicProgramming/OnTrees/SPOJ_TwoPaths.cpp.i
 
 DynamicProgramming/OnTrees/SPOJ_TwoPaths.s: DynamicProgramming/OnTrees/SPOJ_TwoPaths.cpp.s
@@ -7344,35 +4761,7 @@ DynamicProgramming/OnTrees/SPOJ_TwoPaths.s: DynamicProgramming/OnTrees/SPOJ_TwoP
 # target to generate assembly for a file
 DynamicProgramming/OnTrees/SPOJ_TwoPaths.cpp.s:
 	$(MAKE) -f CMakeFiles/SPOJ_TwoPaths.dir/build.make CMakeFiles/SPOJ_TwoPaths.dir/DynamicProgramming/OnTrees/SPOJ_TwoPaths.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/SPOJ_TwoPaths.cpp.s
 .PHONY : DynamicProgramming/OnTrees/SPOJ_TwoPaths.cpp.s
-
-DynamicProgramming/OnTrees/SubtreesWithKNodes.o: DynamicProgramming/OnTrees/SubtreesWithKNodes.cpp.o
-
-.PHONY : DynamicProgramming/OnTrees/SubtreesWithKNodes.o
-
-# target to build an object file
-DynamicProgramming/OnTrees/SubtreesWithKNodes.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/SubtreesWithKNodes.cpp.o
-.PHONY : DynamicProgramming/OnTrees/SubtreesWithKNodes.cpp.o
-
-DynamicProgramming/OnTrees/SubtreesWithKNodes.i: DynamicProgramming/OnTrees/SubtreesWithKNodes.cpp.i
-
-.PHONY : DynamicProgramming/OnTrees/SubtreesWithKNodes.i
-
-# target to preprocess a source file
-DynamicProgramming/OnTrees/SubtreesWithKNodes.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/SubtreesWithKNodes.cpp.i
-.PHONY : DynamicProgramming/OnTrees/SubtreesWithKNodes.cpp.i
-
-DynamicProgramming/OnTrees/SubtreesWithKNodes.s: DynamicProgramming/OnTrees/SubtreesWithKNodes.cpp.s
-
-.PHONY : DynamicProgramming/OnTrees/SubtreesWithKNodes.s
-
-# target to generate assembly for a file
-DynamicProgramming/OnTrees/SubtreesWithKNodes.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/SubtreesWithKNodes.cpp.s
-.PHONY : DynamicProgramming/OnTrees/SubtreesWithKNodes.cpp.s
 
 DynamicProgramming/OnTrees/TIMUS_BinaryAppleTree.o: DynamicProgramming/OnTrees/TIMUS_BinaryAppleTree.cpp.o
 
@@ -7381,7 +4770,6 @@ DynamicProgramming/OnTrees/TIMUS_BinaryAppleTree.o: DynamicProgramming/OnTrees/T
 # target to build an object file
 DynamicProgramming/OnTrees/TIMUS_BinaryAppleTree.cpp.o:
 	$(MAKE) -f CMakeFiles/TIMUS_BinaryAppleTree.dir/build.make CMakeFiles/TIMUS_BinaryAppleTree.dir/DynamicProgramming/OnTrees/TIMUS_BinaryAppleTree.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/TIMUS_BinaryAppleTree.cpp.o
 .PHONY : DynamicProgramming/OnTrees/TIMUS_BinaryAppleTree.cpp.o
 
 DynamicProgramming/OnTrees/TIMUS_BinaryAppleTree.i: DynamicProgramming/OnTrees/TIMUS_BinaryAppleTree.cpp.i
@@ -7391,7 +4779,6 @@ DynamicProgramming/OnTrees/TIMUS_BinaryAppleTree.i: DynamicProgramming/OnTrees/T
 # target to preprocess a source file
 DynamicProgramming/OnTrees/TIMUS_BinaryAppleTree.cpp.i:
 	$(MAKE) -f CMakeFiles/TIMUS_BinaryAppleTree.dir/build.make CMakeFiles/TIMUS_BinaryAppleTree.dir/DynamicProgramming/OnTrees/TIMUS_BinaryAppleTree.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/TIMUS_BinaryAppleTree.cpp.i
 .PHONY : DynamicProgramming/OnTrees/TIMUS_BinaryAppleTree.cpp.i
 
 DynamicProgramming/OnTrees/TIMUS_BinaryAppleTree.s: DynamicProgramming/OnTrees/TIMUS_BinaryAppleTree.cpp.s
@@ -7401,143 +4788,88 @@ DynamicProgramming/OnTrees/TIMUS_BinaryAppleTree.s: DynamicProgramming/OnTrees/T
 # target to generate assembly for a file
 DynamicProgramming/OnTrees/TIMUS_BinaryAppleTree.cpp.s:
 	$(MAKE) -f CMakeFiles/TIMUS_BinaryAppleTree.dir/build.make CMakeFiles/TIMUS_BinaryAppleTree.dir/DynamicProgramming/OnTrees/TIMUS_BinaryAppleTree.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/TIMUS_BinaryAppleTree.cpp.s
 .PHONY : DynamicProgramming/OnTrees/TIMUS_BinaryAppleTree.cpp.s
 
-DynamicProgramming/SPOJ_ACMaker.o: DynamicProgramming/SPOJ_ACMaker.cpp.o
+DynamicProgramming/OptimisationsAndTechniques/1D1DOptimisation.o: DynamicProgramming/OptimisationsAndTechniques/1D1DOptimisation.cpp.o
 
-.PHONY : DynamicProgramming/SPOJ_ACMaker.o
-
-# target to build an object file
-DynamicProgramming/SPOJ_ACMaker.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_ACMaker.cpp.o
-.PHONY : DynamicProgramming/SPOJ_ACMaker.cpp.o
-
-DynamicProgramming/SPOJ_ACMaker.i: DynamicProgramming/SPOJ_ACMaker.cpp.i
-
-.PHONY : DynamicProgramming/SPOJ_ACMaker.i
-
-# target to preprocess a source file
-DynamicProgramming/SPOJ_ACMaker.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_ACMaker.cpp.i
-.PHONY : DynamicProgramming/SPOJ_ACMaker.cpp.i
-
-DynamicProgramming/SPOJ_ACMaker.s: DynamicProgramming/SPOJ_ACMaker.cpp.s
-
-.PHONY : DynamicProgramming/SPOJ_ACMaker.s
-
-# target to generate assembly for a file
-DynamicProgramming/SPOJ_ACMaker.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_ACMaker.cpp.s
-.PHONY : DynamicProgramming/SPOJ_ACMaker.cpp.s
-
-DynamicProgramming/SPOJ_Activities.o: DynamicProgramming/SPOJ_Activities.cpp.o
-
-.PHONY : DynamicProgramming/SPOJ_Activities.o
+.PHONY : DynamicProgramming/OptimisationsAndTechniques/1D1DOptimisation.o
 
 # target to build an object file
-DynamicProgramming/SPOJ_Activities.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_Activities.cpp.o
-.PHONY : DynamicProgramming/SPOJ_Activities.cpp.o
+DynamicProgramming/OptimisationsAndTechniques/1D1DOptimisation.cpp.o:
+	$(MAKE) -f CMakeFiles/1D1DOptimisation.dir/build.make CMakeFiles/1D1DOptimisation.dir/DynamicProgramming/OptimisationsAndTechniques/1D1DOptimisation.cpp.o
+.PHONY : DynamicProgramming/OptimisationsAndTechniques/1D1DOptimisation.cpp.o
 
-DynamicProgramming/SPOJ_Activities.i: DynamicProgramming/SPOJ_Activities.cpp.i
+DynamicProgramming/OptimisationsAndTechniques/1D1DOptimisation.i: DynamicProgramming/OptimisationsAndTechniques/1D1DOptimisation.cpp.i
 
-.PHONY : DynamicProgramming/SPOJ_Activities.i
+.PHONY : DynamicProgramming/OptimisationsAndTechniques/1D1DOptimisation.i
 
 # target to preprocess a source file
-DynamicProgramming/SPOJ_Activities.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_Activities.cpp.i
-.PHONY : DynamicProgramming/SPOJ_Activities.cpp.i
+DynamicProgramming/OptimisationsAndTechniques/1D1DOptimisation.cpp.i:
+	$(MAKE) -f CMakeFiles/1D1DOptimisation.dir/build.make CMakeFiles/1D1DOptimisation.dir/DynamicProgramming/OptimisationsAndTechniques/1D1DOptimisation.cpp.i
+.PHONY : DynamicProgramming/OptimisationsAndTechniques/1D1DOptimisation.cpp.i
 
-DynamicProgramming/SPOJ_Activities.s: DynamicProgramming/SPOJ_Activities.cpp.s
+DynamicProgramming/OptimisationsAndTechniques/1D1DOptimisation.s: DynamicProgramming/OptimisationsAndTechniques/1D1DOptimisation.cpp.s
 
-.PHONY : DynamicProgramming/SPOJ_Activities.s
+.PHONY : DynamicProgramming/OptimisationsAndTechniques/1D1DOptimisation.s
 
 # target to generate assembly for a file
-DynamicProgramming/SPOJ_Activities.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_Activities.cpp.s
-.PHONY : DynamicProgramming/SPOJ_Activities.cpp.s
+DynamicProgramming/OptimisationsAndTechniques/1D1DOptimisation.cpp.s:
+	$(MAKE) -f CMakeFiles/1D1DOptimisation.dir/build.make CMakeFiles/1D1DOptimisation.dir/DynamicProgramming/OptimisationsAndTechniques/1D1DOptimisation.cpp.s
+.PHONY : DynamicProgramming/OptimisationsAndTechniques/1D1DOptimisation.cpp.s
 
-DynamicProgramming/SPOJ_Aibohphobia.o: DynamicProgramming/SPOJ_Aibohphobia.cpp.o
+DynamicProgramming/SPOJ_ACQUIRE_1D1D.o: DynamicProgramming/SPOJ_ACQUIRE_1D1D.cpp.o
 
-.PHONY : DynamicProgramming/SPOJ_Aibohphobia.o
+.PHONY : DynamicProgramming/SPOJ_ACQUIRE_1D1D.o
 
 # target to build an object file
-DynamicProgramming/SPOJ_Aibohphobia.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_Aibohphobia.cpp.o
-.PHONY : DynamicProgramming/SPOJ_Aibohphobia.cpp.o
+DynamicProgramming/SPOJ_ACQUIRE_1D1D.cpp.o:
+	$(MAKE) -f CMakeFiles/SPOJ_ACQUIRE_1D1D.dir/build.make CMakeFiles/SPOJ_ACQUIRE_1D1D.dir/DynamicProgramming/SPOJ_ACQUIRE_1D1D.cpp.o
+.PHONY : DynamicProgramming/SPOJ_ACQUIRE_1D1D.cpp.o
 
-DynamicProgramming/SPOJ_Aibohphobia.i: DynamicProgramming/SPOJ_Aibohphobia.cpp.i
+DynamicProgramming/SPOJ_ACQUIRE_1D1D.i: DynamicProgramming/SPOJ_ACQUIRE_1D1D.cpp.i
 
-.PHONY : DynamicProgramming/SPOJ_Aibohphobia.i
+.PHONY : DynamicProgramming/SPOJ_ACQUIRE_1D1D.i
 
 # target to preprocess a source file
-DynamicProgramming/SPOJ_Aibohphobia.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_Aibohphobia.cpp.i
-.PHONY : DynamicProgramming/SPOJ_Aibohphobia.cpp.i
+DynamicProgramming/SPOJ_ACQUIRE_1D1D.cpp.i:
+	$(MAKE) -f CMakeFiles/SPOJ_ACQUIRE_1D1D.dir/build.make CMakeFiles/SPOJ_ACQUIRE_1D1D.dir/DynamicProgramming/SPOJ_ACQUIRE_1D1D.cpp.i
+.PHONY : DynamicProgramming/SPOJ_ACQUIRE_1D1D.cpp.i
 
-DynamicProgramming/SPOJ_Aibohphobia.s: DynamicProgramming/SPOJ_Aibohphobia.cpp.s
+DynamicProgramming/SPOJ_ACQUIRE_1D1D.s: DynamicProgramming/SPOJ_ACQUIRE_1D1D.cpp.s
 
-.PHONY : DynamicProgramming/SPOJ_Aibohphobia.s
+.PHONY : DynamicProgramming/SPOJ_ACQUIRE_1D1D.s
 
 # target to generate assembly for a file
-DynamicProgramming/SPOJ_Aibohphobia.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_Aibohphobia.cpp.s
-.PHONY : DynamicProgramming/SPOJ_Aibohphobia.cpp.s
+DynamicProgramming/SPOJ_ACQUIRE_1D1D.cpp.s:
+	$(MAKE) -f CMakeFiles/SPOJ_ACQUIRE_1D1D.dir/build.make CMakeFiles/SPOJ_ACQUIRE_1D1D.dir/DynamicProgramming/SPOJ_ACQUIRE_1D1D.cpp.s
+.PHONY : DynamicProgramming/SPOJ_ACQUIRE_1D1D.cpp.s
 
-DynamicProgramming/SPOJ_Alphacode.o: DynamicProgramming/SPOJ_Alphacode.cpp.o
+DynamicProgramming/SPOJ_BRKSTRING.o: DynamicProgramming/SPOJ_BRKSTRING.cpp.o
 
-.PHONY : DynamicProgramming/SPOJ_Alphacode.o
+.PHONY : DynamicProgramming/SPOJ_BRKSTRING.o
 
 # target to build an object file
-DynamicProgramming/SPOJ_Alphacode.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_Alphacode.cpp.o
-.PHONY : DynamicProgramming/SPOJ_Alphacode.cpp.o
+DynamicProgramming/SPOJ_BRKSTRING.cpp.o:
+	$(MAKE) -f CMakeFiles/SPOJ_BRKSTRING.dir/build.make CMakeFiles/SPOJ_BRKSTRING.dir/DynamicProgramming/SPOJ_BRKSTRING.cpp.o
+.PHONY : DynamicProgramming/SPOJ_BRKSTRING.cpp.o
 
-DynamicProgramming/SPOJ_Alphacode.i: DynamicProgramming/SPOJ_Alphacode.cpp.i
+DynamicProgramming/SPOJ_BRKSTRING.i: DynamicProgramming/SPOJ_BRKSTRING.cpp.i
 
-.PHONY : DynamicProgramming/SPOJ_Alphacode.i
-
-# target to preprocess a source file
-DynamicProgramming/SPOJ_Alphacode.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_Alphacode.cpp.i
-.PHONY : DynamicProgramming/SPOJ_Alphacode.cpp.i
-
-DynamicProgramming/SPOJ_Alphacode.s: DynamicProgramming/SPOJ_Alphacode.cpp.s
-
-.PHONY : DynamicProgramming/SPOJ_Alphacode.s
-
-# target to generate assembly for a file
-DynamicProgramming/SPOJ_Alphacode.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_Alphacode.cpp.s
-.PHONY : DynamicProgramming/SPOJ_Alphacode.cpp.s
-
-DynamicProgramming/SPOJ_BuyingApples.o: DynamicProgramming/SPOJ_BuyingApples.cpp.o
-
-.PHONY : DynamicProgramming/SPOJ_BuyingApples.o
-
-# target to build an object file
-DynamicProgramming/SPOJ_BuyingApples.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_BuyingApples.cpp.o
-.PHONY : DynamicProgramming/SPOJ_BuyingApples.cpp.o
-
-DynamicProgramming/SPOJ_BuyingApples.i: DynamicProgramming/SPOJ_BuyingApples.cpp.i
-
-.PHONY : DynamicProgramming/SPOJ_BuyingApples.i
+.PHONY : DynamicProgramming/SPOJ_BRKSTRING.i
 
 # target to preprocess a source file
-DynamicProgramming/SPOJ_BuyingApples.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_BuyingApples.cpp.i
-.PHONY : DynamicProgramming/SPOJ_BuyingApples.cpp.i
+DynamicProgramming/SPOJ_BRKSTRING.cpp.i:
+	$(MAKE) -f CMakeFiles/SPOJ_BRKSTRING.dir/build.make CMakeFiles/SPOJ_BRKSTRING.dir/DynamicProgramming/SPOJ_BRKSTRING.cpp.i
+.PHONY : DynamicProgramming/SPOJ_BRKSTRING.cpp.i
 
-DynamicProgramming/SPOJ_BuyingApples.s: DynamicProgramming/SPOJ_BuyingApples.cpp.s
+DynamicProgramming/SPOJ_BRKSTRING.s: DynamicProgramming/SPOJ_BRKSTRING.cpp.s
 
-.PHONY : DynamicProgramming/SPOJ_BuyingApples.s
+.PHONY : DynamicProgramming/SPOJ_BRKSTRING.s
 
 # target to generate assembly for a file
-DynamicProgramming/SPOJ_BuyingApples.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_BuyingApples.cpp.s
-.PHONY : DynamicProgramming/SPOJ_BuyingApples.cpp.s
+DynamicProgramming/SPOJ_BRKSTRING.cpp.s:
+	$(MAKE) -f CMakeFiles/SPOJ_BRKSTRING.dir/build.make CMakeFiles/SPOJ_BRKSTRING.dir/DynamicProgramming/SPOJ_BRKSTRING.cpp.s
+.PHONY : DynamicProgramming/SPOJ_BRKSTRING.cpp.s
 
 DynamicProgramming/SPOJ_KRECT.o: DynamicProgramming/SPOJ_KRECT.cpp.o
 
@@ -7546,7 +4878,6 @@ DynamicProgramming/SPOJ_KRECT.o: DynamicProgramming/SPOJ_KRECT.cpp.o
 # target to build an object file
 DynamicProgramming/SPOJ_KRECT.cpp.o:
 	$(MAKE) -f CMakeFiles/SPOJ_KRECT.dir/build.make CMakeFiles/SPOJ_KRECT.dir/DynamicProgramming/SPOJ_KRECT.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_KRECT.cpp.o
 .PHONY : DynamicProgramming/SPOJ_KRECT.cpp.o
 
 DynamicProgramming/SPOJ_KRECT.i: DynamicProgramming/SPOJ_KRECT.cpp.i
@@ -7556,7 +4887,6 @@ DynamicProgramming/SPOJ_KRECT.i: DynamicProgramming/SPOJ_KRECT.cpp.i
 # target to preprocess a source file
 DynamicProgramming/SPOJ_KRECT.cpp.i:
 	$(MAKE) -f CMakeFiles/SPOJ_KRECT.dir/build.make CMakeFiles/SPOJ_KRECT.dir/DynamicProgramming/SPOJ_KRECT.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_KRECT.cpp.i
 .PHONY : DynamicProgramming/SPOJ_KRECT.cpp.i
 
 DynamicProgramming/SPOJ_KRECT.s: DynamicProgramming/SPOJ_KRECT.cpp.s
@@ -7566,8 +4896,34 @@ DynamicProgramming/SPOJ_KRECT.s: DynamicProgramming/SPOJ_KRECT.cpp.s
 # target to generate assembly for a file
 DynamicProgramming/SPOJ_KRECT.cpp.s:
 	$(MAKE) -f CMakeFiles/SPOJ_KRECT.dir/build.make CMakeFiles/SPOJ_KRECT.dir/DynamicProgramming/SPOJ_KRECT.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_KRECT.cpp.s
 .PHONY : DynamicProgramming/SPOJ_KRECT.cpp.s
+
+DynamicProgramming/SPOJ_NKLeaves.o: DynamicProgramming/SPOJ_NKLeaves.cpp.o
+
+.PHONY : DynamicProgramming/SPOJ_NKLeaves.o
+
+# target to build an object file
+DynamicProgramming/SPOJ_NKLeaves.cpp.o:
+	$(MAKE) -f CMakeFiles/SPOJ_NKLeaves.dir/build.make CMakeFiles/SPOJ_NKLeaves.dir/DynamicProgramming/SPOJ_NKLeaves.cpp.o
+.PHONY : DynamicProgramming/SPOJ_NKLeaves.cpp.o
+
+DynamicProgramming/SPOJ_NKLeaves.i: DynamicProgramming/SPOJ_NKLeaves.cpp.i
+
+.PHONY : DynamicProgramming/SPOJ_NKLeaves.i
+
+# target to preprocess a source file
+DynamicProgramming/SPOJ_NKLeaves.cpp.i:
+	$(MAKE) -f CMakeFiles/SPOJ_NKLeaves.dir/build.make CMakeFiles/SPOJ_NKLeaves.dir/DynamicProgramming/SPOJ_NKLeaves.cpp.i
+.PHONY : DynamicProgramming/SPOJ_NKLeaves.cpp.i
+
+DynamicProgramming/SPOJ_NKLeaves.s: DynamicProgramming/SPOJ_NKLeaves.cpp.s
+
+.PHONY : DynamicProgramming/SPOJ_NKLeaves.s
+
+# target to generate assembly for a file
+DynamicProgramming/SPOJ_NKLeaves.cpp.s:
+	$(MAKE) -f CMakeFiles/SPOJ_NKLeaves.dir/build.make CMakeFiles/SPOJ_NKLeaves.dir/DynamicProgramming/SPOJ_NKLeaves.cpp.s
+.PHONY : DynamicProgramming/SPOJ_NKLeaves.cpp.s
 
 DynamicProgramming/SPOJ_TheCourier.o: DynamicProgramming/SPOJ_TheCourier.cpp.o
 
@@ -7576,7 +4932,6 @@ DynamicProgramming/SPOJ_TheCourier.o: DynamicProgramming/SPOJ_TheCourier.cpp.o
 # target to build an object file
 DynamicProgramming/SPOJ_TheCourier.cpp.o:
 	$(MAKE) -f CMakeFiles/SPOJ_TheCourier.dir/build.make CMakeFiles/SPOJ_TheCourier.dir/DynamicProgramming/SPOJ_TheCourier.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_TheCourier.cpp.o
 .PHONY : DynamicProgramming/SPOJ_TheCourier.cpp.o
 
 DynamicProgramming/SPOJ_TheCourier.i: DynamicProgramming/SPOJ_TheCourier.cpp.i
@@ -7586,7 +4941,6 @@ DynamicProgramming/SPOJ_TheCourier.i: DynamicProgramming/SPOJ_TheCourier.cpp.i
 # target to preprocess a source file
 DynamicProgramming/SPOJ_TheCourier.cpp.i:
 	$(MAKE) -f CMakeFiles/SPOJ_TheCourier.dir/build.make CMakeFiles/SPOJ_TheCourier.dir/DynamicProgramming/SPOJ_TheCourier.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_TheCourier.cpp.i
 .PHONY : DynamicProgramming/SPOJ_TheCourier.cpp.i
 
 DynamicProgramming/SPOJ_TheCourier.s: DynamicProgramming/SPOJ_TheCourier.cpp.s
@@ -7596,35 +4950,7 @@ DynamicProgramming/SPOJ_TheCourier.s: DynamicProgramming/SPOJ_TheCourier.cpp.s
 # target to generate assembly for a file
 DynamicProgramming/SPOJ_TheCourier.cpp.s:
 	$(MAKE) -f CMakeFiles/SPOJ_TheCourier.dir/build.make CMakeFiles/SPOJ_TheCourier.dir/DynamicProgramming/SPOJ_TheCourier.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_TheCourier.cpp.s
 .PHONY : DynamicProgramming/SPOJ_TheCourier.cpp.s
-
-DynamicProgramming/USACO2017P2.o: DynamicProgramming/USACO2017P2.cpp.o
-
-.PHONY : DynamicProgramming/USACO2017P2.o
-
-# target to build an object file
-DynamicProgramming/USACO2017P2.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/USACO2017P2.cpp.o
-.PHONY : DynamicProgramming/USACO2017P2.cpp.o
-
-DynamicProgramming/USACO2017P2.i: DynamicProgramming/USACO2017P2.cpp.i
-
-.PHONY : DynamicProgramming/USACO2017P2.i
-
-# target to preprocess a source file
-DynamicProgramming/USACO2017P2.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/USACO2017P2.cpp.i
-.PHONY : DynamicProgramming/USACO2017P2.cpp.i
-
-DynamicProgramming/USACO2017P2.s: DynamicProgramming/USACO2017P2.cpp.s
-
-.PHONY : DynamicProgramming/USACO2017P2.s
-
-# target to generate assembly for a file
-DynamicProgramming/USACO2017P2.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/USACO2017P2.cpp.s
-.PHONY : DynamicProgramming/USACO2017P2.cpp.s
 
 DynamicProgramming/USACO_BalancedCowBreeds.o: DynamicProgramming/USACO_BalancedCowBreeds.cpp.o
 
@@ -7632,7 +4958,6 @@ DynamicProgramming/USACO_BalancedCowBreeds.o: DynamicProgramming/USACO_BalancedC
 
 # target to build an object file
 DynamicProgramming/USACO_BalancedCowBreeds.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/USACO_BalancedCowBreeds.cpp.o
 	$(MAKE) -f CMakeFiles/USACO_BalancedCowBreeds.dir/build.make CMakeFiles/USACO_BalancedCowBreeds.dir/DynamicProgramming/USACO_BalancedCowBreeds.cpp.o
 .PHONY : DynamicProgramming/USACO_BalancedCowBreeds.cpp.o
 
@@ -7642,7 +4967,6 @@ DynamicProgramming/USACO_BalancedCowBreeds.i: DynamicProgramming/USACO_BalancedC
 
 # target to preprocess a source file
 DynamicProgramming/USACO_BalancedCowBreeds.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/USACO_BalancedCowBreeds.cpp.i
 	$(MAKE) -f CMakeFiles/USACO_BalancedCowBreeds.dir/build.make CMakeFiles/USACO_BalancedCowBreeds.dir/DynamicProgramming/USACO_BalancedCowBreeds.cpp.i
 .PHONY : DynamicProgramming/USACO_BalancedCowBreeds.cpp.i
 
@@ -7652,414 +4976,8 @@ DynamicProgramming/USACO_BalancedCowBreeds.s: DynamicProgramming/USACO_BalancedC
 
 # target to generate assembly for a file
 DynamicProgramming/USACO_BalancedCowBreeds.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/USACO_BalancedCowBreeds.cpp.s
 	$(MAKE) -f CMakeFiles/USACO_BalancedCowBreeds.dir/build.make CMakeFiles/USACO_BalancedCowBreeds.dir/DynamicProgramming/USACO_BalancedCowBreeds.cpp.s
 .PHONY : DynamicProgramming/USACO_BalancedCowBreeds.cpp.s
-
-DynamicProgramming/UVa10306_eCoins.o: DynamicProgramming/UVa10306_eCoins.cpp.o
-
-.PHONY : DynamicProgramming/UVa10306_eCoins.o
-
-# target to build an object file
-DynamicProgramming/UVa10306_eCoins.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10306_eCoins.cpp.o
-.PHONY : DynamicProgramming/UVa10306_eCoins.cpp.o
-
-DynamicProgramming/UVa10306_eCoins.i: DynamicProgramming/UVa10306_eCoins.cpp.i
-
-.PHONY : DynamicProgramming/UVa10306_eCoins.i
-
-# target to preprocess a source file
-DynamicProgramming/UVa10306_eCoins.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10306_eCoins.cpp.i
-.PHONY : DynamicProgramming/UVa10306_eCoins.cpp.i
-
-DynamicProgramming/UVa10306_eCoins.s: DynamicProgramming/UVa10306_eCoins.cpp.s
-
-.PHONY : DynamicProgramming/UVa10306_eCoins.s
-
-# target to generate assembly for a file
-DynamicProgramming/UVa10306_eCoins.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10306_eCoins.cpp.s
-.PHONY : DynamicProgramming/UVa10306_eCoins.cpp.s
-
-DynamicProgramming/UVa10337_FlightPlanner.o: DynamicProgramming/UVa10337_FlightPlanner.cpp.o
-
-.PHONY : DynamicProgramming/UVa10337_FlightPlanner.o
-
-# target to build an object file
-DynamicProgramming/UVa10337_FlightPlanner.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10337_FlightPlanner.cpp.o
-.PHONY : DynamicProgramming/UVa10337_FlightPlanner.cpp.o
-
-DynamicProgramming/UVa10337_FlightPlanner.i: DynamicProgramming/UVa10337_FlightPlanner.cpp.i
-
-.PHONY : DynamicProgramming/UVa10337_FlightPlanner.i
-
-# target to preprocess a source file
-DynamicProgramming/UVa10337_FlightPlanner.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10337_FlightPlanner.cpp.i
-.PHONY : DynamicProgramming/UVa10337_FlightPlanner.cpp.i
-
-DynamicProgramming/UVa10337_FlightPlanner.s: DynamicProgramming/UVa10337_FlightPlanner.cpp.s
-
-.PHONY : DynamicProgramming/UVa10337_FlightPlanner.s
-
-# target to generate assembly for a file
-DynamicProgramming/UVa10337_FlightPlanner.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10337_FlightPlanner.cpp.s
-.PHONY : DynamicProgramming/UVa10337_FlightPlanner.cpp.s
-
-DynamicProgramming/UVa10496_CollectingBeepers.o: DynamicProgramming/UVa10496_CollectingBeepers.cpp.o
-
-.PHONY : DynamicProgramming/UVa10496_CollectingBeepers.o
-
-# target to build an object file
-DynamicProgramming/UVa10496_CollectingBeepers.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10496_CollectingBeepers.cpp.o
-.PHONY : DynamicProgramming/UVa10496_CollectingBeepers.cpp.o
-
-DynamicProgramming/UVa10496_CollectingBeepers.i: DynamicProgramming/UVa10496_CollectingBeepers.cpp.i
-
-.PHONY : DynamicProgramming/UVa10496_CollectingBeepers.i
-
-# target to preprocess a source file
-DynamicProgramming/UVa10496_CollectingBeepers.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10496_CollectingBeepers.cpp.i
-.PHONY : DynamicProgramming/UVa10496_CollectingBeepers.cpp.i
-
-DynamicProgramming/UVa10496_CollectingBeepers.s: DynamicProgramming/UVa10496_CollectingBeepers.cpp.s
-
-.PHONY : DynamicProgramming/UVa10496_CollectingBeepers.s
-
-# target to generate assembly for a file
-DynamicProgramming/UVa10496_CollectingBeepers.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10496_CollectingBeepers.cpp.s
-.PHONY : DynamicProgramming/UVa10496_CollectingBeepers.cpp.s
-
-DynamicProgramming/UVa10616_DivisibleGroupSums.o: DynamicProgramming/UVa10616_DivisibleGroupSums.cpp.o
-
-.PHONY : DynamicProgramming/UVa10616_DivisibleGroupSums.o
-
-# target to build an object file
-DynamicProgramming/UVa10616_DivisibleGroupSums.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10616_DivisibleGroupSums.cpp.o
-.PHONY : DynamicProgramming/UVa10616_DivisibleGroupSums.cpp.o
-
-DynamicProgramming/UVa10616_DivisibleGroupSums.i: DynamicProgramming/UVa10616_DivisibleGroupSums.cpp.i
-
-.PHONY : DynamicProgramming/UVa10616_DivisibleGroupSums.i
-
-# target to preprocess a source file
-DynamicProgramming/UVa10616_DivisibleGroupSums.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10616_DivisibleGroupSums.cpp.i
-.PHONY : DynamicProgramming/UVa10616_DivisibleGroupSums.cpp.i
-
-DynamicProgramming/UVa10616_DivisibleGroupSums.s: DynamicProgramming/UVa10616_DivisibleGroupSums.cpp.s
-
-.PHONY : DynamicProgramming/UVa10616_DivisibleGroupSums.s
-
-# target to generate assembly for a file
-DynamicProgramming/UVa10616_DivisibleGroupSums.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10616_DivisibleGroupSums.cpp.s
-.PHONY : DynamicProgramming/UVa10616_DivisibleGroupSums.cpp.s
-
-DynamicProgramming/UVa10721_BarCodes.o: DynamicProgramming/UVa10721_BarCodes.cpp.o
-
-.PHONY : DynamicProgramming/UVa10721_BarCodes.o
-
-# target to build an object file
-DynamicProgramming/UVa10721_BarCodes.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10721_BarCodes.cpp.o
-.PHONY : DynamicProgramming/UVa10721_BarCodes.cpp.o
-
-DynamicProgramming/UVa10721_BarCodes.i: DynamicProgramming/UVa10721_BarCodes.cpp.i
-
-.PHONY : DynamicProgramming/UVa10721_BarCodes.i
-
-# target to preprocess a source file
-DynamicProgramming/UVa10721_BarCodes.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10721_BarCodes.cpp.i
-.PHONY : DynamicProgramming/UVa10721_BarCodes.cpp.i
-
-DynamicProgramming/UVa10721_BarCodes.s: DynamicProgramming/UVa10721_BarCodes.cpp.s
-
-.PHONY : DynamicProgramming/UVa10721_BarCodes.s
-
-# target to generate assembly for a file
-DynamicProgramming/UVa10721_BarCodes.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10721_BarCodes.cpp.s
-.PHONY : DynamicProgramming/UVa10721_BarCodes.cpp.s
-
-DynamicProgramming/UVa10819_TroubleOf13Dots.o: DynamicProgramming/UVa10819_TroubleOf13Dots.cpp.o
-
-.PHONY : DynamicProgramming/UVa10819_TroubleOf13Dots.o
-
-# target to build an object file
-DynamicProgramming/UVa10819_TroubleOf13Dots.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10819_TroubleOf13Dots.cpp.o
-.PHONY : DynamicProgramming/UVa10819_TroubleOf13Dots.cpp.o
-
-DynamicProgramming/UVa10819_TroubleOf13Dots.i: DynamicProgramming/UVa10819_TroubleOf13Dots.cpp.i
-
-.PHONY : DynamicProgramming/UVa10819_TroubleOf13Dots.i
-
-# target to preprocess a source file
-DynamicProgramming/UVa10819_TroubleOf13Dots.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10819_TroubleOf13Dots.cpp.i
-.PHONY : DynamicProgramming/UVa10819_TroubleOf13Dots.cpp.i
-
-DynamicProgramming/UVa10819_TroubleOf13Dots.s: DynamicProgramming/UVa10819_TroubleOf13Dots.cpp.s
-
-.PHONY : DynamicProgramming/UVa10819_TroubleOf13Dots.s
-
-# target to generate assembly for a file
-DynamicProgramming/UVa10819_TroubleOf13Dots.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10819_TroubleOf13Dots.cpp.s
-.PHONY : DynamicProgramming/UVa10819_TroubleOf13Dots.cpp.s
-
-DynamicProgramming/UVa11284_ShoppingTrip.o: DynamicProgramming/UVa11284_ShoppingTrip.cpp.o
-
-.PHONY : DynamicProgramming/UVa11284_ShoppingTrip.o
-
-# target to build an object file
-DynamicProgramming/UVa11284_ShoppingTrip.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa11284_ShoppingTrip.cpp.o
-.PHONY : DynamicProgramming/UVa11284_ShoppingTrip.cpp.o
-
-DynamicProgramming/UVa11284_ShoppingTrip.i: DynamicProgramming/UVa11284_ShoppingTrip.cpp.i
-
-.PHONY : DynamicProgramming/UVa11284_ShoppingTrip.i
-
-# target to preprocess a source file
-DynamicProgramming/UVa11284_ShoppingTrip.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa11284_ShoppingTrip.cpp.i
-.PHONY : DynamicProgramming/UVa11284_ShoppingTrip.cpp.i
-
-DynamicProgramming/UVa11284_ShoppingTrip.s: DynamicProgramming/UVa11284_ShoppingTrip.cpp.s
-
-.PHONY : DynamicProgramming/UVa11284_ShoppingTrip.s
-
-# target to generate assembly for a file
-DynamicProgramming/UVa11284_ShoppingTrip.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa11284_ShoppingTrip.cpp.s
-.PHONY : DynamicProgramming/UVa11284_ShoppingTrip.cpp.s
-
-DynamicProgramming/UVa11517_ExactChange.o: DynamicProgramming/UVa11517_ExactChange.cpp.o
-
-.PHONY : DynamicProgramming/UVa11517_ExactChange.o
-
-# target to build an object file
-DynamicProgramming/UVa11517_ExactChange.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa11517_ExactChange.cpp.o
-.PHONY : DynamicProgramming/UVa11517_ExactChange.cpp.o
-
-DynamicProgramming/UVa11517_ExactChange.i: DynamicProgramming/UVa11517_ExactChange.cpp.i
-
-.PHONY : DynamicProgramming/UVa11517_ExactChange.i
-
-# target to preprocess a source file
-DynamicProgramming/UVa11517_ExactChange.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa11517_ExactChange.cpp.i
-.PHONY : DynamicProgramming/UVa11517_ExactChange.cpp.i
-
-DynamicProgramming/UVa11517_ExactChange.s: DynamicProgramming/UVa11517_ExactChange.cpp.s
-
-.PHONY : DynamicProgramming/UVa11517_ExactChange.s
-
-# target to generate assembly for a file
-DynamicProgramming/UVa11517_ExactChange.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa11517_ExactChange.cpp.s
-.PHONY : DynamicProgramming/UVa11517_ExactChange.cpp.s
-
-DynamicProgramming/UVa11566_LetsYumCha.o: DynamicProgramming/UVa11566_LetsYumCha.cpp.o
-
-.PHONY : DynamicProgramming/UVa11566_LetsYumCha.o
-
-# target to build an object file
-DynamicProgramming/UVa11566_LetsYumCha.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa11566_LetsYumCha.cpp.o
-.PHONY : DynamicProgramming/UVa11566_LetsYumCha.cpp.o
-
-DynamicProgramming/UVa11566_LetsYumCha.i: DynamicProgramming/UVa11566_LetsYumCha.cpp.i
-
-.PHONY : DynamicProgramming/UVa11566_LetsYumCha.i
-
-# target to preprocess a source file
-DynamicProgramming/UVa11566_LetsYumCha.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa11566_LetsYumCha.cpp.i
-.PHONY : DynamicProgramming/UVa11566_LetsYumCha.cpp.i
-
-DynamicProgramming/UVa11566_LetsYumCha.s: DynamicProgramming/UVa11566_LetsYumCha.cpp.s
-
-.PHONY : DynamicProgramming/UVa11566_LetsYumCha.s
-
-# target to generate assembly for a file
-DynamicProgramming/UVa11566_LetsYumCha.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa11566_LetsYumCha.cpp.s
-.PHONY : DynamicProgramming/UVa11566_LetsYumCha.cpp.s
-
-DynamicProgramming/UVa216_GettingInLine.o: DynamicProgramming/UVa216_GettingInLine.cpp.o
-
-.PHONY : DynamicProgramming/UVa216_GettingInLine.o
-
-# target to build an object file
-DynamicProgramming/UVa216_GettingInLine.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa216_GettingInLine.cpp.o
-.PHONY : DynamicProgramming/UVa216_GettingInLine.cpp.o
-
-DynamicProgramming/UVa216_GettingInLine.i: DynamicProgramming/UVa216_GettingInLine.cpp.i
-
-.PHONY : DynamicProgramming/UVa216_GettingInLine.i
-
-# target to preprocess a source file
-DynamicProgramming/UVa216_GettingInLine.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa216_GettingInLine.cpp.i
-.PHONY : DynamicProgramming/UVa216_GettingInLine.cpp.i
-
-DynamicProgramming/UVa216_GettingInLine.s: DynamicProgramming/UVa216_GettingInLine.cpp.s
-
-.PHONY : DynamicProgramming/UVa216_GettingInLine.s
-
-# target to generate assembly for a file
-DynamicProgramming/UVa216_GettingInLine.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa216_GettingInLine.cpp.s
-.PHONY : DynamicProgramming/UVa216_GettingInLine.cpp.s
-
-DynamicProgramming/UVa357_LetMeCountTheWays.o: DynamicProgramming/UVa357_LetMeCountTheWays.cpp.o
-
-.PHONY : DynamicProgramming/UVa357_LetMeCountTheWays.o
-
-# target to build an object file
-DynamicProgramming/UVa357_LetMeCountTheWays.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa357_LetMeCountTheWays.cpp.o
-.PHONY : DynamicProgramming/UVa357_LetMeCountTheWays.cpp.o
-
-DynamicProgramming/UVa357_LetMeCountTheWays.i: DynamicProgramming/UVa357_LetMeCountTheWays.cpp.i
-
-.PHONY : DynamicProgramming/UVa357_LetMeCountTheWays.i
-
-# target to preprocess a source file
-DynamicProgramming/UVa357_LetMeCountTheWays.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa357_LetMeCountTheWays.cpp.i
-.PHONY : DynamicProgramming/UVa357_LetMeCountTheWays.cpp.i
-
-DynamicProgramming/UVa357_LetMeCountTheWays.s: DynamicProgramming/UVa357_LetMeCountTheWays.cpp.s
-
-.PHONY : DynamicProgramming/UVa357_LetMeCountTheWays.s
-
-# target to generate assembly for a file
-DynamicProgramming/UVa357_LetMeCountTheWays.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa357_LetMeCountTheWays.cpp.s
-.PHONY : DynamicProgramming/UVa357_LetMeCountTheWays.cpp.s
-
-DynamicProgramming/ZCO_Rectangle.o: DynamicProgramming/ZCO_Rectangle.cpp.o
-
-.PHONY : DynamicProgramming/ZCO_Rectangle.o
-
-# target to build an object file
-DynamicProgramming/ZCO_Rectangle.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/ZCO_Rectangle.cpp.o
-.PHONY : DynamicProgramming/ZCO_Rectangle.cpp.o
-
-DynamicProgramming/ZCO_Rectangle.i: DynamicProgramming/ZCO_Rectangle.cpp.i
-
-.PHONY : DynamicProgramming/ZCO_Rectangle.i
-
-# target to preprocess a source file
-DynamicProgramming/ZCO_Rectangle.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/ZCO_Rectangle.cpp.i
-.PHONY : DynamicProgramming/ZCO_Rectangle.cpp.i
-
-DynamicProgramming/ZCO_Rectangle.s: DynamicProgramming/ZCO_Rectangle.cpp.s
-
-.PHONY : DynamicProgramming/ZCO_Rectangle.s
-
-# target to generate assembly for a file
-DynamicProgramming/ZCO_Rectangle.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/ZCO_Rectangle.cpp.s
-.PHONY : DynamicProgramming/ZCO_Rectangle.cpp.s
-
-FightingZombies.o: FightingZombies.cpp.o
-
-.PHONY : FightingZombies.o
-
-# target to build an object file
-FightingZombies.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/FightingZombies.cpp.o
-.PHONY : FightingZombies.cpp.o
-
-FightingZombies.i: FightingZombies.cpp.i
-
-.PHONY : FightingZombies.i
-
-# target to preprocess a source file
-FightingZombies.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/FightingZombies.cpp.i
-.PHONY : FightingZombies.cpp.i
-
-FightingZombies.s: FightingZombies.cpp.s
-
-.PHONY : FightingZombies.s
-
-# target to generate assembly for a file
-FightingZombies.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/FightingZombies.cpp.s
-.PHONY : FightingZombies.cpp.s
-
-GraphTheory/APIO2009_ATMRobbery.o: GraphTheory/APIO2009_ATMRobbery.cpp.o
-
-.PHONY : GraphTheory/APIO2009_ATMRobbery.o
-
-# target to build an object file
-GraphTheory/APIO2009_ATMRobbery.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/APIO2009_ATMRobbery.cpp.o
-.PHONY : GraphTheory/APIO2009_ATMRobbery.cpp.o
-
-GraphTheory/APIO2009_ATMRobbery.i: GraphTheory/APIO2009_ATMRobbery.cpp.i
-
-.PHONY : GraphTheory/APIO2009_ATMRobbery.i
-
-# target to preprocess a source file
-GraphTheory/APIO2009_ATMRobbery.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/APIO2009_ATMRobbery.cpp.i
-.PHONY : GraphTheory/APIO2009_ATMRobbery.cpp.i
-
-GraphTheory/APIO2009_ATMRobbery.s: GraphTheory/APIO2009_ATMRobbery.cpp.s
-
-.PHONY : GraphTheory/APIO2009_ATMRobbery.s
-
-# target to generate assembly for a file
-GraphTheory/APIO2009_ATMRobbery.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/APIO2009_ATMRobbery.cpp.s
-.PHONY : GraphTheory/APIO2009_ATMRobbery.cpp.s
-
-GraphTheory/CC_KingdomUnity.o: GraphTheory/CC_KingdomUnity.cpp.o
-
-.PHONY : GraphTheory/CC_KingdomUnity.o
-
-# target to build an object file
-GraphTheory/CC_KingdomUnity.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/CC_KingdomUnity.cpp.o
-.PHONY : GraphTheory/CC_KingdomUnity.cpp.o
-
-GraphTheory/CC_KingdomUnity.i: GraphTheory/CC_KingdomUnity.cpp.i
-
-.PHONY : GraphTheory/CC_KingdomUnity.i
-
-# target to preprocess a source file
-GraphTheory/CC_KingdomUnity.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/CC_KingdomUnity.cpp.i
-.PHONY : GraphTheory/CC_KingdomUnity.cpp.i
-
-GraphTheory/CC_KingdomUnity.s: GraphTheory/CC_KingdomUnity.cpp.s
-
-.PHONY : GraphTheory/CC_KingdomUnity.s
-
-# target to generate assembly for a file
-GraphTheory/CC_KingdomUnity.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/CC_KingdomUnity.cpp.s
-.PHONY : GraphTheory/CC_KingdomUnity.cpp.s
 
 GraphTheory/CC_TALCA.o: GraphTheory/CC_TALCA.cpp.o
 
@@ -8068,7 +4986,6 @@ GraphTheory/CC_TALCA.o: GraphTheory/CC_TALCA.cpp.o
 # target to build an object file
 GraphTheory/CC_TALCA.cpp.o:
 	$(MAKE) -f CMakeFiles/CC_TALCA.dir/build.make CMakeFiles/CC_TALCA.dir/GraphTheory/CC_TALCA.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/CC_TALCA.cpp.o
 .PHONY : GraphTheory/CC_TALCA.cpp.o
 
 GraphTheory/CC_TALCA.i: GraphTheory/CC_TALCA.cpp.i
@@ -8078,7 +4995,6 @@ GraphTheory/CC_TALCA.i: GraphTheory/CC_TALCA.cpp.i
 # target to preprocess a source file
 GraphTheory/CC_TALCA.cpp.i:
 	$(MAKE) -f CMakeFiles/CC_TALCA.dir/build.make CMakeFiles/CC_TALCA.dir/GraphTheory/CC_TALCA.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/CC_TALCA.cpp.i
 .PHONY : GraphTheory/CC_TALCA.cpp.i
 
 GraphTheory/CC_TALCA.s: GraphTheory/CC_TALCA.cpp.s
@@ -8088,7 +5004,6 @@ GraphTheory/CC_TALCA.s: GraphTheory/CC_TALCA.cpp.s
 # target to generate assembly for a file
 GraphTheory/CC_TALCA.cpp.s:
 	$(MAKE) -f CMakeFiles/CC_TALCA.dir/build.make CMakeFiles/CC_TALCA.dir/GraphTheory/CC_TALCA.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/CC_TALCA.cpp.s
 .PHONY : GraphTheory/CC_TALCA.cpp.s
 
 GraphTheory/CC_VasyaAndLittleBear.o: GraphTheory/CC_VasyaAndLittleBear.cpp.o
@@ -8097,7 +5012,6 @@ GraphTheory/CC_VasyaAndLittleBear.o: GraphTheory/CC_VasyaAndLittleBear.cpp.o
 
 # target to build an object file
 GraphTheory/CC_VasyaAndLittleBear.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/CC_VasyaAndLittleBear.cpp.o
 	$(MAKE) -f CMakeFiles/CC_VasyaAndLittleBear.dir/build.make CMakeFiles/CC_VasyaAndLittleBear.dir/GraphTheory/CC_VasyaAndLittleBear.cpp.o
 .PHONY : GraphTheory/CC_VasyaAndLittleBear.cpp.o
 
@@ -8107,7 +5021,6 @@ GraphTheory/CC_VasyaAndLittleBear.i: GraphTheory/CC_VasyaAndLittleBear.cpp.i
 
 # target to preprocess a source file
 GraphTheory/CC_VasyaAndLittleBear.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/CC_VasyaAndLittleBear.cpp.i
 	$(MAKE) -f CMakeFiles/CC_VasyaAndLittleBear.dir/build.make CMakeFiles/CC_VasyaAndLittleBear.dir/GraphTheory/CC_VasyaAndLittleBear.cpp.i
 .PHONY : GraphTheory/CC_VasyaAndLittleBear.cpp.i
 
@@ -8117,7 +5030,6 @@ GraphTheory/CC_VasyaAndLittleBear.s: GraphTheory/CC_VasyaAndLittleBear.cpp.s
 
 # target to generate assembly for a file
 GraphTheory/CC_VasyaAndLittleBear.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/CC_VasyaAndLittleBear.cpp.s
 	$(MAKE) -f CMakeFiles/CC_VasyaAndLittleBear.dir/build.make CMakeFiles/CC_VasyaAndLittleBear.dir/GraphTheory/CC_VasyaAndLittleBear.cpp.s
 .PHONY : GraphTheory/CC_VasyaAndLittleBear.cpp.s
 
@@ -8127,7 +5039,6 @@ GraphTheory/CF115A_Party.o: GraphTheory/CF115A_Party.cpp.o
 
 # target to build an object file
 GraphTheory/CF115A_Party.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/CF115A_Party.cpp.o
 	$(MAKE) -f CMakeFiles/CF115A_Party.dir/build.make CMakeFiles/CF115A_Party.dir/GraphTheory/CF115A_Party.cpp.o
 .PHONY : GraphTheory/CF115A_Party.cpp.o
 
@@ -8137,7 +5048,6 @@ GraphTheory/CF115A_Party.i: GraphTheory/CF115A_Party.cpp.i
 
 # target to preprocess a source file
 GraphTheory/CF115A_Party.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/CF115A_Party.cpp.i
 	$(MAKE) -f CMakeFiles/CF115A_Party.dir/build.make CMakeFiles/CF115A_Party.dir/GraphTheory/CF115A_Party.cpp.i
 .PHONY : GraphTheory/CF115A_Party.cpp.i
 
@@ -8147,7 +5057,6 @@ GraphTheory/CF115A_Party.s: GraphTheory/CF115A_Party.cpp.s
 
 # target to generate assembly for a file
 GraphTheory/CF115A_Party.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/CF115A_Party.cpp.s
 	$(MAKE) -f CMakeFiles/CF115A_Party.dir/build.make CMakeFiles/CF115A_Party.dir/GraphTheory/CF115A_Party.cpp.s
 .PHONY : GraphTheory/CF115A_Party.cpp.s
 
@@ -8158,7 +5067,6 @@ GraphTheory/CF257B_JzzhuAndCities.o: GraphTheory/CF257B_JzzhuAndCities.cpp.o
 # target to build an object file
 GraphTheory/CF257B_JzzhuAndCities.cpp.o:
 	$(MAKE) -f CMakeFiles/CF257B_JzzhuAndCities.dir/build.make CMakeFiles/CF257B_JzzhuAndCities.dir/GraphTheory/CF257B_JzzhuAndCities.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/CF257B_JzzhuAndCities.cpp.o
 .PHONY : GraphTheory/CF257B_JzzhuAndCities.cpp.o
 
 GraphTheory/CF257B_JzzhuAndCities.i: GraphTheory/CF257B_JzzhuAndCities.cpp.i
@@ -8168,7 +5076,6 @@ GraphTheory/CF257B_JzzhuAndCities.i: GraphTheory/CF257B_JzzhuAndCities.cpp.i
 # target to preprocess a source file
 GraphTheory/CF257B_JzzhuAndCities.cpp.i:
 	$(MAKE) -f CMakeFiles/CF257B_JzzhuAndCities.dir/build.make CMakeFiles/CF257B_JzzhuAndCities.dir/GraphTheory/CF257B_JzzhuAndCities.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/CF257B_JzzhuAndCities.cpp.i
 .PHONY : GraphTheory/CF257B_JzzhuAndCities.cpp.i
 
 GraphTheory/CF257B_JzzhuAndCities.s: GraphTheory/CF257B_JzzhuAndCities.cpp.s
@@ -8178,7 +5085,6 @@ GraphTheory/CF257B_JzzhuAndCities.s: GraphTheory/CF257B_JzzhuAndCities.cpp.s
 # target to generate assembly for a file
 GraphTheory/CF257B_JzzhuAndCities.cpp.s:
 	$(MAKE) -f CMakeFiles/CF257B_JzzhuAndCities.dir/build.make CMakeFiles/CF257B_JzzhuAndCities.dir/GraphTheory/CF257B_JzzhuAndCities.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/CF257B_JzzhuAndCities.cpp.s
 .PHONY : GraphTheory/CF257B_JzzhuAndCities.cpp.s
 
 GraphTheory/CF505D_KitayutasTechnology.o: GraphTheory/CF505D_KitayutasTechnology.cpp.o
@@ -8188,7 +5094,6 @@ GraphTheory/CF505D_KitayutasTechnology.o: GraphTheory/CF505D_KitayutasTechnology
 # target to build an object file
 GraphTheory/CF505D_KitayutasTechnology.cpp.o:
 	$(MAKE) -f CMakeFiles/CF505D_KitayutasTechnology.dir/build.make CMakeFiles/CF505D_KitayutasTechnology.dir/GraphTheory/CF505D_KitayutasTechnology.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/CF505D_KitayutasTechnology.cpp.o
 .PHONY : GraphTheory/CF505D_KitayutasTechnology.cpp.o
 
 GraphTheory/CF505D_KitayutasTechnology.i: GraphTheory/CF505D_KitayutasTechnology.cpp.i
@@ -8198,7 +5103,6 @@ GraphTheory/CF505D_KitayutasTechnology.i: GraphTheory/CF505D_KitayutasTechnology
 # target to preprocess a source file
 GraphTheory/CF505D_KitayutasTechnology.cpp.i:
 	$(MAKE) -f CMakeFiles/CF505D_KitayutasTechnology.dir/build.make CMakeFiles/CF505D_KitayutasTechnology.dir/GraphTheory/CF505D_KitayutasTechnology.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/CF505D_KitayutasTechnology.cpp.i
 .PHONY : GraphTheory/CF505D_KitayutasTechnology.cpp.i
 
 GraphTheory/CF505D_KitayutasTechnology.s: GraphTheory/CF505D_KitayutasTechnology.cpp.s
@@ -8208,7 +5112,6 @@ GraphTheory/CF505D_KitayutasTechnology.s: GraphTheory/CF505D_KitayutasTechnology
 # target to generate assembly for a file
 GraphTheory/CF505D_KitayutasTechnology.cpp.s:
 	$(MAKE) -f CMakeFiles/CF505D_KitayutasTechnology.dir/build.make CMakeFiles/CF505D_KitayutasTechnology.dir/GraphTheory/CF505D_KitayutasTechnology.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/CF505D_KitayutasTechnology.cpp.s
 .PHONY : GraphTheory/CF505D_KitayutasTechnology.cpp.s
 
 GraphTheory/CF567E_PresidentAndRoads.o: GraphTheory/CF567E_PresidentAndRoads.cpp.o
@@ -8217,7 +5120,6 @@ GraphTheory/CF567E_PresidentAndRoads.o: GraphTheory/CF567E_PresidentAndRoads.cpp
 
 # target to build an object file
 GraphTheory/CF567E_PresidentAndRoads.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/CF567E_PresidentAndRoads.cpp.o
 	$(MAKE) -f CMakeFiles/CF567E_PresidentAndRoads.dir/build.make CMakeFiles/CF567E_PresidentAndRoads.dir/GraphTheory/CF567E_PresidentAndRoads.cpp.o
 .PHONY : GraphTheory/CF567E_PresidentAndRoads.cpp.o
 
@@ -8227,7 +5129,6 @@ GraphTheory/CF567E_PresidentAndRoads.i: GraphTheory/CF567E_PresidentAndRoads.cpp
 
 # target to preprocess a source file
 GraphTheory/CF567E_PresidentAndRoads.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/CF567E_PresidentAndRoads.cpp.i
 	$(MAKE) -f CMakeFiles/CF567E_PresidentAndRoads.dir/build.make CMakeFiles/CF567E_PresidentAndRoads.dir/GraphTheory/CF567E_PresidentAndRoads.cpp.i
 .PHONY : GraphTheory/CF567E_PresidentAndRoads.cpp.i
 
@@ -8237,7 +5138,6 @@ GraphTheory/CF567E_PresidentAndRoads.s: GraphTheory/CF567E_PresidentAndRoads.cpp
 
 # target to generate assembly for a file
 GraphTheory/CF567E_PresidentAndRoads.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/CF567E_PresidentAndRoads.cpp.s
 	$(MAKE) -f CMakeFiles/CF567E_PresidentAndRoads.dir/build.make CMakeFiles/CF567E_PresidentAndRoads.dir/GraphTheory/CF567E_PresidentAndRoads.cpp.s
 .PHONY : GraphTheory/CF567E_PresidentAndRoads.cpp.s
 
@@ -8248,7 +5148,6 @@ GraphTheory/CF659E_NewReform.o: GraphTheory/CF659E_NewReform.cpp.o
 # target to build an object file
 GraphTheory/CF659E_NewReform.cpp.o:
 	$(MAKE) -f CMakeFiles/CF659E_NewReform.dir/build.make CMakeFiles/CF659E_NewReform.dir/GraphTheory/CF659E_NewReform.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/CF659E_NewReform.cpp.o
 .PHONY : GraphTheory/CF659E_NewReform.cpp.o
 
 GraphTheory/CF659E_NewReform.i: GraphTheory/CF659E_NewReform.cpp.i
@@ -8258,7 +5157,6 @@ GraphTheory/CF659E_NewReform.i: GraphTheory/CF659E_NewReform.cpp.i
 # target to preprocess a source file
 GraphTheory/CF659E_NewReform.cpp.i:
 	$(MAKE) -f CMakeFiles/CF659E_NewReform.dir/build.make CMakeFiles/CF659E_NewReform.dir/GraphTheory/CF659E_NewReform.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/CF659E_NewReform.cpp.i
 .PHONY : GraphTheory/CF659E_NewReform.cpp.i
 
 GraphTheory/CF659E_NewReform.s: GraphTheory/CF659E_NewReform.cpp.s
@@ -8268,7 +5166,6 @@ GraphTheory/CF659E_NewReform.s: GraphTheory/CF659E_NewReform.cpp.s
 # target to generate assembly for a file
 GraphTheory/CF659E_NewReform.cpp.s:
 	$(MAKE) -f CMakeFiles/CF659E_NewReform.dir/build.make CMakeFiles/CF659E_NewReform.dir/GraphTheory/CF659E_NewReform.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/CF659E_NewReform.cpp.s
 .PHONY : GraphTheory/CF659E_NewReform.cpp.s
 
 GraphTheory/CF716D_CompleteTheGraph.o: GraphTheory/CF716D_CompleteTheGraph.cpp.o
@@ -8278,7 +5175,6 @@ GraphTheory/CF716D_CompleteTheGraph.o: GraphTheory/CF716D_CompleteTheGraph.cpp.o
 # target to build an object file
 GraphTheory/CF716D_CompleteTheGraph.cpp.o:
 	$(MAKE) -f CMakeFiles/CF716D_CompleteTheGraph.dir/build.make CMakeFiles/CF716D_CompleteTheGraph.dir/GraphTheory/CF716D_CompleteTheGraph.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/CF716D_CompleteTheGraph.cpp.o
 .PHONY : GraphTheory/CF716D_CompleteTheGraph.cpp.o
 
 GraphTheory/CF716D_CompleteTheGraph.i: GraphTheory/CF716D_CompleteTheGraph.cpp.i
@@ -8288,7 +5184,6 @@ GraphTheory/CF716D_CompleteTheGraph.i: GraphTheory/CF716D_CompleteTheGraph.cpp.i
 # target to preprocess a source file
 GraphTheory/CF716D_CompleteTheGraph.cpp.i:
 	$(MAKE) -f CMakeFiles/CF716D_CompleteTheGraph.dir/build.make CMakeFiles/CF716D_CompleteTheGraph.dir/GraphTheory/CF716D_CompleteTheGraph.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/CF716D_CompleteTheGraph.cpp.i
 .PHONY : GraphTheory/CF716D_CompleteTheGraph.cpp.i
 
 GraphTheory/CF716D_CompleteTheGraph.s: GraphTheory/CF716D_CompleteTheGraph.cpp.s
@@ -8298,35 +5193,7 @@ GraphTheory/CF716D_CompleteTheGraph.s: GraphTheory/CF716D_CompleteTheGraph.cpp.s
 # target to generate assembly for a file
 GraphTheory/CF716D_CompleteTheGraph.cpp.s:
 	$(MAKE) -f CMakeFiles/CF716D_CompleteTheGraph.dir/build.make CMakeFiles/CF716D_CompleteTheGraph.dir/GraphTheory/CF716D_CompleteTheGraph.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/CF716D_CompleteTheGraph.cpp.s
 .PHONY : GraphTheory/CF716D_CompleteTheGraph.cpp.s
-
-GraphTheory/CF764C_TimofeyAndTree.o: GraphTheory/CF764C_TimofeyAndTree.cpp.o
-
-.PHONY : GraphTheory/CF764C_TimofeyAndTree.o
-
-# target to build an object file
-GraphTheory/CF764C_TimofeyAndTree.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/CF764C_TimofeyAndTree.cpp.o
-.PHONY : GraphTheory/CF764C_TimofeyAndTree.cpp.o
-
-GraphTheory/CF764C_TimofeyAndTree.i: GraphTheory/CF764C_TimofeyAndTree.cpp.i
-
-.PHONY : GraphTheory/CF764C_TimofeyAndTree.i
-
-# target to preprocess a source file
-GraphTheory/CF764C_TimofeyAndTree.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/CF764C_TimofeyAndTree.cpp.i
-.PHONY : GraphTheory/CF764C_TimofeyAndTree.cpp.i
-
-GraphTheory/CF764C_TimofeyAndTree.s: GraphTheory/CF764C_TimofeyAndTree.cpp.s
-
-.PHONY : GraphTheory/CF764C_TimofeyAndTree.s
-
-# target to generate assembly for a file
-GraphTheory/CF764C_TimofeyAndTree.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/CF764C_TimofeyAndTree.cpp.s
-.PHONY : GraphTheory/CF764C_TimofeyAndTree.cpp.s
 
 GraphTheory/CF892E_Envy.o: GraphTheory/CF892E_Envy.cpp.o
 
@@ -8335,7 +5202,6 @@ GraphTheory/CF892E_Envy.o: GraphTheory/CF892E_Envy.cpp.o
 # target to build an object file
 GraphTheory/CF892E_Envy.cpp.o:
 	$(MAKE) -f CMakeFiles/CF892E_Envy.dir/build.make CMakeFiles/CF892E_Envy.dir/GraphTheory/CF892E_Envy.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/CF892E_Envy.cpp.o
 .PHONY : GraphTheory/CF892E_Envy.cpp.o
 
 GraphTheory/CF892E_Envy.i: GraphTheory/CF892E_Envy.cpp.i
@@ -8345,7 +5211,6 @@ GraphTheory/CF892E_Envy.i: GraphTheory/CF892E_Envy.cpp.i
 # target to preprocess a source file
 GraphTheory/CF892E_Envy.cpp.i:
 	$(MAKE) -f CMakeFiles/CF892E_Envy.dir/build.make CMakeFiles/CF892E_Envy.dir/GraphTheory/CF892E_Envy.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/CF892E_Envy.cpp.i
 .PHONY : GraphTheory/CF892E_Envy.cpp.i
 
 GraphTheory/CF892E_Envy.s: GraphTheory/CF892E_Envy.cpp.s
@@ -8355,35 +5220,7 @@ GraphTheory/CF892E_Envy.s: GraphTheory/CF892E_Envy.cpp.s
 # target to generate assembly for a file
 GraphTheory/CF892E_Envy.cpp.s:
 	$(MAKE) -f CMakeFiles/CF892E_Envy.dir/build.make CMakeFiles/CF892E_Envy.dir/GraphTheory/CF892E_Envy.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/CF892E_Envy.cpp.s
 .PHONY : GraphTheory/CF892E_Envy.cpp.s
-
-GraphTheory/CF919D_Substring.o: GraphTheory/CF919D_Substring.cpp.o
-
-.PHONY : GraphTheory/CF919D_Substring.o
-
-# target to build an object file
-GraphTheory/CF919D_Substring.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/CF919D_Substring.cpp.o
-.PHONY : GraphTheory/CF919D_Substring.cpp.o
-
-GraphTheory/CF919D_Substring.i: GraphTheory/CF919D_Substring.cpp.i
-
-.PHONY : GraphTheory/CF919D_Substring.i
-
-# target to preprocess a source file
-GraphTheory/CF919D_Substring.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/CF919D_Substring.cpp.i
-.PHONY : GraphTheory/CF919D_Substring.cpp.i
-
-GraphTheory/CF919D_Substring.s: GraphTheory/CF919D_Substring.cpp.s
-
-.PHONY : GraphTheory/CF919D_Substring.s
-
-# target to generate assembly for a file
-GraphTheory/CF919D_Substring.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/CF919D_Substring.cpp.s
-.PHONY : GraphTheory/CF919D_Substring.cpp.s
 
 GraphTheory/CF932D_Tree.o: GraphTheory/CF932D_Tree.cpp.o
 
@@ -8392,7 +5229,6 @@ GraphTheory/CF932D_Tree.o: GraphTheory/CF932D_Tree.cpp.o
 # target to build an object file
 GraphTheory/CF932D_Tree.cpp.o:
 	$(MAKE) -f CMakeFiles/CF932D_Tree.dir/build.make CMakeFiles/CF932D_Tree.dir/GraphTheory/CF932D_Tree.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/CF932D_Tree.cpp.o
 .PHONY : GraphTheory/CF932D_Tree.cpp.o
 
 GraphTheory/CF932D_Tree.i: GraphTheory/CF932D_Tree.cpp.i
@@ -8402,7 +5238,6 @@ GraphTheory/CF932D_Tree.i: GraphTheory/CF932D_Tree.cpp.i
 # target to preprocess a source file
 GraphTheory/CF932D_Tree.cpp.i:
 	$(MAKE) -f CMakeFiles/CF932D_Tree.dir/build.make CMakeFiles/CF932D_Tree.dir/GraphTheory/CF932D_Tree.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/CF932D_Tree.cpp.i
 .PHONY : GraphTheory/CF932D_Tree.cpp.i
 
 GraphTheory/CF932D_Tree.s: GraphTheory/CF932D_Tree.cpp.s
@@ -8412,8 +5247,34 @@ GraphTheory/CF932D_Tree.s: GraphTheory/CF932D_Tree.cpp.s
 # target to generate assembly for a file
 GraphTheory/CF932D_Tree.cpp.s:
 	$(MAKE) -f CMakeFiles/CF932D_Tree.dir/build.make CMakeFiles/CF932D_Tree.dir/GraphTheory/CF932D_Tree.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/CF932D_Tree.cpp.s
 .PHONY : GraphTheory/CF932D_Tree.cpp.s
+
+GraphTheory/CF950E_DataCenterMaintenance.o: GraphTheory/CF950E_DataCenterMaintenance.cpp.o
+
+.PHONY : GraphTheory/CF950E_DataCenterMaintenance.o
+
+# target to build an object file
+GraphTheory/CF950E_DataCenterMaintenance.cpp.o:
+	$(MAKE) -f CMakeFiles/CF950E_DataCenterMaintenance.dir/build.make CMakeFiles/CF950E_DataCenterMaintenance.dir/GraphTheory/CF950E_DataCenterMaintenance.cpp.o
+.PHONY : GraphTheory/CF950E_DataCenterMaintenance.cpp.o
+
+GraphTheory/CF950E_DataCenterMaintenance.i: GraphTheory/CF950E_DataCenterMaintenance.cpp.i
+
+.PHONY : GraphTheory/CF950E_DataCenterMaintenance.i
+
+# target to preprocess a source file
+GraphTheory/CF950E_DataCenterMaintenance.cpp.i:
+	$(MAKE) -f CMakeFiles/CF950E_DataCenterMaintenance.dir/build.make CMakeFiles/CF950E_DataCenterMaintenance.dir/GraphTheory/CF950E_DataCenterMaintenance.cpp.i
+.PHONY : GraphTheory/CF950E_DataCenterMaintenance.cpp.i
+
+GraphTheory/CF950E_DataCenterMaintenance.s: GraphTheory/CF950E_DataCenterMaintenance.cpp.s
+
+.PHONY : GraphTheory/CF950E_DataCenterMaintenance.s
+
+# target to generate assembly for a file
+GraphTheory/CF950E_DataCenterMaintenance.cpp.s:
+	$(MAKE) -f CMakeFiles/CF950E_DataCenterMaintenance.dir/build.make CMakeFiles/CF950E_DataCenterMaintenance.dir/GraphTheory/CF950E_DataCenterMaintenance.cpp.s
+.PHONY : GraphTheory/CF950E_DataCenterMaintenance.cpp.s
 
 GraphTheory/CSA_TriangularMatrix.o: GraphTheory/CSA_TriangularMatrix.cpp.o
 
@@ -8422,7 +5283,6 @@ GraphTheory/CSA_TriangularMatrix.o: GraphTheory/CSA_TriangularMatrix.cpp.o
 # target to build an object file
 GraphTheory/CSA_TriangularMatrix.cpp.o:
 	$(MAKE) -f CMakeFiles/CSA_TriangularMatrix.dir/build.make CMakeFiles/CSA_TriangularMatrix.dir/GraphTheory/CSA_TriangularMatrix.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/CSA_TriangularMatrix.cpp.o
 .PHONY : GraphTheory/CSA_TriangularMatrix.cpp.o
 
 GraphTheory/CSA_TriangularMatrix.i: GraphTheory/CSA_TriangularMatrix.cpp.i
@@ -8432,7 +5292,6 @@ GraphTheory/CSA_TriangularMatrix.i: GraphTheory/CSA_TriangularMatrix.cpp.i
 # target to preprocess a source file
 GraphTheory/CSA_TriangularMatrix.cpp.i:
 	$(MAKE) -f CMakeFiles/CSA_TriangularMatrix.dir/build.make CMakeFiles/CSA_TriangularMatrix.dir/GraphTheory/CSA_TriangularMatrix.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/CSA_TriangularMatrix.cpp.i
 .PHONY : GraphTheory/CSA_TriangularMatrix.cpp.i
 
 GraphTheory/CSA_TriangularMatrix.s: GraphTheory/CSA_TriangularMatrix.cpp.s
@@ -8442,35 +5301,7 @@ GraphTheory/CSA_TriangularMatrix.s: GraphTheory/CSA_TriangularMatrix.cpp.s
 # target to generate assembly for a file
 GraphTheory/CSA_TriangularMatrix.cpp.s:
 	$(MAKE) -f CMakeFiles/CSA_TriangularMatrix.dir/build.make CMakeFiles/CSA_TriangularMatrix.dir/GraphTheory/CSA_TriangularMatrix.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/CSA_TriangularMatrix.cpp.s
 .PHONY : GraphTheory/CSA_TriangularMatrix.cpp.s
-
-GraphTheory/IOI2009_Mecho.o: GraphTheory/IOI2009_Mecho.cpp.o
-
-.PHONY : GraphTheory/IOI2009_Mecho.o
-
-# target to build an object file
-GraphTheory/IOI2009_Mecho.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/IOI2009_Mecho.cpp.o
-.PHONY : GraphTheory/IOI2009_Mecho.cpp.o
-
-GraphTheory/IOI2009_Mecho.i: GraphTheory/IOI2009_Mecho.cpp.i
-
-.PHONY : GraphTheory/IOI2009_Mecho.i
-
-# target to preprocess a source file
-GraphTheory/IOI2009_Mecho.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/IOI2009_Mecho.cpp.i
-.PHONY : GraphTheory/IOI2009_Mecho.cpp.i
-
-GraphTheory/IOI2009_Mecho.s: GraphTheory/IOI2009_Mecho.cpp.s
-
-.PHONY : GraphTheory/IOI2009_Mecho.s
-
-# target to generate assembly for a file
-GraphTheory/IOI2009_Mecho.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/IOI2009_Mecho.cpp.s
-.PHONY : GraphTheory/IOI2009_Mecho.cpp.s
 
 GraphTheory/IOITC_GraphLIS.o: GraphTheory/IOITC_GraphLIS.cpp.o
 
@@ -8479,7 +5310,6 @@ GraphTheory/IOITC_GraphLIS.o: GraphTheory/IOITC_GraphLIS.cpp.o
 # target to build an object file
 GraphTheory/IOITC_GraphLIS.cpp.o:
 	$(MAKE) -f CMakeFiles/IOITC_GraphLIS.dir/build.make CMakeFiles/IOITC_GraphLIS.dir/GraphTheory/IOITC_GraphLIS.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC_GraphLIS.cpp.o
 .PHONY : GraphTheory/IOITC_GraphLIS.cpp.o
 
 GraphTheory/IOITC_GraphLIS.i: GraphTheory/IOITC_GraphLIS.cpp.i
@@ -8489,7 +5319,6 @@ GraphTheory/IOITC_GraphLIS.i: GraphTheory/IOITC_GraphLIS.cpp.i
 # target to preprocess a source file
 GraphTheory/IOITC_GraphLIS.cpp.i:
 	$(MAKE) -f CMakeFiles/IOITC_GraphLIS.dir/build.make CMakeFiles/IOITC_GraphLIS.dir/GraphTheory/IOITC_GraphLIS.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC_GraphLIS.cpp.i
 .PHONY : GraphTheory/IOITC_GraphLIS.cpp.i
 
 GraphTheory/IOITC_GraphLIS.s: GraphTheory/IOITC_GraphLIS.cpp.s
@@ -8499,143 +5328,7 @@ GraphTheory/IOITC_GraphLIS.s: GraphTheory/IOITC_GraphLIS.cpp.s
 # target to generate assembly for a file
 GraphTheory/IOITC_GraphLIS.cpp.s:
 	$(MAKE) -f CMakeFiles/IOITC_GraphLIS.dir/build.make CMakeFiles/IOITC_GraphLIS.dir/GraphTheory/IOITC_GraphLIS.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC_GraphLIS.cpp.s
 .PHONY : GraphTheory/IOITC_GraphLIS.cpp.s
-
-GraphTheory/Implementation/Algorithm_BellmanFord.o: GraphTheory/Implementation/Algorithm_BellmanFord.cpp.o
-
-.PHONY : GraphTheory/Implementation/Algorithm_BellmanFord.o
-
-# target to build an object file
-GraphTheory/Implementation/Algorithm_BellmanFord.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/Algorithm_BellmanFord.cpp.o
-.PHONY : GraphTheory/Implementation/Algorithm_BellmanFord.cpp.o
-
-GraphTheory/Implementation/Algorithm_BellmanFord.i: GraphTheory/Implementation/Algorithm_BellmanFord.cpp.i
-
-.PHONY : GraphTheory/Implementation/Algorithm_BellmanFord.i
-
-# target to preprocess a source file
-GraphTheory/Implementation/Algorithm_BellmanFord.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/Algorithm_BellmanFord.cpp.i
-.PHONY : GraphTheory/Implementation/Algorithm_BellmanFord.cpp.i
-
-GraphTheory/Implementation/Algorithm_BellmanFord.s: GraphTheory/Implementation/Algorithm_BellmanFord.cpp.s
-
-.PHONY : GraphTheory/Implementation/Algorithm_BellmanFord.s
-
-# target to generate assembly for a file
-GraphTheory/Implementation/Algorithm_BellmanFord.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/Algorithm_BellmanFord.cpp.s
-.PHONY : GraphTheory/Implementation/Algorithm_BellmanFord.cpp.s
-
-GraphTheory/Implementation/Algorithm_Dijkstra.o: GraphTheory/Implementation/Algorithm_Dijkstra.cpp.o
-
-.PHONY : GraphTheory/Implementation/Algorithm_Dijkstra.o
-
-# target to build an object file
-GraphTheory/Implementation/Algorithm_Dijkstra.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/Algorithm_Dijkstra.cpp.o
-.PHONY : GraphTheory/Implementation/Algorithm_Dijkstra.cpp.o
-
-GraphTheory/Implementation/Algorithm_Dijkstra.i: GraphTheory/Implementation/Algorithm_Dijkstra.cpp.i
-
-.PHONY : GraphTheory/Implementation/Algorithm_Dijkstra.i
-
-# target to preprocess a source file
-GraphTheory/Implementation/Algorithm_Dijkstra.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/Algorithm_Dijkstra.cpp.i
-.PHONY : GraphTheory/Implementation/Algorithm_Dijkstra.cpp.i
-
-GraphTheory/Implementation/Algorithm_Dijkstra.s: GraphTheory/Implementation/Algorithm_Dijkstra.cpp.s
-
-.PHONY : GraphTheory/Implementation/Algorithm_Dijkstra.s
-
-# target to generate assembly for a file
-GraphTheory/Implementation/Algorithm_Dijkstra.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/Algorithm_Dijkstra.cpp.s
-.PHONY : GraphTheory/Implementation/Algorithm_Dijkstra.cpp.s
-
-GraphTheory/Implementation/Algorithm_FloydWarshall.o: GraphTheory/Implementation/Algorithm_FloydWarshall.cpp.o
-
-.PHONY : GraphTheory/Implementation/Algorithm_FloydWarshall.o
-
-# target to build an object file
-GraphTheory/Implementation/Algorithm_FloydWarshall.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/Algorithm_FloydWarshall.cpp.o
-.PHONY : GraphTheory/Implementation/Algorithm_FloydWarshall.cpp.o
-
-GraphTheory/Implementation/Algorithm_FloydWarshall.i: GraphTheory/Implementation/Algorithm_FloydWarshall.cpp.i
-
-.PHONY : GraphTheory/Implementation/Algorithm_FloydWarshall.i
-
-# target to preprocess a source file
-GraphTheory/Implementation/Algorithm_FloydWarshall.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/Algorithm_FloydWarshall.cpp.i
-.PHONY : GraphTheory/Implementation/Algorithm_FloydWarshall.cpp.i
-
-GraphTheory/Implementation/Algorithm_FloydWarshall.s: GraphTheory/Implementation/Algorithm_FloydWarshall.cpp.s
-
-.PHONY : GraphTheory/Implementation/Algorithm_FloydWarshall.s
-
-# target to generate assembly for a file
-GraphTheory/Implementation/Algorithm_FloydWarshall.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/Algorithm_FloydWarshall.cpp.s
-.PHONY : GraphTheory/Implementation/Algorithm_FloydWarshall.cpp.s
-
-GraphTheory/Implementation/Algorithm_Kruskals.o: GraphTheory/Implementation/Algorithm_Kruskals.cpp.o
-
-.PHONY : GraphTheory/Implementation/Algorithm_Kruskals.o
-
-# target to build an object file
-GraphTheory/Implementation/Algorithm_Kruskals.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/Algorithm_Kruskals.cpp.o
-.PHONY : GraphTheory/Implementation/Algorithm_Kruskals.cpp.o
-
-GraphTheory/Implementation/Algorithm_Kruskals.i: GraphTheory/Implementation/Algorithm_Kruskals.cpp.i
-
-.PHONY : GraphTheory/Implementation/Algorithm_Kruskals.i
-
-# target to preprocess a source file
-GraphTheory/Implementation/Algorithm_Kruskals.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/Algorithm_Kruskals.cpp.i
-.PHONY : GraphTheory/Implementation/Algorithm_Kruskals.cpp.i
-
-GraphTheory/Implementation/Algorithm_Kruskals.s: GraphTheory/Implementation/Algorithm_Kruskals.cpp.s
-
-.PHONY : GraphTheory/Implementation/Algorithm_Kruskals.s
-
-# target to generate assembly for a file
-GraphTheory/Implementation/Algorithm_Kruskals.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/Algorithm_Kruskals.cpp.s
-.PHONY : GraphTheory/Implementation/Algorithm_Kruskals.cpp.s
-
-GraphTheory/Implementation/ArticulationPointsAndBridges.o: GraphTheory/Implementation/ArticulationPointsAndBridges.cpp.o
-
-.PHONY : GraphTheory/Implementation/ArticulationPointsAndBridges.o
-
-# target to build an object file
-GraphTheory/Implementation/ArticulationPointsAndBridges.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/ArticulationPointsAndBridges.cpp.o
-.PHONY : GraphTheory/Implementation/ArticulationPointsAndBridges.cpp.o
-
-GraphTheory/Implementation/ArticulationPointsAndBridges.i: GraphTheory/Implementation/ArticulationPointsAndBridges.cpp.i
-
-.PHONY : GraphTheory/Implementation/ArticulationPointsAndBridges.i
-
-# target to preprocess a source file
-GraphTheory/Implementation/ArticulationPointsAndBridges.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/ArticulationPointsAndBridges.cpp.i
-.PHONY : GraphTheory/Implementation/ArticulationPointsAndBridges.cpp.i
-
-GraphTheory/Implementation/ArticulationPointsAndBridges.s: GraphTheory/Implementation/ArticulationPointsAndBridges.cpp.s
-
-.PHONY : GraphTheory/Implementation/ArticulationPointsAndBridges.s
-
-# target to generate assembly for a file
-GraphTheory/Implementation/ArticulationPointsAndBridges.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/ArticulationPointsAndBridges.cpp.s
-.PHONY : GraphTheory/Implementation/ArticulationPointsAndBridges.cpp.s
 
 GraphTheory/Implementation/DFSConnectedComponents.o: GraphTheory/Implementation/DFSConnectedComponents.cpp.o
 
@@ -8644,7 +5337,6 @@ GraphTheory/Implementation/DFSConnectedComponents.o: GraphTheory/Implementation/
 # target to build an object file
 GraphTheory/Implementation/DFSConnectedComponents.cpp.o:
 	$(MAKE) -f CMakeFiles/DFSConnectedComponents.dir/build.make CMakeFiles/DFSConnectedComponents.dir/GraphTheory/Implementation/DFSConnectedComponents.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/DFSConnectedComponents.cpp.o
 .PHONY : GraphTheory/Implementation/DFSConnectedComponents.cpp.o
 
 GraphTheory/Implementation/DFSConnectedComponents.i: GraphTheory/Implementation/DFSConnectedComponents.cpp.i
@@ -8654,7 +5346,6 @@ GraphTheory/Implementation/DFSConnectedComponents.i: GraphTheory/Implementation/
 # target to preprocess a source file
 GraphTheory/Implementation/DFSConnectedComponents.cpp.i:
 	$(MAKE) -f CMakeFiles/DFSConnectedComponents.dir/build.make CMakeFiles/DFSConnectedComponents.dir/GraphTheory/Implementation/DFSConnectedComponents.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/DFSConnectedComponents.cpp.i
 .PHONY : GraphTheory/Implementation/DFSConnectedComponents.cpp.i
 
 GraphTheory/Implementation/DFSConnectedComponents.s: GraphTheory/Implementation/DFSConnectedComponents.cpp.s
@@ -8664,89 +5355,7 @@ GraphTheory/Implementation/DFSConnectedComponents.s: GraphTheory/Implementation/
 # target to generate assembly for a file
 GraphTheory/Implementation/DFSConnectedComponents.cpp.s:
 	$(MAKE) -f CMakeFiles/DFSConnectedComponents.dir/build.make CMakeFiles/DFSConnectedComponents.dir/GraphTheory/Implementation/DFSConnectedComponents.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/DFSConnectedComponents.cpp.s
 .PHONY : GraphTheory/Implementation/DFSConnectedComponents.cpp.s
-
-GraphTheory/Implementation/DetectingCyclesDirectedGraph.o: GraphTheory/Implementation/DetectingCyclesDirectedGraph.cpp.o
-
-.PHONY : GraphTheory/Implementation/DetectingCyclesDirectedGraph.o
-
-# target to build an object file
-GraphTheory/Implementation/DetectingCyclesDirectedGraph.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/DetectingCyclesDirectedGraph.cpp.o
-.PHONY : GraphTheory/Implementation/DetectingCyclesDirectedGraph.cpp.o
-
-GraphTheory/Implementation/DetectingCyclesDirectedGraph.i: GraphTheory/Implementation/DetectingCyclesDirectedGraph.cpp.i
-
-.PHONY : GraphTheory/Implementation/DetectingCyclesDirectedGraph.i
-
-# target to preprocess a source file
-GraphTheory/Implementation/DetectingCyclesDirectedGraph.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/DetectingCyclesDirectedGraph.cpp.i
-.PHONY : GraphTheory/Implementation/DetectingCyclesDirectedGraph.cpp.i
-
-GraphTheory/Implementation/DetectingCyclesDirectedGraph.s: GraphTheory/Implementation/DetectingCyclesDirectedGraph.cpp.s
-
-.PHONY : GraphTheory/Implementation/DetectingCyclesDirectedGraph.s
-
-# target to generate assembly for a file
-GraphTheory/Implementation/DetectingCyclesDirectedGraph.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/DetectingCyclesDirectedGraph.cpp.s
-.PHONY : GraphTheory/Implementation/DetectingCyclesDirectedGraph.cpp.s
-
-GraphTheory/Implementation/LowestCommonAncestor(BinaryLifting).o: GraphTheory/Implementation/LowestCommonAncestor(BinaryLifting).cpp.o
-
-.PHONY : GraphTheory/Implementation/LowestCommonAncestor(BinaryLifting).o
-
-# target to build an object file
-GraphTheory/Implementation/LowestCommonAncestor(BinaryLifting).cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make "CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/LowestCommonAncestor(BinaryLifting).cpp.o"
-.PHONY : GraphTheory/Implementation/LowestCommonAncestor(BinaryLifting).cpp.o
-
-GraphTheory/Implementation/LowestCommonAncestor(BinaryLifting).i: GraphTheory/Implementation/LowestCommonAncestor(BinaryLifting).cpp.i
-
-.PHONY : GraphTheory/Implementation/LowestCommonAncestor(BinaryLifting).i
-
-# target to preprocess a source file
-GraphTheory/Implementation/LowestCommonAncestor(BinaryLifting).cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make "CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/LowestCommonAncestor(BinaryLifting).cpp.i"
-.PHONY : GraphTheory/Implementation/LowestCommonAncestor(BinaryLifting).cpp.i
-
-GraphTheory/Implementation/LowestCommonAncestor(BinaryLifting).s: GraphTheory/Implementation/LowestCommonAncestor(BinaryLifting).cpp.s
-
-.PHONY : GraphTheory/Implementation/LowestCommonAncestor(BinaryLifting).s
-
-# target to generate assembly for a file
-GraphTheory/Implementation/LowestCommonAncestor(BinaryLifting).cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make "CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/LowestCommonAncestor(BinaryLifting).cpp.s"
-.PHONY : GraphTheory/Implementation/LowestCommonAncestor(BinaryLifting).cpp.s
-
-GraphTheory/Implementation/LowestCommonAncestor.o: GraphTheory/Implementation/LowestCommonAncestor.cpp.o
-
-.PHONY : GraphTheory/Implementation/LowestCommonAncestor.o
-
-# target to build an object file
-GraphTheory/Implementation/LowestCommonAncestor.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/LowestCommonAncestor.cpp.o
-.PHONY : GraphTheory/Implementation/LowestCommonAncestor.cpp.o
-
-GraphTheory/Implementation/LowestCommonAncestor.i: GraphTheory/Implementation/LowestCommonAncestor.cpp.i
-
-.PHONY : GraphTheory/Implementation/LowestCommonAncestor.i
-
-# target to preprocess a source file
-GraphTheory/Implementation/LowestCommonAncestor.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/LowestCommonAncestor.cpp.i
-.PHONY : GraphTheory/Implementation/LowestCommonAncestor.cpp.i
-
-GraphTheory/Implementation/LowestCommonAncestor.s: GraphTheory/Implementation/LowestCommonAncestor.cpp.s
-
-.PHONY : GraphTheory/Implementation/LowestCommonAncestor.s
-
-# target to generate assembly for a file
-GraphTheory/Implementation/LowestCommonAncestor.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/LowestCommonAncestor.cpp.s
-.PHONY : GraphTheory/Implementation/LowestCommonAncestor.cpp.s
 
 GraphTheory/Implementation/SCCTarjan.o: GraphTheory/Implementation/SCCTarjan.cpp.o
 
@@ -8755,7 +5364,6 @@ GraphTheory/Implementation/SCCTarjan.o: GraphTheory/Implementation/SCCTarjan.cpp
 # target to build an object file
 GraphTheory/Implementation/SCCTarjan.cpp.o:
 	$(MAKE) -f CMakeFiles/SCCTarjan.dir/build.make CMakeFiles/SCCTarjan.dir/GraphTheory/Implementation/SCCTarjan.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/SCCTarjan.cpp.o
 .PHONY : GraphTheory/Implementation/SCCTarjan.cpp.o
 
 GraphTheory/Implementation/SCCTarjan.i: GraphTheory/Implementation/SCCTarjan.cpp.i
@@ -8765,7 +5373,6 @@ GraphTheory/Implementation/SCCTarjan.i: GraphTheory/Implementation/SCCTarjan.cpp
 # target to preprocess a source file
 GraphTheory/Implementation/SCCTarjan.cpp.i:
 	$(MAKE) -f CMakeFiles/SCCTarjan.dir/build.make CMakeFiles/SCCTarjan.dir/GraphTheory/Implementation/SCCTarjan.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/SCCTarjan.cpp.i
 .PHONY : GraphTheory/Implementation/SCCTarjan.cpp.i
 
 GraphTheory/Implementation/SCCTarjan.s: GraphTheory/Implementation/SCCTarjan.cpp.s
@@ -8775,62 +5382,7 @@ GraphTheory/Implementation/SCCTarjan.s: GraphTheory/Implementation/SCCTarjan.cpp
 # target to generate assembly for a file
 GraphTheory/Implementation/SCCTarjan.cpp.s:
 	$(MAKE) -f CMakeFiles/SCCTarjan.dir/build.make CMakeFiles/SCCTarjan.dir/GraphTheory/Implementation/SCCTarjan.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/SCCTarjan.cpp.s
 .PHONY : GraphTheory/Implementation/SCCTarjan.cpp.s
-
-GraphTheory/Implementation/TopologicalSort.o: GraphTheory/Implementation/TopologicalSort.cpp.o
-
-.PHONY : GraphTheory/Implementation/TopologicalSort.o
-
-# target to build an object file
-GraphTheory/Implementation/TopologicalSort.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/TopologicalSort.cpp.o
-.PHONY : GraphTheory/Implementation/TopologicalSort.cpp.o
-
-GraphTheory/Implementation/TopologicalSort.i: GraphTheory/Implementation/TopologicalSort.cpp.i
-
-.PHONY : GraphTheory/Implementation/TopologicalSort.i
-
-# target to preprocess a source file
-GraphTheory/Implementation/TopologicalSort.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/TopologicalSort.cpp.i
-.PHONY : GraphTheory/Implementation/TopologicalSort.cpp.i
-
-GraphTheory/Implementation/TopologicalSort.s: GraphTheory/Implementation/TopologicalSort.cpp.s
-
-.PHONY : GraphTheory/Implementation/TopologicalSort.s
-
-# target to generate assembly for a file
-GraphTheory/Implementation/TopologicalSort.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/TopologicalSort.cpp.s
-.PHONY : GraphTheory/Implementation/TopologicalSort.cpp.s
-
-GraphTheory/OPC_HighSpeedNetwork.o: GraphTheory/OPC_HighSpeedNetwork.cpp.o
-
-.PHONY : GraphTheory/OPC_HighSpeedNetwork.o
-
-# target to build an object file
-GraphTheory/OPC_HighSpeedNetwork.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/OPC_HighSpeedNetwork.cpp.o
-.PHONY : GraphTheory/OPC_HighSpeedNetwork.cpp.o
-
-GraphTheory/OPC_HighSpeedNetwork.i: GraphTheory/OPC_HighSpeedNetwork.cpp.i
-
-.PHONY : GraphTheory/OPC_HighSpeedNetwork.i
-
-# target to preprocess a source file
-GraphTheory/OPC_HighSpeedNetwork.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/OPC_HighSpeedNetwork.cpp.i
-.PHONY : GraphTheory/OPC_HighSpeedNetwork.cpp.i
-
-GraphTheory/OPC_HighSpeedNetwork.s: GraphTheory/OPC_HighSpeedNetwork.cpp.s
-
-.PHONY : GraphTheory/OPC_HighSpeedNetwork.s
-
-# target to generate assembly for a file
-GraphTheory/OPC_HighSpeedNetwork.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/OPC_HighSpeedNetwork.cpp.s
-.PHONY : GraphTheory/OPC_HighSpeedNetwork.cpp.s
 
 GraphTheory/SPOJ_AMR10J.o: GraphTheory/SPOJ_AMR10J.cpp.o
 
@@ -8839,7 +5391,6 @@ GraphTheory/SPOJ_AMR10J.o: GraphTheory/SPOJ_AMR10J.cpp.o
 # target to build an object file
 GraphTheory/SPOJ_AMR10J.cpp.o:
 	$(MAKE) -f CMakeFiles/SPOJ_AMR10J.dir/build.make CMakeFiles/SPOJ_AMR10J.dir/GraphTheory/SPOJ_AMR10J.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/SPOJ_AMR10J.cpp.o
 .PHONY : GraphTheory/SPOJ_AMR10J.cpp.o
 
 GraphTheory/SPOJ_AMR10J.i: GraphTheory/SPOJ_AMR10J.cpp.i
@@ -8849,7 +5400,6 @@ GraphTheory/SPOJ_AMR10J.i: GraphTheory/SPOJ_AMR10J.cpp.i
 # target to preprocess a source file
 GraphTheory/SPOJ_AMR10J.cpp.i:
 	$(MAKE) -f CMakeFiles/SPOJ_AMR10J.dir/build.make CMakeFiles/SPOJ_AMR10J.dir/GraphTheory/SPOJ_AMR10J.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/SPOJ_AMR10J.cpp.i
 .PHONY : GraphTheory/SPOJ_AMR10J.cpp.i
 
 GraphTheory/SPOJ_AMR10J.s: GraphTheory/SPOJ_AMR10J.cpp.s
@@ -8859,62 +5409,7 @@ GraphTheory/SPOJ_AMR10J.s: GraphTheory/SPOJ_AMR10J.cpp.s
 # target to generate assembly for a file
 GraphTheory/SPOJ_AMR10J.cpp.s:
 	$(MAKE) -f CMakeFiles/SPOJ_AMR10J.dir/build.make CMakeFiles/SPOJ_AMR10J.dir/GraphTheory/SPOJ_AMR10J.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/SPOJ_AMR10J.cpp.s
 .PHONY : GraphTheory/SPOJ_AMR10J.cpp.s
-
-GraphTheory/SPOJ_DynamicGraphConnectivity2.o: GraphTheory/SPOJ_DynamicGraphConnectivity2.cpp.o
-
-.PHONY : GraphTheory/SPOJ_DynamicGraphConnectivity2.o
-
-# target to build an object file
-GraphTheory/SPOJ_DynamicGraphConnectivity2.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/SPOJ_DynamicGraphConnectivity2.cpp.o
-.PHONY : GraphTheory/SPOJ_DynamicGraphConnectivity2.cpp.o
-
-GraphTheory/SPOJ_DynamicGraphConnectivity2.i: GraphTheory/SPOJ_DynamicGraphConnectivity2.cpp.i
-
-.PHONY : GraphTheory/SPOJ_DynamicGraphConnectivity2.i
-
-# target to preprocess a source file
-GraphTheory/SPOJ_DynamicGraphConnectivity2.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/SPOJ_DynamicGraphConnectivity2.cpp.i
-.PHONY : GraphTheory/SPOJ_DynamicGraphConnectivity2.cpp.i
-
-GraphTheory/SPOJ_DynamicGraphConnectivity2.s: GraphTheory/SPOJ_DynamicGraphConnectivity2.cpp.s
-
-.PHONY : GraphTheory/SPOJ_DynamicGraphConnectivity2.s
-
-# target to generate assembly for a file
-GraphTheory/SPOJ_DynamicGraphConnectivity2.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/SPOJ_DynamicGraphConnectivity2.cpp.s
-.PHONY : GraphTheory/SPOJ_DynamicGraphConnectivity2.cpp.s
-
-GraphTheory/SPOJ_LCA.o: GraphTheory/SPOJ_LCA.cpp.o
-
-.PHONY : GraphTheory/SPOJ_LCA.o
-
-# target to build an object file
-GraphTheory/SPOJ_LCA.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/SPOJ_LCA.cpp.o
-.PHONY : GraphTheory/SPOJ_LCA.cpp.o
-
-GraphTheory/SPOJ_LCA.i: GraphTheory/SPOJ_LCA.cpp.i
-
-.PHONY : GraphTheory/SPOJ_LCA.i
-
-# target to preprocess a source file
-GraphTheory/SPOJ_LCA.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/SPOJ_LCA.cpp.i
-.PHONY : GraphTheory/SPOJ_LCA.cpp.i
-
-GraphTheory/SPOJ_LCA.s: GraphTheory/SPOJ_LCA.cpp.s
-
-.PHONY : GraphTheory/SPOJ_LCA.s
-
-# target to generate assembly for a file
-GraphTheory/SPOJ_LCA.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/SPOJ_LCA.cpp.s
-.PHONY : GraphTheory/SPOJ_LCA.cpp.s
 
 GraphTheory/SPOJ_OTOCI.o: GraphTheory/SPOJ_OTOCI.cpp.o
 
@@ -8923,7 +5418,6 @@ GraphTheory/SPOJ_OTOCI.o: GraphTheory/SPOJ_OTOCI.cpp.o
 # target to build an object file
 GraphTheory/SPOJ_OTOCI.cpp.o:
 	$(MAKE) -f CMakeFiles/SPOJ_OTOCI.dir/build.make CMakeFiles/SPOJ_OTOCI.dir/GraphTheory/SPOJ_OTOCI.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/SPOJ_OTOCI.cpp.o
 .PHONY : GraphTheory/SPOJ_OTOCI.cpp.o
 
 GraphTheory/SPOJ_OTOCI.i: GraphTheory/SPOJ_OTOCI.cpp.i
@@ -8933,7 +5427,6 @@ GraphTheory/SPOJ_OTOCI.i: GraphTheory/SPOJ_OTOCI.cpp.i
 # target to preprocess a source file
 GraphTheory/SPOJ_OTOCI.cpp.i:
 	$(MAKE) -f CMakeFiles/SPOJ_OTOCI.dir/build.make CMakeFiles/SPOJ_OTOCI.dir/GraphTheory/SPOJ_OTOCI.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/SPOJ_OTOCI.cpp.i
 .PHONY : GraphTheory/SPOJ_OTOCI.cpp.i
 
 GraphTheory/SPOJ_OTOCI.s: GraphTheory/SPOJ_OTOCI.cpp.s
@@ -8943,7 +5436,6 @@ GraphTheory/SPOJ_OTOCI.s: GraphTheory/SPOJ_OTOCI.cpp.s
 # target to generate assembly for a file
 GraphTheory/SPOJ_OTOCI.cpp.s:
 	$(MAKE) -f CMakeFiles/SPOJ_OTOCI.dir/build.make CMakeFiles/SPOJ_OTOCI.dir/GraphTheory/SPOJ_OTOCI.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/SPOJ_OTOCI.cpp.s
 .PHONY : GraphTheory/SPOJ_OTOCI.cpp.s
 
 GraphTheory/USACO_Relocation.o: GraphTheory/USACO_Relocation.cpp.o
@@ -8952,7 +5444,6 @@ GraphTheory/USACO_Relocation.o: GraphTheory/USACO_Relocation.cpp.o
 
 # target to build an object file
 GraphTheory/USACO_Relocation.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/USACO_Relocation.cpp.o
 	$(MAKE) -f CMakeFiles/USACO_Relocation.dir/build.make CMakeFiles/USACO_Relocation.dir/GraphTheory/USACO_Relocation.cpp.o
 .PHONY : GraphTheory/USACO_Relocation.cpp.o
 
@@ -8962,7 +5453,6 @@ GraphTheory/USACO_Relocation.i: GraphTheory/USACO_Relocation.cpp.i
 
 # target to preprocess a source file
 GraphTheory/USACO_Relocation.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/USACO_Relocation.cpp.i
 	$(MAKE) -f CMakeFiles/USACO_Relocation.dir/build.make CMakeFiles/USACO_Relocation.dir/GraphTheory/USACO_Relocation.cpp.i
 .PHONY : GraphTheory/USACO_Relocation.cpp.i
 
@@ -8972,7 +5462,6 @@ GraphTheory/USACO_Relocation.s: GraphTheory/USACO_Relocation.cpp.s
 
 # target to generate assembly for a file
 GraphTheory/USACO_Relocation.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/USACO_Relocation.cpp.s
 	$(MAKE) -f CMakeFiles/USACO_Relocation.dir/build.make CMakeFiles/USACO_Relocation.dir/GraphTheory/USACO_Relocation.cpp.s
 .PHONY : GraphTheory/USACO_Relocation.cpp.s
 
@@ -8983,7 +5472,6 @@ GraphTheory/UVa10342_AlwaysLate.o: GraphTheory/UVa10342_AlwaysLate.cpp.o
 # target to build an object file
 GraphTheory/UVa10342_AlwaysLate.cpp.o:
 	$(MAKE) -f CMakeFiles/UVa10342_AlwaysLate.dir/build.make CMakeFiles/UVa10342_AlwaysLate.dir/GraphTheory/UVa10342_AlwaysLate.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/UVa10342_AlwaysLate.cpp.o
 .PHONY : GraphTheory/UVa10342_AlwaysLate.cpp.o
 
 GraphTheory/UVa10342_AlwaysLate.i: GraphTheory/UVa10342_AlwaysLate.cpp.i
@@ -8993,7 +5481,6 @@ GraphTheory/UVa10342_AlwaysLate.i: GraphTheory/UVa10342_AlwaysLate.cpp.i
 # target to preprocess a source file
 GraphTheory/UVa10342_AlwaysLate.cpp.i:
 	$(MAKE) -f CMakeFiles/UVa10342_AlwaysLate.dir/build.make CMakeFiles/UVa10342_AlwaysLate.dir/GraphTheory/UVa10342_AlwaysLate.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/UVa10342_AlwaysLate.cpp.i
 .PHONY : GraphTheory/UVa10342_AlwaysLate.cpp.i
 
 GraphTheory/UVa10342_AlwaysLate.s: GraphTheory/UVa10342_AlwaysLate.cpp.s
@@ -9003,35 +5490,7 @@ GraphTheory/UVa10342_AlwaysLate.s: GraphTheory/UVa10342_AlwaysLate.cpp.s
 # target to generate assembly for a file
 GraphTheory/UVa10342_AlwaysLate.cpp.s:
 	$(MAKE) -f CMakeFiles/UVa10342_AlwaysLate.dir/build.make CMakeFiles/UVa10342_AlwaysLate.dir/GraphTheory/UVa10342_AlwaysLate.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/UVa10342_AlwaysLate.cpp.s
 .PHONY : GraphTheory/UVa10342_AlwaysLate.cpp.s
-
-HolidayOfEquity.o: HolidayOfEquity.cpp.o
-
-.PHONY : HolidayOfEquity.o
-
-# target to build an object file
-HolidayOfEquity.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/HolidayOfEquity.cpp.o
-.PHONY : HolidayOfEquity.cpp.o
-
-HolidayOfEquity.i: HolidayOfEquity.cpp.i
-
-.PHONY : HolidayOfEquity.i
-
-# target to preprocess a source file
-HolidayOfEquity.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/HolidayOfEquity.cpp.i
-.PHONY : HolidayOfEquity.cpp.i
-
-HolidayOfEquity.s: HolidayOfEquity.cpp.s
-
-.PHONY : HolidayOfEquity.s
-
-# target to generate assembly for a file
-HolidayOfEquity.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/HolidayOfEquity.cpp.s
-.PHONY : HolidayOfEquity.cpp.s
 
 IARCS_PayingThePrice.o: IARCS_PayingThePrice.cpp.o
 
@@ -9040,7 +5499,6 @@ IARCS_PayingThePrice.o: IARCS_PayingThePrice.cpp.o
 # target to build an object file
 IARCS_PayingThePrice.cpp.o:
 	$(MAKE) -f CMakeFiles/IARCS_PayingThePrice.dir/build.make CMakeFiles/IARCS_PayingThePrice.dir/IARCS_PayingThePrice.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/IARCS_PayingThePrice.cpp.o
 .PHONY : IARCS_PayingThePrice.cpp.o
 
 IARCS_PayingThePrice.i: IARCS_PayingThePrice.cpp.i
@@ -9050,7 +5508,6 @@ IARCS_PayingThePrice.i: IARCS_PayingThePrice.cpp.i
 # target to preprocess a source file
 IARCS_PayingThePrice.cpp.i:
 	$(MAKE) -f CMakeFiles/IARCS_PayingThePrice.dir/build.make CMakeFiles/IARCS_PayingThePrice.dir/IARCS_PayingThePrice.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/IARCS_PayingThePrice.cpp.i
 .PHONY : IARCS_PayingThePrice.cpp.i
 
 IARCS_PayingThePrice.s: IARCS_PayingThePrice.cpp.s
@@ -9060,7 +5517,6 @@ IARCS_PayingThePrice.s: IARCS_PayingThePrice.cpp.s
 # target to generate assembly for a file
 IARCS_PayingThePrice.cpp.s:
 	$(MAKE) -f CMakeFiles/IARCS_PayingThePrice.dir/build.make CMakeFiles/IARCS_PayingThePrice.dir/IARCS_PayingThePrice.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/IARCS_PayingThePrice.cpp.s
 .PHONY : IARCS_PayingThePrice.cpp.s
 
 IARCS_RankFraud.o: IARCS_RankFraud.cpp.o
@@ -9070,7 +5526,6 @@ IARCS_RankFraud.o: IARCS_RankFraud.cpp.o
 # target to build an object file
 IARCS_RankFraud.cpp.o:
 	$(MAKE) -f CMakeFiles/IARCS_RankFraud.dir/build.make CMakeFiles/IARCS_RankFraud.dir/IARCS_RankFraud.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/IARCS_RankFraud.cpp.o
 .PHONY : IARCS_RankFraud.cpp.o
 
 IARCS_RankFraud.i: IARCS_RankFraud.cpp.i
@@ -9080,7 +5535,6 @@ IARCS_RankFraud.i: IARCS_RankFraud.cpp.i
 # target to preprocess a source file
 IARCS_RankFraud.cpp.i:
 	$(MAKE) -f CMakeFiles/IARCS_RankFraud.dir/build.make CMakeFiles/IARCS_RankFraud.dir/IARCS_RankFraud.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/IARCS_RankFraud.cpp.i
 .PHONY : IARCS_RankFraud.cpp.i
 
 IARCS_RankFraud.s: IARCS_RankFraud.cpp.s
@@ -9090,494 +5544,7 @@ IARCS_RankFraud.s: IARCS_RankFraud.cpp.s
 # target to generate assembly for a file
 IARCS_RankFraud.cpp.s:
 	$(MAKE) -f CMakeFiles/IARCS_RankFraud.dir/build.make CMakeFiles/IARCS_RankFraud.dir/IARCS_RankFraud.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/IARCS_RankFraud.cpp.s
 .PHONY : IARCS_RankFraud.cpp.s
-
-ICOPracticeProblems/AStandardTreeProblem/AStandardTreeProblem.o: ICOPracticeProblems/AStandardTreeProblem/AStandardTreeProblem.cpp.o
-
-.PHONY : ICOPracticeProblems/AStandardTreeProblem/AStandardTreeProblem.o
-
-# target to build an object file
-ICOPracticeProblems/AStandardTreeProblem/AStandardTreeProblem.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/AStandardTreeProblem/AStandardTreeProblem.cpp.o
-.PHONY : ICOPracticeProblems/AStandardTreeProblem/AStandardTreeProblem.cpp.o
-
-ICOPracticeProblems/AStandardTreeProblem/AStandardTreeProblem.i: ICOPracticeProblems/AStandardTreeProblem/AStandardTreeProblem.cpp.i
-
-.PHONY : ICOPracticeProblems/AStandardTreeProblem/AStandardTreeProblem.i
-
-# target to preprocess a source file
-ICOPracticeProblems/AStandardTreeProblem/AStandardTreeProblem.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/AStandardTreeProblem/AStandardTreeProblem.cpp.i
-.PHONY : ICOPracticeProblems/AStandardTreeProblem/AStandardTreeProblem.cpp.i
-
-ICOPracticeProblems/AStandardTreeProblem/AStandardTreeProblem.s: ICOPracticeProblems/AStandardTreeProblem/AStandardTreeProblem.cpp.s
-
-.PHONY : ICOPracticeProblems/AStandardTreeProblem/AStandardTreeProblem.s
-
-# target to generate assembly for a file
-ICOPracticeProblems/AStandardTreeProblem/AStandardTreeProblem.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/AStandardTreeProblem/AStandardTreeProblem.cpp.s
-.PHONY : ICOPracticeProblems/AStandardTreeProblem/AStandardTreeProblem.cpp.s
-
-ICOPracticeProblems/AbsolutelyIncreasingSubsequence/AbsolutelyIncreasingSubsequence.o: ICOPracticeProblems/AbsolutelyIncreasingSubsequence/AbsolutelyIncreasingSubsequence.cpp.o
-
-.PHONY : ICOPracticeProblems/AbsolutelyIncreasingSubsequence/AbsolutelyIncreasingSubsequence.o
-
-# target to build an object file
-ICOPracticeProblems/AbsolutelyIncreasingSubsequence/AbsolutelyIncreasingSubsequence.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/AbsolutelyIncreasingSubsequence/AbsolutelyIncreasingSubsequence.cpp.o
-.PHONY : ICOPracticeProblems/AbsolutelyIncreasingSubsequence/AbsolutelyIncreasingSubsequence.cpp.o
-
-ICOPracticeProblems/AbsolutelyIncreasingSubsequence/AbsolutelyIncreasingSubsequence.i: ICOPracticeProblems/AbsolutelyIncreasingSubsequence/AbsolutelyIncreasingSubsequence.cpp.i
-
-.PHONY : ICOPracticeProblems/AbsolutelyIncreasingSubsequence/AbsolutelyIncreasingSubsequence.i
-
-# target to preprocess a source file
-ICOPracticeProblems/AbsolutelyIncreasingSubsequence/AbsolutelyIncreasingSubsequence.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/AbsolutelyIncreasingSubsequence/AbsolutelyIncreasingSubsequence.cpp.i
-.PHONY : ICOPracticeProblems/AbsolutelyIncreasingSubsequence/AbsolutelyIncreasingSubsequence.cpp.i
-
-ICOPracticeProblems/AbsolutelyIncreasingSubsequence/AbsolutelyIncreasingSubsequence.s: ICOPracticeProblems/AbsolutelyIncreasingSubsequence/AbsolutelyIncreasingSubsequence.cpp.s
-
-.PHONY : ICOPracticeProblems/AbsolutelyIncreasingSubsequence/AbsolutelyIncreasingSubsequence.s
-
-# target to generate assembly for a file
-ICOPracticeProblems/AbsolutelyIncreasingSubsequence/AbsolutelyIncreasingSubsequence.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/AbsolutelyIncreasingSubsequence/AbsolutelyIncreasingSubsequence.cpp.s
-.PHONY : ICOPracticeProblems/AbsolutelyIncreasingSubsequence/AbsolutelyIncreasingSubsequence.cpp.s
-
-ICOPracticeProblems/Codeatsi/Codeatsi.o: ICOPracticeProblems/Codeatsi/Codeatsi.cpp.o
-
-.PHONY : ICOPracticeProblems/Codeatsi/Codeatsi.o
-
-# target to build an object file
-ICOPracticeProblems/Codeatsi/Codeatsi.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/Codeatsi/Codeatsi.cpp.o
-.PHONY : ICOPracticeProblems/Codeatsi/Codeatsi.cpp.o
-
-ICOPracticeProblems/Codeatsi/Codeatsi.i: ICOPracticeProblems/Codeatsi/Codeatsi.cpp.i
-
-.PHONY : ICOPracticeProblems/Codeatsi/Codeatsi.i
-
-# target to preprocess a source file
-ICOPracticeProblems/Codeatsi/Codeatsi.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/Codeatsi/Codeatsi.cpp.i
-.PHONY : ICOPracticeProblems/Codeatsi/Codeatsi.cpp.i
-
-ICOPracticeProblems/Codeatsi/Codeatsi.s: ICOPracticeProblems/Codeatsi/Codeatsi.cpp.s
-
-.PHONY : ICOPracticeProblems/Codeatsi/Codeatsi.s
-
-# target to generate assembly for a file
-ICOPracticeProblems/Codeatsi/Codeatsi.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/Codeatsi/Codeatsi.cpp.s
-.PHONY : ICOPracticeProblems/Codeatsi/Codeatsi.cpp.s
-
-ICOPracticeProblems/NinjaCake/NinjaCake.o: ICOPracticeProblems/NinjaCake/NinjaCake.cpp.o
-
-.PHONY : ICOPracticeProblems/NinjaCake/NinjaCake.o
-
-# target to build an object file
-ICOPracticeProblems/NinjaCake/NinjaCake.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/NinjaCake/NinjaCake.cpp.o
-.PHONY : ICOPracticeProblems/NinjaCake/NinjaCake.cpp.o
-
-ICOPracticeProblems/NinjaCake/NinjaCake.i: ICOPracticeProblems/NinjaCake/NinjaCake.cpp.i
-
-.PHONY : ICOPracticeProblems/NinjaCake/NinjaCake.i
-
-# target to preprocess a source file
-ICOPracticeProblems/NinjaCake/NinjaCake.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/NinjaCake/NinjaCake.cpp.i
-.PHONY : ICOPracticeProblems/NinjaCake/NinjaCake.cpp.i
-
-ICOPracticeProblems/NinjaCake/NinjaCake.s: ICOPracticeProblems/NinjaCake/NinjaCake.cpp.s
-
-.PHONY : ICOPracticeProblems/NinjaCake/NinjaCake.s
-
-# target to generate assembly for a file
-ICOPracticeProblems/NinjaCake/NinjaCake.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/NinjaCake/NinjaCake.cpp.s
-.PHONY : ICOPracticeProblems/NinjaCake/NinjaCake.cpp.s
-
-ICOPracticeProblems/PyramidFalls/PyramidFalls.o: ICOPracticeProblems/PyramidFalls/PyramidFalls.cpp.o
-
-.PHONY : ICOPracticeProblems/PyramidFalls/PyramidFalls.o
-
-# target to build an object file
-ICOPracticeProblems/PyramidFalls/PyramidFalls.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/PyramidFalls/PyramidFalls.cpp.o
-.PHONY : ICOPracticeProblems/PyramidFalls/PyramidFalls.cpp.o
-
-ICOPracticeProblems/PyramidFalls/PyramidFalls.i: ICOPracticeProblems/PyramidFalls/PyramidFalls.cpp.i
-
-.PHONY : ICOPracticeProblems/PyramidFalls/PyramidFalls.i
-
-# target to preprocess a source file
-ICOPracticeProblems/PyramidFalls/PyramidFalls.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/PyramidFalls/PyramidFalls.cpp.i
-.PHONY : ICOPracticeProblems/PyramidFalls/PyramidFalls.cpp.i
-
-ICOPracticeProblems/PyramidFalls/PyramidFalls.s: ICOPracticeProblems/PyramidFalls/PyramidFalls.cpp.s
-
-.PHONY : ICOPracticeProblems/PyramidFalls/PyramidFalls.s
-
-# target to generate assembly for a file
-ICOPracticeProblems/PyramidFalls/PyramidFalls.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/PyramidFalls/PyramidFalls.cpp.s
-.PHONY : ICOPracticeProblems/PyramidFalls/PyramidFalls.cpp.s
-
-ICOPracticeProblems/YetAnotherGeometryProblem.o: ICOPracticeProblems/YetAnotherGeometryProblem.cpp.o
-
-.PHONY : ICOPracticeProblems/YetAnotherGeometryProblem.o
-
-# target to build an object file
-ICOPracticeProblems/YetAnotherGeometryProblem.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/YetAnotherGeometryProblem.cpp.o
-.PHONY : ICOPracticeProblems/YetAnotherGeometryProblem.cpp.o
-
-ICOPracticeProblems/YetAnotherGeometryProblem.i: ICOPracticeProblems/YetAnotherGeometryProblem.cpp.i
-
-.PHONY : ICOPracticeProblems/YetAnotherGeometryProblem.i
-
-# target to preprocess a source file
-ICOPracticeProblems/YetAnotherGeometryProblem.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/YetAnotherGeometryProblem.cpp.i
-.PHONY : ICOPracticeProblems/YetAnotherGeometryProblem.cpp.i
-
-ICOPracticeProblems/YetAnotherGeometryProblem.s: ICOPracticeProblems/YetAnotherGeometryProblem.cpp.s
-
-.PHONY : ICOPracticeProblems/YetAnotherGeometryProblem.s
-
-# target to generate assembly for a file
-ICOPracticeProblems/YetAnotherGeometryProblem.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/YetAnotherGeometryProblem.cpp.s
-.PHONY : ICOPracticeProblems/YetAnotherGeometryProblem.cpp.s
-
-ICOPracticeProblems/YetAnotherGeometryProblem/YetAnotherGeometryProblem.o: ICOPracticeProblems/YetAnotherGeometryProblem/YetAnotherGeometryProblem.cpp.o
-
-.PHONY : ICOPracticeProblems/YetAnotherGeometryProblem/YetAnotherGeometryProblem.o
-
-# target to build an object file
-ICOPracticeProblems/YetAnotherGeometryProblem/YetAnotherGeometryProblem.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/YetAnotherGeometryProblem/YetAnotherGeometryProblem.cpp.o
-.PHONY : ICOPracticeProblems/YetAnotherGeometryProblem/YetAnotherGeometryProblem.cpp.o
-
-ICOPracticeProblems/YetAnotherGeometryProblem/YetAnotherGeometryProblem.i: ICOPracticeProblems/YetAnotherGeometryProblem/YetAnotherGeometryProblem.cpp.i
-
-.PHONY : ICOPracticeProblems/YetAnotherGeometryProblem/YetAnotherGeometryProblem.i
-
-# target to preprocess a source file
-ICOPracticeProblems/YetAnotherGeometryProblem/YetAnotherGeometryProblem.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/YetAnotherGeometryProblem/YetAnotherGeometryProblem.cpp.i
-.PHONY : ICOPracticeProblems/YetAnotherGeometryProblem/YetAnotherGeometryProblem.cpp.i
-
-ICOPracticeProblems/YetAnotherGeometryProblem/YetAnotherGeometryProblem.s: ICOPracticeProblems/YetAnotherGeometryProblem/YetAnotherGeometryProblem.cpp.s
-
-.PHONY : ICOPracticeProblems/YetAnotherGeometryProblem/YetAnotherGeometryProblem.s
-
-# target to generate assembly for a file
-ICOPracticeProblems/YetAnotherGeometryProblem/YetAnotherGeometryProblem.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/ICOPracticeProblems/YetAnotherGeometryProblem/YetAnotherGeometryProblem.cpp.s
-.PHONY : ICOPracticeProblems/YetAnotherGeometryProblem/YetAnotherGeometryProblem.cpp.s
-
-INOI2017P2.o: INOI2017P2.cpp.o
-
-.PHONY : INOI2017P2.o
-
-# target to build an object file
-INOI2017P2.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/INOI2017P2.cpp.o
-.PHONY : INOI2017P2.cpp.o
-
-INOI2017P2.i: INOI2017P2.cpp.i
-
-.PHONY : INOI2017P2.i
-
-# target to preprocess a source file
-INOI2017P2.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/INOI2017P2.cpp.i
-.PHONY : INOI2017P2.cpp.i
-
-INOI2017P2.s: INOI2017P2.cpp.s
-
-.PHONY : INOI2017P2.s
-
-# target to generate assembly for a file
-INOI2017P2.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/INOI2017P2.cpp.s
-.PHONY : INOI2017P2.cpp.s
-
-INOI_BinaryStrings.o: INOI_BinaryStrings.cpp.o
-
-.PHONY : INOI_BinaryStrings.o
-
-# target to build an object file
-INOI_BinaryStrings.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/INOI_BinaryStrings.cpp.o
-.PHONY : INOI_BinaryStrings.cpp.o
-
-INOI_BinaryStrings.i: INOI_BinaryStrings.cpp.i
-
-.PHONY : INOI_BinaryStrings.i
-
-# target to preprocess a source file
-INOI_BinaryStrings.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/INOI_BinaryStrings.cpp.i
-.PHONY : INOI_BinaryStrings.cpp.i
-
-INOI_BinaryStrings.s: INOI_BinaryStrings.cpp.s
-
-.PHONY : INOI_BinaryStrings.s
-
-# target to generate assembly for a file
-INOI_BinaryStrings.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/INOI_BinaryStrings.cpp.s
-.PHONY : INOI_BinaryStrings.cpp.s
-
-INOI_HighwayBypass.o: INOI_HighwayBypass.cpp.o
-
-.PHONY : INOI_HighwayBypass.o
-
-# target to build an object file
-INOI_HighwayBypass.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/INOI_HighwayBypass.cpp.o
-.PHONY : INOI_HighwayBypass.cpp.o
-
-INOI_HighwayBypass.i: INOI_HighwayBypass.cpp.i
-
-.PHONY : INOI_HighwayBypass.i
-
-# target to preprocess a source file
-INOI_HighwayBypass.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/INOI_HighwayBypass.cpp.i
-.PHONY : INOI_HighwayBypass.cpp.i
-
-INOI_HighwayBypass.s: INOI_HighwayBypass.cpp.s
-
-.PHONY : INOI_HighwayBypass.s
-
-# target to generate assembly for a file
-INOI_HighwayBypass.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/INOI_HighwayBypass.cpp.s
-.PHONY : INOI_HighwayBypass.cpp.s
-
-INOI_SequenceLand.o: INOI_SequenceLand.cpp.o
-
-.PHONY : INOI_SequenceLand.o
-
-# target to build an object file
-INOI_SequenceLand.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/INOI_SequenceLand.cpp.o
-.PHONY : INOI_SequenceLand.cpp.o
-
-INOI_SequenceLand.i: INOI_SequenceLand.cpp.i
-
-.PHONY : INOI_SequenceLand.i
-
-# target to preprocess a source file
-INOI_SequenceLand.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/INOI_SequenceLand.cpp.i
-.PHONY : INOI_SequenceLand.cpp.i
-
-INOI_SequenceLand.s: INOI_SequenceLand.cpp.s
-
-.PHONY : INOI_SequenceLand.s
-
-# target to generate assembly for a file
-INOI_SequenceLand.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/INOI_SequenceLand.cpp.s
-.PHONY : INOI_SequenceLand.cpp.s
-
-INOI_TableSum.o: INOI_TableSum.cpp.o
-
-.PHONY : INOI_TableSum.o
-
-# target to build an object file
-INOI_TableSum.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/INOI_TableSum.cpp.o
-.PHONY : INOI_TableSum.cpp.o
-
-INOI_TableSum.i: INOI_TableSum.cpp.i
-
-.PHONY : INOI_TableSum.i
-
-# target to preprocess a source file
-INOI_TableSum.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/INOI_TableSum.cpp.i
-.PHONY : INOI_TableSum.cpp.i
-
-INOI_TableSum.s: INOI_TableSum.cpp.s
-
-.PHONY : INOI_TableSum.s
-
-# target to generate assembly for a file
-INOI_TableSum.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/INOI_TableSum.cpp.s
-.PHONY : INOI_TableSum.cpp.s
-
-INOI_Triathlon.o: INOI_Triathlon.cpp.o
-
-.PHONY : INOI_Triathlon.o
-
-# target to build an object file
-INOI_Triathlon.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/INOI_Triathlon.cpp.o
-.PHONY : INOI_Triathlon.cpp.o
-
-INOI_Triathlon.i: INOI_Triathlon.cpp.i
-
-.PHONY : INOI_Triathlon.i
-
-# target to preprocess a source file
-INOI_Triathlon.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/INOI_Triathlon.cpp.i
-.PHONY : INOI_Triathlon.cpp.i
-
-INOI_Triathlon.s: INOI_Triathlon.cpp.s
-
-.PHONY : INOI_Triathlon.s
-
-# target to generate assembly for a file
-INOI_Triathlon.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/INOI_Triathlon.cpp.s
-.PHONY : INOI_Triathlon.cpp.s
-
-INOI_WealthDisparity.o: INOI_WealthDisparity.cpp.o
-
-.PHONY : INOI_WealthDisparity.o
-
-# target to build an object file
-INOI_WealthDisparity.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/INOI_WealthDisparity.cpp.o
-.PHONY : INOI_WealthDisparity.cpp.o
-
-INOI_WealthDisparity.i: INOI_WealthDisparity.cpp.i
-
-.PHONY : INOI_WealthDisparity.i
-
-# target to preprocess a source file
-INOI_WealthDisparity.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/INOI_WealthDisparity.cpp.i
-.PHONY : INOI_WealthDisparity.cpp.i
-
-INOI_WealthDisparity.s: INOI_WealthDisparity.cpp.s
-
-.PHONY : INOI_WealthDisparity.s
-
-# target to generate assembly for a file
-INOI_WealthDisparity.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/INOI_WealthDisparity.cpp.s
-.PHONY : INOI_WealthDisparity.cpp.s
-
-IOITC_BabaAndBitmasks.o: IOITC_BabaAndBitmasks.cpp.o
-
-.PHONY : IOITC_BabaAndBitmasks.o
-
-# target to build an object file
-IOITC_BabaAndBitmasks.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/IOITC_BabaAndBitmasks.cpp.o
-.PHONY : IOITC_BabaAndBitmasks.cpp.o
-
-IOITC_BabaAndBitmasks.i: IOITC_BabaAndBitmasks.cpp.i
-
-.PHONY : IOITC_BabaAndBitmasks.i
-
-# target to preprocess a source file
-IOITC_BabaAndBitmasks.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/IOITC_BabaAndBitmasks.cpp.i
-.PHONY : IOITC_BabaAndBitmasks.cpp.i
-
-IOITC_BabaAndBitmasks.s: IOITC_BabaAndBitmasks.cpp.s
-
-.PHONY : IOITC_BabaAndBitmasks.s
-
-# target to generate assembly for a file
-IOITC_BabaAndBitmasks.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/IOITC_BabaAndBitmasks.cpp.s
-.PHONY : IOITC_BabaAndBitmasks.cpp.s
-
-LazyLoading.o: LazyLoading.cpp.o
-
-.PHONY : LazyLoading.o
-
-# target to build an object file
-LazyLoading.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/LazyLoading.cpp.o
-.PHONY : LazyLoading.cpp.o
-
-LazyLoading.i: LazyLoading.cpp.i
-
-.PHONY : LazyLoading.i
-
-# target to preprocess a source file
-LazyLoading.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/LazyLoading.cpp.i
-.PHONY : LazyLoading.cpp.i
-
-LazyLoading.s: LazyLoading.cpp.s
-
-.PHONY : LazyLoading.s
-
-# target to generate assembly for a file
-LazyLoading.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/LazyLoading.cpp.s
-.PHONY : LazyLoading.cpp.s
-
-ManicMoving.o: ManicMoving.cpp.o
-
-.PHONY : ManicMoving.o
-
-# target to build an object file
-ManicMoving.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/ManicMoving.cpp.o
-.PHONY : ManicMoving.cpp.o
-
-ManicMoving.i: ManicMoving.cpp.i
-
-.PHONY : ManicMoving.i
-
-# target to preprocess a source file
-ManicMoving.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/ManicMoving.cpp.i
-.PHONY : ManicMoving.cpp.i
-
-ManicMoving.s: ManicMoving.cpp.s
-
-.PHONY : ManicMoving.s
-
-# target to generate assembly for a file
-ManicMoving.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/ManicMoving.cpp.s
-.PHONY : ManicMoving.cpp.s
-
-MaxPath.o: MaxPath.cpp.o
-
-.PHONY : MaxPath.o
-
-# target to build an object file
-MaxPath.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/MaxPath.cpp.o
-.PHONY : MaxPath.cpp.o
-
-MaxPath.i: MaxPath.cpp.i
-
-.PHONY : MaxPath.i
-
-# target to preprocess a source file
-MaxPath.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/MaxPath.cpp.i
-.PHONY : MaxPath.cpp.i
-
-MaxPath.s: MaxPath.cpp.s
-
-.PHONY : MaxPath.s
-
-# target to generate assembly for a file
-MaxPath.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/MaxPath.cpp.s
-.PHONY : MaxPath.cpp.s
 
 Misc.o: Misc.cpp.o
 
@@ -9586,7 +5553,6 @@ Misc.o: Misc.cpp.o
 # target to build an object file
 Misc.cpp.o:
 	$(MAKE) -f CMakeFiles/Misc.dir/build.make CMakeFiles/Misc.dir/Misc.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/Misc.cpp.o
 .PHONY : Misc.cpp.o
 
 Misc.i: Misc.cpp.i
@@ -9596,7 +5562,6 @@ Misc.i: Misc.cpp.i
 # target to preprocess a source file
 Misc.cpp.i:
 	$(MAKE) -f CMakeFiles/Misc.dir/build.make CMakeFiles/Misc.dir/Misc.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/Misc.cpp.i
 .PHONY : Misc.cpp.i
 
 Misc.s: Misc.cpp.s
@@ -9606,305 +5571,7 @@ Misc.s: Misc.cpp.s
 # target to generate assembly for a file
 Misc.cpp.s:
 	$(MAKE) -f CMakeFiles/Misc.dir/build.make CMakeFiles/Misc.dir/Misc.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/Misc.cpp.s
 .PHONY : Misc.cpp.s
-
-OPC_EqualGifts.o: OPC_EqualGifts.cpp.o
-
-.PHONY : OPC_EqualGifts.o
-
-# target to build an object file
-OPC_EqualGifts.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/OPC_EqualGifts.cpp.o
-.PHONY : OPC_EqualGifts.cpp.o
-
-OPC_EqualGifts.i: OPC_EqualGifts.cpp.i
-
-.PHONY : OPC_EqualGifts.i
-
-# target to preprocess a source file
-OPC_EqualGifts.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/OPC_EqualGifts.cpp.i
-.PHONY : OPC_EqualGifts.cpp.i
-
-OPC_EqualGifts.s: OPC_EqualGifts.cpp.s
-
-.PHONY : OPC_EqualGifts.s
-
-# target to generate assembly for a file
-OPC_EqualGifts.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/OPC_EqualGifts.cpp.s
-.PHONY : OPC_EqualGifts.cpp.s
-
-OPC_IndPyramid.o: OPC_IndPyramid.cpp.o
-
-.PHONY : OPC_IndPyramid.o
-
-# target to build an object file
-OPC_IndPyramid.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/OPC_IndPyramid.cpp.o
-.PHONY : OPC_IndPyramid.cpp.o
-
-OPC_IndPyramid.i: OPC_IndPyramid.cpp.i
-
-.PHONY : OPC_IndPyramid.i
-
-# target to preprocess a source file
-OPC_IndPyramid.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/OPC_IndPyramid.cpp.i
-.PHONY : OPC_IndPyramid.cpp.i
-
-OPC_IndPyramid.s: OPC_IndPyramid.cpp.s
-
-.PHONY : OPC_IndPyramid.s
-
-# target to generate assembly for a file
-OPC_IndPyramid.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/OPC_IndPyramid.cpp.s
-.PHONY : OPC_IndPyramid.cpp.s
-
-OPC_LeadGame.o: OPC_LeadGame.cpp.o
-
-.PHONY : OPC_LeadGame.o
-
-# target to build an object file
-OPC_LeadGame.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/OPC_LeadGame.cpp.o
-.PHONY : OPC_LeadGame.cpp.o
-
-OPC_LeadGame.i: OPC_LeadGame.cpp.i
-
-.PHONY : OPC_LeadGame.i
-
-# target to preprocess a source file
-OPC_LeadGame.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/OPC_LeadGame.cpp.i
-.PHONY : OPC_LeadGame.cpp.i
-
-OPC_LeadGame.s: OPC_LeadGame.cpp.s
-
-.PHONY : OPC_LeadGame.s
-
-# target to generate assembly for a file
-OPC_LeadGame.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/OPC_LeadGame.cpp.s
-.PHONY : OPC_LeadGame.cpp.s
-
-OPC_MinimumTurnRoute.o: OPC_MinimumTurnRoute.cpp.o
-
-.PHONY : OPC_MinimumTurnRoute.o
-
-# target to build an object file
-OPC_MinimumTurnRoute.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/OPC_MinimumTurnRoute.cpp.o
-.PHONY : OPC_MinimumTurnRoute.cpp.o
-
-OPC_MinimumTurnRoute.i: OPC_MinimumTurnRoute.cpp.i
-
-.PHONY : OPC_MinimumTurnRoute.i
-
-# target to preprocess a source file
-OPC_MinimumTurnRoute.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/OPC_MinimumTurnRoute.cpp.i
-.PHONY : OPC_MinimumTurnRoute.cpp.i
-
-OPC_MinimumTurnRoute.s: OPC_MinimumTurnRoute.cpp.s
-
-.PHONY : OPC_MinimumTurnRoute.s
-
-# target to generate assembly for a file
-OPC_MinimumTurnRoute.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/OPC_MinimumTurnRoute.cpp.s
-.PHONY : OPC_MinimumTurnRoute.cpp.s
-
-OPC_RailwayCateringContacts.o: OPC_RailwayCateringContacts.cpp.o
-
-.PHONY : OPC_RailwayCateringContacts.o
-
-# target to build an object file
-OPC_RailwayCateringContacts.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/OPC_RailwayCateringContacts.cpp.o
-.PHONY : OPC_RailwayCateringContacts.cpp.o
-
-OPC_RailwayCateringContacts.i: OPC_RailwayCateringContacts.cpp.i
-
-.PHONY : OPC_RailwayCateringContacts.i
-
-# target to preprocess a source file
-OPC_RailwayCateringContacts.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/OPC_RailwayCateringContacts.cpp.i
-.PHONY : OPC_RailwayCateringContacts.cpp.i
-
-OPC_RailwayCateringContacts.s: OPC_RailwayCateringContacts.cpp.s
-
-.PHONY : OPC_RailwayCateringContacts.s
-
-# target to generate assembly for a file
-OPC_RailwayCateringContacts.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/OPC_RailwayCateringContacts.cpp.s
-.PHONY : OPC_RailwayCateringContacts.cpp.s
-
-OPC_SiruseriMetro.o: OPC_SiruseriMetro.cpp.o
-
-.PHONY : OPC_SiruseriMetro.o
-
-# target to build an object file
-OPC_SiruseriMetro.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/OPC_SiruseriMetro.cpp.o
-.PHONY : OPC_SiruseriMetro.cpp.o
-
-OPC_SiruseriMetro.i: OPC_SiruseriMetro.cpp.i
-
-.PHONY : OPC_SiruseriMetro.i
-
-# target to preprocess a source file
-OPC_SiruseriMetro.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/OPC_SiruseriMetro.cpp.i
-.PHONY : OPC_SiruseriMetro.cpp.i
-
-OPC_SiruseriMetro.s: OPC_SiruseriMetro.cpp.s
-
-.PHONY : OPC_SiruseriMetro.s
-
-# target to generate assembly for a file
-OPC_SiruseriMetro.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/OPC_SiruseriMetro.cpp.s
-.PHONY : OPC_SiruseriMetro.cpp.s
-
-OtherAlgorithms/Bitmasks.o: OtherAlgorithms/Bitmasks.cpp.o
-
-.PHONY : OtherAlgorithms/Bitmasks.o
-
-# target to build an object file
-OtherAlgorithms/Bitmasks.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/Bitmasks.cpp.o
-.PHONY : OtherAlgorithms/Bitmasks.cpp.o
-
-OtherAlgorithms/Bitmasks.i: OtherAlgorithms/Bitmasks.cpp.i
-
-.PHONY : OtherAlgorithms/Bitmasks.i
-
-# target to preprocess a source file
-OtherAlgorithms/Bitmasks.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/Bitmasks.cpp.i
-.PHONY : OtherAlgorithms/Bitmasks.cpp.i
-
-OtherAlgorithms/Bitmasks.s: OtherAlgorithms/Bitmasks.cpp.s
-
-.PHONY : OtherAlgorithms/Bitmasks.s
-
-# target to generate assembly for a file
-OtherAlgorithms/Bitmasks.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/Bitmasks.cpp.s
-.PHONY : OtherAlgorithms/Bitmasks.cpp.s
-
-OtherAlgorithms/GreatestCommonDivisor.o: OtherAlgorithms/GreatestCommonDivisor.cpp.o
-
-.PHONY : OtherAlgorithms/GreatestCommonDivisor.o
-
-# target to build an object file
-OtherAlgorithms/GreatestCommonDivisor.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/GreatestCommonDivisor.cpp.o
-.PHONY : OtherAlgorithms/GreatestCommonDivisor.cpp.o
-
-OtherAlgorithms/GreatestCommonDivisor.i: OtherAlgorithms/GreatestCommonDivisor.cpp.i
-
-.PHONY : OtherAlgorithms/GreatestCommonDivisor.i
-
-# target to preprocess a source file
-OtherAlgorithms/GreatestCommonDivisor.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/GreatestCommonDivisor.cpp.i
-.PHONY : OtherAlgorithms/GreatestCommonDivisor.cpp.i
-
-OtherAlgorithms/GreatestCommonDivisor.s: OtherAlgorithms/GreatestCommonDivisor.cpp.s
-
-.PHONY : OtherAlgorithms/GreatestCommonDivisor.s
-
-# target to generate assembly for a file
-OtherAlgorithms/GreatestCommonDivisor.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/GreatestCommonDivisor.cpp.s
-.PHONY : OtherAlgorithms/GreatestCommonDivisor.cpp.s
-
-OtherAlgorithms/IntervalPartitioning.o: OtherAlgorithms/IntervalPartitioning.cpp.o
-
-.PHONY : OtherAlgorithms/IntervalPartitioning.o
-
-# target to build an object file
-OtherAlgorithms/IntervalPartitioning.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/IntervalPartitioning.cpp.o
-.PHONY : OtherAlgorithms/IntervalPartitioning.cpp.o
-
-OtherAlgorithms/IntervalPartitioning.i: OtherAlgorithms/IntervalPartitioning.cpp.i
-
-.PHONY : OtherAlgorithms/IntervalPartitioning.i
-
-# target to preprocess a source file
-OtherAlgorithms/IntervalPartitioning.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/IntervalPartitioning.cpp.i
-.PHONY : OtherAlgorithms/IntervalPartitioning.cpp.i
-
-OtherAlgorithms/IntervalPartitioning.s: OtherAlgorithms/IntervalPartitioning.cpp.s
-
-.PHONY : OtherAlgorithms/IntervalPartitioning.s
-
-# target to generate assembly for a file
-OtherAlgorithms/IntervalPartitioning.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/IntervalPartitioning.cpp.s
-.PHONY : OtherAlgorithms/IntervalPartitioning.cpp.s
-
-OtherAlgorithms/IntervalScheduling.o: OtherAlgorithms/IntervalScheduling.cpp.o
-
-.PHONY : OtherAlgorithms/IntervalScheduling.o
-
-# target to build an object file
-OtherAlgorithms/IntervalScheduling.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/IntervalScheduling.cpp.o
-.PHONY : OtherAlgorithms/IntervalScheduling.cpp.o
-
-OtherAlgorithms/IntervalScheduling.i: OtherAlgorithms/IntervalScheduling.cpp.i
-
-.PHONY : OtherAlgorithms/IntervalScheduling.i
-
-# target to preprocess a source file
-OtherAlgorithms/IntervalScheduling.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/IntervalScheduling.cpp.i
-.PHONY : OtherAlgorithms/IntervalScheduling.cpp.i
-
-OtherAlgorithms/IntervalScheduling.s: OtherAlgorithms/IntervalScheduling.cpp.s
-
-.PHONY : OtherAlgorithms/IntervalScheduling.s
-
-# target to generate assembly for a file
-OtherAlgorithms/IntervalScheduling.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/IntervalScheduling.cpp.s
-.PHONY : OtherAlgorithms/IntervalScheduling.cpp.s
-
-OtherAlgorithms/KnapsackProblem.o: OtherAlgorithms/KnapsackProblem.cpp.o
-
-.PHONY : OtherAlgorithms/KnapsackProblem.o
-
-# target to build an object file
-OtherAlgorithms/KnapsackProblem.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/KnapsackProblem.cpp.o
-.PHONY : OtherAlgorithms/KnapsackProblem.cpp.o
-
-OtherAlgorithms/KnapsackProblem.i: OtherAlgorithms/KnapsackProblem.cpp.i
-
-.PHONY : OtherAlgorithms/KnapsackProblem.i
-
-# target to preprocess a source file
-OtherAlgorithms/KnapsackProblem.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/KnapsackProblem.cpp.i
-.PHONY : OtherAlgorithms/KnapsackProblem.cpp.i
-
-OtherAlgorithms/KnapsackProblem.s: OtherAlgorithms/KnapsackProblem.cpp.s
-
-.PHONY : OtherAlgorithms/KnapsackProblem.s
-
-# target to generate assembly for a file
-OtherAlgorithms/KnapsackProblem.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/KnapsackProblem.cpp.s
-.PHONY : OtherAlgorithms/KnapsackProblem.cpp.s
 
 OtherAlgorithms/Knuth-Morris-Pratt-Algorithm.o: OtherAlgorithms/Knuth-Morris-Pratt-Algorithm.cpp.o
 
@@ -9912,7 +5579,6 @@ OtherAlgorithms/Knuth-Morris-Pratt-Algorithm.o: OtherAlgorithms/Knuth-Morris-Pra
 
 # target to build an object file
 OtherAlgorithms/Knuth-Morris-Pratt-Algorithm.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/Knuth-Morris-Pratt-Algorithm.cpp.o
 	$(MAKE) -f CMakeFiles/Knuth-Morris-Pratt-Algorithm.dir/build.make CMakeFiles/Knuth-Morris-Pratt-Algorithm.dir/OtherAlgorithms/Knuth-Morris-Pratt-Algorithm.cpp.o
 .PHONY : OtherAlgorithms/Knuth-Morris-Pratt-Algorithm.cpp.o
 
@@ -9922,7 +5588,6 @@ OtherAlgorithms/Knuth-Morris-Pratt-Algorithm.i: OtherAlgorithms/Knuth-Morris-Pra
 
 # target to preprocess a source file
 OtherAlgorithms/Knuth-Morris-Pratt-Algorithm.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/Knuth-Morris-Pratt-Algorithm.cpp.i
 	$(MAKE) -f CMakeFiles/Knuth-Morris-Pratt-Algorithm.dir/build.make CMakeFiles/Knuth-Morris-Pratt-Algorithm.dir/OtherAlgorithms/Knuth-Morris-Pratt-Algorithm.cpp.i
 .PHONY : OtherAlgorithms/Knuth-Morris-Pratt-Algorithm.cpp.i
 
@@ -9932,36 +5597,8 @@ OtherAlgorithms/Knuth-Morris-Pratt-Algorithm.s: OtherAlgorithms/Knuth-Morris-Pra
 
 # target to generate assembly for a file
 OtherAlgorithms/Knuth-Morris-Pratt-Algorithm.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/Knuth-Morris-Pratt-Algorithm.cpp.s
 	$(MAKE) -f CMakeFiles/Knuth-Morris-Pratt-Algorithm.dir/build.make CMakeFiles/Knuth-Morris-Pratt-Algorithm.dir/OtherAlgorithms/Knuth-Morris-Pratt-Algorithm.cpp.s
 .PHONY : OtherAlgorithms/Knuth-Morris-Pratt-Algorithm.cpp.s
-
-OtherAlgorithms/LongestIncreasingSubsequence.o: OtherAlgorithms/LongestIncreasingSubsequence.cpp.o
-
-.PHONY : OtherAlgorithms/LongestIncreasingSubsequence.o
-
-# target to build an object file
-OtherAlgorithms/LongestIncreasingSubsequence.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/LongestIncreasingSubsequence.cpp.o
-.PHONY : OtherAlgorithms/LongestIncreasingSubsequence.cpp.o
-
-OtherAlgorithms/LongestIncreasingSubsequence.i: OtherAlgorithms/LongestIncreasingSubsequence.cpp.i
-
-.PHONY : OtherAlgorithms/LongestIncreasingSubsequence.i
-
-# target to preprocess a source file
-OtherAlgorithms/LongestIncreasingSubsequence.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/LongestIncreasingSubsequence.cpp.i
-.PHONY : OtherAlgorithms/LongestIncreasingSubsequence.cpp.i
-
-OtherAlgorithms/LongestIncreasingSubsequence.s: OtherAlgorithms/LongestIncreasingSubsequence.cpp.s
-
-.PHONY : OtherAlgorithms/LongestIncreasingSubsequence.s
-
-# target to generate assembly for a file
-OtherAlgorithms/LongestIncreasingSubsequence.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/LongestIncreasingSubsequence.cpp.s
-.PHONY : OtherAlgorithms/LongestIncreasingSubsequence.cpp.s
 
 OtherAlgorithms/ManachersAlgo.o: OtherAlgorithms/ManachersAlgo.cpp.o
 
@@ -9970,7 +5607,6 @@ OtherAlgorithms/ManachersAlgo.o: OtherAlgorithms/ManachersAlgo.cpp.o
 # target to build an object file
 OtherAlgorithms/ManachersAlgo.cpp.o:
 	$(MAKE) -f CMakeFiles/ManachersAlgo.dir/build.make CMakeFiles/ManachersAlgo.dir/OtherAlgorithms/ManachersAlgo.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/ManachersAlgo.cpp.o
 .PHONY : OtherAlgorithms/ManachersAlgo.cpp.o
 
 OtherAlgorithms/ManachersAlgo.i: OtherAlgorithms/ManachersAlgo.cpp.i
@@ -9980,7 +5616,6 @@ OtherAlgorithms/ManachersAlgo.i: OtherAlgorithms/ManachersAlgo.cpp.i
 # target to preprocess a source file
 OtherAlgorithms/ManachersAlgo.cpp.i:
 	$(MAKE) -f CMakeFiles/ManachersAlgo.dir/build.make CMakeFiles/ManachersAlgo.dir/OtherAlgorithms/ManachersAlgo.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/ManachersAlgo.cpp.i
 .PHONY : OtherAlgorithms/ManachersAlgo.cpp.i
 
 OtherAlgorithms/ManachersAlgo.s: OtherAlgorithms/ManachersAlgo.cpp.s
@@ -9990,89 +5625,7 @@ OtherAlgorithms/ManachersAlgo.s: OtherAlgorithms/ManachersAlgo.cpp.s
 # target to generate assembly for a file
 OtherAlgorithms/ManachersAlgo.cpp.s:
 	$(MAKE) -f CMakeFiles/ManachersAlgo.dir/build.make CMakeFiles/ManachersAlgo.dir/OtherAlgorithms/ManachersAlgo.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/ManachersAlgo.cpp.s
 .PHONY : OtherAlgorithms/ManachersAlgo.cpp.s
-
-OtherAlgorithms/MatrixExponentiation-FibSequence.o: OtherAlgorithms/MatrixExponentiation-FibSequence.cpp.o
-
-.PHONY : OtherAlgorithms/MatrixExponentiation-FibSequence.o
-
-# target to build an object file
-OtherAlgorithms/MatrixExponentiation-FibSequence.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/MatrixExponentiation-FibSequence.cpp.o
-.PHONY : OtherAlgorithms/MatrixExponentiation-FibSequence.cpp.o
-
-OtherAlgorithms/MatrixExponentiation-FibSequence.i: OtherAlgorithms/MatrixExponentiation-FibSequence.cpp.i
-
-.PHONY : OtherAlgorithms/MatrixExponentiation-FibSequence.i
-
-# target to preprocess a source file
-OtherAlgorithms/MatrixExponentiation-FibSequence.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/MatrixExponentiation-FibSequence.cpp.i
-.PHONY : OtherAlgorithms/MatrixExponentiation-FibSequence.cpp.i
-
-OtherAlgorithms/MatrixExponentiation-FibSequence.s: OtherAlgorithms/MatrixExponentiation-FibSequence.cpp.s
-
-.PHONY : OtherAlgorithms/MatrixExponentiation-FibSequence.s
-
-# target to generate assembly for a file
-OtherAlgorithms/MatrixExponentiation-FibSequence.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/MatrixExponentiation-FibSequence.cpp.s
-.PHONY : OtherAlgorithms/MatrixExponentiation-FibSequence.cpp.s
-
-OtherAlgorithms/MatrixExponentiation.o: OtherAlgorithms/MatrixExponentiation.cpp.o
-
-.PHONY : OtherAlgorithms/MatrixExponentiation.o
-
-# target to build an object file
-OtherAlgorithms/MatrixExponentiation.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/MatrixExponentiation.cpp.o
-.PHONY : OtherAlgorithms/MatrixExponentiation.cpp.o
-
-OtherAlgorithms/MatrixExponentiation.i: OtherAlgorithms/MatrixExponentiation.cpp.i
-
-.PHONY : OtherAlgorithms/MatrixExponentiation.i
-
-# target to preprocess a source file
-OtherAlgorithms/MatrixExponentiation.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/MatrixExponentiation.cpp.i
-.PHONY : OtherAlgorithms/MatrixExponentiation.cpp.i
-
-OtherAlgorithms/MatrixExponentiation.s: OtherAlgorithms/MatrixExponentiation.cpp.s
-
-.PHONY : OtherAlgorithms/MatrixExponentiation.s
-
-# target to generate assembly for a file
-OtherAlgorithms/MatrixExponentiation.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/MatrixExponentiation.cpp.s
-.PHONY : OtherAlgorithms/MatrixExponentiation.cpp.s
-
-OtherAlgorithms/Max2DRangeSum.o: OtherAlgorithms/Max2DRangeSum.cpp.o
-
-.PHONY : OtherAlgorithms/Max2DRangeSum.o
-
-# target to build an object file
-OtherAlgorithms/Max2DRangeSum.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/Max2DRangeSum.cpp.o
-.PHONY : OtherAlgorithms/Max2DRangeSum.cpp.o
-
-OtherAlgorithms/Max2DRangeSum.i: OtherAlgorithms/Max2DRangeSum.cpp.i
-
-.PHONY : OtherAlgorithms/Max2DRangeSum.i
-
-# target to preprocess a source file
-OtherAlgorithms/Max2DRangeSum.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/Max2DRangeSum.cpp.i
-.PHONY : OtherAlgorithms/Max2DRangeSum.cpp.i
-
-OtherAlgorithms/Max2DRangeSum.s: OtherAlgorithms/Max2DRangeSum.cpp.s
-
-.PHONY : OtherAlgorithms/Max2DRangeSum.s
-
-# target to generate assembly for a file
-OtherAlgorithms/Max2DRangeSum.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/Max2DRangeSum.cpp.s
-.PHONY : OtherAlgorithms/Max2DRangeSum.cpp.s
 
 OtherAlgorithms/ModularInverse.o: OtherAlgorithms/ModularInverse.cpp.o
 
@@ -10081,7 +5634,6 @@ OtherAlgorithms/ModularInverse.o: OtherAlgorithms/ModularInverse.cpp.o
 # target to build an object file
 OtherAlgorithms/ModularInverse.cpp.o:
 	$(MAKE) -f CMakeFiles/ModularInverse.dir/build.make CMakeFiles/ModularInverse.dir/OtherAlgorithms/ModularInverse.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/ModularInverse.cpp.o
 .PHONY : OtherAlgorithms/ModularInverse.cpp.o
 
 OtherAlgorithms/ModularInverse.i: OtherAlgorithms/ModularInverse.cpp.i
@@ -10091,7 +5643,6 @@ OtherAlgorithms/ModularInverse.i: OtherAlgorithms/ModularInverse.cpp.i
 # target to preprocess a source file
 OtherAlgorithms/ModularInverse.cpp.i:
 	$(MAKE) -f CMakeFiles/ModularInverse.dir/build.make CMakeFiles/ModularInverse.dir/OtherAlgorithms/ModularInverse.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/ModularInverse.cpp.i
 .PHONY : OtherAlgorithms/ModularInverse.cpp.i
 
 OtherAlgorithms/ModularInverse.s: OtherAlgorithms/ModularInverse.cpp.s
@@ -10101,7 +5652,6 @@ OtherAlgorithms/ModularInverse.s: OtherAlgorithms/ModularInverse.cpp.s
 # target to generate assembly for a file
 OtherAlgorithms/ModularInverse.cpp.s:
 	$(MAKE) -f CMakeFiles/ModularInverse.dir/build.make CMakeFiles/ModularInverse.dir/OtherAlgorithms/ModularInverse.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/ModularInverse.cpp.s
 .PHONY : OtherAlgorithms/ModularInverse.cpp.s
 
 OtherAlgorithms/MosAlgorithm.o: OtherAlgorithms/MosAlgorithm.cpp.o
@@ -10111,7 +5661,6 @@ OtherAlgorithms/MosAlgorithm.o: OtherAlgorithms/MosAlgorithm.cpp.o
 # target to build an object file
 OtherAlgorithms/MosAlgorithm.cpp.o:
 	$(MAKE) -f CMakeFiles/MosAlgorithm.dir/build.make CMakeFiles/MosAlgorithm.dir/OtherAlgorithms/MosAlgorithm.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/MosAlgorithm.cpp.o
 .PHONY : OtherAlgorithms/MosAlgorithm.cpp.o
 
 OtherAlgorithms/MosAlgorithm.i: OtherAlgorithms/MosAlgorithm.cpp.i
@@ -10121,7 +5670,6 @@ OtherAlgorithms/MosAlgorithm.i: OtherAlgorithms/MosAlgorithm.cpp.i
 # target to preprocess a source file
 OtherAlgorithms/MosAlgorithm.cpp.i:
 	$(MAKE) -f CMakeFiles/MosAlgorithm.dir/build.make CMakeFiles/MosAlgorithm.dir/OtherAlgorithms/MosAlgorithm.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/MosAlgorithm.cpp.i
 .PHONY : OtherAlgorithms/MosAlgorithm.cpp.i
 
 OtherAlgorithms/MosAlgorithm.s: OtherAlgorithms/MosAlgorithm.cpp.s
@@ -10131,7 +5679,6 @@ OtherAlgorithms/MosAlgorithm.s: OtherAlgorithms/MosAlgorithm.cpp.s
 # target to generate assembly for a file
 OtherAlgorithms/MosAlgorithm.cpp.s:
 	$(MAKE) -f CMakeFiles/MosAlgorithm.dir/build.make CMakeFiles/MosAlgorithm.dir/OtherAlgorithms/MosAlgorithm.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/MosAlgorithm.cpp.s
 .PHONY : OtherAlgorithms/MosAlgorithm.cpp.s
 
 OtherAlgorithms/SPOJ_DynamicGraphConnectivity2.o: OtherAlgorithms/SPOJ_DynamicGraphConnectivity2.cpp.o
@@ -10141,7 +5688,6 @@ OtherAlgorithms/SPOJ_DynamicGraphConnectivity2.o: OtherAlgorithms/SPOJ_DynamicGr
 # target to build an object file
 OtherAlgorithms/SPOJ_DynamicGraphConnectivity2.cpp.o:
 	$(MAKE) -f CMakeFiles/SPOJ_DynamicGraphConnectivity2.dir/build.make CMakeFiles/SPOJ_DynamicGraphConnectivity2.dir/OtherAlgorithms/SPOJ_DynamicGraphConnectivity2.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/SPOJ_DynamicGraphConnectivity2.cpp.o
 .PHONY : OtherAlgorithms/SPOJ_DynamicGraphConnectivity2.cpp.o
 
 OtherAlgorithms/SPOJ_DynamicGraphConnectivity2.i: OtherAlgorithms/SPOJ_DynamicGraphConnectivity2.cpp.i
@@ -10151,7 +5697,6 @@ OtherAlgorithms/SPOJ_DynamicGraphConnectivity2.i: OtherAlgorithms/SPOJ_DynamicGr
 # target to preprocess a source file
 OtherAlgorithms/SPOJ_DynamicGraphConnectivity2.cpp.i:
 	$(MAKE) -f CMakeFiles/SPOJ_DynamicGraphConnectivity2.dir/build.make CMakeFiles/SPOJ_DynamicGraphConnectivity2.dir/OtherAlgorithms/SPOJ_DynamicGraphConnectivity2.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/SPOJ_DynamicGraphConnectivity2.cpp.i
 .PHONY : OtherAlgorithms/SPOJ_DynamicGraphConnectivity2.cpp.i
 
 OtherAlgorithms/SPOJ_DynamicGraphConnectivity2.s: OtherAlgorithms/SPOJ_DynamicGraphConnectivity2.cpp.s
@@ -10161,575 +5706,7 @@ OtherAlgorithms/SPOJ_DynamicGraphConnectivity2.s: OtherAlgorithms/SPOJ_DynamicGr
 # target to generate assembly for a file
 OtherAlgorithms/SPOJ_DynamicGraphConnectivity2.cpp.s:
 	$(MAKE) -f CMakeFiles/SPOJ_DynamicGraphConnectivity2.dir/build.make CMakeFiles/SPOJ_DynamicGraphConnectivity2.dir/OtherAlgorithms/SPOJ_DynamicGraphConnectivity2.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/SPOJ_DynamicGraphConnectivity2.cpp.s
 .PHONY : OtherAlgorithms/SPOJ_DynamicGraphConnectivity2.cpp.s
-
-OtherAlgorithms/Sieve.o: OtherAlgorithms/Sieve.cpp.o
-
-.PHONY : OtherAlgorithms/Sieve.o
-
-# target to build an object file
-OtherAlgorithms/Sieve.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/Sieve.cpp.o
-.PHONY : OtherAlgorithms/Sieve.cpp.o
-
-OtherAlgorithms/Sieve.i: OtherAlgorithms/Sieve.cpp.i
-
-.PHONY : OtherAlgorithms/Sieve.i
-
-# target to preprocess a source file
-OtherAlgorithms/Sieve.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/Sieve.cpp.i
-.PHONY : OtherAlgorithms/Sieve.cpp.i
-
-OtherAlgorithms/Sieve.s: OtherAlgorithms/Sieve.cpp.s
-
-.PHONY : OtherAlgorithms/Sieve.s
-
-# target to generate assembly for a file
-OtherAlgorithms/Sieve.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/Sieve.cpp.s
-.PHONY : OtherAlgorithms/Sieve.cpp.s
-
-OtherAlgorithms/TernarySearch.o: OtherAlgorithms/TernarySearch.cpp.o
-
-.PHONY : OtherAlgorithms/TernarySearch.o
-
-# target to build an object file
-OtherAlgorithms/TernarySearch.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/TernarySearch.cpp.o
-.PHONY : OtherAlgorithms/TernarySearch.cpp.o
-
-OtherAlgorithms/TernarySearch.i: OtherAlgorithms/TernarySearch.cpp.i
-
-.PHONY : OtherAlgorithms/TernarySearch.i
-
-# target to preprocess a source file
-OtherAlgorithms/TernarySearch.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/TernarySearch.cpp.i
-.PHONY : OtherAlgorithms/TernarySearch.cpp.i
-
-OtherAlgorithms/TernarySearch.s: OtherAlgorithms/TernarySearch.cpp.s
-
-.PHONY : OtherAlgorithms/TernarySearch.s
-
-# target to generate assembly for a file
-OtherAlgorithms/TernarySearch.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/TernarySearch.cpp.s
-.PHONY : OtherAlgorithms/TernarySearch.cpp.s
-
-PROC17_Traffic.o: PROC17_Traffic.cpp.o
-
-.PHONY : PROC17_Traffic.o
-
-# target to build an object file
-PROC17_Traffic.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/PROC17_Traffic.cpp.o
-.PHONY : PROC17_Traffic.cpp.o
-
-PROC17_Traffic.i: PROC17_Traffic.cpp.i
-
-.PHONY : PROC17_Traffic.i
-
-# target to preprocess a source file
-PROC17_Traffic.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/PROC17_Traffic.cpp.i
-.PHONY : PROC17_Traffic.cpp.i
-
-PROC17_Traffic.s: PROC17_Traffic.cpp.s
-
-.PHONY : PROC17_Traffic.s
-
-# target to generate assembly for a file
-PROC17_Traffic.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/PROC17_Traffic.cpp.s
-.PHONY : PROC17_Traffic.cpp.s
-
-Parquet.o: Parquet.cpp.o
-
-.PHONY : Parquet.o
-
-# target to build an object file
-Parquet.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/Parquet.cpp.o
-.PHONY : Parquet.cpp.o
-
-Parquet.i: Parquet.cpp.i
-
-.PHONY : Parquet.i
-
-# target to preprocess a source file
-Parquet.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/Parquet.cpp.i
-.PHONY : Parquet.cpp.i
-
-Parquet.s: Parquet.cpp.s
-
-.PHONY : Parquet.s
-
-# target to generate assembly for a file
-Parquet.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/Parquet.cpp.s
-.PHONY : Parquet.cpp.s
-
-ProgressPie.o: ProgressPie.cpp.o
-
-.PHONY : ProgressPie.o
-
-# target to build an object file
-ProgressPie.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/ProgressPie.cpp.o
-.PHONY : ProgressPie.cpp.o
-
-ProgressPie.i: ProgressPie.cpp.i
-
-.PHONY : ProgressPie.i
-
-# target to preprocess a source file
-ProgressPie.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/ProgressPie.cpp.i
-.PHONY : ProgressPie.cpp.i
-
-ProgressPie.s: ProgressPie.cpp.s
-
-.PHONY : ProgressPie.s
-
-# target to generate assembly for a file
-ProgressPie.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/ProgressPie.cpp.s
-.PHONY : ProgressPie.cpp.s
-
-RustAndMurderer.o: RustAndMurderer.cpp.o
-
-.PHONY : RustAndMurderer.o
-
-# target to build an object file
-RustAndMurderer.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/RustAndMurderer.cpp.o
-.PHONY : RustAndMurderer.cpp.o
-
-RustAndMurderer.i: RustAndMurderer.cpp.i
-
-.PHONY : RustAndMurderer.i
-
-# target to preprocess a source file
-RustAndMurderer.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/RustAndMurderer.cpp.i
-.PHONY : RustAndMurderer.cpp.i
-
-RustAndMurderer.s: RustAndMurderer.cpp.s
-
-.PHONY : RustAndMurderer.s
-
-# target to generate assembly for a file
-RustAndMurderer.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/RustAndMurderer.cpp.s
-.PHONY : RustAndMurderer.cpp.s
-
-SIS.o: SIS.cpp.o
-
-.PHONY : SIS.o
-
-# target to build an object file
-SIS.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/SIS.cpp.o
-.PHONY : SIS.cpp.o
-
-SIS.i: SIS.cpp.i
-
-.PHONY : SIS.i
-
-# target to preprocess a source file
-SIS.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/SIS.cpp.i
-.PHONY : SIS.cpp.i
-
-SIS.s: SIS.cpp.s
-
-.PHONY : SIS.s
-
-# target to generate assembly for a file
-SIS.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/SIS.cpp.s
-.PHONY : SIS.cpp.s
-
-SPOJ_DNASequences.o: SPOJ_DNASequences.cpp.o
-
-.PHONY : SPOJ_DNASequences.o
-
-# target to build an object file
-SPOJ_DNASequences.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/SPOJ_DNASequences.cpp.o
-.PHONY : SPOJ_DNASequences.cpp.o
-
-SPOJ_DNASequences.i: SPOJ_DNASequences.cpp.i
-
-.PHONY : SPOJ_DNASequences.i
-
-# target to preprocess a source file
-SPOJ_DNASequences.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/SPOJ_DNASequences.cpp.i
-.PHONY : SPOJ_DNASequences.cpp.i
-
-SPOJ_DNASequences.s: SPOJ_DNASequences.cpp.s
-
-.PHONY : SPOJ_DNASequences.s
-
-# target to generate assembly for a file
-SPOJ_DNASequences.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/SPOJ_DNASequences.cpp.s
-.PHONY : SPOJ_DNASequences.cpp.s
-
-SPOJ_DNASequencesCopy.o: SPOJ_DNASequencesCopy.cpp.o
-
-.PHONY : SPOJ_DNASequencesCopy.o
-
-# target to build an object file
-SPOJ_DNASequencesCopy.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/SPOJ_DNASequencesCopy.cpp.o
-.PHONY : SPOJ_DNASequencesCopy.cpp.o
-
-SPOJ_DNASequencesCopy.i: SPOJ_DNASequencesCopy.cpp.i
-
-.PHONY : SPOJ_DNASequencesCopy.i
-
-# target to preprocess a source file
-SPOJ_DNASequencesCopy.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/SPOJ_DNASequencesCopy.cpp.i
-.PHONY : SPOJ_DNASequencesCopy.cpp.i
-
-SPOJ_DNASequencesCopy.s: SPOJ_DNASequencesCopy.cpp.s
-
-.PHONY : SPOJ_DNASequencesCopy.s
-
-# target to generate assembly for a file
-SPOJ_DNASequencesCopy.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/SPOJ_DNASequencesCopy.cpp.s
-.PHONY : SPOJ_DNASequencesCopy.cpp.s
-
-SPOJ_SubArrays.o: SPOJ_SubArrays.cpp.o
-
-.PHONY : SPOJ_SubArrays.o
-
-# target to build an object file
-SPOJ_SubArrays.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/SPOJ_SubArrays.cpp.o
-.PHONY : SPOJ_SubArrays.cpp.o
-
-SPOJ_SubArrays.i: SPOJ_SubArrays.cpp.i
-
-.PHONY : SPOJ_SubArrays.i
-
-# target to preprocess a source file
-SPOJ_SubArrays.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/SPOJ_SubArrays.cpp.i
-.PHONY : SPOJ_SubArrays.cpp.i
-
-SPOJ_SubArrays.s: SPOJ_SubArrays.cpp.s
-
-.PHONY : SPOJ_SubArrays.s
-
-# target to generate assembly for a file
-SPOJ_SubArrays.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/SPOJ_SubArrays.cpp.s
-.PHONY : SPOJ_SubArrays.cpp.s
-
-SynchronousShopping.o: SynchronousShopping.cpp.o
-
-.PHONY : SynchronousShopping.o
-
-# target to build an object file
-SynchronousShopping.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/SynchronousShopping.cpp.o
-.PHONY : SynchronousShopping.cpp.o
-
-SynchronousShopping.i: SynchronousShopping.cpp.i
-
-.PHONY : SynchronousShopping.i
-
-# target to preprocess a source file
-SynchronousShopping.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/SynchronousShopping.cpp.i
-.PHONY : SynchronousShopping.cpp.i
-
-SynchronousShopping.s: SynchronousShopping.cpp.s
-
-.PHONY : SynchronousShopping.s
-
-# target to generate assembly for a file
-SynchronousShopping.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/SynchronousShopping.cpp.s
-.PHONY : SynchronousShopping.cpp.s
-
-SyntaxProgrammingProblems/CheapTravel.o: SyntaxProgrammingProblems/CheapTravel.cpp.o
-
-.PHONY : SyntaxProgrammingProblems/CheapTravel.o
-
-# target to build an object file
-SyntaxProgrammingProblems/CheapTravel.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/CheapTravel.cpp.o
-.PHONY : SyntaxProgrammingProblems/CheapTravel.cpp.o
-
-SyntaxProgrammingProblems/CheapTravel.i: SyntaxProgrammingProblems/CheapTravel.cpp.i
-
-.PHONY : SyntaxProgrammingProblems/CheapTravel.i
-
-# target to preprocess a source file
-SyntaxProgrammingProblems/CheapTravel.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/CheapTravel.cpp.i
-.PHONY : SyntaxProgrammingProblems/CheapTravel.cpp.i
-
-SyntaxProgrammingProblems/CheapTravel.s: SyntaxProgrammingProblems/CheapTravel.cpp.s
-
-.PHONY : SyntaxProgrammingProblems/CheapTravel.s
-
-# target to generate assembly for a file
-SyntaxProgrammingProblems/CheapTravel.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/CheapTravel.cpp.s
-.PHONY : SyntaxProgrammingProblems/CheapTravel.cpp.s
-
-SyntaxProgrammingProblems/FancyFence.o: SyntaxProgrammingProblems/FancyFence.cpp.o
-
-.PHONY : SyntaxProgrammingProblems/FancyFence.o
-
-# target to build an object file
-SyntaxProgrammingProblems/FancyFence.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/FancyFence.cpp.o
-.PHONY : SyntaxProgrammingProblems/FancyFence.cpp.o
-
-SyntaxProgrammingProblems/FancyFence.i: SyntaxProgrammingProblems/FancyFence.cpp.i
-
-.PHONY : SyntaxProgrammingProblems/FancyFence.i
-
-# target to preprocess a source file
-SyntaxProgrammingProblems/FancyFence.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/FancyFence.cpp.i
-.PHONY : SyntaxProgrammingProblems/FancyFence.cpp.i
-
-SyntaxProgrammingProblems/FancyFence.s: SyntaxProgrammingProblems/FancyFence.cpp.s
-
-.PHONY : SyntaxProgrammingProblems/FancyFence.s
-
-# target to generate assembly for a file
-SyntaxProgrammingProblems/FancyFence.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/FancyFence.cpp.s
-.PHONY : SyntaxProgrammingProblems/FancyFence.cpp.s
-
-SyntaxProgrammingProblems/GoodSequences.o: SyntaxProgrammingProblems/GoodSequences.cpp.o
-
-.PHONY : SyntaxProgrammingProblems/GoodSequences.o
-
-# target to build an object file
-SyntaxProgrammingProblems/GoodSequences.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/GoodSequences.cpp.o
-.PHONY : SyntaxProgrammingProblems/GoodSequences.cpp.o
-
-SyntaxProgrammingProblems/GoodSequences.i: SyntaxProgrammingProblems/GoodSequences.cpp.i
-
-.PHONY : SyntaxProgrammingProblems/GoodSequences.i
-
-# target to preprocess a source file
-SyntaxProgrammingProblems/GoodSequences.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/GoodSequences.cpp.i
-.PHONY : SyntaxProgrammingProblems/GoodSequences.cpp.i
-
-SyntaxProgrammingProblems/GoodSequences.s: SyntaxProgrammingProblems/GoodSequences.cpp.s
-
-.PHONY : SyntaxProgrammingProblems/GoodSequences.s
-
-# target to generate assembly for a file
-SyntaxProgrammingProblems/GoodSequences.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/GoodSequences.cpp.s
-.PHONY : SyntaxProgrammingProblems/GoodSequences.cpp.s
-
-SyntaxProgrammingProblems/GraphReversal.o: SyntaxProgrammingProblems/GraphReversal.cpp.o
-
-.PHONY : SyntaxProgrammingProblems/GraphReversal.o
-
-# target to build an object file
-SyntaxProgrammingProblems/GraphReversal.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/GraphReversal.cpp.o
-.PHONY : SyntaxProgrammingProblems/GraphReversal.cpp.o
-
-SyntaxProgrammingProblems/GraphReversal.i: SyntaxProgrammingProblems/GraphReversal.cpp.i
-
-.PHONY : SyntaxProgrammingProblems/GraphReversal.i
-
-# target to preprocess a source file
-SyntaxProgrammingProblems/GraphReversal.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/GraphReversal.cpp.i
-.PHONY : SyntaxProgrammingProblems/GraphReversal.cpp.i
-
-SyntaxProgrammingProblems/GraphReversal.s: SyntaxProgrammingProblems/GraphReversal.cpp.s
-
-.PHONY : SyntaxProgrammingProblems/GraphReversal.s
-
-# target to generate assembly for a file
-SyntaxProgrammingProblems/GraphReversal.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/GraphReversal.cpp.s
-.PHONY : SyntaxProgrammingProblems/GraphReversal.cpp.s
-
-SyntaxProgrammingProblems/HelpTheSplitCorgis.o: SyntaxProgrammingProblems/HelpTheSplitCorgis.cpp.o
-
-.PHONY : SyntaxProgrammingProblems/HelpTheSplitCorgis.o
-
-# target to build an object file
-SyntaxProgrammingProblems/HelpTheSplitCorgis.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/HelpTheSplitCorgis.cpp.o
-.PHONY : SyntaxProgrammingProblems/HelpTheSplitCorgis.cpp.o
-
-SyntaxProgrammingProblems/HelpTheSplitCorgis.i: SyntaxProgrammingProblems/HelpTheSplitCorgis.cpp.i
-
-.PHONY : SyntaxProgrammingProblems/HelpTheSplitCorgis.i
-
-# target to preprocess a source file
-SyntaxProgrammingProblems/HelpTheSplitCorgis.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/HelpTheSplitCorgis.cpp.i
-.PHONY : SyntaxProgrammingProblems/HelpTheSplitCorgis.cpp.i
-
-SyntaxProgrammingProblems/HelpTheSplitCorgis.s: SyntaxProgrammingProblems/HelpTheSplitCorgis.cpp.s
-
-.PHONY : SyntaxProgrammingProblems/HelpTheSplitCorgis.s
-
-# target to generate assembly for a file
-SyntaxProgrammingProblems/HelpTheSplitCorgis.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/HelpTheSplitCorgis.cpp.s
-.PHONY : SyntaxProgrammingProblems/HelpTheSplitCorgis.cpp.s
-
-SyntaxProgrammingProblems/HowManyRoutes.o: SyntaxProgrammingProblems/HowManyRoutes.cpp.o
-
-.PHONY : SyntaxProgrammingProblems/HowManyRoutes.o
-
-# target to build an object file
-SyntaxProgrammingProblems/HowManyRoutes.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/HowManyRoutes.cpp.o
-.PHONY : SyntaxProgrammingProblems/HowManyRoutes.cpp.o
-
-SyntaxProgrammingProblems/HowManyRoutes.i: SyntaxProgrammingProblems/HowManyRoutes.cpp.i
-
-.PHONY : SyntaxProgrammingProblems/HowManyRoutes.i
-
-# target to preprocess a source file
-SyntaxProgrammingProblems/HowManyRoutes.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/HowManyRoutes.cpp.i
-.PHONY : SyntaxProgrammingProblems/HowManyRoutes.cpp.i
-
-SyntaxProgrammingProblems/HowManyRoutes.s: SyntaxProgrammingProblems/HowManyRoutes.cpp.s
-
-.PHONY : SyntaxProgrammingProblems/HowManyRoutes.s
-
-# target to generate assembly for a file
-SyntaxProgrammingProblems/HowManyRoutes.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/HowManyRoutes.cpp.s
-.PHONY : SyntaxProgrammingProblems/HowManyRoutes.cpp.s
-
-SyntaxProgrammingProblems/MinimumPossibleTraverse.o: SyntaxProgrammingProblems/MinimumPossibleTraverse.cpp.o
-
-.PHONY : SyntaxProgrammingProblems/MinimumPossibleTraverse.o
-
-# target to build an object file
-SyntaxProgrammingProblems/MinimumPossibleTraverse.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/MinimumPossibleTraverse.cpp.o
-.PHONY : SyntaxProgrammingProblems/MinimumPossibleTraverse.cpp.o
-
-SyntaxProgrammingProblems/MinimumPossibleTraverse.i: SyntaxProgrammingProblems/MinimumPossibleTraverse.cpp.i
-
-.PHONY : SyntaxProgrammingProblems/MinimumPossibleTraverse.i
-
-# target to preprocess a source file
-SyntaxProgrammingProblems/MinimumPossibleTraverse.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/MinimumPossibleTraverse.cpp.i
-.PHONY : SyntaxProgrammingProblems/MinimumPossibleTraverse.cpp.i
-
-SyntaxProgrammingProblems/MinimumPossibleTraverse.s: SyntaxProgrammingProblems/MinimumPossibleTraverse.cpp.s
-
-.PHONY : SyntaxProgrammingProblems/MinimumPossibleTraverse.s
-
-# target to generate assembly for a file
-SyntaxProgrammingProblems/MinimumPossibleTraverse.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/MinimumPossibleTraverse.cpp.s
-.PHONY : SyntaxProgrammingProblems/MinimumPossibleTraverse.cpp.s
-
-SyntaxProgrammingProblems/ModifiedLCS.o: SyntaxProgrammingProblems/ModifiedLCS.cpp.o
-
-.PHONY : SyntaxProgrammingProblems/ModifiedLCS.o
-
-# target to build an object file
-SyntaxProgrammingProblems/ModifiedLCS.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/ModifiedLCS.cpp.o
-.PHONY : SyntaxProgrammingProblems/ModifiedLCS.cpp.o
-
-SyntaxProgrammingProblems/ModifiedLCS.i: SyntaxProgrammingProblems/ModifiedLCS.cpp.i
-
-.PHONY : SyntaxProgrammingProblems/ModifiedLCS.i
-
-# target to preprocess a source file
-SyntaxProgrammingProblems/ModifiedLCS.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/ModifiedLCS.cpp.i
-.PHONY : SyntaxProgrammingProblems/ModifiedLCS.cpp.i
-
-SyntaxProgrammingProblems/ModifiedLCS.s: SyntaxProgrammingProblems/ModifiedLCS.cpp.s
-
-.PHONY : SyntaxProgrammingProblems/ModifiedLCS.s
-
-# target to generate assembly for a file
-SyntaxProgrammingProblems/ModifiedLCS.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/ModifiedLCS.cpp.s
-.PHONY : SyntaxProgrammingProblems/ModifiedLCS.cpp.s
-
-SyntaxProgrammingProblems/SolveTheGivenEquation.o: SyntaxProgrammingProblems/SolveTheGivenEquation.cpp.o
-
-.PHONY : SyntaxProgrammingProblems/SolveTheGivenEquation.o
-
-# target to build an object file
-SyntaxProgrammingProblems/SolveTheGivenEquation.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/SolveTheGivenEquation.cpp.o
-.PHONY : SyntaxProgrammingProblems/SolveTheGivenEquation.cpp.o
-
-SyntaxProgrammingProblems/SolveTheGivenEquation.i: SyntaxProgrammingProblems/SolveTheGivenEquation.cpp.i
-
-.PHONY : SyntaxProgrammingProblems/SolveTheGivenEquation.i
-
-# target to preprocess a source file
-SyntaxProgrammingProblems/SolveTheGivenEquation.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/SolveTheGivenEquation.cpp.i
-.PHONY : SyntaxProgrammingProblems/SolveTheGivenEquation.cpp.i
-
-SyntaxProgrammingProblems/SolveTheGivenEquation.s: SyntaxProgrammingProblems/SolveTheGivenEquation.cpp.s
-
-.PHONY : SyntaxProgrammingProblems/SolveTheGivenEquation.s
-
-# target to generate assembly for a file
-SyntaxProgrammingProblems/SolveTheGivenEquation.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/SyntaxProgrammingProblems/SolveTheGivenEquation.cpp.s
-.PHONY : SyntaxProgrammingProblems/SolveTheGivenEquation.cpp.s
-
-TwoStrings.o: TwoStrings.cpp.o
-
-.PHONY : TwoStrings.o
-
-# target to build an object file
-TwoStrings.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/TwoStrings.cpp.o
-.PHONY : TwoStrings.cpp.o
-
-TwoStrings.i: TwoStrings.cpp.i
-
-.PHONY : TwoStrings.i
-
-# target to preprocess a source file
-TwoStrings.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/TwoStrings.cpp.i
-.PHONY : TwoStrings.cpp.i
-
-TwoStrings.s: TwoStrings.cpp.s
-
-.PHONY : TwoStrings.s
-
-# target to generate assembly for a file
-TwoStrings.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/TwoStrings.cpp.s
-.PHONY : TwoStrings.cpp.s
 
 USACO_CowIDs.o: USACO_CowIDs.cpp.o
 
@@ -10738,7 +5715,6 @@ USACO_CowIDs.o: USACO_CowIDs.cpp.o
 # target to build an object file
 USACO_CowIDs.cpp.o:
 	$(MAKE) -f CMakeFiles/USACO_CowIDs.dir/build.make CMakeFiles/USACO_CowIDs.dir/USACO_CowIDs.cpp.o
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/USACO_CowIDs.cpp.o
 .PHONY : USACO_CowIDs.cpp.o
 
 USACO_CowIDs.i: USACO_CowIDs.cpp.i
@@ -10748,7 +5724,6 @@ USACO_CowIDs.i: USACO_CowIDs.cpp.i
 # target to preprocess a source file
 USACO_CowIDs.cpp.i:
 	$(MAKE) -f CMakeFiles/USACO_CowIDs.dir/build.make CMakeFiles/USACO_CowIDs.dir/USACO_CowIDs.cpp.i
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/USACO_CowIDs.cpp.i
 .PHONY : USACO_CowIDs.cpp.i
 
 USACO_CowIDs.s: USACO_CowIDs.cpp.s
@@ -10758,1277 +5733,7 @@ USACO_CowIDs.s: USACO_CowIDs.cpp.s
 # target to generate assembly for a file
 USACO_CowIDs.cpp.s:
 	$(MAKE) -f CMakeFiles/USACO_CowIDs.dir/build.make CMakeFiles/USACO_CowIDs.dir/USACO_CowIDs.cpp.s
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/USACO_CowIDs.cpp.s
 .PHONY : USACO_CowIDs.cpp.s
-
-USBvsPS2.o: USBvsPS2.cpp.o
-
-.PHONY : USBvsPS2.o
-
-# target to build an object file
-USBvsPS2.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/USBvsPS2.cpp.o
-.PHONY : USBvsPS2.cpp.o
-
-USBvsPS2.i: USBvsPS2.cpp.i
-
-.PHONY : USBvsPS2.i
-
-# target to preprocess a source file
-USBvsPS2.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/USBvsPS2.cpp.i
-.PHONY : USBvsPS2.cpp.i
-
-USBvsPS2.s: USBvsPS2.cpp.s
-
-.PHONY : USBvsPS2.s
-
-# target to generate assembly for a file
-USBvsPS2.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/USBvsPS2.cpp.s
-.PHONY : USBvsPS2.cpp.s
-
-UVa10684_Jackpot.o: UVa10684_Jackpot.cpp.o
-
-.PHONY : UVa10684_Jackpot.o
-
-# target to build an object file
-UVa10684_Jackpot.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa10684_Jackpot.cpp.o
-.PHONY : UVa10684_Jackpot.cpp.o
-
-UVa10684_Jackpot.i: UVa10684_Jackpot.cpp.i
-
-.PHONY : UVa10684_Jackpot.i
-
-# target to preprocess a source file
-UVa10684_Jackpot.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa10684_Jackpot.cpp.i
-.PHONY : UVa10684_Jackpot.cpp.i
-
-UVa10684_Jackpot.s: UVa10684_Jackpot.cpp.s
-
-.PHONY : UVa10684_Jackpot.s
-
-# target to generate assembly for a file
-UVa10684_Jackpot.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa10684_Jackpot.cpp.s
-.PHONY : UVa10684_Jackpot.cpp.s
-
-UVa10755_GarbageHeap.o: UVa10755_GarbageHeap.cpp.o
-
-.PHONY : UVa10755_GarbageHeap.o
-
-# target to build an object file
-UVa10755_GarbageHeap.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa10755_GarbageHeap.cpp.o
-.PHONY : UVa10755_GarbageHeap.cpp.o
-
-UVa10755_GarbageHeap.i: UVa10755_GarbageHeap.cpp.i
-
-.PHONY : UVa10755_GarbageHeap.i
-
-# target to preprocess a source file
-UVa10755_GarbageHeap.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa10755_GarbageHeap.cpp.i
-.PHONY : UVa10755_GarbageHeap.cpp.i
-
-UVa10755_GarbageHeap.s: UVa10755_GarbageHeap.cpp.s
-
-.PHONY : UVa10755_GarbageHeap.s
-
-# target to generate assembly for a file
-UVa10755_GarbageHeap.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa10755_GarbageHeap.cpp.s
-.PHONY : UVa10755_GarbageHeap.cpp.s
-
-UVa11456_Trainsorting.o: UVa11456_Trainsorting.cpp.o
-
-.PHONY : UVa11456_Trainsorting.o
-
-# target to build an object file
-UVa11456_Trainsorting.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa11456_Trainsorting.cpp.o
-.PHONY : UVa11456_Trainsorting.cpp.o
-
-UVa11456_Trainsorting.i: UVa11456_Trainsorting.cpp.i
-
-.PHONY : UVa11456_Trainsorting.i
-
-# target to preprocess a source file
-UVa11456_Trainsorting.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa11456_Trainsorting.cpp.i
-.PHONY : UVa11456_Trainsorting.cpp.i
-
-UVa11456_Trainsorting.s: UVa11456_Trainsorting.cpp.s
-
-.PHONY : UVa11456_Trainsorting.s
-
-# target to generate assembly for a file
-UVa11456_Trainsorting.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa11456_Trainsorting.cpp.s
-.PHONY : UVa11456_Trainsorting.cpp.s
-
-UVa1177_AGeneralRecurrenceRelation.o: UVa1177_AGeneralRecurrenceRelation.cpp.o
-
-.PHONY : UVa1177_AGeneralRecurrenceRelation.o
-
-# target to build an object file
-UVa1177_AGeneralRecurrenceRelation.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa1177_AGeneralRecurrenceRelation.cpp.o
-.PHONY : UVa1177_AGeneralRecurrenceRelation.cpp.o
-
-UVa1177_AGeneralRecurrenceRelation.i: UVa1177_AGeneralRecurrenceRelation.cpp.i
-
-.PHONY : UVa1177_AGeneralRecurrenceRelation.i
-
-# target to preprocess a source file
-UVa1177_AGeneralRecurrenceRelation.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa1177_AGeneralRecurrenceRelation.cpp.i
-.PHONY : UVa1177_AGeneralRecurrenceRelation.cpp.i
-
-UVa1177_AGeneralRecurrenceRelation.s: UVa1177_AGeneralRecurrenceRelation.cpp.s
-
-.PHONY : UVa1177_AGeneralRecurrenceRelation.s
-
-# target to generate assembly for a file
-UVa1177_AGeneralRecurrenceRelation.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa1177_AGeneralRecurrenceRelation.cpp.s
-.PHONY : UVa1177_AGeneralRecurrenceRelation.cpp.s
-
-UVa12405_Scarecrow.o: UVa12405_Scarecrow.cpp.o
-
-.PHONY : UVa12405_Scarecrow.o
-
-# target to build an object file
-UVa12405_Scarecrow.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa12405_Scarecrow.cpp.o
-.PHONY : UVa12405_Scarecrow.cpp.o
-
-UVa12405_Scarecrow.i: UVa12405_Scarecrow.cpp.i
-
-.PHONY : UVa12405_Scarecrow.i
-
-# target to preprocess a source file
-UVa12405_Scarecrow.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa12405_Scarecrow.cpp.i
-.PHONY : UVa12405_Scarecrow.cpp.i
-
-UVa12405_Scarecrow.s: UVa12405_Scarecrow.cpp.s
-
-.PHONY : UVa12405_Scarecrow.s
-
-# target to generate assembly for a file
-UVa12405_Scarecrow.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa12405_Scarecrow.cpp.s
-.PHONY : UVa12405_Scarecrow.cpp.s
-
-UVa787_MaxSubSequenceProduct.o: UVa787_MaxSubSequenceProduct.cpp.o
-
-.PHONY : UVa787_MaxSubSequenceProduct.o
-
-# target to build an object file
-UVa787_MaxSubSequenceProduct.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa787_MaxSubSequenceProduct.cpp.o
-.PHONY : UVa787_MaxSubSequenceProduct.cpp.o
-
-UVa787_MaxSubSequenceProduct.i: UVa787_MaxSubSequenceProduct.cpp.i
-
-.PHONY : UVa787_MaxSubSequenceProduct.i
-
-# target to preprocess a source file
-UVa787_MaxSubSequenceProduct.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa787_MaxSubSequenceProduct.cpp.i
-.PHONY : UVa787_MaxSubSequenceProduct.cpp.i
-
-UVa787_MaxSubSequenceProduct.s: UVa787_MaxSubSequenceProduct.cpp.s
-
-.PHONY : UVa787_MaxSubSequenceProduct.s
-
-# target to generate assembly for a file
-UVa787_MaxSubSequenceProduct.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa787_MaxSubSequenceProduct.cpp.s
-.PHONY : UVa787_MaxSubSequenceProduct.cpp.s
-
-UVa927.o: UVa927.cpp.o
-
-.PHONY : UVa927.o
-
-# target to build an object file
-UVa927.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa927.cpp.o
-.PHONY : UVa927.cpp.o
-
-UVa927.i: UVa927.cpp.i
-
-.PHONY : UVa927.i
-
-# target to preprocess a source file
-UVa927.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa927.cpp.i
-.PHONY : UVa927.cpp.i
-
-UVa927.s: UVa927.cpp.s
-
-.PHONY : UVa927.s
-
-# target to generate assembly for a file
-UVa927.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa927.cpp.s
-.PHONY : UVa927.cpp.s
-
-UVa_8Queens.o: UVa_8Queens.cpp.o
-
-.PHONY : UVa_8Queens.o
-
-# target to build an object file
-UVa_8Queens.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_8Queens.cpp.o
-.PHONY : UVa_8Queens.cpp.o
-
-UVa_8Queens.i: UVa_8Queens.cpp.i
-
-.PHONY : UVa_8Queens.i
-
-# target to preprocess a source file
-UVa_8Queens.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_8Queens.cpp.i
-.PHONY : UVa_8Queens.cpp.i
-
-UVa_8Queens.s: UVa_8Queens.cpp.s
-
-.PHONY : UVa_8Queens.s
-
-# target to generate assembly for a file
-UVa_8Queens.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_8Queens.cpp.s
-.PHONY : UVa_8Queens.cpp.s
-
-UVa_AnotherNQueenProblem.o: UVa_AnotherNQueenProblem.cpp.o
-
-.PHONY : UVa_AnotherNQueenProblem.o
-
-# target to build an object file
-UVa_AnotherNQueenProblem.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_AnotherNQueenProblem.cpp.o
-.PHONY : UVa_AnotherNQueenProblem.cpp.o
-
-UVa_AnotherNQueenProblem.i: UVa_AnotherNQueenProblem.cpp.i
-
-.PHONY : UVa_AnotherNQueenProblem.i
-
-# target to preprocess a source file
-UVa_AnotherNQueenProblem.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_AnotherNQueenProblem.cpp.i
-.PHONY : UVa_AnotherNQueenProblem.cpp.i
-
-UVa_AnotherNQueenProblem.s: UVa_AnotherNQueenProblem.cpp.s
-
-.PHONY : UVa_AnotherNQueenProblem.s
-
-# target to generate assembly for a file
-UVa_AnotherNQueenProblem.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_AnotherNQueenProblem.cpp.s
-.PHONY : UVa_AnotherNQueenProblem.cpp.s
-
-UVa_BackToThe8Queens.o: UVa_BackToThe8Queens.cpp.o
-
-.PHONY : UVa_BackToThe8Queens.o
-
-# target to build an object file
-UVa_BackToThe8Queens.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_BackToThe8Queens.cpp.o
-.PHONY : UVa_BackToThe8Queens.cpp.o
-
-UVa_BackToThe8Queens.i: UVa_BackToThe8Queens.cpp.i
-
-.PHONY : UVa_BackToThe8Queens.i
-
-# target to preprocess a source file
-UVa_BackToThe8Queens.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_BackToThe8Queens.cpp.i
-.PHONY : UVa_BackToThe8Queens.cpp.i
-
-UVa_BackToThe8Queens.s: UVa_BackToThe8Queens.cpp.s
-
-.PHONY : UVa_BackToThe8Queens.s
-
-# target to generate assembly for a file
-UVa_BackToThe8Queens.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_BackToThe8Queens.cpp.s
-.PHONY : UVa_BackToThe8Queens.cpp.s
-
-UVa_Bars.o: UVa_Bars.cpp.o
-
-.PHONY : UVa_Bars.o
-
-# target to build an object file
-UVa_Bars.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_Bars.cpp.o
-.PHONY : UVa_Bars.cpp.o
-
-UVa_Bars.i: UVa_Bars.cpp.i
-
-.PHONY : UVa_Bars.i
-
-# target to preprocess a source file
-UVa_Bars.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_Bars.cpp.i
-.PHONY : UVa_Bars.cpp.i
-
-UVa_Bars.s: UVa_Bars.cpp.s
-
-.PHONY : UVa_Bars.s
-
-# target to generate assembly for a file
-UVa_Bars.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_Bars.cpp.s
-.PHONY : UVa_Bars.cpp.s
-
-UVa_BusDriverProblem.o: UVa_BusDriverProblem.cpp.o
-
-.PHONY : UVa_BusDriverProblem.o
-
-# target to build an object file
-UVa_BusDriverProblem.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_BusDriverProblem.cpp.o
-.PHONY : UVa_BusDriverProblem.cpp.o
-
-UVa_BusDriverProblem.i: UVa_BusDriverProblem.cpp.i
-
-.PHONY : UVa_BusDriverProblem.i
-
-# target to preprocess a source file
-UVa_BusDriverProblem.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_BusDriverProblem.cpp.i
-.PHONY : UVa_BusDriverProblem.cpp.i
-
-UVa_BusDriverProblem.s: UVa_BusDriverProblem.cpp.s
-
-.PHONY : UVa_BusDriverProblem.s
-
-# target to generate assembly for a file
-UVa_BusDriverProblem.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_BusDriverProblem.cpp.s
-.PHONY : UVa_BusDriverProblem.cpp.s
-
-UVa_CD.o: UVa_CD.cpp.o
-
-.PHONY : UVa_CD.o
-
-# target to build an object file
-UVa_CD.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_CD.cpp.o
-.PHONY : UVa_CD.cpp.o
-
-UVa_CD.i: UVa_CD.cpp.i
-
-.PHONY : UVa_CD.i
-
-# target to preprocess a source file
-UVa_CD.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_CD.cpp.i
-.PHONY : UVa_CD.cpp.i
-
-UVa_CD.s: UVa_CD.cpp.s
-
-.PHONY : UVa_CD.s
-
-# target to generate assembly for a file
-UVa_CD.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_CD.cpp.s
-.PHONY : UVa_CD.cpp.s
-
-UVa_CitizenAttentionOffices.o: UVa_CitizenAttentionOffices.cpp.o
-
-.PHONY : UVa_CitizenAttentionOffices.o
-
-# target to build an object file
-UVa_CitizenAttentionOffices.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_CitizenAttentionOffices.cpp.o
-.PHONY : UVa_CitizenAttentionOffices.cpp.o
-
-UVa_CitizenAttentionOffices.i: UVa_CitizenAttentionOffices.cpp.i
-
-.PHONY : UVa_CitizenAttentionOffices.i
-
-# target to preprocess a source file
-UVa_CitizenAttentionOffices.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_CitizenAttentionOffices.cpp.i
-.PHONY : UVa_CitizenAttentionOffices.cpp.i
-
-UVa_CitizenAttentionOffices.s: UVa_CitizenAttentionOffices.cpp.s
-
-.PHONY : UVa_CitizenAttentionOffices.s
-
-# target to generate assembly for a file
-UVa_CitizenAttentionOffices.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_CitizenAttentionOffices.cpp.s
-.PHONY : UVa_CitizenAttentionOffices.cpp.s
-
-UVa_ClosestSums.o: UVa_ClosestSums.cpp.o
-
-.PHONY : UVa_ClosestSums.o
-
-# target to build an object file
-UVa_ClosestSums.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_ClosestSums.cpp.o
-.PHONY : UVa_ClosestSums.cpp.o
-
-UVa_ClosestSums.i: UVa_ClosestSums.cpp.i
-
-.PHONY : UVa_ClosestSums.i
-
-# target to preprocess a source file
-UVa_ClosestSums.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_ClosestSums.cpp.i
-.PHONY : UVa_ClosestSums.cpp.i
-
-UVa_ClosestSums.s: UVa_ClosestSums.cpp.s
-
-.PHONY : UVa_ClosestSums.s
-
-# target to generate assembly for a file
-UVa_ClosestSums.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_ClosestSums.cpp.s
-.PHONY : UVa_ClosestSums.cpp.s
-
-UVa_CoinCollector.o: UVa_CoinCollector.cpp.o
-
-.PHONY : UVa_CoinCollector.o
-
-# target to build an object file
-UVa_CoinCollector.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_CoinCollector.cpp.o
-.PHONY : UVa_CoinCollector.cpp.o
-
-UVa_CoinCollector.i: UVa_CoinCollector.cpp.i
-
-.PHONY : UVa_CoinCollector.i
-
-# target to preprocess a source file
-UVa_CoinCollector.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_CoinCollector.cpp.i
-.PHONY : UVa_CoinCollector.cpp.i
-
-UVa_CoinCollector.s: UVa_CoinCollector.cpp.s
-
-.PHONY : UVa_CoinCollector.s
-
-# target to generate assembly for a file
-UVa_CoinCollector.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_CoinCollector.cpp.s
-.PHONY : UVa_CoinCollector.cpp.s
-
-UVa_DartAMania.o: UVa_DartAMania.cpp.o
-
-.PHONY : UVa_DartAMania.o
-
-# target to build an object file
-UVa_DartAMania.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_DartAMania.cpp.o
-.PHONY : UVa_DartAMania.cpp.o
-
-UVa_DartAMania.i: UVa_DartAMania.cpp.i
-
-.PHONY : UVa_DartAMania.i
-
-# target to preprocess a source file
-UVa_DartAMania.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_DartAMania.cpp.i
-.PHONY : UVa_DartAMania.cpp.i
-
-UVa_DartAMania.s: UVa_DartAMania.cpp.s
-
-.PHONY : UVa_DartAMania.s
-
-# target to generate assembly for a file
-UVa_DartAMania.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_DartAMania.cpp.s
-.PHONY : UVa_DartAMania.cpp.s
-
-UVa_ExactSum.o: UVa_ExactSum.cpp.o
-
-.PHONY : UVa_ExactSum.o
-
-# target to build an object file
-UVa_ExactSum.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_ExactSum.cpp.o
-.PHONY : UVa_ExactSum.cpp.o
-
-UVa_ExactSum.i: UVa_ExactSum.cpp.i
-
-.PHONY : UVa_ExactSum.i
-
-# target to preprocess a source file
-UVa_ExactSum.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_ExactSum.cpp.i
-.PHONY : UVa_ExactSum.cpp.i
-
-UVa_ExactSum.s: UVa_ExactSum.cpp.s
-
-.PHONY : UVa_ExactSum.s
-
-# target to generate assembly for a file
-UVa_ExactSum.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_ExactSum.cpp.s
-.PHONY : UVa_ExactSum.cpp.s
-
-UVa_ExpertEnough.o: UVa_ExpertEnough.cpp.o
-
-.PHONY : UVa_ExpertEnough.o
-
-# target to build an object file
-UVa_ExpertEnough.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_ExpertEnough.cpp.o
-.PHONY : UVa_ExpertEnough.cpp.o
-
-UVa_ExpertEnough.i: UVa_ExpertEnough.cpp.i
-
-.PHONY : UVa_ExpertEnough.i
-
-# target to preprocess a source file
-UVa_ExpertEnough.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_ExpertEnough.cpp.i
-.PHONY : UVa_ExpertEnough.cpp.i
-
-UVa_ExpertEnough.s: UVa_ExpertEnough.cpp.s
-
-.PHONY : UVa_ExpertEnough.s
-
-# target to generate assembly for a file
-UVa_ExpertEnough.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_ExpertEnough.cpp.s
-.PHONY : UVa_ExpertEnough.cpp.s
-
-UVa_FillTheContainers.o: UVa_FillTheContainers.cpp.o
-
-.PHONY : UVa_FillTheContainers.o
-
-# target to build an object file
-UVa_FillTheContainers.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_FillTheContainers.cpp.o
-.PHONY : UVa_FillTheContainers.cpp.o
-
-UVa_FillTheContainers.i: UVa_FillTheContainers.cpp.i
-
-.PHONY : UVa_FillTheContainers.i
-
-# target to preprocess a source file
-UVa_FillTheContainers.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_FillTheContainers.cpp.i
-.PHONY : UVa_FillTheContainers.cpp.i
-
-UVa_FillTheContainers.s: UVa_FillTheContainers.cpp.s
-
-.PHONY : UVa_FillTheContainers.s
-
-# target to generate assembly for a file
-UVa_FillTheContainers.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_FillTheContainers.cpp.s
-.PHONY : UVa_FillTheContainers.cpp.s
-
-UVa_FractionsAgain.o: UVa_FractionsAgain.cpp.o
-
-.PHONY : UVa_FractionsAgain.o
-
-# target to build an object file
-UVa_FractionsAgain.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_FractionsAgain.cpp.o
-.PHONY : UVa_FractionsAgain.cpp.o
-
-UVa_FractionsAgain.i: UVa_FractionsAgain.cpp.i
-
-.PHONY : UVa_FractionsAgain.i
-
-# target to preprocess a source file
-UVa_FractionsAgain.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_FractionsAgain.cpp.i
-.PHONY : UVa_FractionsAgain.cpp.i
-
-UVa_FractionsAgain.s: UVa_FractionsAgain.cpp.s
-
-.PHONY : UVa_FractionsAgain.s
-
-# target to generate assembly for a file
-UVa_FractionsAgain.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_FractionsAgain.cpp.s
-.PHONY : UVa_FractionsAgain.cpp.s
-
-UVa_Grapevine.o: UVa_Grapevine.cpp.o
-
-.PHONY : UVa_Grapevine.o
-
-# target to build an object file
-UVa_Grapevine.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_Grapevine.cpp.o
-.PHONY : UVa_Grapevine.cpp.o
-
-UVa_Grapevine.i: UVa_Grapevine.cpp.i
-
-.PHONY : UVa_Grapevine.i
-
-# target to preprocess a source file
-UVa_Grapevine.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_Grapevine.cpp.i
-.PHONY : UVa_Grapevine.cpp.i
-
-UVa_Grapevine.s: UVa_Grapevine.cpp.s
-
-.PHONY : UVa_Grapevine.s
-
-# target to generate assembly for a file
-UVa_Grapevine.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_Grapevine.cpp.s
-.PHONY : UVa_Grapevine.cpp.s
-
-UVa_GraphColoring.o: UVa_GraphColoring.cpp.o
-
-.PHONY : UVa_GraphColoring.o
-
-# target to build an object file
-UVa_GraphColoring.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_GraphColoring.cpp.o
-.PHONY : UVa_GraphColoring.cpp.o
-
-UVa_GraphColoring.i: UVa_GraphColoring.cpp.i
-
-.PHONY : UVa_GraphColoring.i
-
-# target to preprocess a source file
-UVa_GraphColoring.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_GraphColoring.cpp.i
-.PHONY : UVa_GraphColoring.cpp.i
-
-UVa_GraphColoring.s: UVa_GraphColoring.cpp.s
-
-.PHONY : UVa_GraphColoring.s
-
-# target to generate assembly for a file
-UVa_GraphColoring.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_GraphColoring.cpp.s
-.PHONY : UVa_GraphColoring.cpp.s
-
-UVa_GraphColoring2.o: UVa_GraphColoring2.cpp.o
-
-.PHONY : UVa_GraphColoring2.o
-
-# target to build an object file
-UVa_GraphColoring2.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_GraphColoring2.cpp.o
-.PHONY : UVa_GraphColoring2.cpp.o
-
-UVa_GraphColoring2.i: UVa_GraphColoring2.cpp.i
-
-.PHONY : UVa_GraphColoring2.i
-
-# target to preprocess a source file
-UVa_GraphColoring2.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_GraphColoring2.cpp.i
-.PHONY : UVa_GraphColoring2.cpp.i
-
-UVa_GraphColoring2.s: UVa_GraphColoring2.cpp.s
-
-.PHONY : UVa_GraphColoring2.s
-
-# target to generate assembly for a file
-UVa_GraphColoring2.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_GraphColoring2.cpp.s
-.PHONY : UVa_GraphColoring2.cpp.s
-
-UVa_GridGame.o: UVa_GridGame.cpp.o
-
-.PHONY : UVa_GridGame.o
-
-# target to build an object file
-UVa_GridGame.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_GridGame.cpp.o
-.PHONY : UVa_GridGame.cpp.o
-
-UVa_GridGame.i: UVa_GridGame.cpp.i
-
-.PHONY : UVa_GridGame.i
-
-# target to preprocess a source file
-UVa_GridGame.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_GridGame.cpp.i
-.PHONY : UVa_GridGame.cpp.i
-
-UVa_GridGame.s: UVa_GridGame.cpp.s
-
-.PHONY : UVa_GridGame.s
-
-# target to generate assembly for a file
-UVa_GridGame.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_GridGame.cpp.s
-.PHONY : UVa_GridGame.cpp.s
-
-UVa_GroceryStore.o: UVa_GroceryStore.cpp.o
-
-.PHONY : UVa_GroceryStore.o
-
-# target to build an object file
-UVa_GroceryStore.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_GroceryStore.cpp.o
-.PHONY : UVa_GroceryStore.cpp.o
-
-UVa_GroceryStore.i: UVa_GroceryStore.cpp.i
-
-.PHONY : UVa_GroceryStore.i
-
-# target to preprocess a source file
-UVa_GroceryStore.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_GroceryStore.cpp.i
-.PHONY : UVa_GroceryStore.cpp.i
-
-UVa_GroceryStore.s: UVa_GroceryStore.cpp.s
-
-.PHONY : UVa_GroceryStore.s
-
-# target to generate assembly for a file
-UVa_GroceryStore.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_GroceryStore.cpp.s
-.PHONY : UVa_GroceryStore.cpp.s
-
-UVa_HelpingFillBates.o: UVa_HelpingFillBates.cpp.o
-
-.PHONY : UVa_HelpingFillBates.o
-
-# target to build an object file
-UVa_HelpingFillBates.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_HelpingFillBates.cpp.o
-.PHONY : UVa_HelpingFillBates.cpp.o
-
-UVa_HelpingFillBates.i: UVa_HelpingFillBates.cpp.i
-
-.PHONY : UVa_HelpingFillBates.i
-
-# target to preprocess a source file
-UVa_HelpingFillBates.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_HelpingFillBates.cpp.i
-.PHONY : UVa_HelpingFillBates.cpp.i
-
-UVa_HelpingFillBates.s: UVa_HelpingFillBates.cpp.s
-
-.PHONY : UVa_HelpingFillBates.s
-
-# target to generate assembly for a file
-UVa_HelpingFillBates.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_HelpingFillBates.cpp.s
-.PHONY : UVa_HelpingFillBates.cpp.s
-
-UVa_LEDTest.o: UVa_LEDTest.cpp.o
-
-.PHONY : UVa_LEDTest.o
-
-# target to build an object file
-UVa_LEDTest.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_LEDTest.cpp.o
-.PHONY : UVa_LEDTest.cpp.o
-
-UVa_LEDTest.i: UVa_LEDTest.cpp.i
-
-.PHONY : UVa_LEDTest.i
-
-# target to preprocess a source file
-UVa_LEDTest.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_LEDTest.cpp.i
-.PHONY : UVa_LEDTest.cpp.i
-
-UVa_LEDTest.s: UVa_LEDTest.cpp.s
-
-.PHONY : UVa_LEDTest.s
-
-# target to generate assembly for a file
-UVa_LEDTest.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_LEDTest.cpp.s
-.PHONY : UVa_LEDTest.cpp.s
-
-UVa_Lotto.o: UVa_Lotto.cpp.o
-
-.PHONY : UVa_Lotto.o
-
-# target to build an object file
-UVa_Lotto.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_Lotto.cpp.o
-.PHONY : UVa_Lotto.cpp.o
-
-UVa_Lotto.i: UVa_Lotto.cpp.i
-
-.PHONY : UVa_Lotto.i
-
-# target to preprocess a source file
-UVa_Lotto.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_Lotto.cpp.i
-.PHONY : UVa_Lotto.cpp.i
-
-UVa_Lotto.s: UVa_Lotto.cpp.s
-
-.PHONY : UVa_Lotto.s
-
-# target to generate assembly for a file
-UVa_Lotto.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_Lotto.cpp.s
-.PHONY : UVa_Lotto.cpp.s
-
-UVa_MonkeyAndOiledBamboo.o: UVa_MonkeyAndOiledBamboo.cpp.o
-
-.PHONY : UVa_MonkeyAndOiledBamboo.o
-
-# target to build an object file
-UVa_MonkeyAndOiledBamboo.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_MonkeyAndOiledBamboo.cpp.o
-.PHONY : UVa_MonkeyAndOiledBamboo.cpp.o
-
-UVa_MonkeyAndOiledBamboo.i: UVa_MonkeyAndOiledBamboo.cpp.i
-
-.PHONY : UVa_MonkeyAndOiledBamboo.i
-
-# target to preprocess a source file
-UVa_MonkeyAndOiledBamboo.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_MonkeyAndOiledBamboo.cpp.i
-.PHONY : UVa_MonkeyAndOiledBamboo.cpp.i
-
-UVa_MonkeyAndOiledBamboo.s: UVa_MonkeyAndOiledBamboo.cpp.s
-
-.PHONY : UVa_MonkeyAndOiledBamboo.s
-
-# target to generate assembly for a file
-UVa_MonkeyAndOiledBamboo.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_MonkeyAndOiledBamboo.cpp.s
-.PHONY : UVa_MonkeyAndOiledBamboo.cpp.s
-
-UVa_Password.o: UVa_Password.cpp.o
-
-.PHONY : UVa_Password.o
-
-# target to build an object file
-UVa_Password.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_Password.cpp.o
-.PHONY : UVa_Password.cpp.o
-
-UVa_Password.i: UVa_Password.cpp.i
-
-.PHONY : UVa_Password.i
-
-# target to preprocess a source file
-UVa_Password.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_Password.cpp.i
-.PHONY : UVa_Password.cpp.i
-
-UVa_Password.s: UVa_Password.cpp.s
-
-.PHONY : UVa_Password.s
-
-# target to generate assembly for a file
-UVa_Password.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_Password.cpp.s
-.PHONY : UVa_Password.cpp.s
-
-UVa_PathInColouredField.o: UVa_PathInColouredField.cpp.o
-
-.PHONY : UVa_PathInColouredField.o
-
-# target to build an object file
-UVa_PathInColouredField.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_PathInColouredField.cpp.o
-.PHONY : UVa_PathInColouredField.cpp.o
-
-UVa_PathInColouredField.i: UVa_PathInColouredField.cpp.i
-
-.PHONY : UVa_PathInColouredField.i
-
-# target to preprocess a source file
-UVa_PathInColouredField.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_PathInColouredField.cpp.i
-.PHONY : UVa_PathInColouredField.cpp.i
-
-UVa_PathInColouredField.s: UVa_PathInColouredField.cpp.s
-
-.PHONY : UVa_PathInColouredField.s
-
-# target to generate assembly for a file
-UVa_PathInColouredField.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_PathInColouredField.cpp.s
-.PHONY : UVa_PathInColouredField.cpp.s
-
-UVa_PrimeRingProblem.o: UVa_PrimeRingProblem.cpp.o
-
-.PHONY : UVa_PrimeRingProblem.o
-
-# target to build an object file
-UVa_PrimeRingProblem.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_PrimeRingProblem.cpp.o
-.PHONY : UVa_PrimeRingProblem.cpp.o
-
-UVa_PrimeRingProblem.i: UVa_PrimeRingProblem.cpp.i
-
-.PHONY : UVa_PrimeRingProblem.i
-
-# target to preprocess a source file
-UVa_PrimeRingProblem.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_PrimeRingProblem.cpp.i
-.PHONY : UVa_PrimeRingProblem.cpp.i
-
-UVa_PrimeRingProblem.s: UVa_PrimeRingProblem.cpp.s
-
-.PHONY : UVa_PrimeRingProblem.s
-
-# target to generate assembly for a file
-UVa_PrimeRingProblem.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_PrimeRingProblem.cpp.s
-.PHONY : UVa_PrimeRingProblem.cpp.s
-
-UVa_RatAttack.o: UVa_RatAttack.cpp.o
-
-.PHONY : UVa_RatAttack.o
-
-# target to build an object file
-UVa_RatAttack.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_RatAttack.cpp.o
-.PHONY : UVa_RatAttack.cpp.o
-
-UVa_RatAttack.i: UVa_RatAttack.cpp.i
-
-.PHONY : UVa_RatAttack.i
-
-# target to preprocess a source file
-UVa_RatAttack.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_RatAttack.cpp.i
-.PHONY : UVa_RatAttack.cpp.i
-
-UVa_RatAttack.s: UVa_RatAttack.cpp.s
-
-.PHONY : UVa_RatAttack.s
-
-# target to generate assembly for a file
-UVa_RatAttack.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_RatAttack.cpp.s
-.PHONY : UVa_RatAttack.cpp.s
-
-UVa_Sales.o: UVa_Sales.cpp.o
-
-.PHONY : UVa_Sales.o
-
-# target to build an object file
-UVa_Sales.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_Sales.cpp.o
-.PHONY : UVa_Sales.cpp.o
-
-UVa_Sales.i: UVa_Sales.cpp.i
-
-.PHONY : UVa_Sales.i
-
-# target to preprocess a source file
-UVa_Sales.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_Sales.cpp.i
-.PHONY : UVa_Sales.cpp.i
-
-UVa_Sales.s: UVa_Sales.cpp.s
-
-.PHONY : UVa_Sales.s
-
-# target to generate assembly for a file
-UVa_Sales.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_Sales.cpp.s
-.PHONY : UVa_Sales.cpp.s
-
-UVa_SolveIt.o: UVa_SolveIt.cpp.o
-
-.PHONY : UVa_SolveIt.o
-
-# target to build an object file
-UVa_SolveIt.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_SolveIt.cpp.o
-.PHONY : UVa_SolveIt.cpp.o
-
-UVa_SolveIt.i: UVa_SolveIt.cpp.i
-
-.PHONY : UVa_SolveIt.i
-
-# target to preprocess a source file
-UVa_SolveIt.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_SolveIt.cpp.i
-.PHONY : UVa_SolveIt.cpp.i
-
-UVa_SolveIt.s: UVa_SolveIt.cpp.s
-
-.PHONY : UVa_SolveIt.s
-
-# target to generate assembly for a file
-UVa_SolveIt.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_SolveIt.cpp.s
-.PHONY : UVa_SolveIt.cpp.s
-
-UVa_SumItUp.o: UVa_SumItUp.cpp.o
-
-.PHONY : UVa_SumItUp.o
-
-# target to build an object file
-UVa_SumItUp.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_SumItUp.cpp.o
-.PHONY : UVa_SumItUp.cpp.o
-
-UVa_SumItUp.i: UVa_SumItUp.cpp.i
-
-.PHONY : UVa_SumItUp.i
-
-# target to preprocess a source file
-UVa_SumItUp.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_SumItUp.cpp.i
-.PHONY : UVa_SumItUp.cpp.i
-
-UVa_SumItUp.s: UVa_SumItUp.cpp.s
-
-.PHONY : UVa_SumItUp.s
-
-# target to generate assembly for a file
-UVa_SumItUp.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_SumItUp.cpp.s
-.PHONY : UVa_SumItUp.cpp.s
-
-UVa_TourDeFrance.o: UVa_TourDeFrance.cpp.o
-
-.PHONY : UVa_TourDeFrance.o
-
-# target to build an object file
-UVa_TourDeFrance.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_TourDeFrance.cpp.o
-.PHONY : UVa_TourDeFrance.cpp.o
-
-UVa_TourDeFrance.i: UVa_TourDeFrance.cpp.i
-
-.PHONY : UVa_TourDeFrance.i
-
-# target to preprocess a source file
-UVa_TourDeFrance.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_TourDeFrance.cpp.i
-.PHONY : UVa_TourDeFrance.cpp.i
-
-UVa_TourDeFrance.s: UVa_TourDeFrance.cpp.s
-
-.PHONY : UVa_TourDeFrance.s
-
-# target to generate assembly for a file
-UVa_TourDeFrance.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_TourDeFrance.cpp.s
-.PHONY : UVa_TourDeFrance.cpp.s
-
-UVa_Y2KAccountingBug.o: UVa_Y2KAccountingBug.cpp.o
-
-.PHONY : UVa_Y2KAccountingBug.o
-
-# target to build an object file
-UVa_Y2KAccountingBug.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_Y2KAccountingBug.cpp.o
-.PHONY : UVa_Y2KAccountingBug.cpp.o
-
-UVa_Y2KAccountingBug.i: UVa_Y2KAccountingBug.cpp.i
-
-.PHONY : UVa_Y2KAccountingBug.i
-
-# target to preprocess a source file
-UVa_Y2KAccountingBug.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_Y2KAccountingBug.cpp.i
-.PHONY : UVa_Y2KAccountingBug.cpp.i
-
-UVa_Y2KAccountingBug.s: UVa_Y2KAccountingBug.cpp.s
-
-.PHONY : UVa_Y2KAccountingBug.s
-
-# target to generate assembly for a file
-UVa_Y2KAccountingBug.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_Y2KAccountingBug.cpp.s
-.PHONY : UVa_Y2KAccountingBug.cpp.s
-
-UVa_Zones.o: UVa_Zones.cpp.o
-
-.PHONY : UVa_Zones.o
-
-# target to build an object file
-UVa_Zones.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_Zones.cpp.o
-.PHONY : UVa_Zones.cpp.o
-
-UVa_Zones.i: UVa_Zones.cpp.i
-
-.PHONY : UVa_Zones.i
-
-# target to preprocess a source file
-UVa_Zones.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_Zones.cpp.i
-.PHONY : UVa_Zones.cpp.i
-
-UVa_Zones.s: UVa_Zones.cpp.s
-
-.PHONY : UVa_Zones.s
-
-# target to generate assembly for a file
-UVa_Zones.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/UVa_Zones.cpp.s
-.PHONY : UVa_Zones.cpp.s
-
-YogesMM.o: YogesMM.cpp.o
-
-.PHONY : YogesMM.o
-
-# target to build an object file
-YogesMM.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/YogesMM.cpp.o
-.PHONY : YogesMM.cpp.o
-
-YogesMM.i: YogesMM.cpp.i
-
-.PHONY : YogesMM.i
-
-# target to preprocess a source file
-YogesMM.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/YogesMM.cpp.i
-.PHONY : YogesMM.cpp.i
-
-YogesMM.s: YogesMM.cpp.s
-
-.PHONY : YogesMM.s
-
-# target to generate assembly for a file
-YogesMM.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/YogesMM.cpp.s
-.PHONY : YogesMM.cpp.s
-
-kthDivisor.o: kthDivisor.cpp.o
-
-.PHONY : kthDivisor.o
-
-# target to build an object file
-kthDivisor.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/kthDivisor.cpp.o
-.PHONY : kthDivisor.cpp.o
-
-kthDivisor.i: kthDivisor.cpp.i
-
-.PHONY : kthDivisor.i
-
-# target to preprocess a source file
-kthDivisor.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/kthDivisor.cpp.i
-.PHONY : kthDivisor.cpp.i
-
-kthDivisor.s: kthDivisor.cpp.s
-
-.PHONY : kthDivisor.s
-
-# target to generate assembly for a file
-kthDivisor.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/kthDivisor.cpp.s
-.PHONY : kthDivisor.cpp.s
-
-lol.o: lol.cpp.o
-
-.PHONY : lol.o
-
-# target to build an object file
-lol.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/lol.cpp.o
-.PHONY : lol.cpp.o
-
-lol.i: lol.cpp.i
-
-.PHONY : lol.i
-
-# target to preprocess a source file
-lol.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/lol.cpp.i
-.PHONY : lol.cpp.i
-
-lol.s: lol.cpp.s
-
-.PHONY : lol.s
-
-# target to generate assembly for a file
-lol.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/lol.cpp.s
-.PHONY : lol.cpp.s
-
-lolol.o: lolol.cpp.o
-
-.PHONY : lolol.o
-
-# target to build an object file
-lolol.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/lolol.cpp.o
-.PHONY : lolol.cpp.o
-
-lolol.i: lolol.cpp.i
-
-.PHONY : lolol.i
-
-# target to preprocess a source file
-lolol.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/lolol.cpp.i
-.PHONY : lolol.cpp.i
-
-lolol.s: lolol.cpp.s
-
-.PHONY : lolol.s
-
-# target to generate assembly for a file
-lolol.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/lolol.cpp.s
-.PHONY : lolol.cpp.s
-
-race.o: race.cpp.o
-
-.PHONY : race.o
-
-# target to build an object file
-race.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/race.cpp.o
-.PHONY : race.cpp.o
-
-race.i: race.cpp.i
-
-.PHONY : race.i
-
-# target to preprocess a source file
-race.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/race.cpp.i
-.PHONY : race.cpp.i
-
-race.s: race.cpp.s
-
-.PHONY : race.s
-
-# target to generate assembly for a file
-race.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/race.cpp.s
-.PHONY : race.cpp.s
-
-untitled.o: untitled.cpp.o
-
-.PHONY : untitled.o
-
-# target to build an object file
-untitled.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/untitled.cpp.o
-.PHONY : untitled.cpp.o
-
-untitled.i: untitled.cpp.i
-
-.PHONY : untitled.i
-
-# target to preprocess a source file
-untitled.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/untitled.cpp.i
-.PHONY : untitled.cpp.i
-
-untitled.s: untitled.cpp.s
-
-.PHONY : untitled.s
-
-# target to generate assembly for a file
-untitled.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/untitled.cpp.s
-.PHONY : untitled.cpp.s
 
 # Help Target
 help:
@@ -12037,9 +5742,22 @@ help:
 	@echo "... clean"
 	@echo "... depend"
 	@echo "... edit_cache"
+	@echo "... CF950E_DataCenterMaintenance"
+	@echo "... HR_AlienLanguages"
+	@echo "... SPOJ_BRKSTRING"
+	@echo "... CF321E_CielAndGondolas"
+	@echo "... CF319C_KalilaAndDimna"
+	@echo "... DivideAndConquerOptimisation"
+	@echo "... 1D1DOptimisation"
+	@echo "... KnuthOptimisation"
+	@echo "... SPOJ_ACQUIRE"
+	@echo "... SPOJ_QTREE4"
+	@echo "... SPOJ_QTREE5"
 	@echo "... CF505D_KitayutasTechnology"
+	@echo "... ConvexHullTrick2"
 	@echo "... CF81E_Pairs"
 	@echo "... IOITC_GraphLIS"
+	@echo "... ConvexHullTrick"
 	@echo "... CF932D_Tree"
 	@echo "... CF816C_KarenAndSupermarket"
 	@echo "... CC_TALCA"
@@ -12048,8 +5766,10 @@ help:
 	@echo "... CF506_MrKutayutasColorfulGraph"
 	@echo "... SPOJ_TwoPaths"
 	@echo "... CF375D_TreeAndQueries"
+	@echo "... CF311B_CatsTransport"
 	@echo "... SPOJ_GSS6"
 	@echo "... SPOJ_OrderStatisticSet_Treap"
+	@echo "... LiChaoSegmentTree"
 	@echo "... CC_StrangeQueries"
 	@echo "... CC_ChefAndOddQueries"
 	@echo "... CC_BrokenClock"
@@ -12060,6 +5780,7 @@ help:
 	@echo "... SPOJ_SEGSQRSS"
 	@echo "... CF446C_DZYLovesFibonacciNumbers"
 	@echo "... CF145E_LuckyQueries"
+	@echo "... HR_GuardiansOfTheLunatics"
 	@echo "... CC_XorQueries"
 	@echo "... SPOJ_COT"
 	@echo "... SPOJ_AMR10J"
@@ -12068,14 +5789,17 @@ help:
 	@echo "... CF347D_LuckyCommonSubsequence2"
 	@echo "... CF220B_LittleElephantAndArray"
 	@echo "... SPOJ_DQuery_Persistence"
+	@echo "... CF600E_LomsatGelral"
 	@echo "... ModularInverse"
 	@echo "... CF659E_NewReform"
 	@echo "... SPOJ_GSS2"
+	@echo "... IOI2011_Race"
 	@echo "... DFSConnectedComponents"
 	@echo "... CC_SubInversing"
 	@echo "... CC_ChefAndSubarrayQueries"
 	@echo "... RangeQueryAndUpdates_PrefixTrick"
 	@echo "... SPOJ_KQuery"
+	@echo "... SPOJ_ACQUIRE_1D1D"
 	@echo "... CC_GiveAway"
 	@echo "... Misc"
 	@echo "... SPOJ_RPAR"
@@ -12120,22 +5844,26 @@ help:
 	@echo "... LiveArchive_XorSum"
 	@echo "... CF348C_SubsetSums"
 	@echo "... CF864E_Fire"
+	@echo "... CF342E_XeniaAndTree_Centroid"
 	@echo "... SPOJ_KthNumber_Persistence"
 	@echo "... MosAlgorithm"
 	@echo "... CF892E_Envy"
 	@echo "... LazyPropSegmentTree_IntervalSum"
 	@echo "... CF589G_Hiring"
 	@echo "... SCCTarjan"
+	@echo "... SPOJ_NKLeaves"
 	@echo "... Treap"
 	@echo "... Exun2017_Digex"
 	@echo "... HackerEarth_Trie"
 	@echo "... PointsLinesAndStuff"
+	@echo "... CC_CyclistRace"
 	@echo "... HeavyLightDecomposition"
 	@echo "... ManachersAlgo"
 	@echo "... CC_ChefAndSubarrayQueries2"
 	@echo "... CF495D_ObsessiveString"
 	@echo "... IOI2000_PostOffices"
 	@echo "... SPOJ_QTREE1"
+	@echo "... CF626F_GroupProjects"
 	@echo "... CF519E_AAndBLectureRooms"
 	@echo "... IOI96_AGame"
 	@echo "... ExunPrelimsP2"
@@ -12162,144 +5890,24 @@ help:
 	@echo "... AIO_CoreysParty.o"
 	@echo "... AIO_CoreysParty.i"
 	@echo "... AIO_CoreysParty.s"
-	@echo "... BitMasking.o"
-	@echo "... BitMasking.i"
-	@echo "... BitMasking.s"
-	@echo "... BlownGarland.o"
-	@echo "... BlownGarland.i"
-	@echo "... BlownGarland.s"
-	@echo "... CCC_GreedyForPies.o"
-	@echo "... CCC_GreedyForPies.i"
-	@echo "... CCC_GreedyForPies.s"
 	@echo "... CC_BrokenClock.o"
 	@echo "... CC_BrokenClock.i"
 	@echo "... CC_BrokenClock.s"
-	@echo "... CC_CAPTCITI.o"
-	@echo "... CC_CAPTCITI.i"
-	@echo "... CC_CAPTCITI.s"
-	@echo "... CC_CHEFSIGN.o"
-	@echo "... CC_CHEFSIGN.i"
-	@echo "... CC_CHEFSIGN.s"
-	@echo "... CC_Calculator.o"
-	@echo "... CC_Calculator.i"
-	@echo "... CC_Calculator.s"
-	@echo "... CC_ChefAndDice.o"
-	@echo "... CC_ChefAndDice.i"
-	@echo "... CC_ChefAndDice.s"
-	@echo "... CC_ChefAndFeast.o"
-	@echo "... CC_ChefAndFeast.i"
-	@echo "... CC_ChefAndFeast.s"
-	@echo "... CC_ChefAndFibonacciArray.o"
-	@echo "... CC_ChefAndFibonacciArray.i"
-	@echo "... CC_ChefAndFibonacciArray.s"
-	@echo "... CC_ChefAndMagicArrays.o"
-	@echo "... CC_ChefAndMagicArrays.i"
-	@echo "... CC_ChefAndMagicArrays.s"
-	@echo "... CC_ChefAndPrimeQueries.o"
-	@echo "... CC_ChefAndPrimeQueries.i"
-	@echo "... CC_ChefAndPrimeQueries.s"
-	@echo "... CC_ChefAndSubarray.o"
-	@echo "... CC_ChefAndSubarray.i"
-	@echo "... CC_ChefAndSubarray.s"
-	@echo "... CC_ChefAndSubsequences.o"
-	@echo "... CC_ChefAndSubsequences.i"
-	@echo "... CC_ChefAndSubsequences.s"
-	@echo "... CC_ChefAndTraingles.o"
-	@echo "... CC_ChefAndTraingles.i"
-	@echo "... CC_ChefAndTraingles.s"
-	@echo "... CC_ChefAndVolunteerService.o"
-	@echo "... CC_ChefAndVolunteerService.i"
-	@echo "... CC_ChefAndVolunteerService.s"
 	@echo "... CC_ChefAndXorQueries.o"
 	@echo "... CC_ChefAndXorQueries.i"
 	@echo "... CC_ChefAndXorQueries.s"
 	@echo "... CC_ChefGoesLeftRight.o"
 	@echo "... CC_ChefGoesLeftRight.i"
 	@echo "... CC_ChefGoesLeftRight.s"
-	@echo "... CC_ChefandCycledCycles.o"
-	@echo "... CC_ChefandCycledCycles.i"
-	@echo "... CC_ChefandCycledCycles.s"
-	@echo "... CC_CleaningTheSpace.o"
-	@echo "... CC_CleaningTheSpace.i"
-	@echo "... CC_CleaningTheSpace.s"
-	@echo "... CC_ConnectingComputers.o"
-	@echo "... CC_ConnectingComputers.i"
-	@echo "... CC_ConnectingComputers.s"
-	@echo "... CC_ConsecutiveSnakes.o"
-	@echo "... CC_ConsecutiveSnakes.i"
-	@echo "... CC_ConsecutiveSnakes.s"
-	@echo "... CC_FillTheMatrix.o"
-	@echo "... CC_FillTheMatrix.i"
-	@echo "... CC_FillTheMatrix.s"
-	@echo "... CC_IPCTrainers.o"
-	@echo "... CC_IPCTrainers.i"
-	@echo "... CC_IPCTrainers.s"
-	@echo "... CC_Impersonating.o"
-	@echo "... CC_Impersonating.i"
-	@echo "... CC_Impersonating.s"
-	@echo "... CC_JosephLand.o"
-	@echo "... CC_JosephLand.i"
-	@echo "... CC_JosephLand.s"
-	@echo "... CC_PairWiseUnionOfSet.o"
-	@echo "... CC_PairWiseUnionOfSet.i"
-	@echo "... CC_PairWiseUnionOfSet.s"
 	@echo "... CC_ProductOnSegment.o"
 	@echo "... CC_ProductOnSegment.i"
 	@echo "... CC_ProductOnSegment.s"
-	@echo "... CC_PyramidFalls.o"
-	@echo "... CC_PyramidFalls.i"
-	@echo "... CC_PyramidFalls.s"
-	@echo "... CC_RobotsInADAG.o"
-	@echo "... CC_RobotsInADAG.i"
-	@echo "... CC_RobotsInADAG.s"
-	@echo "... CC_SNCOUP.o"
-	@echo "... CC_SNCOUP.i"
-	@echo "... CC_SNCOUP.s"
-	@echo "... CC_SerejaAndCommands.o"
-	@echo "... CC_SerejaAndCommands.i"
-	@echo "... CC_SerejaAndCommands.s"
-	@echo "... CC_ShootingOnTheArray.o"
-	@echo "... CC_ShootingOnTheArray.i"
-	@echo "... CC_ShootingOnTheArray.s"
-	@echo "... CC_SnakesAndDiscussion.o"
-	@echo "... CC_SnakesAndDiscussion.i"
-	@echo "... CC_SnakesAndDiscussion.s"
-	@echo "... CC_SnakesAndGraph.o"
-	@echo "... CC_SnakesAndGraph.i"
-	@echo "... CC_SnakesAndGraph.s"
-	@echo "... CC_SumOfCubes.o"
-	@echo "... CC_SumOfCubes.i"
-	@echo "... CC_SumOfCubes.s"
-	@echo "... CC_TiduAndRatings.o"
-	@echo "... CC_TiduAndRatings.i"
-	@echo "... CC_TiduAndRatings.s"
-	@echo "... CC_TravelingMinister.o"
-	@echo "... CC_TravelingMinister.i"
-	@echo "... CC_TravelingMinister.s"
-	@echo "... CC_Triplets.o"
-	@echo "... CC_Triplets.i"
-	@echo "... CC_Triplets.s"
-	@echo "... CC_WeaselDoesXOROnTree.o"
-	@echo "... CC_WeaselDoesXOROnTree.i"
-	@echo "... CC_WeaselDoesXOROnTree.s"
-	@echo "... CC_WeaselFindsStaircase.o"
-	@echo "... CC_WeaselFindsStaircase.i"
-	@echo "... CC_WeaselFindsStaircase.s"
-	@echo "... CC_WeirdBacteria.o"
-	@echo "... CC_WeirdBacteria.i"
-	@echo "... CC_WeirdBacteria.s"
-	@echo "... CC__CHEFPCHF.o"
-	@echo "... CC__CHEFPCHF.i"
-	@echo "... CC__CHEFPCHF.s"
 	@echo "... CF13E_Holes.o"
 	@echo "... CF13E_Holes.i"
 	@echo "... CF13E_Holes.s"
 	@echo "... CF220B_LittleElephantAndArray.o"
 	@echo "... CF220B_LittleElephantAndArray.i"
 	@echo "... CF220B_LittleElephantAndArray.s"
-	@echo "... CF27E_SmallestNumberWithGivenDivisors.o"
-	@echo "... CF27E_SmallestNumberWithGivenDivisors.i"
-	@echo "... CF27E_SmallestNumberWithGivenDivisors.s"
 	@echo "... CF340D_BubbleSortGraph.o"
 	@echo "... CF340D_BubbleSortGraph.i"
 	@echo "... CF340D_BubbleSortGraph.s"
@@ -12312,33 +5920,9 @@ help:
 	@echo "... CF688E_TheValuesYouCanMake.o"
 	@echo "... CF688E_TheValuesYouCanMake.i"
 	@echo "... CF688E_TheValuesYouCanMake.s"
-	@echo "... CF747C_Servers.o"
-	@echo "... CF747C_Servers.i"
-	@echo "... CF747C_Servers.s"
-	@echo "... CF747D_WinterIsComing.o"
-	@echo "... CF747D_WinterIsComing.i"
-	@echo "... CF747D_WinterIsComing.s"
-	@echo "... COREPrelims_AuntyPrime.o"
-	@echo "... COREPrelims_AuntyPrime.i"
-	@echo "... COREPrelims_AuntyPrime.s"
-	@echo "... ComputationalGeometry/Implementation/GeometryStuff.o"
-	@echo "... ComputationalGeometry/Implementation/GeometryStuff.i"
-	@echo "... ComputationalGeometry/Implementation/GeometryStuff.s"
 	@echo "... ComputationalGeometry/Implementation/PointsLinesAndStuff.o"
 	@echo "... ComputationalGeometry/Implementation/PointsLinesAndStuff.i"
 	@echo "... ComputationalGeometry/Implementation/PointsLinesAndStuff.s"
-	@echo "... DataStructures/(TODO)HackerEarth_LittleDeepuAndArray.o"
-	@echo "... DataStructures/(TODO)HackerEarth_LittleDeepuAndArray.i"
-	@echo "... DataStructures/(TODO)HackerEarth_LittleDeepuAndArray.s"
-	@echo "... DataStructures/(TODO)OPC_FindThePermutation.o"
-	@echo "... DataStructures/(TODO)OPC_FindThePermutation.i"
-	@echo "... DataStructures/(TODO)OPC_FindThePermutation.s"
-	@echo "... DataStructures/(TODO)SPOJ_DynamicGraphConnectivity.o"
-	@echo "... DataStructures/(TODO)SPOJ_DynamicGraphConnectivity.i"
-	@echo "... DataStructures/(TODO)SPOJ_DynamicGraphConnectivity.s"
-	@echo "... DataStructures/CC_BlockedWebsites.o"
-	@echo "... DataStructures/CC_BlockedWebsites.i"
-	@echo "... DataStructures/CC_BlockedWebsites.s"
 	@echo "... DataStructures/CC_ChefAndGraphQueries.o"
 	@echo "... DataStructures/CC_ChefAndGraphQueries.i"
 	@echo "... DataStructures/CC_ChefAndGraphQueries.s"
@@ -12360,18 +5944,15 @@ help:
 	@echo "... DataStructures/CC_CloneMe.o"
 	@echo "... DataStructures/CC_CloneMe.i"
 	@echo "... DataStructures/CC_CloneMe.s"
+	@echo "... DataStructures/CC_CyclistRace.o"
+	@echo "... DataStructures/CC_CyclistRace.i"
+	@echo "... DataStructures/CC_CyclistRace.s"
 	@echo "... DataStructures/CC_GiveAway.o"
 	@echo "... DataStructures/CC_GiveAway.i"
 	@echo "... DataStructures/CC_GiveAway.s"
 	@echo "... DataStructures/CC_LoversGift.o"
 	@echo "... DataStructures/CC_LoversGift.i"
 	@echo "... DataStructures/CC_LoversGift.s"
-	@echo "... DataStructures/CC_LoversGift2.cpp.o"
-	@echo "... DataStructures/CC_LoversGift2.cpp.i"
-	@echo "... DataStructures/CC_LoversGift2.cpp.s"
-	@echo "... DataStructures/CC_MultiplesOf3.o"
-	@echo "... DataStructures/CC_MultiplesOf3.i"
-	@echo "... DataStructures/CC_MultiplesOf3.s"
 	@echo "... DataStructures/CC_PishtyAndTree.o"
 	@echo "... DataStructures/CC_PishtyAndTree.i"
 	@echo "... DataStructures/CC_PishtyAndTree.s"
@@ -12393,12 +5974,12 @@ help:
 	@echo "... DataStructures/CF145E_LuckyQueries.o"
 	@echo "... DataStructures/CF145E_LuckyQueries.i"
 	@echo "... DataStructures/CF145E_LuckyQueries.s"
-	@echo "... DataStructures/CF226E_NobleKnightsPath.o"
-	@echo "... DataStructures/CF226E_NobleKnightsPath.i"
-	@echo "... DataStructures/CF226E_NobleKnightsPath.s"
 	@echo "... DataStructures/CF342E_XeniaAndTree.o"
 	@echo "... DataStructures/CF342E_XeniaAndTree.i"
 	@echo "... DataStructures/CF342E_XeniaAndTree.s"
+	@echo "... DataStructures/CF342E_XeniaAndTree_Centroid.o"
+	@echo "... DataStructures/CF342E_XeniaAndTree_Centroid.i"
+	@echo "... DataStructures/CF342E_XeniaAndTree_Centroid.s"
 	@echo "... DataStructures/CF348C_SubsetSums.o"
 	@echo "... DataStructures/CF348C_SubsetSums.i"
 	@echo "... DataStructures/CF348C_SubsetSums.s"
@@ -12417,6 +5998,9 @@ help:
 	@echo "... DataStructures/CF589G_Hiring.o"
 	@echo "... DataStructures/CF589G_Hiring.i"
 	@echo "... DataStructures/CF589G_Hiring.s"
+	@echo "... DataStructures/CF600E_LomsatGelral.o"
+	@echo "... DataStructures/CF600E_LomsatGelral.i"
+	@echo "... DataStructures/CF600E_LomsatGelral.s"
 	@echo "... DataStructures/CF617E_XORAndFavouriteNumber.o"
 	@echo "... DataStructures/CF617E_XORAndFavouriteNumber.i"
 	@echo "... DataStructures/CF617E_XORAndFavouriteNumber.s"
@@ -12426,45 +6010,18 @@ help:
 	@echo "... DataStructures/CF86D_PowerfulArray.o"
 	@echo "... DataStructures/CF86D_PowerfulArray.i"
 	@echo "... DataStructures/CF86D_PowerfulArray.s"
-	@echo "... DataStructures/CF899E_SegmentsRemoval.o"
-	@echo "... DataStructures/CF899E_SegmentsRemoval.i"
-	@echo "... DataStructures/CF899E_SegmentsRemoval.s"
 	@echo "... DataStructures/CF899F_LettersRemoving.o"
 	@echo "... DataStructures/CF899F_LettersRemoving.i"
 	@echo "... DataStructures/CF899F_LettersRemoving.s"
 	@echo "... DataStructures/Exun2017_ArrayStudy.o"
 	@echo "... DataStructures/Exun2017_ArrayStudy.i"
 	@echo "... DataStructures/Exun2017_ArrayStudy.s"
-	@echo "... DataStructures/HackerEarth_CityAndCampers2.o"
-	@echo "... DataStructures/HackerEarth_CityAndCampers2.i"
-	@echo "... DataStructures/HackerEarth_CityAndCampers2.s"
-	@echo "... DataStructures/HackerEarth_CityAndSoldiers.o"
-	@echo "... DataStructures/HackerEarth_CityAndSoldiers.i"
-	@echo "... DataStructures/HackerEarth_CityAndSoldiers.s"
-	@echo "... DataStructures/HackerEarth_FightInNinjaWorld.o"
-	@echo "... DataStructures/HackerEarth_FightInNinjaWorld.i"
-	@echo "... DataStructures/HackerEarth_FightInNinjaWorld.s"
-	@echo "... DataStructures/HackerEarth_HelpAshu.o"
-	@echo "... DataStructures/HackerEarth_HelpAshu.i"
-	@echo "... DataStructures/HackerEarth_HelpAshu.s"
-	@echo "... DataStructures/HackerEarth_ModifiedLIS.o"
-	@echo "... DataStructures/HackerEarth_ModifiedLIS.i"
-	@echo "... DataStructures/HackerEarth_ModifiedLIS.s"
-	@echo "... DataStructures/HackerEarth_MonkAndOtakuland.o"
-	@echo "... DataStructures/HackerEarth_MonkAndOtakuland.i"
-	@echo "... DataStructures/HackerEarth_MonkAndOtakuland.s"
-	@echo "... DataStructures/HackerEarth_RoyAndCoinBoxes.o"
-	@echo "... DataStructures/HackerEarth_RoyAndCoinBoxes.i"
-	@echo "... DataStructures/HackerEarth_RoyAndCoinBoxes.s"
 	@echo "... DataStructures/HackerEarth_Trie.o"
 	@echo "... DataStructures/HackerEarth_Trie.i"
 	@echo "... DataStructures/HackerEarth_Trie.s"
-	@echo "... DataStructures/Implementation/BinaryIndexedTrees.o"
-	@echo "... DataStructures/Implementation/BinaryIndexedTrees.i"
-	@echo "... DataStructures/Implementation/BinaryIndexedTrees.s"
-	@echo "... DataStructures/Implementation/DisjointSets.o"
-	@echo "... DataStructures/Implementation/DisjointSets.i"
-	@echo "... DataStructures/Implementation/DisjointSets.s"
+	@echo "... DataStructures/IOI2011_Race.o"
+	@echo "... DataStructures/IOI2011_Race.i"
+	@echo "... DataStructures/IOI2011_Race.s"
 	@echo "... DataStructures/Implementation/HeavyLightDecomposition.o"
 	@echo "... DataStructures/Implementation/HeavyLightDecomposition.i"
 	@echo "... DataStructures/Implementation/HeavyLightDecomposition.s"
@@ -12474,24 +6031,12 @@ help:
 	@echo "... DataStructures/Implementation/LazyPropSegmentTree_IntervalSum.o"
 	@echo "... DataStructures/Implementation/LazyPropSegmentTree_IntervalSum.i"
 	@echo "... DataStructures/Implementation/LazyPropSegmentTree_IntervalSum.s"
-	@echo "... DataStructures/Implementation/MergeSortTree.o"
-	@echo "... DataStructures/Implementation/MergeSortTree.i"
-	@echo "... DataStructures/Implementation/MergeSortTree.s"
-	@echo "... DataStructures/Implementation/PersistentSegmentTree.o"
-	@echo "... DataStructures/Implementation/PersistentSegmentTree.i"
-	@echo "... DataStructures/Implementation/PersistentSegmentTree.s"
-	@echo "... DataStructures/Implementation/PersistentSegmentTreeWithoutPointers.o"
-	@echo "... DataStructures/Implementation/PersistentSegmentTreeWithoutPointers.i"
-	@echo "... DataStructures/Implementation/PersistentSegmentTreeWithoutPointers.s"
-	@echo "... DataStructures/Implementation/Pointers.o"
-	@echo "... DataStructures/Implementation/Pointers.i"
-	@echo "... DataStructures/Implementation/Pointers.s"
+	@echo "... DataStructures/Implementation/LiChaoSegmentTree.o"
+	@echo "... DataStructures/Implementation/LiChaoSegmentTree.i"
+	@echo "... DataStructures/Implementation/LiChaoSegmentTree.s"
 	@echo "... DataStructures/Implementation/RangeQueryAndUpdates_PrefixTrick.o"
 	@echo "... DataStructures/Implementation/RangeQueryAndUpdates_PrefixTrick.i"
 	@echo "... DataStructures/Implementation/RangeQueryAndUpdates_PrefixTrick.s"
-	@echo "... DataStructures/Implementation/SegmentTree_RMQ.o"
-	@echo "... DataStructures/Implementation/SegmentTree_RMQ.i"
-	@echo "... DataStructures/Implementation/SegmentTree_RMQ.s"
 	@echo "... DataStructures/Implementation/SqrtDecomposition_IntervalSum.o"
 	@echo "... DataStructures/Implementation/SqrtDecomposition_IntervalSum.i"
 	@echo "... DataStructures/Implementation/SqrtDecomposition_IntervalSum.s"
@@ -12507,15 +6052,15 @@ help:
 	@echo "... DataStructures/LiveArchive_XorSum.o"
 	@echo "... DataStructures/LiveArchive_XorSum.i"
 	@echo "... DataStructures/LiveArchive_XorSum.s"
+	@echo "... DataStructures/SPOJ_ACQUIRE.o"
+	@echo "... DataStructures/SPOJ_ACQUIRE.i"
+	@echo "... DataStructures/SPOJ_ACQUIRE.s"
 	@echo "... DataStructures/SPOJ_COT.o"
 	@echo "... DataStructures/SPOJ_COT.i"
 	@echo "... DataStructures/SPOJ_COT.s"
 	@echo "... DataStructures/SPOJ_COT2.o"
 	@echo "... DataStructures/SPOJ_COT2.i"
 	@echo "... DataStructures/SPOJ_COT2.s"
-	@echo "... DataStructures/SPOJ_DQuery.o"
-	@echo "... DataStructures/SPOJ_DQuery.i"
-	@echo "... DataStructures/SPOJ_DQuery.s"
 	@echo "... DataStructures/SPOJ_DQuery_MosAlgo.o"
 	@echo "... DataStructures/SPOJ_DQuery_MosAlgo.i"
 	@echo "... DataStructures/SPOJ_DQuery_MosAlgo.s"
@@ -12549,21 +6094,21 @@ help:
 	@echo "... DataStructures/SPOJ_KQueryo.o"
 	@echo "... DataStructures/SPOJ_KQueryo.i"
 	@echo "... DataStructures/SPOJ_KQueryo.s"
-	@echo "... DataStructures/SPOJ_KthNumber.o"
-	@echo "... DataStructures/SPOJ_KthNumber.i"
-	@echo "... DataStructures/SPOJ_KthNumber.s"
 	@echo "... DataStructures/SPOJ_KthNumber_Persistence.o"
 	@echo "... DataStructures/SPOJ_KthNumber_Persistence.i"
 	@echo "... DataStructures/SPOJ_KthNumber_Persistence.s"
-	@echo "... DataStructures/SPOJ_OrderStatisticSet.o"
-	@echo "... DataStructures/SPOJ_OrderStatisticSet.i"
-	@echo "... DataStructures/SPOJ_OrderStatisticSet.s"
 	@echo "... DataStructures/SPOJ_OrderStatisticSet_Treap.o"
 	@echo "... DataStructures/SPOJ_OrderStatisticSet_Treap.i"
 	@echo "... DataStructures/SPOJ_OrderStatisticSet_Treap.s"
 	@echo "... DataStructures/SPOJ_QTREE1.o"
 	@echo "... DataStructures/SPOJ_QTREE1.i"
 	@echo "... DataStructures/SPOJ_QTREE1.s"
+	@echo "... DataStructures/SPOJ_QTREE4.o"
+	@echo "... DataStructures/SPOJ_QTREE4.i"
+	@echo "... DataStructures/SPOJ_QTREE4.s"
+	@echo "... DataStructures/SPOJ_QTREE5.o"
+	@echo "... DataStructures/SPOJ_QTREE5.i"
+	@echo "... DataStructures/SPOJ_QTREE5.s"
 	@echo "... DataStructures/SPOJ_RPAR.o"
 	@echo "... DataStructures/SPOJ_RPAR.i"
 	@echo "... DataStructures/SPOJ_RPAR.s"
@@ -12573,99 +6118,45 @@ help:
 	@echo "... DynamicProgramming/CC_PartitionCount.o"
 	@echo "... DynamicProgramming/CC_PartitionCount.i"
 	@echo "... DynamicProgramming/CC_PartitionCount.s"
-	@echo "... DynamicProgramming/CC_SealingUp.o"
-	@echo "... DynamicProgramming/CC_SealingUp.i"
-	@echo "... DynamicProgramming/CC_SealingUp.s"
-	@echo "... DynamicProgramming/CC_TiduAndFrustratedTeacher.o"
-	@echo "... DynamicProgramming/CC_TiduAndFrustratedTeacher.i"
-	@echo "... DynamicProgramming/CC_TiduAndFrustratedTeacher.s"
 	@echo "... DynamicProgramming/CC_TooMuchSweetness.o"
 	@echo "... DynamicProgramming/CC_TooMuchSweetness.i"
 	@echo "... DynamicProgramming/CC_TooMuchSweetness.s"
 	@echo "... DynamicProgramming/CF118D_CaesarsLegions.o"
 	@echo "... DynamicProgramming/CF118D_CaesarsLegions.i"
 	@echo "... DynamicProgramming/CF118D_CaesarsLegions.s"
-	@echo "... DynamicProgramming/CF347D_LuckyCommonSubsequence.o"
-	@echo "... DynamicProgramming/CF347D_LuckyCommonSubsequence.i"
-	@echo "... DynamicProgramming/CF347D_LuckyCommonSubsequence.s"
+	@echo "... DynamicProgramming/CF311B_CatsTransport.o"
+	@echo "... DynamicProgramming/CF311B_CatsTransport.i"
+	@echo "... DynamicProgramming/CF311B_CatsTransport.s"
+	@echo "... DynamicProgramming/CF319C_KalilaAndDimna.o"
+	@echo "... DynamicProgramming/CF319C_KalilaAndDimna.i"
+	@echo "... DynamicProgramming/CF319C_KalilaAndDimna.s"
+	@echo "... DynamicProgramming/CF321E_CielAndGondolas.o"
+	@echo "... DynamicProgramming/CF321E_CielAndGondolas.i"
+	@echo "... DynamicProgramming/CF321E_CielAndGondolas.s"
 	@echo "... DynamicProgramming/CF347D_LuckyCommonSubsequence2.o"
 	@echo "... DynamicProgramming/CF347D_LuckyCommonSubsequence2.i"
 	@echo "... DynamicProgramming/CF347D_LuckyCommonSubsequence2.s"
 	@echo "... DynamicProgramming/CF383D_Antimatter.o"
 	@echo "... DynamicProgramming/CF383D_Antimatter.i"
 	@echo "... DynamicProgramming/CF383D_Antimatter.s"
-	@echo "... DynamicProgramming/CF385C_BearAndPrimeNumbers.o"
-	@echo "... DynamicProgramming/CF385C_BearAndPrimeNumbers.i"
-	@echo "... DynamicProgramming/CF385C_BearAndPrimeNumbers.s"
 	@echo "... DynamicProgramming/CF407B_LongPath.o"
 	@echo "... DynamicProgramming/CF407B_LongPath.i"
 	@echo "... DynamicProgramming/CF407B_LongPath.s"
-	@echo "... DynamicProgramming/CF414B_MashmokhAndACM.o"
-	@echo "... DynamicProgramming/CF414B_MashmokhAndACM.i"
-	@echo "... DynamicProgramming/CF414B_MashmokhAndACM.s"
-	@echo "... DynamicProgramming/CF416C_BookingSystem.o"
-	@echo "... DynamicProgramming/CF416C_BookingSystem.i"
-	@echo "... DynamicProgramming/CF416C_BookingSystem.s"
-	@echo "... DynamicProgramming/CF430D_WorkingOut.o"
-	@echo "... DynamicProgramming/CF430D_WorkingOut.i"
-	@echo "... DynamicProgramming/CF430D_WorkingOut.s"
-	@echo "... DynamicProgramming/CF474D_Flowers.o"
-	@echo "... DynamicProgramming/CF474D_Flowers.i"
-	@echo "... DynamicProgramming/CF474D_Flowers.s"
-	@echo "... DynamicProgramming/CF478D_RedGreenTowers.o"
-	@echo "... DynamicProgramming/CF478D_RedGreenTowers.i"
-	@echo "... DynamicProgramming/CF478D_RedGreenTowers.s"
 	@echo "... DynamicProgramming/CF479D_RidingInALift.o"
 	@echo "... DynamicProgramming/CF479D_RidingInALift.i"
 	@echo "... DynamicProgramming/CF479D_RidingInALift.s"
 	@echo "... DynamicProgramming/CF495D_ObsessiveString.o"
 	@echo "... DynamicProgramming/CF495D_ObsessiveString.i"
 	@echo "... DynamicProgramming/CF495D_ObsessiveString.s"
-	@echo "... DynamicProgramming/CF4D_MysteriousPresent.o"
-	@echo "... DynamicProgramming/CF4D_MysteriousPresent.i"
-	@echo "... DynamicProgramming/CF4D_MysteriousPresent.s"
-	@echo "... DynamicProgramming/CF507D_TheMathsLecture.o"
-	@echo "... DynamicProgramming/CF507D_TheMathsLecture.i"
-	@echo "... DynamicProgramming/CF507D_TheMathsLecture.s"
-	@echo "... DynamicProgramming/CF544C_WritingCode.o"
-	@echo "... DynamicProgramming/CF544C_WritingCode.i"
-	@echo "... DynamicProgramming/CF544C_WritingCode.s"
-	@echo "... DynamicProgramming/CF580D_KefaAndDishes.o"
-	@echo "... DynamicProgramming/CF580D_KefaAndDishes.i"
-	@echo "... DynamicProgramming/CF580D_KefaAndDishes.s"
-	@echo "... DynamicProgramming/CF588D_DuffInBeach.o"
-	@echo "... DynamicProgramming/CF588D_DuffInBeach.i"
-	@echo "... DynamicProgramming/CF588D_DuffInBeach.s"
-	@echo "... DynamicProgramming/CF61D_EternalVictory.o"
-	@echo "... DynamicProgramming/CF61D_EternalVictory.i"
-	@echo "... DynamicProgramming/CF61D_EternalVictory.s"
-	@echo "... DynamicProgramming/CF628B_NewSkateboard.o"
-	@echo "... DynamicProgramming/CF628B_NewSkateboard.i"
-	@echo "... DynamicProgramming/CF628B_NewSkateboard.s"
-	@echo "... DynamicProgramming/CF706C_HardProblem.o"
-	@echo "... DynamicProgramming/CF706C_HardProblem.i"
-	@echo "... DynamicProgramming/CF706C_HardProblem.s"
-	@echo "... DynamicProgramming/CF711C_ColoringTrees.o"
-	@echo "... DynamicProgramming/CF711C_ColoringTrees.i"
-	@echo "... DynamicProgramming/CF711C_ColoringTrees.s"
-	@echo "... DynamicProgramming/CF762D_MaximumPath.o"
-	@echo "... DynamicProgramming/CF762D_MaximumPath.i"
-	@echo "... DynamicProgramming/CF762D_MaximumPath.s"
-	@echo "... DynamicProgramming/CF789C_FunctionsAgain.o"
-	@echo "... DynamicProgramming/CF789C_FunctionsAgain.i"
-	@echo "... DynamicProgramming/CF789C_FunctionsAgain.s"
+	@echo "... DynamicProgramming/CF626F_GroupProjects.o"
+	@echo "... DynamicProgramming/CF626F_GroupProjects.i"
+	@echo "... DynamicProgramming/CF626F_GroupProjects.s"
 	@echo "... DynamicProgramming/CF81E_Pairs.o"
 	@echo "... DynamicProgramming/CF81E_Pairs.i"
 	@echo "... DynamicProgramming/CF81E_Pairs.s"
-	@echo "... DynamicProgramming/CF837D_RoundSubset.o"
-	@echo "... DynamicProgramming/CF837D_RoundSubset.i"
-	@echo "... DynamicProgramming/CF837D_RoundSubset.s"
 	@echo "... DynamicProgramming/CF864E_Fire.o"
 	@echo "... DynamicProgramming/CF864E_Fire.i"
 	@echo "... DynamicProgramming/CF864E_Fire.s"
-	@echo "... DynamicProgramming/CoinChange.o"
-	@echo "... DynamicProgramming/CoinChange.i"
-	@echo "... DynamicProgramming/CoinChange.s"
 	@echo "... DynamicProgramming/Exun2017_Digex.o"
 	@echo "... DynamicProgramming/Exun2017_Digex.i"
 	@echo "... DynamicProgramming/Exun2017_Digex.s"
@@ -12681,51 +6172,18 @@ help:
 	@echo "... DynamicProgramming/GFG_ShortestCommonSupersequence.o"
 	@echo "... DynamicProgramming/GFG_ShortestCommonSupersequence.i"
 	@echo "... DynamicProgramming/GFG_ShortestCommonSupersequence.s"
-	@echo "... DynamicProgramming/HackerRank_Troyangles.o"
-	@echo "... DynamicProgramming/HackerRank_Troyangles.i"
-	@echo "... DynamicProgramming/HackerRank_Troyangles.s"
-	@echo "... DynamicProgramming/INOI_Brackets.o"
-	@echo "... DynamicProgramming/INOI_Brackets.i"
-	@echo "... DynamicProgramming/INOI_Brackets.s"
-	@echo "... DynamicProgramming/INOI_CalvinsGame.o"
-	@echo "... DynamicProgramming/INOI_CalvinsGame.i"
-	@echo "... DynamicProgramming/INOI_CalvinsGame.s"
-	@echo "... DynamicProgramming/INOI_SpecialSums.o"
-	@echo "... DynamicProgramming/INOI_SpecialSums.i"
-	@echo "... DynamicProgramming/INOI_SpecialSums.s"
+	@echo "... DynamicProgramming/HR_AlienLanguages.o"
+	@echo "... DynamicProgramming/HR_AlienLanguages.i"
+	@echo "... DynamicProgramming/HR_AlienLanguages.s"
+	@echo "... DynamicProgramming/HR_GuardiansOfTheLunatics.o"
+	@echo "... DynamicProgramming/HR_GuardiansOfTheLunatics.i"
+	@echo "... DynamicProgramming/HR_GuardiansOfTheLunatics.s"
 	@echo "... DynamicProgramming/IOI2000_PostOffices.o"
 	@echo "... DynamicProgramming/IOI2000_PostOffices.i"
 	@echo "... DynamicProgramming/IOI2000_PostOffices.s"
 	@echo "... DynamicProgramming/IOI96_AGame.o"
 	@echo "... DynamicProgramming/IOI96_AGame.i"
 	@echo "... DynamicProgramming/IOI96_AGame.s"
-	@echo "... DynamicProgramming/OPC_LongestPalindrome.o"
-	@echo "... DynamicProgramming/OPC_LongestPalindrome.i"
-	@echo "... DynamicProgramming/OPC_LongestPalindrome.s"
-	@echo "... DynamicProgramming/OPC_NumberOfTilings.o"
-	@echo "... DynamicProgramming/OPC_NumberOfTilings.i"
-	@echo "... DynamicProgramming/OPC_NumberOfTilings.s"
-	@echo "... DynamicProgramming/OnTrees/CF161D_DistanceTree.o"
-	@echo "... DynamicProgramming/OnTrees/CF161D_DistanceTree.i"
-	@echo "... DynamicProgramming/OnTrees/CF161D_DistanceTree.s"
-	@echo "... DynamicProgramming/OnTrees/CF337D_BookOfEvil.o"
-	@echo "... DynamicProgramming/OnTrees/CF337D_BookOfEvil.i"
-	@echo "... DynamicProgramming/OnTrees/CF337D_BookOfEvil.s"
-	@echo "... DynamicProgramming/OnTrees/CF440D_BerlandFederalization.o"
-	@echo "... DynamicProgramming/OnTrees/CF440D_BerlandFederalization.i"
-	@echo "... DynamicProgramming/OnTrees/CF440D_BerlandFederalization.s"
-	@echo "... DynamicProgramming/OnTrees/CF462D_ApplemanAndTree.o"
-	@echo "... DynamicProgramming/OnTrees/CF462D_ApplemanAndTree.i"
-	@echo "... DynamicProgramming/OnTrees/CF462D_ApplemanAndTree.s"
-	@echo "... DynamicProgramming/OnTrees/CF682C_AlyonaAndTheTree.o"
-	@echo "... DynamicProgramming/OnTrees/CF682C_AlyonaAndTheTree.i"
-	@echo "... DynamicProgramming/OnTrees/CF682C_AlyonaAndTheTree.s"
-	@echo "... DynamicProgramming/OnTrees/CF758E_BrokenTree.o"
-	@echo "... DynamicProgramming/OnTrees/CF758E_BrokenTree.i"
-	@echo "... DynamicProgramming/OnTrees/CF758E_BrokenTree.s"
-	@echo "... DynamicProgramming/OnTrees/CF771C_BearAndTreeJumps.o"
-	@echo "... DynamicProgramming/OnTrees/CF771C_BearAndTreeJumps.i"
-	@echo "... DynamicProgramming/OnTrees/CF771C_BearAndTreeJumps.s"
 	@echo "... DynamicProgramming/OnTrees/CF816C_KarenAndSupermarket.o"
 	@echo "... DynamicProgramming/OnTrees/CF816C_KarenAndSupermarket.i"
 	@echo "... DynamicProgramming/OnTrees/CF816C_KarenAndSupermarket.s"
@@ -12735,108 +6193,33 @@ help:
 	@echo "... DynamicProgramming/OnTrees/CF915F_ImbalanceValueOfTree.o"
 	@echo "... DynamicProgramming/OnTrees/CF915F_ImbalanceValueOfTree.i"
 	@echo "... DynamicProgramming/OnTrees/CF915F_ImbalanceValueOfTree.s"
-	@echo "... DynamicProgramming/OnTrees/CFDPOnTreesTutP3b.o"
-	@echo "... DynamicProgramming/OnTrees/CFDPOnTreesTutP3b.i"
-	@echo "... DynamicProgramming/OnTrees/CFDPOnTreesTutP3b.s"
-	@echo "... DynamicProgramming/OnTrees/CFDPOnTreesTutP4.o"
-	@echo "... DynamicProgramming/OnTrees/CFDPOnTreesTutP4.i"
-	@echo "... DynamicProgramming/OnTrees/CFDPOnTreesTutP4.s"
-	@echo "... DynamicProgramming/OnTrees/HackerEarth_CountingOnTree.o"
-	@echo "... DynamicProgramming/OnTrees/HackerEarth_CountingOnTree.i"
-	@echo "... DynamicProgramming/OnTrees/HackerEarth_CountingOnTree.s"
-	@echo "... DynamicProgramming/OnTrees/IOI2005_Rivers.o"
-	@echo "... DynamicProgramming/OnTrees/IOI2005_Rivers.i"
-	@echo "... DynamicProgramming/OnTrees/IOI2005_Rivers.s"
-	@echo "... DynamicProgramming/OnTrees/IOITC_CateringContracts.o"
-	@echo "... DynamicProgramming/OnTrees/IOITC_CateringContracts.i"
-	@echo "... DynamicProgramming/OnTrees/IOITC_CateringContracts.s"
-	@echo "... DynamicProgramming/OnTrees/OPC_3WaySplit.o"
-	@echo "... DynamicProgramming/OnTrees/OPC_3WaySplit.i"
-	@echo "... DynamicProgramming/OnTrees/OPC_3WaySplit.s"
-	@echo "... DynamicProgramming/OnTrees/OPC_CateringContracts.o"
-	@echo "... DynamicProgramming/OnTrees/OPC_CateringContracts.i"
-	@echo "... DynamicProgramming/OnTrees/OPC_CateringContracts.s"
 	@echo "... DynamicProgramming/OnTrees/SPOJ_TwoPaths.o"
 	@echo "... DynamicProgramming/OnTrees/SPOJ_TwoPaths.i"
 	@echo "... DynamicProgramming/OnTrees/SPOJ_TwoPaths.s"
-	@echo "... DynamicProgramming/OnTrees/SubtreesWithKNodes.o"
-	@echo "... DynamicProgramming/OnTrees/SubtreesWithKNodes.i"
-	@echo "... DynamicProgramming/OnTrees/SubtreesWithKNodes.s"
 	@echo "... DynamicProgramming/OnTrees/TIMUS_BinaryAppleTree.o"
 	@echo "... DynamicProgramming/OnTrees/TIMUS_BinaryAppleTree.i"
 	@echo "... DynamicProgramming/OnTrees/TIMUS_BinaryAppleTree.s"
-	@echo "... DynamicProgramming/SPOJ_ACMaker.o"
-	@echo "... DynamicProgramming/SPOJ_ACMaker.i"
-	@echo "... DynamicProgramming/SPOJ_ACMaker.s"
-	@echo "... DynamicProgramming/SPOJ_Activities.o"
-	@echo "... DynamicProgramming/SPOJ_Activities.i"
-	@echo "... DynamicProgramming/SPOJ_Activities.s"
-	@echo "... DynamicProgramming/SPOJ_Aibohphobia.o"
-	@echo "... DynamicProgramming/SPOJ_Aibohphobia.i"
-	@echo "... DynamicProgramming/SPOJ_Aibohphobia.s"
-	@echo "... DynamicProgramming/SPOJ_Alphacode.o"
-	@echo "... DynamicProgramming/SPOJ_Alphacode.i"
-	@echo "... DynamicProgramming/SPOJ_Alphacode.s"
-	@echo "... DynamicProgramming/SPOJ_BuyingApples.o"
-	@echo "... DynamicProgramming/SPOJ_BuyingApples.i"
-	@echo "... DynamicProgramming/SPOJ_BuyingApples.s"
+	@echo "... DynamicProgramming/OptimisationsAndTechniques/1D1DOptimisation.o"
+	@echo "... DynamicProgramming/OptimisationsAndTechniques/1D1DOptimisation.i"
+	@echo "... DynamicProgramming/OptimisationsAndTechniques/1D1DOptimisation.s"
+	@echo "... DynamicProgramming/SPOJ_ACQUIRE_1D1D.o"
+	@echo "... DynamicProgramming/SPOJ_ACQUIRE_1D1D.i"
+	@echo "... DynamicProgramming/SPOJ_ACQUIRE_1D1D.s"
+	@echo "... DynamicProgramming/SPOJ_BRKSTRING.o"
+	@echo "... DynamicProgramming/SPOJ_BRKSTRING.i"
+	@echo "... DynamicProgramming/SPOJ_BRKSTRING.s"
 	@echo "... DynamicProgramming/SPOJ_KRECT.o"
 	@echo "... DynamicProgramming/SPOJ_KRECT.i"
 	@echo "... DynamicProgramming/SPOJ_KRECT.s"
+	@echo "... DynamicProgramming/SPOJ_NKLeaves.o"
+	@echo "... DynamicProgramming/SPOJ_NKLeaves.i"
+	@echo "... DynamicProgramming/SPOJ_NKLeaves.s"
 	@echo "... DynamicProgramming/SPOJ_TheCourier.o"
 	@echo "... DynamicProgramming/SPOJ_TheCourier.i"
 	@echo "... DynamicProgramming/SPOJ_TheCourier.s"
-	@echo "... DynamicProgramming/USACO2017P2.o"
-	@echo "... DynamicProgramming/USACO2017P2.i"
-	@echo "... DynamicProgramming/USACO2017P2.s"
 	@echo "... DynamicProgramming/USACO_BalancedCowBreeds.o"
 	@echo "... DynamicProgramming/USACO_BalancedCowBreeds.i"
 	@echo "... DynamicProgramming/USACO_BalancedCowBreeds.s"
-	@echo "... DynamicProgramming/UVa10306_eCoins.o"
-	@echo "... DynamicProgramming/UVa10306_eCoins.i"
-	@echo "... DynamicProgramming/UVa10306_eCoins.s"
-	@echo "... DynamicProgramming/UVa10337_FlightPlanner.o"
-	@echo "... DynamicProgramming/UVa10337_FlightPlanner.i"
-	@echo "... DynamicProgramming/UVa10337_FlightPlanner.s"
-	@echo "... DynamicProgramming/UVa10496_CollectingBeepers.o"
-	@echo "... DynamicProgramming/UVa10496_CollectingBeepers.i"
-	@echo "... DynamicProgramming/UVa10496_CollectingBeepers.s"
-	@echo "... DynamicProgramming/UVa10616_DivisibleGroupSums.o"
-	@echo "... DynamicProgramming/UVa10616_DivisibleGroupSums.i"
-	@echo "... DynamicProgramming/UVa10616_DivisibleGroupSums.s"
-	@echo "... DynamicProgramming/UVa10721_BarCodes.o"
-	@echo "... DynamicProgramming/UVa10721_BarCodes.i"
-	@echo "... DynamicProgramming/UVa10721_BarCodes.s"
-	@echo "... DynamicProgramming/UVa10819_TroubleOf13Dots.o"
-	@echo "... DynamicProgramming/UVa10819_TroubleOf13Dots.i"
-	@echo "... DynamicProgramming/UVa10819_TroubleOf13Dots.s"
-	@echo "... DynamicProgramming/UVa11284_ShoppingTrip.o"
-	@echo "... DynamicProgramming/UVa11284_ShoppingTrip.i"
-	@echo "... DynamicProgramming/UVa11284_ShoppingTrip.s"
-	@echo "... DynamicProgramming/UVa11517_ExactChange.o"
-	@echo "... DynamicProgramming/UVa11517_ExactChange.i"
-	@echo "... DynamicProgramming/UVa11517_ExactChange.s"
-	@echo "... DynamicProgramming/UVa11566_LetsYumCha.o"
-	@echo "... DynamicProgramming/UVa11566_LetsYumCha.i"
-	@echo "... DynamicProgramming/UVa11566_LetsYumCha.s"
-	@echo "... DynamicProgramming/UVa216_GettingInLine.o"
-	@echo "... DynamicProgramming/UVa216_GettingInLine.i"
-	@echo "... DynamicProgramming/UVa216_GettingInLine.s"
-	@echo "... DynamicProgramming/UVa357_LetMeCountTheWays.o"
-	@echo "... DynamicProgramming/UVa357_LetMeCountTheWays.i"
-	@echo "... DynamicProgramming/UVa357_LetMeCountTheWays.s"
-	@echo "... DynamicProgramming/ZCO_Rectangle.o"
-	@echo "... DynamicProgramming/ZCO_Rectangle.i"
-	@echo "... DynamicProgramming/ZCO_Rectangle.s"
-	@echo "... FightingZombies.o"
-	@echo "... FightingZombies.i"
-	@echo "... FightingZombies.s"
-	@echo "... GraphTheory/APIO2009_ATMRobbery.o"
-	@echo "... GraphTheory/APIO2009_ATMRobbery.i"
-	@echo "... GraphTheory/APIO2009_ATMRobbery.s"
-	@echo "... GraphTheory/CC_KingdomUnity.o"
-	@echo "... GraphTheory/CC_KingdomUnity.i"
-	@echo "... GraphTheory/CC_KingdomUnity.s"
 	@echo "... GraphTheory/CC_TALCA.o"
 	@echo "... GraphTheory/CC_TALCA.i"
 	@echo "... GraphTheory/CC_TALCA.s"
@@ -12861,72 +6244,30 @@ help:
 	@echo "... GraphTheory/CF716D_CompleteTheGraph.o"
 	@echo "... GraphTheory/CF716D_CompleteTheGraph.i"
 	@echo "... GraphTheory/CF716D_CompleteTheGraph.s"
-	@echo "... GraphTheory/CF764C_TimofeyAndTree.o"
-	@echo "... GraphTheory/CF764C_TimofeyAndTree.i"
-	@echo "... GraphTheory/CF764C_TimofeyAndTree.s"
 	@echo "... GraphTheory/CF892E_Envy.o"
 	@echo "... GraphTheory/CF892E_Envy.i"
 	@echo "... GraphTheory/CF892E_Envy.s"
-	@echo "... GraphTheory/CF919D_Substring.o"
-	@echo "... GraphTheory/CF919D_Substring.i"
-	@echo "... GraphTheory/CF919D_Substring.s"
 	@echo "... GraphTheory/CF932D_Tree.o"
 	@echo "... GraphTheory/CF932D_Tree.i"
 	@echo "... GraphTheory/CF932D_Tree.s"
+	@echo "... GraphTheory/CF950E_DataCenterMaintenance.o"
+	@echo "... GraphTheory/CF950E_DataCenterMaintenance.i"
+	@echo "... GraphTheory/CF950E_DataCenterMaintenance.s"
 	@echo "... GraphTheory/CSA_TriangularMatrix.o"
 	@echo "... GraphTheory/CSA_TriangularMatrix.i"
 	@echo "... GraphTheory/CSA_TriangularMatrix.s"
-	@echo "... GraphTheory/IOI2009_Mecho.o"
-	@echo "... GraphTheory/IOI2009_Mecho.i"
-	@echo "... GraphTheory/IOI2009_Mecho.s"
 	@echo "... GraphTheory/IOITC_GraphLIS.o"
 	@echo "... GraphTheory/IOITC_GraphLIS.i"
 	@echo "... GraphTheory/IOITC_GraphLIS.s"
-	@echo "... GraphTheory/Implementation/Algorithm_BellmanFord.o"
-	@echo "... GraphTheory/Implementation/Algorithm_BellmanFord.i"
-	@echo "... GraphTheory/Implementation/Algorithm_BellmanFord.s"
-	@echo "... GraphTheory/Implementation/Algorithm_Dijkstra.o"
-	@echo "... GraphTheory/Implementation/Algorithm_Dijkstra.i"
-	@echo "... GraphTheory/Implementation/Algorithm_Dijkstra.s"
-	@echo "... GraphTheory/Implementation/Algorithm_FloydWarshall.o"
-	@echo "... GraphTheory/Implementation/Algorithm_FloydWarshall.i"
-	@echo "... GraphTheory/Implementation/Algorithm_FloydWarshall.s"
-	@echo "... GraphTheory/Implementation/Algorithm_Kruskals.o"
-	@echo "... GraphTheory/Implementation/Algorithm_Kruskals.i"
-	@echo "... GraphTheory/Implementation/Algorithm_Kruskals.s"
-	@echo "... GraphTheory/Implementation/ArticulationPointsAndBridges.o"
-	@echo "... GraphTheory/Implementation/ArticulationPointsAndBridges.i"
-	@echo "... GraphTheory/Implementation/ArticulationPointsAndBridges.s"
 	@echo "... GraphTheory/Implementation/DFSConnectedComponents.o"
 	@echo "... GraphTheory/Implementation/DFSConnectedComponents.i"
 	@echo "... GraphTheory/Implementation/DFSConnectedComponents.s"
-	@echo "... GraphTheory/Implementation/DetectingCyclesDirectedGraph.o"
-	@echo "... GraphTheory/Implementation/DetectingCyclesDirectedGraph.i"
-	@echo "... GraphTheory/Implementation/DetectingCyclesDirectedGraph.s"
-	@echo "... GraphTheory/Implementation/LowestCommonAncestor(BinaryLifting).o"
-	@echo "... GraphTheory/Implementation/LowestCommonAncestor(BinaryLifting).i"
-	@echo "... GraphTheory/Implementation/LowestCommonAncestor(BinaryLifting).s"
-	@echo "... GraphTheory/Implementation/LowestCommonAncestor.o"
-	@echo "... GraphTheory/Implementation/LowestCommonAncestor.i"
-	@echo "... GraphTheory/Implementation/LowestCommonAncestor.s"
 	@echo "... GraphTheory/Implementation/SCCTarjan.o"
 	@echo "... GraphTheory/Implementation/SCCTarjan.i"
 	@echo "... GraphTheory/Implementation/SCCTarjan.s"
-	@echo "... GraphTheory/Implementation/TopologicalSort.o"
-	@echo "... GraphTheory/Implementation/TopologicalSort.i"
-	@echo "... GraphTheory/Implementation/TopologicalSort.s"
-	@echo "... GraphTheory/OPC_HighSpeedNetwork.o"
-	@echo "... GraphTheory/OPC_HighSpeedNetwork.i"
-	@echo "... GraphTheory/OPC_HighSpeedNetwork.s"
 	@echo "... GraphTheory/SPOJ_AMR10J.o"
 	@echo "... GraphTheory/SPOJ_AMR10J.i"
 	@echo "... GraphTheory/SPOJ_AMR10J.s"
-	@echo "... GraphTheory/SPOJ_DynamicGraphConnectivity2.o"
-	@echo "... GraphTheory/SPOJ_DynamicGraphConnectivity2.i"
-	@echo "... GraphTheory/SPOJ_DynamicGraphConnectivity2.s"
-	@echo "... GraphTheory/SPOJ_LCA.o"
-	@echo "... GraphTheory/SPOJ_LCA.i"
-	@echo "... GraphTheory/SPOJ_LCA.s"
 	@echo "... GraphTheory/SPOJ_OTOCI.o"
 	@echo "... GraphTheory/SPOJ_OTOCI.i"
 	@echo "... GraphTheory/SPOJ_OTOCI.s"
@@ -12936,123 +6277,21 @@ help:
 	@echo "... GraphTheory/UVa10342_AlwaysLate.o"
 	@echo "... GraphTheory/UVa10342_AlwaysLate.i"
 	@echo "... GraphTheory/UVa10342_AlwaysLate.s"
-	@echo "... HolidayOfEquity.o"
-	@echo "... HolidayOfEquity.i"
-	@echo "... HolidayOfEquity.s"
 	@echo "... IARCS_PayingThePrice.o"
 	@echo "... IARCS_PayingThePrice.i"
 	@echo "... IARCS_PayingThePrice.s"
 	@echo "... IARCS_RankFraud.o"
 	@echo "... IARCS_RankFraud.i"
 	@echo "... IARCS_RankFraud.s"
-	@echo "... ICOPracticeProblems/AStandardTreeProblem/AStandardTreeProblem.o"
-	@echo "... ICOPracticeProblems/AStandardTreeProblem/AStandardTreeProblem.i"
-	@echo "... ICOPracticeProblems/AStandardTreeProblem/AStandardTreeProblem.s"
-	@echo "... ICOPracticeProblems/AbsolutelyIncreasingSubsequence/AbsolutelyIncreasingSubsequence.o"
-	@echo "... ICOPracticeProblems/AbsolutelyIncreasingSubsequence/AbsolutelyIncreasingSubsequence.i"
-	@echo "... ICOPracticeProblems/AbsolutelyIncreasingSubsequence/AbsolutelyIncreasingSubsequence.s"
-	@echo "... ICOPracticeProblems/Codeatsi/Codeatsi.o"
-	@echo "... ICOPracticeProblems/Codeatsi/Codeatsi.i"
-	@echo "... ICOPracticeProblems/Codeatsi/Codeatsi.s"
-	@echo "... ICOPracticeProblems/NinjaCake/NinjaCake.o"
-	@echo "... ICOPracticeProblems/NinjaCake/NinjaCake.i"
-	@echo "... ICOPracticeProblems/NinjaCake/NinjaCake.s"
-	@echo "... ICOPracticeProblems/PyramidFalls/PyramidFalls.o"
-	@echo "... ICOPracticeProblems/PyramidFalls/PyramidFalls.i"
-	@echo "... ICOPracticeProblems/PyramidFalls/PyramidFalls.s"
-	@echo "... ICOPracticeProblems/YetAnotherGeometryProblem.o"
-	@echo "... ICOPracticeProblems/YetAnotherGeometryProblem.i"
-	@echo "... ICOPracticeProblems/YetAnotherGeometryProblem.s"
-	@echo "... ICOPracticeProblems/YetAnotherGeometryProblem/YetAnotherGeometryProblem.o"
-	@echo "... ICOPracticeProblems/YetAnotherGeometryProblem/YetAnotherGeometryProblem.i"
-	@echo "... ICOPracticeProblems/YetAnotherGeometryProblem/YetAnotherGeometryProblem.s"
-	@echo "... INOI2017P2.o"
-	@echo "... INOI2017P2.i"
-	@echo "... INOI2017P2.s"
-	@echo "... INOI_BinaryStrings.o"
-	@echo "... INOI_BinaryStrings.i"
-	@echo "... INOI_BinaryStrings.s"
-	@echo "... INOI_HighwayBypass.o"
-	@echo "... INOI_HighwayBypass.i"
-	@echo "... INOI_HighwayBypass.s"
-	@echo "... INOI_SequenceLand.o"
-	@echo "... INOI_SequenceLand.i"
-	@echo "... INOI_SequenceLand.s"
-	@echo "... INOI_TableSum.o"
-	@echo "... INOI_TableSum.i"
-	@echo "... INOI_TableSum.s"
-	@echo "... INOI_Triathlon.o"
-	@echo "... INOI_Triathlon.i"
-	@echo "... INOI_Triathlon.s"
-	@echo "... INOI_WealthDisparity.o"
-	@echo "... INOI_WealthDisparity.i"
-	@echo "... INOI_WealthDisparity.s"
-	@echo "... IOITC_BabaAndBitmasks.o"
-	@echo "... IOITC_BabaAndBitmasks.i"
-	@echo "... IOITC_BabaAndBitmasks.s"
-	@echo "... LazyLoading.o"
-	@echo "... LazyLoading.i"
-	@echo "... LazyLoading.s"
-	@echo "... ManicMoving.o"
-	@echo "... ManicMoving.i"
-	@echo "... ManicMoving.s"
-	@echo "... MaxPath.o"
-	@echo "... MaxPath.i"
-	@echo "... MaxPath.s"
 	@echo "... Misc.o"
 	@echo "... Misc.i"
 	@echo "... Misc.s"
-	@echo "... OPC_EqualGifts.o"
-	@echo "... OPC_EqualGifts.i"
-	@echo "... OPC_EqualGifts.s"
-	@echo "... OPC_IndPyramid.o"
-	@echo "... OPC_IndPyramid.i"
-	@echo "... OPC_IndPyramid.s"
-	@echo "... OPC_LeadGame.o"
-	@echo "... OPC_LeadGame.i"
-	@echo "... OPC_LeadGame.s"
-	@echo "... OPC_MinimumTurnRoute.o"
-	@echo "... OPC_MinimumTurnRoute.i"
-	@echo "... OPC_MinimumTurnRoute.s"
-	@echo "... OPC_RailwayCateringContacts.o"
-	@echo "... OPC_RailwayCateringContacts.i"
-	@echo "... OPC_RailwayCateringContacts.s"
-	@echo "... OPC_SiruseriMetro.o"
-	@echo "... OPC_SiruseriMetro.i"
-	@echo "... OPC_SiruseriMetro.s"
-	@echo "... OtherAlgorithms/Bitmasks.o"
-	@echo "... OtherAlgorithms/Bitmasks.i"
-	@echo "... OtherAlgorithms/Bitmasks.s"
-	@echo "... OtherAlgorithms/GreatestCommonDivisor.o"
-	@echo "... OtherAlgorithms/GreatestCommonDivisor.i"
-	@echo "... OtherAlgorithms/GreatestCommonDivisor.s"
-	@echo "... OtherAlgorithms/IntervalPartitioning.o"
-	@echo "... OtherAlgorithms/IntervalPartitioning.i"
-	@echo "... OtherAlgorithms/IntervalPartitioning.s"
-	@echo "... OtherAlgorithms/IntervalScheduling.o"
-	@echo "... OtherAlgorithms/IntervalScheduling.i"
-	@echo "... OtherAlgorithms/IntervalScheduling.s"
-	@echo "... OtherAlgorithms/KnapsackProblem.o"
-	@echo "... OtherAlgorithms/KnapsackProblem.i"
-	@echo "... OtherAlgorithms/KnapsackProblem.s"
 	@echo "... OtherAlgorithms/Knuth-Morris-Pratt-Algorithm.o"
 	@echo "... OtherAlgorithms/Knuth-Morris-Pratt-Algorithm.i"
 	@echo "... OtherAlgorithms/Knuth-Morris-Pratt-Algorithm.s"
-	@echo "... OtherAlgorithms/LongestIncreasingSubsequence.o"
-	@echo "... OtherAlgorithms/LongestIncreasingSubsequence.i"
-	@echo "... OtherAlgorithms/LongestIncreasingSubsequence.s"
 	@echo "... OtherAlgorithms/ManachersAlgo.o"
 	@echo "... OtherAlgorithms/ManachersAlgo.i"
 	@echo "... OtherAlgorithms/ManachersAlgo.s"
-	@echo "... OtherAlgorithms/MatrixExponentiation-FibSequence.o"
-	@echo "... OtherAlgorithms/MatrixExponentiation-FibSequence.i"
-	@echo "... OtherAlgorithms/MatrixExponentiation-FibSequence.s"
-	@echo "... OtherAlgorithms/MatrixExponentiation.o"
-	@echo "... OtherAlgorithms/MatrixExponentiation.i"
-	@echo "... OtherAlgorithms/MatrixExponentiation.s"
-	@echo "... OtherAlgorithms/Max2DRangeSum.o"
-	@echo "... OtherAlgorithms/Max2DRangeSum.i"
-	@echo "... OtherAlgorithms/Max2DRangeSum.s"
 	@echo "... OtherAlgorithms/ModularInverse.o"
 	@echo "... OtherAlgorithms/ModularInverse.i"
 	@echo "... OtherAlgorithms/ModularInverse.s"
@@ -13062,213 +6301,9 @@ help:
 	@echo "... OtherAlgorithms/SPOJ_DynamicGraphConnectivity2.o"
 	@echo "... OtherAlgorithms/SPOJ_DynamicGraphConnectivity2.i"
 	@echo "... OtherAlgorithms/SPOJ_DynamicGraphConnectivity2.s"
-	@echo "... OtherAlgorithms/Sieve.o"
-	@echo "... OtherAlgorithms/Sieve.i"
-	@echo "... OtherAlgorithms/Sieve.s"
-	@echo "... OtherAlgorithms/TernarySearch.o"
-	@echo "... OtherAlgorithms/TernarySearch.i"
-	@echo "... OtherAlgorithms/TernarySearch.s"
-	@echo "... PROC17_Traffic.o"
-	@echo "... PROC17_Traffic.i"
-	@echo "... PROC17_Traffic.s"
-	@echo "... Parquet.o"
-	@echo "... Parquet.i"
-	@echo "... Parquet.s"
-	@echo "... ProgressPie.o"
-	@echo "... ProgressPie.i"
-	@echo "... ProgressPie.s"
-	@echo "... RustAndMurderer.o"
-	@echo "... RustAndMurderer.i"
-	@echo "... RustAndMurderer.s"
-	@echo "... SIS.o"
-	@echo "... SIS.i"
-	@echo "... SIS.s"
-	@echo "... SPOJ_DNASequences.o"
-	@echo "... SPOJ_DNASequences.i"
-	@echo "... SPOJ_DNASequences.s"
-	@echo "... SPOJ_DNASequencesCopy.o"
-	@echo "... SPOJ_DNASequencesCopy.i"
-	@echo "... SPOJ_DNASequencesCopy.s"
-	@echo "... SPOJ_SubArrays.o"
-	@echo "... SPOJ_SubArrays.i"
-	@echo "... SPOJ_SubArrays.s"
-	@echo "... SynchronousShopping.o"
-	@echo "... SynchronousShopping.i"
-	@echo "... SynchronousShopping.s"
-	@echo "... SyntaxProgrammingProblems/CheapTravel.o"
-	@echo "... SyntaxProgrammingProblems/CheapTravel.i"
-	@echo "... SyntaxProgrammingProblems/CheapTravel.s"
-	@echo "... SyntaxProgrammingProblems/FancyFence.o"
-	@echo "... SyntaxProgrammingProblems/FancyFence.i"
-	@echo "... SyntaxProgrammingProblems/FancyFence.s"
-	@echo "... SyntaxProgrammingProblems/GoodSequences.o"
-	@echo "... SyntaxProgrammingProblems/GoodSequences.i"
-	@echo "... SyntaxProgrammingProblems/GoodSequences.s"
-	@echo "... SyntaxProgrammingProblems/GraphReversal.o"
-	@echo "... SyntaxProgrammingProblems/GraphReversal.i"
-	@echo "... SyntaxProgrammingProblems/GraphReversal.s"
-	@echo "... SyntaxProgrammingProblems/HelpTheSplitCorgis.o"
-	@echo "... SyntaxProgrammingProblems/HelpTheSplitCorgis.i"
-	@echo "... SyntaxProgrammingProblems/HelpTheSplitCorgis.s"
-	@echo "... SyntaxProgrammingProblems/HowManyRoutes.o"
-	@echo "... SyntaxProgrammingProblems/HowManyRoutes.i"
-	@echo "... SyntaxProgrammingProblems/HowManyRoutes.s"
-	@echo "... SyntaxProgrammingProblems/MinimumPossibleTraverse.o"
-	@echo "... SyntaxProgrammingProblems/MinimumPossibleTraverse.i"
-	@echo "... SyntaxProgrammingProblems/MinimumPossibleTraverse.s"
-	@echo "... SyntaxProgrammingProblems/ModifiedLCS.o"
-	@echo "... SyntaxProgrammingProblems/ModifiedLCS.i"
-	@echo "... SyntaxProgrammingProblems/ModifiedLCS.s"
-	@echo "... SyntaxProgrammingProblems/SolveTheGivenEquation.o"
-	@echo "... SyntaxProgrammingProblems/SolveTheGivenEquation.i"
-	@echo "... SyntaxProgrammingProblems/SolveTheGivenEquation.s"
-	@echo "... TwoStrings.o"
-	@echo "... TwoStrings.i"
-	@echo "... TwoStrings.s"
 	@echo "... USACO_CowIDs.o"
 	@echo "... USACO_CowIDs.i"
 	@echo "... USACO_CowIDs.s"
-	@echo "... USBvsPS2.o"
-	@echo "... USBvsPS2.i"
-	@echo "... USBvsPS2.s"
-	@echo "... UVa10684_Jackpot.o"
-	@echo "... UVa10684_Jackpot.i"
-	@echo "... UVa10684_Jackpot.s"
-	@echo "... UVa10755_GarbageHeap.o"
-	@echo "... UVa10755_GarbageHeap.i"
-	@echo "... UVa10755_GarbageHeap.s"
-	@echo "... UVa11456_Trainsorting.o"
-	@echo "... UVa11456_Trainsorting.i"
-	@echo "... UVa11456_Trainsorting.s"
-	@echo "... UVa1177_AGeneralRecurrenceRelation.o"
-	@echo "... UVa1177_AGeneralRecurrenceRelation.i"
-	@echo "... UVa1177_AGeneralRecurrenceRelation.s"
-	@echo "... UVa12405_Scarecrow.o"
-	@echo "... UVa12405_Scarecrow.i"
-	@echo "... UVa12405_Scarecrow.s"
-	@echo "... UVa787_MaxSubSequenceProduct.o"
-	@echo "... UVa787_MaxSubSequenceProduct.i"
-	@echo "... UVa787_MaxSubSequenceProduct.s"
-	@echo "... UVa927.o"
-	@echo "... UVa927.i"
-	@echo "... UVa927.s"
-	@echo "... UVa_8Queens.o"
-	@echo "... UVa_8Queens.i"
-	@echo "... UVa_8Queens.s"
-	@echo "... UVa_AnotherNQueenProblem.o"
-	@echo "... UVa_AnotherNQueenProblem.i"
-	@echo "... UVa_AnotherNQueenProblem.s"
-	@echo "... UVa_BackToThe8Queens.o"
-	@echo "... UVa_BackToThe8Queens.i"
-	@echo "... UVa_BackToThe8Queens.s"
-	@echo "... UVa_Bars.o"
-	@echo "... UVa_Bars.i"
-	@echo "... UVa_Bars.s"
-	@echo "... UVa_BusDriverProblem.o"
-	@echo "... UVa_BusDriverProblem.i"
-	@echo "... UVa_BusDriverProblem.s"
-	@echo "... UVa_CD.o"
-	@echo "... UVa_CD.i"
-	@echo "... UVa_CD.s"
-	@echo "... UVa_CitizenAttentionOffices.o"
-	@echo "... UVa_CitizenAttentionOffices.i"
-	@echo "... UVa_CitizenAttentionOffices.s"
-	@echo "... UVa_ClosestSums.o"
-	@echo "... UVa_ClosestSums.i"
-	@echo "... UVa_ClosestSums.s"
-	@echo "... UVa_CoinCollector.o"
-	@echo "... UVa_CoinCollector.i"
-	@echo "... UVa_CoinCollector.s"
-	@echo "... UVa_DartAMania.o"
-	@echo "... UVa_DartAMania.i"
-	@echo "... UVa_DartAMania.s"
-	@echo "... UVa_ExactSum.o"
-	@echo "... UVa_ExactSum.i"
-	@echo "... UVa_ExactSum.s"
-	@echo "... UVa_ExpertEnough.o"
-	@echo "... UVa_ExpertEnough.i"
-	@echo "... UVa_ExpertEnough.s"
-	@echo "... UVa_FillTheContainers.o"
-	@echo "... UVa_FillTheContainers.i"
-	@echo "... UVa_FillTheContainers.s"
-	@echo "... UVa_FractionsAgain.o"
-	@echo "... UVa_FractionsAgain.i"
-	@echo "... UVa_FractionsAgain.s"
-	@echo "... UVa_Grapevine.o"
-	@echo "... UVa_Grapevine.i"
-	@echo "... UVa_Grapevine.s"
-	@echo "... UVa_GraphColoring.o"
-	@echo "... UVa_GraphColoring.i"
-	@echo "... UVa_GraphColoring.s"
-	@echo "... UVa_GraphColoring2.o"
-	@echo "... UVa_GraphColoring2.i"
-	@echo "... UVa_GraphColoring2.s"
-	@echo "... UVa_GridGame.o"
-	@echo "... UVa_GridGame.i"
-	@echo "... UVa_GridGame.s"
-	@echo "... UVa_GroceryStore.o"
-	@echo "... UVa_GroceryStore.i"
-	@echo "... UVa_GroceryStore.s"
-	@echo "... UVa_HelpingFillBates.o"
-	@echo "... UVa_HelpingFillBates.i"
-	@echo "... UVa_HelpingFillBates.s"
-	@echo "... UVa_LEDTest.o"
-	@echo "... UVa_LEDTest.i"
-	@echo "... UVa_LEDTest.s"
-	@echo "... UVa_Lotto.o"
-	@echo "... UVa_Lotto.i"
-	@echo "... UVa_Lotto.s"
-	@echo "... UVa_MonkeyAndOiledBamboo.o"
-	@echo "... UVa_MonkeyAndOiledBamboo.i"
-	@echo "... UVa_MonkeyAndOiledBamboo.s"
-	@echo "... UVa_Password.o"
-	@echo "... UVa_Password.i"
-	@echo "... UVa_Password.s"
-	@echo "... UVa_PathInColouredField.o"
-	@echo "... UVa_PathInColouredField.i"
-	@echo "... UVa_PathInColouredField.s"
-	@echo "... UVa_PrimeRingProblem.o"
-	@echo "... UVa_PrimeRingProblem.i"
-	@echo "... UVa_PrimeRingProblem.s"
-	@echo "... UVa_RatAttack.o"
-	@echo "... UVa_RatAttack.i"
-	@echo "... UVa_RatAttack.s"
-	@echo "... UVa_Sales.o"
-	@echo "... UVa_Sales.i"
-	@echo "... UVa_Sales.s"
-	@echo "... UVa_SolveIt.o"
-	@echo "... UVa_SolveIt.i"
-	@echo "... UVa_SolveIt.s"
-	@echo "... UVa_SumItUp.o"
-	@echo "... UVa_SumItUp.i"
-	@echo "... UVa_SumItUp.s"
-	@echo "... UVa_TourDeFrance.o"
-	@echo "... UVa_TourDeFrance.i"
-	@echo "... UVa_TourDeFrance.s"
-	@echo "... UVa_Y2KAccountingBug.o"
-	@echo "... UVa_Y2KAccountingBug.i"
-	@echo "... UVa_Y2KAccountingBug.s"
-	@echo "... UVa_Zones.o"
-	@echo "... UVa_Zones.i"
-	@echo "... UVa_Zones.s"
-	@echo "... YogesMM.o"
-	@echo "... YogesMM.i"
-	@echo "... YogesMM.s"
-	@echo "... kthDivisor.o"
-	@echo "... kthDivisor.i"
-	@echo "... kthDivisor.s"
-	@echo "... lol.o"
-	@echo "... lol.i"
-	@echo "... lol.s"
-	@echo "... lolol.o"
-	@echo "... lolol.i"
-	@echo "... lolol.s"
-	@echo "... race.o"
-	@echo "... race.i"
-	@echo "... race.s"
-	@echo "... untitled.o"
-	@echo "... untitled.i"
-	@echo "... untitled.s"
 .PHONY : help
 
 

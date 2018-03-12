@@ -27,6 +27,490 @@
 					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="CF950E_DataCenterMaintenance">
+				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CF950E_DataCenterMaintenance" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 CF950E_DataCenterMaintenance"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CF950E_DataCenterMaintenance/fast">
+				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CF950E_DataCenterMaintenance" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 CF950E_DataCenterMaintenance/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="HR_AlienLanguages">
+				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/HR_AlienLanguages" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 HR_AlienLanguages"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="HR_AlienLanguages/fast">
+				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/HR_AlienLanguages" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 HR_AlienLanguages/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SPOJ_BRKSTRING">
+				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/SPOJ_BRKSTRING" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 SPOJ_BRKSTRING"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SPOJ_BRKSTRING/fast">
+				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/SPOJ_BRKSTRING" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 SPOJ_BRKSTRING/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CF321E_CielAndGondolas">
+				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CF321E_CielAndGondolas" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 CF321E_CielAndGondolas"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CF321E_CielAndGondolas/fast">
+				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CF321E_CielAndGondolas" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 CF321E_CielAndGondolas/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CF319C_KalilaAndDimna">
+				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CF319C_KalilaAndDimna" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 CF319C_KalilaAndDimna"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CF319C_KalilaAndDimna/fast">
+				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CF319C_KalilaAndDimna" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 CF319C_KalilaAndDimna/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DivideAndConquerOptimisation">
+				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/DivideAndConquerOptimisation" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 DivideAndConquerOptimisation"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DivideAndConquerOptimisation/fast">
+				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/DivideAndConquerOptimisation" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 DivideAndConquerOptimisation/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1D1DOptimisation">
+				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/1D1DOptimisation" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 1D1DOptimisation"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1D1DOptimisation/fast">
+				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/1D1DOptimisation" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 1D1DOptimisation/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="KnuthOptimisation">
+				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/KnuthOptimisation" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 KnuthOptimisation"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="KnuthOptimisation/fast">
+				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/KnuthOptimisation" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 KnuthOptimisation/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SPOJ_ACQUIRE">
+				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/SPOJ_ACQUIRE" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 SPOJ_ACQUIRE"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SPOJ_ACQUIRE/fast">
+				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/SPOJ_ACQUIRE" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 SPOJ_ACQUIRE/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SPOJ_QTREE4">
+				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/SPOJ_QTREE4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 SPOJ_QTREE4"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SPOJ_QTREE4/fast">
+				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/SPOJ_QTREE4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 SPOJ_QTREE4/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SPOJ_QTREE5">
+				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/SPOJ_QTREE5" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 SPOJ_QTREE5"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SPOJ_QTREE5/fast">
+				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/SPOJ_QTREE5" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 SPOJ_QTREE5/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="CF505D_KitayutasTechnology">
 				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CF505D_KitayutasTechnology" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
@@ -66,6 +550,50 @@
 				</Compiler>
 				<MakeCommands>
 					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 CF505D_KitayutasTechnology/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ConvexHullTrick2">
+				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/ConvexHullTrick2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 ConvexHullTrick2"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ConvexHullTrick2/fast">
+				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/ConvexHullTrick2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 ConvexHullTrick2/fast"/>
 					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
@@ -154,6 +682,50 @@
 				</Compiler>
 				<MakeCommands>
 					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 IOITC_GraphLIS/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ConvexHullTrick">
+				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/ConvexHullTrick" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 ConvexHullTrick"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ConvexHullTrick/fast">
+				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/ConvexHullTrick" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 ConvexHullTrick/fast"/>
 					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
@@ -511,6 +1083,50 @@
 					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="CF311B_CatsTransport">
+				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CF311B_CatsTransport" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 CF311B_CatsTransport"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CF311B_CatsTransport/fast">
+				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CF311B_CatsTransport" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 CF311B_CatsTransport/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="SPOJ_GSS6">
 				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/SPOJ_GSS6" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
@@ -594,6 +1210,50 @@
 				</Compiler>
 				<MakeCommands>
 					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 SPOJ_OrderStatisticSet_Treap/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LiChaoSegmentTree">
+				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/LiChaoSegmentTree" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 LiChaoSegmentTree"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LiChaoSegmentTree/fast">
+				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/LiChaoSegmentTree" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 LiChaoSegmentTree/fast"/>
 					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
@@ -1039,6 +1699,50 @@
 					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="HR_GuardiansOfTheLunatics">
+				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/HR_GuardiansOfTheLunatics" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 HR_GuardiansOfTheLunatics"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="HR_GuardiansOfTheLunatics/fast">
+				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/HR_GuardiansOfTheLunatics" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 HR_GuardiansOfTheLunatics/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="CC_XorQueries">
 				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CC_XorQueries" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
@@ -1391,6 +2095,50 @@
 					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="CF600E_LomsatGelral">
+				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CF600E_LomsatGelral" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 CF600E_LomsatGelral"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CF600E_LomsatGelral/fast">
+				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CF600E_LomsatGelral" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 CF600E_LomsatGelral/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="ModularInverse">
 				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/ModularInverse" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
@@ -1518,6 +2266,50 @@
 				</Compiler>
 				<MakeCommands>
 					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 SPOJ_GSS2/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="IOI2011_Race">
+				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/IOI2011_Race" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 IOI2011_Race"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="IOI2011_Race/fast">
+				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/IOI2011_Race" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 IOI2011_Race/fast"/>
 					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
@@ -1738,6 +2530,50 @@
 				</Compiler>
 				<MakeCommands>
 					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 SPOJ_KQuery/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SPOJ_ACQUIRE_1D1D">
+				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/SPOJ_ACQUIRE_1D1D" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 SPOJ_ACQUIRE_1D1D"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SPOJ_ACQUIRE_1D1D/fast">
+				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/SPOJ_ACQUIRE_1D1D" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 SPOJ_ACQUIRE_1D1D/fast"/>
 					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
@@ -3645,6 +4481,50 @@
 					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="CF342E_XeniaAndTree_Centroid">
+				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CF342E_XeniaAndTree_Centroid" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 CF342E_XeniaAndTree_Centroid"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CF342E_XeniaAndTree_Centroid/fast">
+				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CF342E_XeniaAndTree_Centroid" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 CF342E_XeniaAndTree_Centroid/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="SPOJ_KthNumber_Persistence">
 				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/SPOJ_KthNumber_Persistence" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
@@ -3909,6 +4789,50 @@
 					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="SPOJ_NKLeaves">
+				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/SPOJ_NKLeaves" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 SPOJ_NKLeaves"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SPOJ_NKLeaves/fast">
+				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/SPOJ_NKLeaves" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 SPOJ_NKLeaves/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="Treap">
 				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Treap" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
@@ -4080,6 +5004,50 @@
 				</Compiler>
 				<MakeCommands>
 					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 PointsLinesAndStuff/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CC_CyclistRace">
+				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CC_CyclistRace" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 CC_CyclistRace"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CC_CyclistRace/fast">
+				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CC_CyclistRace" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 CC_CyclistRace/fast"/>
 					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
@@ -4344,6 +5312,50 @@
 				</Compiler>
 				<MakeCommands>
 					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 SPOJ_QTREE1/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CF626F_GroupProjects">
+				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CF626F_GroupProjects" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 CF626F_GroupProjects"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CF626F_GroupProjects/fast">
+				<Option output="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CF626F_GroupProjects" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 CF626F_GroupProjects/fast"/>
 					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
@@ -5364,1235 +6376,420 @@
 		</Build>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/AIO_CoreysParty.cpp">
 			<Option target="AIO_CoreysParty"/>
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/BitMasking.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/BlownGarland.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/CCC_GreedyForPies.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ CHEFPCHF.cpp">
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/CC_BrokenClock.cpp">
 			<Option target="CC_BrokenClock"/>
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/CC_CAPTCITI.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/CC_CHEFSIGN.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/CC_Calculator.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefAndDice.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefAndFeast.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefAndFibonacciArray.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefAndMagicArrays.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefAndPrimeQueries.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefAndSubarray.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefAndSubsequences.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefAndTraingles.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefAndVolunteerService.cpp">
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefAndXorQueries.cpp">
 			<Option target="CC_ChefAndXorQueries"/>
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefGoesLeftRight.cpp">
 			<Option target="CC_ChefGoesLeftRight"/>
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefandCycledCycles.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/CC_CleaningTheSpace.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ConnectingComputers.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ConsecutiveSnakes.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/CC_FillTheMatrix.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/CC_IPCTrainers.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/CC_Impersonating.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/CC_JosephLand.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/CC_PairWiseUnionOfSet.cpp">
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ProductOnSegment.cpp">
-			<Option target="Competitive_Programming"/>
 			<Option target="CC_ProductOnSegment"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/CC_PyramidFalls.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/CC_RobotsInADAG.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/CC_SNCOUP.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/CC_SerejaAndCommands.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ShootingOnTheArray.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/CC_SnakesAndDiscussion.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/CC_SnakesAndGraph.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/CC_SumOfCubes.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/CC_TiduAndRatings.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/CC_TravelingMinister.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/CC_Triplets.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/CC_WeaselDoesXOROnTree.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/CC_WeaselFindsStaircase.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/CC_WeirdBacteria.cpp">
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/CF13E_Holes.cpp">
 			<Option target="CF13E_Holes"/>
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/CF220B_LittleElephantAndArray.cpp">
 			<Option target="CF220B_LittleElephantAndArray"/>
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/CF27E_SmallestNumberWithGivenDivisors.cpp">
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/CF340D_BubbleSortGraph.cpp">
 			<Option target="CF340D_BubbleSortGraph"/>
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/CF519E_AAndBLectureRooms.cpp">
 			<Option target="CF519E_AAndBLectureRooms"/>
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/CF525E_AnyaAndCubes.cpp">
-			<Option target="Competitive_Programming"/>
 			<Option target="CF525E_AnyaAndCubes"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/CF688E_TheValuesYouCanMake.cpp">
 			<Option target="CF688E_TheValuesYouCanMake"/>
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/CF747C_Servers.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/CF747D_WinterIsComing.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/COREPrelims_AuntyPrime.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/ComputationalGeometry/Implementation/GeometryStuff.cpp">
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/ComputationalGeometry/Implementation/PointsLinesAndStuff.cpp">
 			<Option target="PointsLinesAndStuff"/>
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/(TODO)HackerEarth_LittleDeepuAndArray.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/(TODO)OPC_FindThePermutation.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/(TODO)SPOJ_DynamicGraphConnectivity.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_BlockedWebsites.cpp">
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_ChefAndGraphQueries.cpp">
 			<Option target="CC_ChefAndGraphQueries"/>
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_ChefAndMediumProblem2.cpp">
-			<Option target="Competitive_Programming"/>
 			<Option target="CC_ChefAndMediumProblem2"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_ChefAndOddQueries.cpp">
 			<Option target="CC_ChefAndOddQueries"/>
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_ChefAndQueries.cpp">
-			<Option target="Competitive_Programming"/>
 			<Option target="CC_ChefAndQueries"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_ChefAndSubarrayQueries.cpp">
 			<Option target="CC_ChefAndSubarrayQueries"/>
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_ChefAndSubarrayQueries2.cpp">
 			<Option target="CC_ChefAndSubarrayQueries2"/>
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_CloneMe.cpp">
 			<Option target="CC_CloneMe"/>
-			<Option target="Competitive_Programming"/>
+		</Unit>
+		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_CyclistRace.cpp">
+			<Option target="CC_CyclistRace"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_GiveAway.cpp">
 			<Option target="CC_GiveAway"/>
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_LoversGift.cpp">
 			<Option target="CC_LoversGift"/>
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_LoversGift2.cpp.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_MultiplesOf3.cpp">
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_PishtyAndTree.cpp">
 			<Option target="CC_PishtyAndTree"/>
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_PishtyAndTree_Alternate.cpp">
 			<Option target="CC_PishtyAndTree_Alternate"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_Sorting.cpp">
 			<Option target="CC_Sorting"/>
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_StrangeQueries.cpp">
 			<Option target="CC_StrangeQueries"/>
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_SubInversing.cpp">
 			<Option target="CC_SubInversing"/>
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_XorQueries.cpp">
 			<Option target="CC_XorQueries"/>
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CF145E_LuckyQueries.cpp">
 			<Option target="CF145E_LuckyQueries"/>
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CF226E_NobleKnightsPath.cpp">
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CF342E_XeniaAndTree.cpp">
 			<Option target="CF342E_XeniaAndTree"/>
-			<Option target="Competitive_Programming"/>
+		</Unit>
+		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CF342E_XeniaAndTree_Centroid.cpp">
+			<Option target="CF342E_XeniaAndTree_Centroid"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CF348C_SubsetSums.cpp">
 			<Option target="CF348C_SubsetSums"/>
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CF375D_TreeAndQueries.cpp">
 			<Option target="CF375D_TreeAndQueries"/>
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CF398D_InstantMessenger.cpp">
 			<Option target="CF398D_InstantMessenger"/>
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CF446C_DZYLovesFibonacciNumbers.cpp">
 			<Option target="CF446C_DZYLovesFibonacciNumbers"/>
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CF506_MrKutayutasColorfulGraph.cpp">
 			<Option target="CF506_MrKutayutasColorfulGraph"/>
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CF589G_Hiring.cpp">
 			<Option target="CF589G_Hiring"/>
-			<Option target="Competitive_Programming"/>
+		</Unit>
+		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CF600E_LomsatGelral.cpp">
+			<Option target="CF600E_LomsatGelral"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CF617E_XORAndFavouriteNumber.cpp">
-			<Option target="Competitive_Programming"/>
 			<Option target="CF617E_XORAndFavouriteNumber"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CF686D_KayAndSnowflake.cpp">
-			<Option target="Competitive_Programming"/>
 			<Option target="CF686D_KayAndSnowflake"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CF86D_PowerfulArray.cpp">
 			<Option target="CF86D_PowerfulArray"/>
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CF899E_SegmentsRemoval.cpp">
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CF899F_LettersRemoving.cpp">
 			<Option target="CF899F_LettersRemoving"/>
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/Exun2017_ArrayStudy.cpp">
 			<Option target="Exun2017_ArrayStudy"/>
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/HackerEarth_CityAndCampers2.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/HackerEarth_CityAndSoldiers.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/HackerEarth_FightInNinjaWorld.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/HackerEarth_HelpAshu.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/HackerEarth_ModifiedLIS.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/HackerEarth_MonkAndOtakuland.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/HackerEarth_RoyAndCoinBoxes.cpp">
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/HackerEarth_Trie.cpp">
 			<Option target="HackerEarth_Trie"/>
-			<Option target="Competitive_Programming"/>
 		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/Implementation/BinaryIndexedTrees.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/Implementation/DisjointSets.cpp">
-			<Option target="Competitive_Programming"/>
+		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/IOI2011_Race.cpp">
+			<Option target="IOI2011_Race"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/Implementation/HeavyLightDecomposition.cpp">
 			<Option target="HeavyLightDecomposition"/>
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/Implementation/ImplicitTreap.cpp">
 			<Option target="ImplicitTreap"/>
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/Implementation/LazyPropSegmentTree_IntervalSum.cpp">
 			<Option target="LazyPropSegmentTree_IntervalSum"/>
-			<Option target="Competitive_Programming"/>
 		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/Implementation/MergeSortTree.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/Implementation/PersistentSegmentTree.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/Implementation/PersistentSegmentTreeWithoutPointers.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/Implementation/Pointers.cpp">
-			<Option target="Competitive_Programming"/>
+		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/Implementation/LiChaoSegmentTree.cpp">
+			<Option target="LiChaoSegmentTree"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/Implementation/RangeQueryAndUpdates_PrefixTrick.cpp">
 			<Option target="RangeQueryAndUpdates_PrefixTrick"/>
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/Implementation/SegmentTree_RMQ.cpp">
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/Implementation/SqrtDecomposition_IntervalSum.cpp">
-			<Option target="Competitive_Programming"/>
 			<Option target="SqrtDecomposition_IntervalSum"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/Implementation/Treap.cpp">
 			<Option target="Treap"/>
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/Implementation/Tries.cpp">
-			<Option target="Competitive_Programming"/>
 			<Option target="Tries"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/KQuery2_alternate.cpp">
 			<Option target="KQuery2_alternate"/>
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/LiveArchive_XorSum.cpp">
 			<Option target="LiveArchive_XorSum"/>
-			<Option target="Competitive_Programming"/>
+		</Unit>
+		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_ACQUIRE.cpp">
+			<Option target="SPOJ_ACQUIRE"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_COT.cpp">
 			<Option target="SPOJ_COT"/>
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_COT2.cpp">
 			<Option target="SPOJ_COT2"/>
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_DQuery.cpp">
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_DQuery_MosAlgo.cpp">
 			<Option target="SPOJ_DQuery_MosAlgo"/>
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_DQuery_Persistence.cpp">
 			<Option target="SPOJ_DQuery_Persistence"/>
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_GSS1.cpp">
-			<Option target="Competitive_Programming"/>
 			<Option target="SPOJ_GSS1"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_GSS2.cpp">
 			<Option target="SPOJ_GSS2"/>
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_GSS3.cpp">
 			<Option target="SPOJ_GSS3"/>
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_GSS4.cpp">
 			<Option target="SPOJ_GSS4"/>
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_GSS5.cpp">
 			<Option target="SPOJ_GSS5"/>
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_GSS6.cpp">
 			<Option target="SPOJ_GSS6"/>
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_KQuery.cpp">
 			<Option target="SPOJ_KQuery"/>
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_KQuery2.cpp">
 			<Option target="SPOJ_KQuery2"/>
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_KQueryo.cpp">
 			<Option target="SPOJ_KQueryo"/>
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_KthNumber.cpp">
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_KthNumber_Persistence.cpp">
 			<Option target="SPOJ_KthNumber_Persistence"/>
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_OrderStatisticSet.cpp">
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_OrderStatisticSet_Treap.cpp">
 			<Option target="SPOJ_OrderStatisticSet_Treap"/>
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_QTREE1.cpp">
 			<Option target="SPOJ_QTREE1"/>
-			<Option target="Competitive_Programming"/>
+		</Unit>
+		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_QTREE4.cpp">
+			<Option target="SPOJ_QTREE4"/>
+		</Unit>
+		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_QTREE5.cpp">
+			<Option target="SPOJ_QTREE5"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_RPAR.cpp">
 			<Option target="SPOJ_RPAR"/>
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_SEGSQRSS.cpp">
 			<Option target="SPOJ_SEGSQRSS"/>
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CC_PartitionCount.cpp">
 			<Option target="CC_PartitionCount"/>
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CC_SealingUp.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CC_TiduAndFrustratedTeacher.cpp">
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CC_TooMuchSweetness.cpp">
 			<Option target="CC_TooMuchSweetness"/>
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF118D_CaesarsLegions.cpp">
 			<Option target="CF118D_CaesarsLegions"/>
-			<Option target="Competitive_Programming"/>
 		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF347D_LuckyCommonSubsequence.cpp">
-			<Option target="Competitive_Programming"/>
+		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF311B_CatsTransport.cpp">
+			<Option target="CF311B_CatsTransport"/>
+		</Unit>
+		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF319C_KalilaAndDimna.cpp">
+			<Option target="CF319C_KalilaAndDimna"/>
+		</Unit>
+		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF321E_CielAndGondolas.cpp">
+			<Option target="CF321E_CielAndGondolas"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF347D_LuckyCommonSubsequence2.cpp">
 			<Option target="CF347D_LuckyCommonSubsequence2"/>
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF383D_Antimatter.cpp">
-			<Option target="Competitive_Programming"/>
 			<Option target="CF383D_Antimatter"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF385C_BearAndPrimeNumbers.cpp">
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF407B_LongPath.cpp">
 			<Option target="CF407B_LongPath"/>
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF414B_MashmokhAndACM.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF416C_BookingSystem.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF430D_WorkingOut.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF474D_Flowers.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF478D_RedGreenTowers.cpp">
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF479D_RidingInALift.cpp">
 			<Option target="CF479D_RidingInALift"/>
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF495D_ObsessiveString.cpp">
 			<Option target="CF495D_ObsessiveString"/>
-			<Option target="Competitive_Programming"/>
 		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF4D_MysteriousPresent.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF507D_TheMathsLecture.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF544C_WritingCode.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF580D_KefaAndDishes.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF588D_DuffInBeach.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF61D_EternalVictory.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF628B_NewSkateboard.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF706C_HardProblem.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF711C_ColoringTrees.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF762D_MaximumPath.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF789C_FunctionsAgain.cpp">
-			<Option target="Competitive_Programming"/>
+		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF626F_GroupProjects.cpp">
+			<Option target="CF626F_GroupProjects"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF81E_Pairs.cpp">
 			<Option target="CF81E_Pairs"/>
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF837D_RoundSubset.cpp">
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF864E_Fire.cpp">
 			<Option target="CF864E_Fire"/>
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CoinChange.cpp">
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/Exun2017_Digex.cpp">
 			<Option target="Exun2017_Digex"/>
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/Exun2017_DigexReturns.cpp">
-			<Option target="Competitive_Programming"/>
 			<Option target="Exun2017_DigexReturns"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/ExunPrelimsP2.cpp">
 			<Option target="ExunPrelimsP2"/>
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/GCJ_LastHit.cpp">
 			<Option target="GCJ_LastHit"/>
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/GFG_ShortestCommonSupersequence.cpp">
 			<Option target="GFG_ShortestCommonSupersequence"/>
-			<Option target="Competitive_Programming"/>
 		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/HackerRank_Troyangles.cpp">
-			<Option target="Competitive_Programming"/>
+		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/HR_AlienLanguages.cpp">
+			<Option target="HR_AlienLanguages"/>
 		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/INOI_Brackets.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/INOI_CalvinsGame.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/INOI_SpecialSums.cpp">
-			<Option target="Competitive_Programming"/>
+		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/HR_GuardiansOfTheLunatics.cpp">
+			<Option target="HR_GuardiansOfTheLunatics"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/IOI2000_PostOffices.cpp">
 			<Option target="IOI2000_PostOffices"/>
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/IOI96_AGame.cpp">
 			<Option target="IOI96_AGame"/>
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OPC_LongestPalindrome.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OPC_NumberOfTilings.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/CF161D_DistanceTree.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/CF337D_BookOfEvil.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/CF440D_BerlandFederalization.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/CF462D_ApplemanAndTree.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/CF682C_AlyonaAndTheTree.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/CF758E_BrokenTree.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/CF771C_BearAndTreeJumps.cpp">
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/CF816C_KarenAndSupermarket.cpp">
 			<Option target="CF816C_KarenAndSupermarket"/>
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/CF868E_PolicemanAndTree.cpp">
 			<Option target="CF868E_PolicemanAndTree"/>
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/CF915F_ImbalanceValueOfTree.cpp">
-			<Option target="Competitive_Programming"/>
 			<Option target="CF915F_ImbalanceValueOfTree"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/CFDPOnTreesTutP3b.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/CFDPOnTreesTutP4.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/HackerEarth_CountingOnTree.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/IOI2005_Rivers.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/IOITC_CateringContracts.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/OPC_3WaySplit.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/OPC_CateringContracts.cpp">
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/SPOJ_TwoPaths.cpp">
 			<Option target="SPOJ_TwoPaths"/>
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/SubtreesWithKNodes.cpp">
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/TIMUS_BinaryAppleTree.cpp">
 			<Option target="TIMUS_BinaryAppleTree"/>
-			<Option target="Competitive_Programming"/>
 		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/SPOJ_ACMaker.cpp">
-			<Option target="Competitive_Programming"/>
+		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OptimisationsAndTechniques/1D1DOptimisation.cpp">
+			<Option target="1D1DOptimisation"/>
 		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/SPOJ_Activities.cpp">
-			<Option target="Competitive_Programming"/>
+		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/SPOJ_ACQUIRE_1D1D.cpp">
+			<Option target="SPOJ_ACQUIRE_1D1D"/>
 		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/SPOJ_Aibohphobia.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/SPOJ_Alphacode.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/SPOJ_BuyingApples.cpp">
-			<Option target="Competitive_Programming"/>
+		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/SPOJ_BRKSTRING.cpp">
+			<Option target="SPOJ_BRKSTRING"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/SPOJ_KRECT.cpp">
 			<Option target="SPOJ_KRECT"/>
-			<Option target="Competitive_Programming"/>
+		</Unit>
+		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/SPOJ_NKLeaves.cpp">
+			<Option target="SPOJ_NKLeaves"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/SPOJ_TheCourier.cpp">
 			<Option target="SPOJ_TheCourier"/>
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/USACO2017P2.cpp">
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/USACO_BalancedCowBreeds.cpp">
-			<Option target="Competitive_Programming"/>
 			<Option target="USACO_BalancedCowBreeds"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/UVa10306_eCoins.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/UVa10337_FlightPlanner.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/UVa10496_CollectingBeepers.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/UVa10616_DivisibleGroupSums.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/UVa10721_BarCodes.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/UVa10819_TroubleOf13Dots.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/UVa11284_ShoppingTrip.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/UVa11517_ExactChange.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/UVa11566_LetsYumCha.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/UVa216_GettingInLine.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/UVa357_LetMeCountTheWays.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/ZCO_Rectangle.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/FightingZombies.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/APIO2009_ATMRobbery.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/CC_KingdomUnity.cpp">
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/CC_TALCA.cpp">
 			<Option target="CC_TALCA"/>
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/CC_VasyaAndLittleBear.cpp">
-			<Option target="Competitive_Programming"/>
 			<Option target="CC_VasyaAndLittleBear"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/CF115A_Party.cpp">
-			<Option target="Competitive_Programming"/>
 			<Option target="CF115A_Party"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/CF257B_JzzhuAndCities.cpp">
 			<Option target="CF257B_JzzhuAndCities"/>
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/CF505D_KitayutasTechnology.cpp">
 			<Option target="CF505D_KitayutasTechnology"/>
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/CF567E_PresidentAndRoads.cpp">
-			<Option target="Competitive_Programming"/>
 			<Option target="CF567E_PresidentAndRoads"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/CF659E_NewReform.cpp">
 			<Option target="CF659E_NewReform"/>
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/CF716D_CompleteTheGraph.cpp">
 			<Option target="CF716D_CompleteTheGraph"/>
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/CF764C_TimofeyAndTree.cpp">
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/CF892E_Envy.cpp">
 			<Option target="CF892E_Envy"/>
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/CF919D_Substring.cpp">
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/CF932D_Tree.cpp">
 			<Option target="CF932D_Tree"/>
-			<Option target="Competitive_Programming"/>
+		</Unit>
+		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/CF950E_DataCenterMaintenance.cpp">
+			<Option target="CF950E_DataCenterMaintenance"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/CSA_TriangularMatrix.cpp">
 			<Option target="CSA_TriangularMatrix"/>
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/IOI2009_Mecho.cpp">
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/IOITC_GraphLIS.cpp">
 			<Option target="IOITC_GraphLIS"/>
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/Algorithm_BellmanFord.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/Algorithm_Dijkstra.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/Algorithm_FloydWarshall.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/Algorithm_Kruskals.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/ArticulationPointsAndBridges.cpp">
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/DFSConnectedComponents.cpp">
 			<Option target="DFSConnectedComponents"/>
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/DetectingCyclesDirectedGraph.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/LowestCommonAncestor(BinaryLifting).cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/LowestCommonAncestor.cpp">
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/SCCTarjan.cpp">
 			<Option target="SCCTarjan"/>
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/TopologicalSort.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/OPC_HighSpeedNetwork.cpp">
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/SPOJ_AMR10J.cpp">
 			<Option target="SPOJ_AMR10J"/>
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/SPOJ_DynamicGraphConnectivity2.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/SPOJ_LCA.cpp">
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/SPOJ_OTOCI.cpp">
 			<Option target="SPOJ_OTOCI"/>
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/USACO_Relocation.cpp">
-			<Option target="Competitive_Programming"/>
 			<Option target="USACO_Relocation"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/UVa10342_AlwaysLate.cpp">
 			<Option target="UVa10342_AlwaysLate"/>
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/HolidayOfEquity.cpp">
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/IARCS_PayingThePrice.cpp">
 			<Option target="IARCS_PayingThePrice"/>
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/IARCS_RankFraud.cpp">
 			<Option target="IARCS_RankFraud"/>
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/ICOPracticeProblems/AStandardTreeProblem/AStandardTreeProblem.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/ICOPracticeProblems/AbsolutelyIncreasingSubsequence/AbsolutelyIncreasingSubsequence.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/ICOPracticeProblems/Codeatsi/Codeatsi.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/ICOPracticeProblems/NinjaCake/NinjaCake.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/ICOPracticeProblems/PyramidFalls/PyramidFalls.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/ICOPracticeProblems/YetAnotherGeometryProblem.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/ICOPracticeProblems/YetAnotherGeometryProblem/YetAnotherGeometryProblem.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/INOI2017P2.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/INOI_BinaryStrings.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/INOI_HighwayBypass.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/INOI_SequenceLand.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/INOI_TableSum.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/INOI_Triathlon.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/INOI_WealthDisparity.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/IOITC_BabaAndBitmasks.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/LazyLoading.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/ManicMoving.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/MaxPath.cpp">
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/Misc.cpp">
 			<Option target="Misc"/>
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/OPC_EqualGifts.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/OPC_IndPyramid.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/OPC_LeadGame.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/OPC_MinimumTurnRoute.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/OPC_RailwayCateringContacts.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/OPC_SiruseriMetro.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/Bitmasks.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/GreatestCommonDivisor.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/IntervalPartitioning.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/IntervalScheduling.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/KnapsackProblem.cpp">
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/Knuth-Morris-Pratt-Algorithm.cpp">
-			<Option target="Competitive_Programming"/>
 			<Option target="Knuth-Morris-Pratt-Algorithm"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/LongestIncreasingSubsequence.cpp">
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/ManachersAlgo.cpp">
 			<Option target="ManachersAlgo"/>
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/MatrixExponentiation-FibSequence.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/MatrixExponentiation.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/Max2DRangeSum.cpp">
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/ModularInverse.cpp">
 			<Option target="ModularInverse"/>
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/MosAlgorithm.cpp">
 			<Option target="MosAlgorithm"/>
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/SPOJ_DynamicGraphConnectivity2.cpp">
 			<Option target="SPOJ_DynamicGraphConnectivity2"/>
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/Sieve.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/TernarySearch.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/PROC17_Traffic.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/Parquet.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/ProgressPie.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/RustAndMurderer.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/SIS.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/SPOJ_DNASequences.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/SPOJ_DNASequencesCopy.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/SPOJ_SubArrays.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/SynchronousShopping.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/SyntaxProgrammingProblems/CheapTravel.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/SyntaxProgrammingProblems/FancyFence.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/SyntaxProgrammingProblems/GoodSequences.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/SyntaxProgrammingProblems/GraphReversal.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/SyntaxProgrammingProblems/HelpTheSplitCorgis.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/SyntaxProgrammingProblems/HowManyRoutes.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/SyntaxProgrammingProblems/MinimumPossibleTraverse.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/SyntaxProgrammingProblems/ModifiedLCS.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/SyntaxProgrammingProblems/SolveTheGivenEquation.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/TwoStrings.cpp">
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/USACO_CowIDs.cpp">
 			<Option target="USACO_CowIDs"/>
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/USBvsPS2.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/UVa10684_Jackpot.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/UVa10755_GarbageHeap.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/UVa11456_Trainsorting.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/UVa1177_AGeneralRecurrenceRelation.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/UVa12405_Scarecrow.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/UVa787_MaxSubSequenceProduct.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/UVa927.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_8Queens.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_AnotherNQueenProblem.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_BackToThe8Queens.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_Bars.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_BusDriverProblem.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_CD.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_CitizenAttentionOffices.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_ClosestSums.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_CoinCollector.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_DartAMania.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_ExactSum.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_ExpertEnough.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_FillTheContainers.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_FractionsAgain.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_Grapevine.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_GraphColoring.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_GraphColoring2.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_GridGame.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_GroceryStore.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_HelpingFillBates.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_LEDTest.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_Lotto.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_MonkeyAndOiledBamboo.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_Password.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_PathInColouredField.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_PrimeRingProblem.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_RatAttack.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_Sales.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_SolveIt.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_SumItUp.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_TourDeFrance.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_Y2KAccountingBug.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/UVa_Zones.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/YogesMM.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/kthDivisor.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/lol.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/lolol.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/myheader.h">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/race.cpp">
-			<Option target="Competitive_Programming"/>
-		</Unit>
-		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/untitled.cpp">
-			<Option target="Competitive_Programming"/>
 		</Unit>
 		<Unit filename="/Users/tanavya.dimri/Desktop/Competitive-Programming/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>

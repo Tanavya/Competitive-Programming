@@ -55,13 +55,13 @@ void dfs_sz(int v, int par) {
         }
     }
 }
-int t = 1;
+int t = 0;
 //processes a euler tour array such that
 //in[u] to out[u]-1 gives subtree of u
 //in[nxt[u]] to in[u] is segment giving path from
 //u to nxt[u] i.e last vertex in ascending heavy path from u
 void dfs_hld(int v, int par) {
-    in[v] = t++;
+    in[v] = ++t;
     euler[in[v]] = v;
     for (int u: tree[v]) {
         if (u != par) {
