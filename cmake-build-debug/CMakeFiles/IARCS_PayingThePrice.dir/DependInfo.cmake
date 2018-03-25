@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/tanavya.dimri/Desktop/Competitive-Programming/IARCS_PayingThePrice.cpp" "/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles/IARCS_PayingThePrice.dir/IARCS_PayingThePrice.cpp.o"
+  "/Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/IARCS_PayingThePrice.cpp" "/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles/IARCS_PayingThePrice.dir/Miscellaneous/IARCS_PayingThePrice.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

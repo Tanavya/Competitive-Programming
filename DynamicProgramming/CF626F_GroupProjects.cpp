@@ -40,7 +40,7 @@ const ld EPS = 1e-9, PI = 3.1415926535897932384626433832795;
 using namespace std;
 
 const int mod = (int) 1e9+7;
-ll dp[207][207][1007];
+ll dp[2][207][1007];
 
 #define add(a, b) a = (a + (b % mod)) % mod
 
@@ -56,18 +56,24 @@ int main() {
     for (int i = 1; i <= N; i++) {
         for (int j = 0; j <= N; j++) {
             for (int k = 0; k <= K; k++) {
-                ll cnt = dp[i-1][j][k];
+                ll cnt = dp[0][j][k];
                 int val = k + j * (A[i] - A[i-1]);
                 if (val > K) continue;
-                add(dp[i][j][val], cnt * (j+1));
-                if (j) add(dp[i][j-1][val], j * cnt);
-                add(dp[i][j+1][val], cnt);
+                add(dp[1][j][val], cnt * (j+1));
+                if (j) add(dp[1][j-1][val], j * cnt);
+                add(dp[1][j+1][val], cnt);
+            }
+        }
+        for (int j = 0; j <= N; j++) {
+            for (int k = 0; k <= K; k++) {
+                dp[0][j][k] = dp[1][j][k];
+                dp[1][j][k] = 0;
             }
         }
     }
     ll ans = 0;
     for (int k = 0; k <= K; k++) {
-        add(ans, dp[N][0][k]);
+        add(ans, dp[0][0][k]);
     }
     cout << ans << endl;
 }

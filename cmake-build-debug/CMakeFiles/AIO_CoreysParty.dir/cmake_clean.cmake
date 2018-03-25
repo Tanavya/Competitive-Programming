@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/AIO_CoreysParty.dir/AIO_CoreysParty.cpp.o"
+  "CMakeFiles/AIO_CoreysParty.dir/Miscellaneous/AIO_CoreysParty.cpp.o"
   "AIO_CoreysParty.pdb"
   "AIO_CoreysParty"
 )

@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/IARCS_RankFraud.dir/IARCS_RankFraud.cpp.o"
+  "CMakeFiles/IARCS_RankFraud.dir/Miscellaneous/IARCS_RankFraud.cpp.o"
   "IARCS_RankFraud.pdb"
   "IARCS_RankFraud"
 )

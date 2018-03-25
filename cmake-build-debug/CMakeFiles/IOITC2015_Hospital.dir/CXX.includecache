@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/IOITC2015_Hospital.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+stdio.h
+-
+cmath
+-
+assert.h
+-
+queue
+-
+

@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/CF220B_LittleElephantAndArray.dir/CF220B_LittleElephantAndArray.cpp.o"
+  "CMakeFiles/CF220B_LittleElephantAndArray.dir/Miscellaneous/CF220B_LittleElephantAndArray.cpp.o"
   "CF220B_LittleElephantAndArray.pdb"
   "CF220B_LittleElephantAndArray"
 )

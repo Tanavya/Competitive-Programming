@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/tanavya.dimri/Desktop/Competitive-Programming/CF340D_BubbleSortGraph.cpp" "/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles/CF340D_BubbleSortGraph.dir/CF340D_BubbleSortGraph.cpp.o"
+  "/Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/CF340D_BubbleSortGraph.cpp" "/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles/CF340D_BubbleSortGraph.dir/Miscellaneous/CF340D_BubbleSortGraph.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

@@ -68,6 +68,11 @@ int count_on(int x) {
     }
     return cnt;
 }
+
+int cnt_on(int msk) {
+    return __builtin_popcount(msk);
+}
+
 void print_mask(int mask) {
     bitset<10> bs(mask);
     string str_mask = bs.to_string();
@@ -81,6 +86,8 @@ int main() {
     mask |= (1 << 3);
     mask |= (1 << 2);
     mask |= (1 << 5);
+
+    cout << cnt_on(mask) << endl;
     for (int submask = mask; submask >= 0; submask = ( mask & (submask-1) )) {
         print_mask(submask);
         if (!submask) break;

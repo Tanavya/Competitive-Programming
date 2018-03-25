@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CF438D_TheChildAndSequence.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+stdio.h
+-
+assert.h
+-
+bitset
+-
+

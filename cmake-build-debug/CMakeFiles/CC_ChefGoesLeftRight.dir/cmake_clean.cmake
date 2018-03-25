@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/CC_ChefGoesLeftRight.dir/CC_ChefGoesLeftRight.cpp.o"
+  "CMakeFiles/CC_ChefGoesLeftRight.dir/Miscellaneous/CC_ChefGoesLeftRight.cpp.o"
   "CC_ChefGoesLeftRight.pdb"
   "CC_ChefGoesLeftRight"
 )

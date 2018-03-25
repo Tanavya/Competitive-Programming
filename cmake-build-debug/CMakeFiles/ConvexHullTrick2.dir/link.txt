@@ -1,1 +1,1 @@
-/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/ConvexHullTrick2.dir/DynamicProgramming/Optimisations/ConvexHullTrick2.cpp.o  -o ConvexHullTrick2 
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/ConvexHullTrick2.dir/DynamicProgramming/OptimisationsAndTechniques/ConvexHullTrick2.cpp.o  -o ConvexHullTrick2 

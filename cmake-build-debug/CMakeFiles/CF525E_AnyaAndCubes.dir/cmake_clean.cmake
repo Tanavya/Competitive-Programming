@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/CF525E_AnyaAndCubes.dir/CF525E_AnyaAndCubes.cpp.o"
+  "CMakeFiles/CF525E_AnyaAndCubes.dir/Miscellaneous/CF525E_AnyaAndCubes.cpp.o"
   "CF525E_AnyaAndCubes.pdb"
   "CF525E_AnyaAndCubes"
 )

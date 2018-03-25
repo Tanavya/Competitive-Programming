@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/CC_BrokenClock.dir/CC_BrokenClock.cpp.o"
+  "CMakeFiles/CC_BrokenClock.dir/Miscellaneous/CC_BrokenClock.cpp.o"
   "CC_BrokenClock.pdb"
   "CC_BrokenClock"
 )

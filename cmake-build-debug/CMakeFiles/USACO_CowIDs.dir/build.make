@@ -57,38 +57,38 @@ include CMakeFiles/USACO_CowIDs.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/USACO_CowIDs.dir/flags.make
 
-CMakeFiles/USACO_CowIDs.dir/USACO_CowIDs.cpp.o: CMakeFiles/USACO_CowIDs.dir/flags.make
-CMakeFiles/USACO_CowIDs.dir/USACO_CowIDs.cpp.o: ../USACO_CowIDs.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/USACO_CowIDs.dir/USACO_CowIDs.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/USACO_CowIDs.dir/USACO_CowIDs.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/USACO_CowIDs.cpp
+CMakeFiles/USACO_CowIDs.dir/Miscellaneous/USACO_CowIDs.cpp.o: CMakeFiles/USACO_CowIDs.dir/flags.make
+CMakeFiles/USACO_CowIDs.dir/Miscellaneous/USACO_CowIDs.cpp.o: ../Miscellaneous/USACO_CowIDs.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/USACO_CowIDs.dir/Miscellaneous/USACO_CowIDs.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/USACO_CowIDs.dir/Miscellaneous/USACO_CowIDs.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/USACO_CowIDs.cpp
 
-CMakeFiles/USACO_CowIDs.dir/USACO_CowIDs.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/USACO_CowIDs.dir/USACO_CowIDs.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/USACO_CowIDs.cpp > CMakeFiles/USACO_CowIDs.dir/USACO_CowIDs.cpp.i
+CMakeFiles/USACO_CowIDs.dir/Miscellaneous/USACO_CowIDs.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/USACO_CowIDs.dir/Miscellaneous/USACO_CowIDs.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/USACO_CowIDs.cpp > CMakeFiles/USACO_CowIDs.dir/Miscellaneous/USACO_CowIDs.cpp.i
 
-CMakeFiles/USACO_CowIDs.dir/USACO_CowIDs.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/USACO_CowIDs.dir/USACO_CowIDs.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/USACO_CowIDs.cpp -o CMakeFiles/USACO_CowIDs.dir/USACO_CowIDs.cpp.s
+CMakeFiles/USACO_CowIDs.dir/Miscellaneous/USACO_CowIDs.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/USACO_CowIDs.dir/Miscellaneous/USACO_CowIDs.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/USACO_CowIDs.cpp -o CMakeFiles/USACO_CowIDs.dir/Miscellaneous/USACO_CowIDs.cpp.s
 
-CMakeFiles/USACO_CowIDs.dir/USACO_CowIDs.cpp.o.requires:
+CMakeFiles/USACO_CowIDs.dir/Miscellaneous/USACO_CowIDs.cpp.o.requires:
 
-.PHONY : CMakeFiles/USACO_CowIDs.dir/USACO_CowIDs.cpp.o.requires
+.PHONY : CMakeFiles/USACO_CowIDs.dir/Miscellaneous/USACO_CowIDs.cpp.o.requires
 
-CMakeFiles/USACO_CowIDs.dir/USACO_CowIDs.cpp.o.provides: CMakeFiles/USACO_CowIDs.dir/USACO_CowIDs.cpp.o.requires
-	$(MAKE) -f CMakeFiles/USACO_CowIDs.dir/build.make CMakeFiles/USACO_CowIDs.dir/USACO_CowIDs.cpp.o.provides.build
-.PHONY : CMakeFiles/USACO_CowIDs.dir/USACO_CowIDs.cpp.o.provides
+CMakeFiles/USACO_CowIDs.dir/Miscellaneous/USACO_CowIDs.cpp.o.provides: CMakeFiles/USACO_CowIDs.dir/Miscellaneous/USACO_CowIDs.cpp.o.requires
+	$(MAKE) -f CMakeFiles/USACO_CowIDs.dir/build.make CMakeFiles/USACO_CowIDs.dir/Miscellaneous/USACO_CowIDs.cpp.o.provides.build
+.PHONY : CMakeFiles/USACO_CowIDs.dir/Miscellaneous/USACO_CowIDs.cpp.o.provides
 
-CMakeFiles/USACO_CowIDs.dir/USACO_CowIDs.cpp.o.provides.build: CMakeFiles/USACO_CowIDs.dir/USACO_CowIDs.cpp.o
+CMakeFiles/USACO_CowIDs.dir/Miscellaneous/USACO_CowIDs.cpp.o.provides.build: CMakeFiles/USACO_CowIDs.dir/Miscellaneous/USACO_CowIDs.cpp.o
 
 
 # Object files for target USACO_CowIDs
 USACO_CowIDs_OBJECTS = \
-"CMakeFiles/USACO_CowIDs.dir/USACO_CowIDs.cpp.o"
+"CMakeFiles/USACO_CowIDs.dir/Miscellaneous/USACO_CowIDs.cpp.o"
 
 # External object files for target USACO_CowIDs
 USACO_CowIDs_EXTERNAL_OBJECTS =
 
-USACO_CowIDs: CMakeFiles/USACO_CowIDs.dir/USACO_CowIDs.cpp.o
+USACO_CowIDs: CMakeFiles/USACO_CowIDs.dir/Miscellaneous/USACO_CowIDs.cpp.o
 USACO_CowIDs: CMakeFiles/USACO_CowIDs.dir/build.make
 USACO_CowIDs: CMakeFiles/USACO_CowIDs.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable USACO_CowIDs"
@@ -99,7 +99,7 @@ CMakeFiles/USACO_CowIDs.dir/build: USACO_CowIDs
 
 .PHONY : CMakeFiles/USACO_CowIDs.dir/build
 
-CMakeFiles/USACO_CowIDs.dir/requires: CMakeFiles/USACO_CowIDs.dir/USACO_CowIDs.cpp.o.requires
+CMakeFiles/USACO_CowIDs.dir/requires: CMakeFiles/USACO_CowIDs.dir/Miscellaneous/USACO_CowIDs.cpp.o.requires
 
 .PHONY : CMakeFiles/USACO_CowIDs.dir/requires
 

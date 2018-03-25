@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ChefAndXorQueries.cpp" "/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles/CC_ChefAndXorQueries.dir/CC_ChefAndXorQueries.cpp.o"
+  "/Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/CC_ChefAndXorQueries.cpp" "/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles/CC_ChefAndXorQueries.dir/Miscellaneous/CC_ChefAndXorQueries.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

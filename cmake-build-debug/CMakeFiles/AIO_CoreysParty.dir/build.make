@@ -57,38 +57,38 @@ include CMakeFiles/AIO_CoreysParty.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/AIO_CoreysParty.dir/flags.make
 
-CMakeFiles/AIO_CoreysParty.dir/AIO_CoreysParty.cpp.o: CMakeFiles/AIO_CoreysParty.dir/flags.make
-CMakeFiles/AIO_CoreysParty.dir/AIO_CoreysParty.cpp.o: ../AIO_CoreysParty.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/AIO_CoreysParty.dir/AIO_CoreysParty.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AIO_CoreysParty.dir/AIO_CoreysParty.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/AIO_CoreysParty.cpp
+CMakeFiles/AIO_CoreysParty.dir/Miscellaneous/AIO_CoreysParty.cpp.o: CMakeFiles/AIO_CoreysParty.dir/flags.make
+CMakeFiles/AIO_CoreysParty.dir/Miscellaneous/AIO_CoreysParty.cpp.o: ../Miscellaneous/AIO_CoreysParty.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/AIO_CoreysParty.dir/Miscellaneous/AIO_CoreysParty.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AIO_CoreysParty.dir/Miscellaneous/AIO_CoreysParty.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/AIO_CoreysParty.cpp
 
-CMakeFiles/AIO_CoreysParty.dir/AIO_CoreysParty.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AIO_CoreysParty.dir/AIO_CoreysParty.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/AIO_CoreysParty.cpp > CMakeFiles/AIO_CoreysParty.dir/AIO_CoreysParty.cpp.i
+CMakeFiles/AIO_CoreysParty.dir/Miscellaneous/AIO_CoreysParty.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AIO_CoreysParty.dir/Miscellaneous/AIO_CoreysParty.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/AIO_CoreysParty.cpp > CMakeFiles/AIO_CoreysParty.dir/Miscellaneous/AIO_CoreysParty.cpp.i
 
-CMakeFiles/AIO_CoreysParty.dir/AIO_CoreysParty.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AIO_CoreysParty.dir/AIO_CoreysParty.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/AIO_CoreysParty.cpp -o CMakeFiles/AIO_CoreysParty.dir/AIO_CoreysParty.cpp.s
+CMakeFiles/AIO_CoreysParty.dir/Miscellaneous/AIO_CoreysParty.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AIO_CoreysParty.dir/Miscellaneous/AIO_CoreysParty.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/AIO_CoreysParty.cpp -o CMakeFiles/AIO_CoreysParty.dir/Miscellaneous/AIO_CoreysParty.cpp.s
 
-CMakeFiles/AIO_CoreysParty.dir/AIO_CoreysParty.cpp.o.requires:
+CMakeFiles/AIO_CoreysParty.dir/Miscellaneous/AIO_CoreysParty.cpp.o.requires:
 
-.PHONY : CMakeFiles/AIO_CoreysParty.dir/AIO_CoreysParty.cpp.o.requires
+.PHONY : CMakeFiles/AIO_CoreysParty.dir/Miscellaneous/AIO_CoreysParty.cpp.o.requires
 
-CMakeFiles/AIO_CoreysParty.dir/AIO_CoreysParty.cpp.o.provides: CMakeFiles/AIO_CoreysParty.dir/AIO_CoreysParty.cpp.o.requires
-	$(MAKE) -f CMakeFiles/AIO_CoreysParty.dir/build.make CMakeFiles/AIO_CoreysParty.dir/AIO_CoreysParty.cpp.o.provides.build
-.PHONY : CMakeFiles/AIO_CoreysParty.dir/AIO_CoreysParty.cpp.o.provides
+CMakeFiles/AIO_CoreysParty.dir/Miscellaneous/AIO_CoreysParty.cpp.o.provides: CMakeFiles/AIO_CoreysParty.dir/Miscellaneous/AIO_CoreysParty.cpp.o.requires
+	$(MAKE) -f CMakeFiles/AIO_CoreysParty.dir/build.make CMakeFiles/AIO_CoreysParty.dir/Miscellaneous/AIO_CoreysParty.cpp.o.provides.build
+.PHONY : CMakeFiles/AIO_CoreysParty.dir/Miscellaneous/AIO_CoreysParty.cpp.o.provides
 
-CMakeFiles/AIO_CoreysParty.dir/AIO_CoreysParty.cpp.o.provides.build: CMakeFiles/AIO_CoreysParty.dir/AIO_CoreysParty.cpp.o
+CMakeFiles/AIO_CoreysParty.dir/Miscellaneous/AIO_CoreysParty.cpp.o.provides.build: CMakeFiles/AIO_CoreysParty.dir/Miscellaneous/AIO_CoreysParty.cpp.o
 
 
 # Object files for target AIO_CoreysParty
 AIO_CoreysParty_OBJECTS = \
-"CMakeFiles/AIO_CoreysParty.dir/AIO_CoreysParty.cpp.o"
+"CMakeFiles/AIO_CoreysParty.dir/Miscellaneous/AIO_CoreysParty.cpp.o"
 
 # External object files for target AIO_CoreysParty
 AIO_CoreysParty_EXTERNAL_OBJECTS =
 
-AIO_CoreysParty: CMakeFiles/AIO_CoreysParty.dir/AIO_CoreysParty.cpp.o
+AIO_CoreysParty: CMakeFiles/AIO_CoreysParty.dir/Miscellaneous/AIO_CoreysParty.cpp.o
 AIO_CoreysParty: CMakeFiles/AIO_CoreysParty.dir/build.make
 AIO_CoreysParty: CMakeFiles/AIO_CoreysParty.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable AIO_CoreysParty"
@@ -99,7 +99,7 @@ CMakeFiles/AIO_CoreysParty.dir/build: AIO_CoreysParty
 
 .PHONY : CMakeFiles/AIO_CoreysParty.dir/build
 
-CMakeFiles/AIO_CoreysParty.dir/requires: CMakeFiles/AIO_CoreysParty.dir/AIO_CoreysParty.cpp.o.requires
+CMakeFiles/AIO_CoreysParty.dir/requires: CMakeFiles/AIO_CoreysParty.dir/Miscellaneous/AIO_CoreysParty.cpp.o.requires
 
 .PHONY : CMakeFiles/AIO_CoreysParty.dir/requires
 

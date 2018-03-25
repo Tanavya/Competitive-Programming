@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/CC_ChefAndXorQueries.dir/CC_ChefAndXorQueries.cpp.o"
+  "CMakeFiles/CC_ChefAndXorQueries.dir/Miscellaneous/CC_ChefAndXorQueries.cpp.o"
   "CC_ChefAndXorQueries.pdb"
   "CC_ChefAndXorQueries"
 )

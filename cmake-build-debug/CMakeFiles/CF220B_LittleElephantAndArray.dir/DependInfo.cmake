@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/tanavya.dimri/Desktop/Competitive-Programming/CF220B_LittleElephantAndArray.cpp" "/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles/CF220B_LittleElephantAndArray.dir/CF220B_LittleElephantAndArray.cpp.o"
+  "/Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/CF220B_LittleElephantAndArray.cpp" "/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles/CF220B_LittleElephantAndArray.dir/Miscellaneous/CF220B_LittleElephantAndArray.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

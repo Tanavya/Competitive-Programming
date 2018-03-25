@@ -57,38 +57,38 @@ include CMakeFiles/IARCS_PayingThePrice.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/IARCS_PayingThePrice.dir/flags.make
 
-CMakeFiles/IARCS_PayingThePrice.dir/IARCS_PayingThePrice.cpp.o: CMakeFiles/IARCS_PayingThePrice.dir/flags.make
-CMakeFiles/IARCS_PayingThePrice.dir/IARCS_PayingThePrice.cpp.o: ../IARCS_PayingThePrice.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/IARCS_PayingThePrice.dir/IARCS_PayingThePrice.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/IARCS_PayingThePrice.dir/IARCS_PayingThePrice.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/IARCS_PayingThePrice.cpp
+CMakeFiles/IARCS_PayingThePrice.dir/Miscellaneous/IARCS_PayingThePrice.cpp.o: CMakeFiles/IARCS_PayingThePrice.dir/flags.make
+CMakeFiles/IARCS_PayingThePrice.dir/Miscellaneous/IARCS_PayingThePrice.cpp.o: ../Miscellaneous/IARCS_PayingThePrice.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/IARCS_PayingThePrice.dir/Miscellaneous/IARCS_PayingThePrice.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/IARCS_PayingThePrice.dir/Miscellaneous/IARCS_PayingThePrice.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/IARCS_PayingThePrice.cpp
 
-CMakeFiles/IARCS_PayingThePrice.dir/IARCS_PayingThePrice.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/IARCS_PayingThePrice.dir/IARCS_PayingThePrice.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/IARCS_PayingThePrice.cpp > CMakeFiles/IARCS_PayingThePrice.dir/IARCS_PayingThePrice.cpp.i
+CMakeFiles/IARCS_PayingThePrice.dir/Miscellaneous/IARCS_PayingThePrice.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/IARCS_PayingThePrice.dir/Miscellaneous/IARCS_PayingThePrice.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/IARCS_PayingThePrice.cpp > CMakeFiles/IARCS_PayingThePrice.dir/Miscellaneous/IARCS_PayingThePrice.cpp.i
 
-CMakeFiles/IARCS_PayingThePrice.dir/IARCS_PayingThePrice.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/IARCS_PayingThePrice.dir/IARCS_PayingThePrice.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/IARCS_PayingThePrice.cpp -o CMakeFiles/IARCS_PayingThePrice.dir/IARCS_PayingThePrice.cpp.s
+CMakeFiles/IARCS_PayingThePrice.dir/Miscellaneous/IARCS_PayingThePrice.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/IARCS_PayingThePrice.dir/Miscellaneous/IARCS_PayingThePrice.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/IARCS_PayingThePrice.cpp -o CMakeFiles/IARCS_PayingThePrice.dir/Miscellaneous/IARCS_PayingThePrice.cpp.s
 
-CMakeFiles/IARCS_PayingThePrice.dir/IARCS_PayingThePrice.cpp.o.requires:
+CMakeFiles/IARCS_PayingThePrice.dir/Miscellaneous/IARCS_PayingThePrice.cpp.o.requires:
 
-.PHONY : CMakeFiles/IARCS_PayingThePrice.dir/IARCS_PayingThePrice.cpp.o.requires
+.PHONY : CMakeFiles/IARCS_PayingThePrice.dir/Miscellaneous/IARCS_PayingThePrice.cpp.o.requires
 
-CMakeFiles/IARCS_PayingThePrice.dir/IARCS_PayingThePrice.cpp.o.provides: CMakeFiles/IARCS_PayingThePrice.dir/IARCS_PayingThePrice.cpp.o.requires
-	$(MAKE) -f CMakeFiles/IARCS_PayingThePrice.dir/build.make CMakeFiles/IARCS_PayingThePrice.dir/IARCS_PayingThePrice.cpp.o.provides.build
-.PHONY : CMakeFiles/IARCS_PayingThePrice.dir/IARCS_PayingThePrice.cpp.o.provides
+CMakeFiles/IARCS_PayingThePrice.dir/Miscellaneous/IARCS_PayingThePrice.cpp.o.provides: CMakeFiles/IARCS_PayingThePrice.dir/Miscellaneous/IARCS_PayingThePrice.cpp.o.requires
+	$(MAKE) -f CMakeFiles/IARCS_PayingThePrice.dir/build.make CMakeFiles/IARCS_PayingThePrice.dir/Miscellaneous/IARCS_PayingThePrice.cpp.o.provides.build
+.PHONY : CMakeFiles/IARCS_PayingThePrice.dir/Miscellaneous/IARCS_PayingThePrice.cpp.o.provides
 
-CMakeFiles/IARCS_PayingThePrice.dir/IARCS_PayingThePrice.cpp.o.provides.build: CMakeFiles/IARCS_PayingThePrice.dir/IARCS_PayingThePrice.cpp.o
+CMakeFiles/IARCS_PayingThePrice.dir/Miscellaneous/IARCS_PayingThePrice.cpp.o.provides.build: CMakeFiles/IARCS_PayingThePrice.dir/Miscellaneous/IARCS_PayingThePrice.cpp.o
 
 
 # Object files for target IARCS_PayingThePrice
 IARCS_PayingThePrice_OBJECTS = \
-"CMakeFiles/IARCS_PayingThePrice.dir/IARCS_PayingThePrice.cpp.o"
+"CMakeFiles/IARCS_PayingThePrice.dir/Miscellaneous/IARCS_PayingThePrice.cpp.o"
 
 # External object files for target IARCS_PayingThePrice
 IARCS_PayingThePrice_EXTERNAL_OBJECTS =
 
-IARCS_PayingThePrice: CMakeFiles/IARCS_PayingThePrice.dir/IARCS_PayingThePrice.cpp.o
+IARCS_PayingThePrice: CMakeFiles/IARCS_PayingThePrice.dir/Miscellaneous/IARCS_PayingThePrice.cpp.o
 IARCS_PayingThePrice: CMakeFiles/IARCS_PayingThePrice.dir/build.make
 IARCS_PayingThePrice: CMakeFiles/IARCS_PayingThePrice.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable IARCS_PayingThePrice"
@@ -99,7 +99,7 @@ CMakeFiles/IARCS_PayingThePrice.dir/build: IARCS_PayingThePrice
 
 .PHONY : CMakeFiles/IARCS_PayingThePrice.dir/build
 
-CMakeFiles/IARCS_PayingThePrice.dir/requires: CMakeFiles/IARCS_PayingThePrice.dir/IARCS_PayingThePrice.cpp.o.requires
+CMakeFiles/IARCS_PayingThePrice.dir/requires: CMakeFiles/IARCS_PayingThePrice.dir/Miscellaneous/IARCS_PayingThePrice.cpp.o.requires
 
 .PHONY : CMakeFiles/IARCS_PayingThePrice.dir/requires
 

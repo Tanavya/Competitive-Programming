@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/USACO_CowIDs.dir/USACO_CowIDs.cpp.o"
+  "CMakeFiles/USACO_CowIDs.dir/Miscellaneous/USACO_CowIDs.cpp.o"
   "USACO_CowIDs.pdb"
   "USACO_CowIDs"
 )

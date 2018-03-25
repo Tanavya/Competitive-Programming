@@ -1,19 +1,9 @@
 #include <iostream>
 #include <vector>
 #include <algorithm>
-#include <climits>
 #include <stdio.h>
-#include <queue>
-#include <set>
-#include <list>
-#include <cmath>
 #include <assert.h>
-#include <bitset>
-#include <cstring>
-#include <map>
-#include <iomanip> //cout << setprecision(node) << fixed << num
-#include <stack>
-#include <sstream>
+#include <set>
 
 #define all(x) x.begin(), x.end()
 #define pb push_back
@@ -33,43 +23,59 @@ typedef std::vector <int> vi;
 typedef std::vector <ll> vll;
 typedef std::vector <ld> vld;
 
-const int INF = int(1e9);
+const int INF = 2147483647;
 const ll INF64 = ll(1e18);
 const ld EPS = 1e-9, PI = 3.1415926535897932384626433832795;
 using namespace std;
 
-const int maxn = (int) 1e5+10;
-ll V[maxn], T[maxn], S[maxn];
-
-int last[maxn], lolol[maxn*2];
+const int maxn = 1000007;
+int N;
+multiset <ii> edges;
+ii get_new_edge() {
+    int u, v;
+    while (true) {
+        u = (rand() % N) + 1;
+        v = (rand() % N) + 1;
+        if (u > v) swap(u, v);
+        if (u != v && edges.find(mp(u, v)) == edges.end()) return mp(u, v);
+    }
+}
 
 int main() {
-    int N;
-    scanf("%d", &N);
-    for (int i = 1; i <= N; i++) {
-        cin >> V[i];
+    freopen("inp.txt", "w", stdout);
+    int M, Q;
+    cin >> N >> M >> Q;
+    debug3(N, M, Q);
+    for (int i = 0; i < M; i++) {
+        ii e = get_new_edge();
+        debug2(e.fi, e.se);
+        edges.insert(e);
     }
-    vector <ll> lol;
-    for (int i = 1; i <= N; i++) {
-        cin >> T[i];
-        S[i] = S[i-1] + T[i];
-        lol.pb(S[i]);
-    }
-    for (int i = 1; i <= N; i++) {
-        last[i] = 1+int(lower_bound(all(lol), V[i] + S[i-1]) - lol.begin());
-        lolol[last[i]] = i;
-    }
-    priority_queue <pair<int,ll>, vector <pair<int,ll>>, greater<pair<int,ll>>> pq;
-    vector <ll> ans;
-    for (int i = 1; i <= N; i++) {
-        pq.push(mp(last[i],i));
-        ll sum = 0;
-        while (!pq.empty() && last[pq.top().second] == i) {
-            sum += V[pq.top().second];
-            pq.pop();
+    while (Q--) {
+        int type = rand() % 3, u, v;
+        if (edges.size() == 0) {
+            if (type == 1) {
+                if (rand() % 2) type--;
+                else type++;
+            }
         }
-        sum += pq.size() * T[i];
-        cout << sum << endl;
+        if (type == 0) {
+            ii e = get_new_edge();
+            u = e.fi, v = e.se;
+            edges.insert(e);
+        }
+        else if (type == 1) {
+            int i = int(rand() % edges.size());
+            auto it = edges.begin();
+            while (i--) it++;
+            assert(it != edges.end());
+            u = it->fi, v = it->se;
+            edges.erase(edges.find(mp(u, v)));
+        }
+        else {
+            u = (rand() % N) + 1, v = (rand() % N) + 1;
+        }
+        debug3(type, u, v);
     }
-    print(ans);
+    int x; cin >> x;
 }

@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/tanavya.dimri/Desktop/Competitive-Programming/CF519E_AAndBLectureRooms.cpp" "/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles/CF519E_AAndBLectureRooms.dir/CF519E_AAndBLectureRooms.cpp.o"
+  "/Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/CF519E_AAndBLectureRooms.cpp" "/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles/CF519E_AAndBLectureRooms.dir/Miscellaneous/CF519E_AAndBLectureRooms.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

@@ -57,38 +57,38 @@ include CMakeFiles/CF519E_AAndBLectureRooms.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/CF519E_AAndBLectureRooms.dir/flags.make
 
-CMakeFiles/CF519E_AAndBLectureRooms.dir/CF519E_AAndBLectureRooms.cpp.o: CMakeFiles/CF519E_AAndBLectureRooms.dir/flags.make
-CMakeFiles/CF519E_AAndBLectureRooms.dir/CF519E_AAndBLectureRooms.cpp.o: ../CF519E_AAndBLectureRooms.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CF519E_AAndBLectureRooms.dir/CF519E_AAndBLectureRooms.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CF519E_AAndBLectureRooms.dir/CF519E_AAndBLectureRooms.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CF519E_AAndBLectureRooms.cpp
+CMakeFiles/CF519E_AAndBLectureRooms.dir/Miscellaneous/CF519E_AAndBLectureRooms.cpp.o: CMakeFiles/CF519E_AAndBLectureRooms.dir/flags.make
+CMakeFiles/CF519E_AAndBLectureRooms.dir/Miscellaneous/CF519E_AAndBLectureRooms.cpp.o: ../Miscellaneous/CF519E_AAndBLectureRooms.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CF519E_AAndBLectureRooms.dir/Miscellaneous/CF519E_AAndBLectureRooms.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CF519E_AAndBLectureRooms.dir/Miscellaneous/CF519E_AAndBLectureRooms.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/CF519E_AAndBLectureRooms.cpp
 
-CMakeFiles/CF519E_AAndBLectureRooms.dir/CF519E_AAndBLectureRooms.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CF519E_AAndBLectureRooms.dir/CF519E_AAndBLectureRooms.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CF519E_AAndBLectureRooms.cpp > CMakeFiles/CF519E_AAndBLectureRooms.dir/CF519E_AAndBLectureRooms.cpp.i
+CMakeFiles/CF519E_AAndBLectureRooms.dir/Miscellaneous/CF519E_AAndBLectureRooms.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CF519E_AAndBLectureRooms.dir/Miscellaneous/CF519E_AAndBLectureRooms.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/CF519E_AAndBLectureRooms.cpp > CMakeFiles/CF519E_AAndBLectureRooms.dir/Miscellaneous/CF519E_AAndBLectureRooms.cpp.i
 
-CMakeFiles/CF519E_AAndBLectureRooms.dir/CF519E_AAndBLectureRooms.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CF519E_AAndBLectureRooms.dir/CF519E_AAndBLectureRooms.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CF519E_AAndBLectureRooms.cpp -o CMakeFiles/CF519E_AAndBLectureRooms.dir/CF519E_AAndBLectureRooms.cpp.s
+CMakeFiles/CF519E_AAndBLectureRooms.dir/Miscellaneous/CF519E_AAndBLectureRooms.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CF519E_AAndBLectureRooms.dir/Miscellaneous/CF519E_AAndBLectureRooms.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/CF519E_AAndBLectureRooms.cpp -o CMakeFiles/CF519E_AAndBLectureRooms.dir/Miscellaneous/CF519E_AAndBLectureRooms.cpp.s
 
-CMakeFiles/CF519E_AAndBLectureRooms.dir/CF519E_AAndBLectureRooms.cpp.o.requires:
+CMakeFiles/CF519E_AAndBLectureRooms.dir/Miscellaneous/CF519E_AAndBLectureRooms.cpp.o.requires:
 
-.PHONY : CMakeFiles/CF519E_AAndBLectureRooms.dir/CF519E_AAndBLectureRooms.cpp.o.requires
+.PHONY : CMakeFiles/CF519E_AAndBLectureRooms.dir/Miscellaneous/CF519E_AAndBLectureRooms.cpp.o.requires
 
-CMakeFiles/CF519E_AAndBLectureRooms.dir/CF519E_AAndBLectureRooms.cpp.o.provides: CMakeFiles/CF519E_AAndBLectureRooms.dir/CF519E_AAndBLectureRooms.cpp.o.requires
-	$(MAKE) -f CMakeFiles/CF519E_AAndBLectureRooms.dir/build.make CMakeFiles/CF519E_AAndBLectureRooms.dir/CF519E_AAndBLectureRooms.cpp.o.provides.build
-.PHONY : CMakeFiles/CF519E_AAndBLectureRooms.dir/CF519E_AAndBLectureRooms.cpp.o.provides
+CMakeFiles/CF519E_AAndBLectureRooms.dir/Miscellaneous/CF519E_AAndBLectureRooms.cpp.o.provides: CMakeFiles/CF519E_AAndBLectureRooms.dir/Miscellaneous/CF519E_AAndBLectureRooms.cpp.o.requires
+	$(MAKE) -f CMakeFiles/CF519E_AAndBLectureRooms.dir/build.make CMakeFiles/CF519E_AAndBLectureRooms.dir/Miscellaneous/CF519E_AAndBLectureRooms.cpp.o.provides.build
+.PHONY : CMakeFiles/CF519E_AAndBLectureRooms.dir/Miscellaneous/CF519E_AAndBLectureRooms.cpp.o.provides
 
-CMakeFiles/CF519E_AAndBLectureRooms.dir/CF519E_AAndBLectureRooms.cpp.o.provides.build: CMakeFiles/CF519E_AAndBLectureRooms.dir/CF519E_AAndBLectureRooms.cpp.o
+CMakeFiles/CF519E_AAndBLectureRooms.dir/Miscellaneous/CF519E_AAndBLectureRooms.cpp.o.provides.build: CMakeFiles/CF519E_AAndBLectureRooms.dir/Miscellaneous/CF519E_AAndBLectureRooms.cpp.o
 
 
 # Object files for target CF519E_AAndBLectureRooms
 CF519E_AAndBLectureRooms_OBJECTS = \
-"CMakeFiles/CF519E_AAndBLectureRooms.dir/CF519E_AAndBLectureRooms.cpp.o"
+"CMakeFiles/CF519E_AAndBLectureRooms.dir/Miscellaneous/CF519E_AAndBLectureRooms.cpp.o"
 
 # External object files for target CF519E_AAndBLectureRooms
 CF519E_AAndBLectureRooms_EXTERNAL_OBJECTS =
 
-CF519E_AAndBLectureRooms: CMakeFiles/CF519E_AAndBLectureRooms.dir/CF519E_AAndBLectureRooms.cpp.o
+CF519E_AAndBLectureRooms: CMakeFiles/CF519E_AAndBLectureRooms.dir/Miscellaneous/CF519E_AAndBLectureRooms.cpp.o
 CF519E_AAndBLectureRooms: CMakeFiles/CF519E_AAndBLectureRooms.dir/build.make
 CF519E_AAndBLectureRooms: CMakeFiles/CF519E_AAndBLectureRooms.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable CF519E_AAndBLectureRooms"
@@ -99,7 +99,7 @@ CMakeFiles/CF519E_AAndBLectureRooms.dir/build: CF519E_AAndBLectureRooms
 
 .PHONY : CMakeFiles/CF519E_AAndBLectureRooms.dir/build
 
-CMakeFiles/CF519E_AAndBLectureRooms.dir/requires: CMakeFiles/CF519E_AAndBLectureRooms.dir/CF519E_AAndBLectureRooms.cpp.o.requires
+CMakeFiles/CF519E_AAndBLectureRooms.dir/requires: CMakeFiles/CF519E_AAndBLectureRooms.dir/Miscellaneous/CF519E_AAndBLectureRooms.cpp.o.requires
 
 .PHONY : CMakeFiles/CF519E_AAndBLectureRooms.dir/requires
 

@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/CF340D_BubbleSortGraph.dir/CF340D_BubbleSortGraph.cpp.o"
+  "CMakeFiles/CF340D_BubbleSortGraph.dir/Miscellaneous/CF340D_BubbleSortGraph.cpp.o"
   "CF340D_BubbleSortGraph.pdb"
   "CF340D_BubbleSortGraph"
 )

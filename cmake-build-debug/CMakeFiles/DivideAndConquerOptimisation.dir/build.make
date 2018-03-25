@@ -57,7 +57,49 @@ include CMakeFiles/DivideAndConquerOptimisation.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/DivideAndConquerOptimisation.dir/flags.make
 
-CMakeFiles/DivideAndConquerOptimisation.dir/requires:
+CMakeFiles/DivideAndConquerOptimisation.dir/DynamicProgramming/OptimisationsAndTechniques/DivideAndConquerOptimisation.cpp.o: CMakeFiles/DivideAndConquerOptimisation.dir/flags.make
+CMakeFiles/DivideAndConquerOptimisation.dir/DynamicProgramming/OptimisationsAndTechniques/DivideAndConquerOptimisation.cpp.o: ../DynamicProgramming/OptimisationsAndTechniques/DivideAndConquerOptimisation.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/DivideAndConquerOptimisation.dir/DynamicProgramming/OptimisationsAndTechniques/DivideAndConquerOptimisation.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/DivideAndConquerOptimisation.dir/DynamicProgramming/OptimisationsAndTechniques/DivideAndConquerOptimisation.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OptimisationsAndTechniques/DivideAndConquerOptimisation.cpp
+
+CMakeFiles/DivideAndConquerOptimisation.dir/DynamicProgramming/OptimisationsAndTechniques/DivideAndConquerOptimisation.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DivideAndConquerOptimisation.dir/DynamicProgramming/OptimisationsAndTechniques/DivideAndConquerOptimisation.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OptimisationsAndTechniques/DivideAndConquerOptimisation.cpp > CMakeFiles/DivideAndConquerOptimisation.dir/DynamicProgramming/OptimisationsAndTechniques/DivideAndConquerOptimisation.cpp.i
+
+CMakeFiles/DivideAndConquerOptimisation.dir/DynamicProgramming/OptimisationsAndTechniques/DivideAndConquerOptimisation.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DivideAndConquerOptimisation.dir/DynamicProgramming/OptimisationsAndTechniques/DivideAndConquerOptimisation.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OptimisationsAndTechniques/DivideAndConquerOptimisation.cpp -o CMakeFiles/DivideAndConquerOptimisation.dir/DynamicProgramming/OptimisationsAndTechniques/DivideAndConquerOptimisation.cpp.s
+
+CMakeFiles/DivideAndConquerOptimisation.dir/DynamicProgramming/OptimisationsAndTechniques/DivideAndConquerOptimisation.cpp.o.requires:
+
+.PHONY : CMakeFiles/DivideAndConquerOptimisation.dir/DynamicProgramming/OptimisationsAndTechniques/DivideAndConquerOptimisation.cpp.o.requires
+
+CMakeFiles/DivideAndConquerOptimisation.dir/DynamicProgramming/OptimisationsAndTechniques/DivideAndConquerOptimisation.cpp.o.provides: CMakeFiles/DivideAndConquerOptimisation.dir/DynamicProgramming/OptimisationsAndTechniques/DivideAndConquerOptimisation.cpp.o.requires
+	$(MAKE) -f CMakeFiles/DivideAndConquerOptimisation.dir/build.make CMakeFiles/DivideAndConquerOptimisation.dir/DynamicProgramming/OptimisationsAndTechniques/DivideAndConquerOptimisation.cpp.o.provides.build
+.PHONY : CMakeFiles/DivideAndConquerOptimisation.dir/DynamicProgramming/OptimisationsAndTechniques/DivideAndConquerOptimisation.cpp.o.provides
+
+CMakeFiles/DivideAndConquerOptimisation.dir/DynamicProgramming/OptimisationsAndTechniques/DivideAndConquerOptimisation.cpp.o.provides.build: CMakeFiles/DivideAndConquerOptimisation.dir/DynamicProgramming/OptimisationsAndTechniques/DivideAndConquerOptimisation.cpp.o
+
+
+# Object files for target DivideAndConquerOptimisation
+DivideAndConquerOptimisation_OBJECTS = \
+"CMakeFiles/DivideAndConquerOptimisation.dir/DynamicProgramming/OptimisationsAndTechniques/DivideAndConquerOptimisation.cpp.o"
+
+# External object files for target DivideAndConquerOptimisation
+DivideAndConquerOptimisation_EXTERNAL_OBJECTS =
+
+DivideAndConquerOptimisation: CMakeFiles/DivideAndConquerOptimisation.dir/DynamicProgramming/OptimisationsAndTechniques/DivideAndConquerOptimisation.cpp.o
+DivideAndConquerOptimisation: CMakeFiles/DivideAndConquerOptimisation.dir/build.make
+DivideAndConquerOptimisation: CMakeFiles/DivideAndConquerOptimisation.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable DivideAndConquerOptimisation"
+	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/DivideAndConquerOptimisation.dir/link.txt --verbose=$(VERBOSE)
+
+# Rule to build all files generated by this target.
+CMakeFiles/DivideAndConquerOptimisation.dir/build: DivideAndConquerOptimisation
+
+.PHONY : CMakeFiles/DivideAndConquerOptimisation.dir/build
+
+CMakeFiles/DivideAndConquerOptimisation.dir/requires: CMakeFiles/DivideAndConquerOptimisation.dir/DynamicProgramming/OptimisationsAndTechniques/DivideAndConquerOptimisation.cpp.o.requires
 
 .PHONY : CMakeFiles/DivideAndConquerOptimisation.dir/requires
 

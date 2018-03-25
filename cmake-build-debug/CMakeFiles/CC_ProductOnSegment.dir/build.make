@@ -57,38 +57,38 @@ include CMakeFiles/CC_ProductOnSegment.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/CC_ProductOnSegment.dir/flags.make
 
-CMakeFiles/CC_ProductOnSegment.dir/CC_ProductOnSegment.cpp.o: CMakeFiles/CC_ProductOnSegment.dir/flags.make
-CMakeFiles/CC_ProductOnSegment.dir/CC_ProductOnSegment.cpp.o: ../CC_ProductOnSegment.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CC_ProductOnSegment.dir/CC_ProductOnSegment.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CC_ProductOnSegment.dir/CC_ProductOnSegment.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ProductOnSegment.cpp
+CMakeFiles/CC_ProductOnSegment.dir/Miscellaneous/CC_ProductOnSegment.cpp.o: CMakeFiles/CC_ProductOnSegment.dir/flags.make
+CMakeFiles/CC_ProductOnSegment.dir/Miscellaneous/CC_ProductOnSegment.cpp.o: ../Miscellaneous/CC_ProductOnSegment.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CC_ProductOnSegment.dir/Miscellaneous/CC_ProductOnSegment.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CC_ProductOnSegment.dir/Miscellaneous/CC_ProductOnSegment.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/CC_ProductOnSegment.cpp
 
-CMakeFiles/CC_ProductOnSegment.dir/CC_ProductOnSegment.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CC_ProductOnSegment.dir/CC_ProductOnSegment.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ProductOnSegment.cpp > CMakeFiles/CC_ProductOnSegment.dir/CC_ProductOnSegment.cpp.i
+CMakeFiles/CC_ProductOnSegment.dir/Miscellaneous/CC_ProductOnSegment.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CC_ProductOnSegment.dir/Miscellaneous/CC_ProductOnSegment.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/CC_ProductOnSegment.cpp > CMakeFiles/CC_ProductOnSegment.dir/Miscellaneous/CC_ProductOnSegment.cpp.i
 
-CMakeFiles/CC_ProductOnSegment.dir/CC_ProductOnSegment.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CC_ProductOnSegment.dir/CC_ProductOnSegment.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ProductOnSegment.cpp -o CMakeFiles/CC_ProductOnSegment.dir/CC_ProductOnSegment.cpp.s
+CMakeFiles/CC_ProductOnSegment.dir/Miscellaneous/CC_ProductOnSegment.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CC_ProductOnSegment.dir/Miscellaneous/CC_ProductOnSegment.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/CC_ProductOnSegment.cpp -o CMakeFiles/CC_ProductOnSegment.dir/Miscellaneous/CC_ProductOnSegment.cpp.s
 
-CMakeFiles/CC_ProductOnSegment.dir/CC_ProductOnSegment.cpp.o.requires:
+CMakeFiles/CC_ProductOnSegment.dir/Miscellaneous/CC_ProductOnSegment.cpp.o.requires:
 
-.PHONY : CMakeFiles/CC_ProductOnSegment.dir/CC_ProductOnSegment.cpp.o.requires
+.PHONY : CMakeFiles/CC_ProductOnSegment.dir/Miscellaneous/CC_ProductOnSegment.cpp.o.requires
 
-CMakeFiles/CC_ProductOnSegment.dir/CC_ProductOnSegment.cpp.o.provides: CMakeFiles/CC_ProductOnSegment.dir/CC_ProductOnSegment.cpp.o.requires
-	$(MAKE) -f CMakeFiles/CC_ProductOnSegment.dir/build.make CMakeFiles/CC_ProductOnSegment.dir/CC_ProductOnSegment.cpp.o.provides.build
-.PHONY : CMakeFiles/CC_ProductOnSegment.dir/CC_ProductOnSegment.cpp.o.provides
+CMakeFiles/CC_ProductOnSegment.dir/Miscellaneous/CC_ProductOnSegment.cpp.o.provides: CMakeFiles/CC_ProductOnSegment.dir/Miscellaneous/CC_ProductOnSegment.cpp.o.requires
+	$(MAKE) -f CMakeFiles/CC_ProductOnSegment.dir/build.make CMakeFiles/CC_ProductOnSegment.dir/Miscellaneous/CC_ProductOnSegment.cpp.o.provides.build
+.PHONY : CMakeFiles/CC_ProductOnSegment.dir/Miscellaneous/CC_ProductOnSegment.cpp.o.provides
 
-CMakeFiles/CC_ProductOnSegment.dir/CC_ProductOnSegment.cpp.o.provides.build: CMakeFiles/CC_ProductOnSegment.dir/CC_ProductOnSegment.cpp.o
+CMakeFiles/CC_ProductOnSegment.dir/Miscellaneous/CC_ProductOnSegment.cpp.o.provides.build: CMakeFiles/CC_ProductOnSegment.dir/Miscellaneous/CC_ProductOnSegment.cpp.o
 
 
 # Object files for target CC_ProductOnSegment
 CC_ProductOnSegment_OBJECTS = \
-"CMakeFiles/CC_ProductOnSegment.dir/CC_ProductOnSegment.cpp.o"
+"CMakeFiles/CC_ProductOnSegment.dir/Miscellaneous/CC_ProductOnSegment.cpp.o"
 
 # External object files for target CC_ProductOnSegment
 CC_ProductOnSegment_EXTERNAL_OBJECTS =
 
-CC_ProductOnSegment: CMakeFiles/CC_ProductOnSegment.dir/CC_ProductOnSegment.cpp.o
+CC_ProductOnSegment: CMakeFiles/CC_ProductOnSegment.dir/Miscellaneous/CC_ProductOnSegment.cpp.o
 CC_ProductOnSegment: CMakeFiles/CC_ProductOnSegment.dir/build.make
 CC_ProductOnSegment: CMakeFiles/CC_ProductOnSegment.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable CC_ProductOnSegment"
@@ -99,7 +99,7 @@ CMakeFiles/CC_ProductOnSegment.dir/build: CC_ProductOnSegment
 
 .PHONY : CMakeFiles/CC_ProductOnSegment.dir/build
 
-CMakeFiles/CC_ProductOnSegment.dir/requires: CMakeFiles/CC_ProductOnSegment.dir/CC_ProductOnSegment.cpp.o.requires
+CMakeFiles/CC_ProductOnSegment.dir/requires: CMakeFiles/CC_ProductOnSegment.dir/Miscellaneous/CC_ProductOnSegment.cpp.o.requires
 
 .PHONY : CMakeFiles/CC_ProductOnSegment.dir/requires
 

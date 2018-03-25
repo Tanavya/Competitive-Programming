@@ -57,38 +57,38 @@ include CMakeFiles/CF13E_Holes.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/CF13E_Holes.dir/flags.make
 
-CMakeFiles/CF13E_Holes.dir/CF13E_Holes.cpp.o: CMakeFiles/CF13E_Holes.dir/flags.make
-CMakeFiles/CF13E_Holes.dir/CF13E_Holes.cpp.o: ../CF13E_Holes.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CF13E_Holes.dir/CF13E_Holes.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CF13E_Holes.dir/CF13E_Holes.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CF13E_Holes.cpp
+CMakeFiles/CF13E_Holes.dir/Miscellaneous/CF13E_Holes.cpp.o: CMakeFiles/CF13E_Holes.dir/flags.make
+CMakeFiles/CF13E_Holes.dir/Miscellaneous/CF13E_Holes.cpp.o: ../Miscellaneous/CF13E_Holes.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CF13E_Holes.dir/Miscellaneous/CF13E_Holes.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CF13E_Holes.dir/Miscellaneous/CF13E_Holes.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/CF13E_Holes.cpp
 
-CMakeFiles/CF13E_Holes.dir/CF13E_Holes.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CF13E_Holes.dir/CF13E_Holes.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CF13E_Holes.cpp > CMakeFiles/CF13E_Holes.dir/CF13E_Holes.cpp.i
+CMakeFiles/CF13E_Holes.dir/Miscellaneous/CF13E_Holes.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CF13E_Holes.dir/Miscellaneous/CF13E_Holes.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/CF13E_Holes.cpp > CMakeFiles/CF13E_Holes.dir/Miscellaneous/CF13E_Holes.cpp.i
 
-CMakeFiles/CF13E_Holes.dir/CF13E_Holes.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CF13E_Holes.dir/CF13E_Holes.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CF13E_Holes.cpp -o CMakeFiles/CF13E_Holes.dir/CF13E_Holes.cpp.s
+CMakeFiles/CF13E_Holes.dir/Miscellaneous/CF13E_Holes.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CF13E_Holes.dir/Miscellaneous/CF13E_Holes.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/CF13E_Holes.cpp -o CMakeFiles/CF13E_Holes.dir/Miscellaneous/CF13E_Holes.cpp.s
 
-CMakeFiles/CF13E_Holes.dir/CF13E_Holes.cpp.o.requires:
+CMakeFiles/CF13E_Holes.dir/Miscellaneous/CF13E_Holes.cpp.o.requires:
 
-.PHONY : CMakeFiles/CF13E_Holes.dir/CF13E_Holes.cpp.o.requires
+.PHONY : CMakeFiles/CF13E_Holes.dir/Miscellaneous/CF13E_Holes.cpp.o.requires
 
-CMakeFiles/CF13E_Holes.dir/CF13E_Holes.cpp.o.provides: CMakeFiles/CF13E_Holes.dir/CF13E_Holes.cpp.o.requires
-	$(MAKE) -f CMakeFiles/CF13E_Holes.dir/build.make CMakeFiles/CF13E_Holes.dir/CF13E_Holes.cpp.o.provides.build
-.PHONY : CMakeFiles/CF13E_Holes.dir/CF13E_Holes.cpp.o.provides
+CMakeFiles/CF13E_Holes.dir/Miscellaneous/CF13E_Holes.cpp.o.provides: CMakeFiles/CF13E_Holes.dir/Miscellaneous/CF13E_Holes.cpp.o.requires
+	$(MAKE) -f CMakeFiles/CF13E_Holes.dir/build.make CMakeFiles/CF13E_Holes.dir/Miscellaneous/CF13E_Holes.cpp.o.provides.build
+.PHONY : CMakeFiles/CF13E_Holes.dir/Miscellaneous/CF13E_Holes.cpp.o.provides
 
-CMakeFiles/CF13E_Holes.dir/CF13E_Holes.cpp.o.provides.build: CMakeFiles/CF13E_Holes.dir/CF13E_Holes.cpp.o
+CMakeFiles/CF13E_Holes.dir/Miscellaneous/CF13E_Holes.cpp.o.provides.build: CMakeFiles/CF13E_Holes.dir/Miscellaneous/CF13E_Holes.cpp.o
 
 
 # Object files for target CF13E_Holes
 CF13E_Holes_OBJECTS = \
-"CMakeFiles/CF13E_Holes.dir/CF13E_Holes.cpp.o"
+"CMakeFiles/CF13E_Holes.dir/Miscellaneous/CF13E_Holes.cpp.o"
 
 # External object files for target CF13E_Holes
 CF13E_Holes_EXTERNAL_OBJECTS =
 
-CF13E_Holes: CMakeFiles/CF13E_Holes.dir/CF13E_Holes.cpp.o
+CF13E_Holes: CMakeFiles/CF13E_Holes.dir/Miscellaneous/CF13E_Holes.cpp.o
 CF13E_Holes: CMakeFiles/CF13E_Holes.dir/build.make
 CF13E_Holes: CMakeFiles/CF13E_Holes.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable CF13E_Holes"
@@ -99,7 +99,7 @@ CMakeFiles/CF13E_Holes.dir/build: CF13E_Holes
 
 .PHONY : CMakeFiles/CF13E_Holes.dir/build
 
-CMakeFiles/CF13E_Holes.dir/requires: CMakeFiles/CF13E_Holes.dir/CF13E_Holes.cpp.o.requires
+CMakeFiles/CF13E_Holes.dir/requires: CMakeFiles/CF13E_Holes.dir/Miscellaneous/CF13E_Holes.cpp.o.requires
 
 .PHONY : CMakeFiles/CF13E_Holes.dir/requires
 

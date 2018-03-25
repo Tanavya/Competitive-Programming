@@ -57,38 +57,38 @@ include CMakeFiles/CC_BrokenClock.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/CC_BrokenClock.dir/flags.make
 
-CMakeFiles/CC_BrokenClock.dir/CC_BrokenClock.cpp.o: CMakeFiles/CC_BrokenClock.dir/flags.make
-CMakeFiles/CC_BrokenClock.dir/CC_BrokenClock.cpp.o: ../CC_BrokenClock.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CC_BrokenClock.dir/CC_BrokenClock.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CC_BrokenClock.dir/CC_BrokenClock.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_BrokenClock.cpp
+CMakeFiles/CC_BrokenClock.dir/Miscellaneous/CC_BrokenClock.cpp.o: CMakeFiles/CC_BrokenClock.dir/flags.make
+CMakeFiles/CC_BrokenClock.dir/Miscellaneous/CC_BrokenClock.cpp.o: ../Miscellaneous/CC_BrokenClock.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CC_BrokenClock.dir/Miscellaneous/CC_BrokenClock.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CC_BrokenClock.dir/Miscellaneous/CC_BrokenClock.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/CC_BrokenClock.cpp
 
-CMakeFiles/CC_BrokenClock.dir/CC_BrokenClock.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CC_BrokenClock.dir/CC_BrokenClock.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_BrokenClock.cpp > CMakeFiles/CC_BrokenClock.dir/CC_BrokenClock.cpp.i
+CMakeFiles/CC_BrokenClock.dir/Miscellaneous/CC_BrokenClock.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CC_BrokenClock.dir/Miscellaneous/CC_BrokenClock.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/CC_BrokenClock.cpp > CMakeFiles/CC_BrokenClock.dir/Miscellaneous/CC_BrokenClock.cpp.i
 
-CMakeFiles/CC_BrokenClock.dir/CC_BrokenClock.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CC_BrokenClock.dir/CC_BrokenClock.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CC_BrokenClock.cpp -o CMakeFiles/CC_BrokenClock.dir/CC_BrokenClock.cpp.s
+CMakeFiles/CC_BrokenClock.dir/Miscellaneous/CC_BrokenClock.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CC_BrokenClock.dir/Miscellaneous/CC_BrokenClock.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/CC_BrokenClock.cpp -o CMakeFiles/CC_BrokenClock.dir/Miscellaneous/CC_BrokenClock.cpp.s
 
-CMakeFiles/CC_BrokenClock.dir/CC_BrokenClock.cpp.o.requires:
+CMakeFiles/CC_BrokenClock.dir/Miscellaneous/CC_BrokenClock.cpp.o.requires:
 
-.PHONY : CMakeFiles/CC_BrokenClock.dir/CC_BrokenClock.cpp.o.requires
+.PHONY : CMakeFiles/CC_BrokenClock.dir/Miscellaneous/CC_BrokenClock.cpp.o.requires
 
-CMakeFiles/CC_BrokenClock.dir/CC_BrokenClock.cpp.o.provides: CMakeFiles/CC_BrokenClock.dir/CC_BrokenClock.cpp.o.requires
-	$(MAKE) -f CMakeFiles/CC_BrokenClock.dir/build.make CMakeFiles/CC_BrokenClock.dir/CC_BrokenClock.cpp.o.provides.build
-.PHONY : CMakeFiles/CC_BrokenClock.dir/CC_BrokenClock.cpp.o.provides
+CMakeFiles/CC_BrokenClock.dir/Miscellaneous/CC_BrokenClock.cpp.o.provides: CMakeFiles/CC_BrokenClock.dir/Miscellaneous/CC_BrokenClock.cpp.o.requires
+	$(MAKE) -f CMakeFiles/CC_BrokenClock.dir/build.make CMakeFiles/CC_BrokenClock.dir/Miscellaneous/CC_BrokenClock.cpp.o.provides.build
+.PHONY : CMakeFiles/CC_BrokenClock.dir/Miscellaneous/CC_BrokenClock.cpp.o.provides
 
-CMakeFiles/CC_BrokenClock.dir/CC_BrokenClock.cpp.o.provides.build: CMakeFiles/CC_BrokenClock.dir/CC_BrokenClock.cpp.o
+CMakeFiles/CC_BrokenClock.dir/Miscellaneous/CC_BrokenClock.cpp.o.provides.build: CMakeFiles/CC_BrokenClock.dir/Miscellaneous/CC_BrokenClock.cpp.o
 
 
 # Object files for target CC_BrokenClock
 CC_BrokenClock_OBJECTS = \
-"CMakeFiles/CC_BrokenClock.dir/CC_BrokenClock.cpp.o"
+"CMakeFiles/CC_BrokenClock.dir/Miscellaneous/CC_BrokenClock.cpp.o"
 
 # External object files for target CC_BrokenClock
 CC_BrokenClock_EXTERNAL_OBJECTS =
 
-CC_BrokenClock: CMakeFiles/CC_BrokenClock.dir/CC_BrokenClock.cpp.o
+CC_BrokenClock: CMakeFiles/CC_BrokenClock.dir/Miscellaneous/CC_BrokenClock.cpp.o
 CC_BrokenClock: CMakeFiles/CC_BrokenClock.dir/build.make
 CC_BrokenClock: CMakeFiles/CC_BrokenClock.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable CC_BrokenClock"
@@ -99,7 +99,7 @@ CMakeFiles/CC_BrokenClock.dir/build: CC_BrokenClock
 
 .PHONY : CMakeFiles/CC_BrokenClock.dir/build
 
-CMakeFiles/CC_BrokenClock.dir/requires: CMakeFiles/CC_BrokenClock.dir/CC_BrokenClock.cpp.o.requires
+CMakeFiles/CC_BrokenClock.dir/requires: CMakeFiles/CC_BrokenClock.dir/Miscellaneous/CC_BrokenClock.cpp.o.requires
 
 .PHONY : CMakeFiles/CC_BrokenClock.dir/requires
 

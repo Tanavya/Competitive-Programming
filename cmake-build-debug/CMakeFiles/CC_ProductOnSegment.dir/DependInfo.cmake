@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/tanavya.dimri/Desktop/Competitive-Programming/CC_ProductOnSegment.cpp" "/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles/CC_ProductOnSegment.dir/CC_ProductOnSegment.cpp.o"
+  "/Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/CC_ProductOnSegment.cpp" "/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles/CC_ProductOnSegment.dir/Miscellaneous/CC_ProductOnSegment.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

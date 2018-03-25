@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/IOITC2015_ChandraguptaBST.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+stdio.h
+-
+assert.h
+-
+

@@ -57,38 +57,38 @@ include CMakeFiles/IARCS_RankFraud.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/IARCS_RankFraud.dir/flags.make
 
-CMakeFiles/IARCS_RankFraud.dir/IARCS_RankFraud.cpp.o: CMakeFiles/IARCS_RankFraud.dir/flags.make
-CMakeFiles/IARCS_RankFraud.dir/IARCS_RankFraud.cpp.o: ../IARCS_RankFraud.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/IARCS_RankFraud.dir/IARCS_RankFraud.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/IARCS_RankFraud.dir/IARCS_RankFraud.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/IARCS_RankFraud.cpp
+CMakeFiles/IARCS_RankFraud.dir/Miscellaneous/IARCS_RankFraud.cpp.o: CMakeFiles/IARCS_RankFraud.dir/flags.make
+CMakeFiles/IARCS_RankFraud.dir/Miscellaneous/IARCS_RankFraud.cpp.o: ../Miscellaneous/IARCS_RankFraud.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/IARCS_RankFraud.dir/Miscellaneous/IARCS_RankFraud.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/IARCS_RankFraud.dir/Miscellaneous/IARCS_RankFraud.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/IARCS_RankFraud.cpp
 
-CMakeFiles/IARCS_RankFraud.dir/IARCS_RankFraud.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/IARCS_RankFraud.dir/IARCS_RankFraud.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/IARCS_RankFraud.cpp > CMakeFiles/IARCS_RankFraud.dir/IARCS_RankFraud.cpp.i
+CMakeFiles/IARCS_RankFraud.dir/Miscellaneous/IARCS_RankFraud.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/IARCS_RankFraud.dir/Miscellaneous/IARCS_RankFraud.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/IARCS_RankFraud.cpp > CMakeFiles/IARCS_RankFraud.dir/Miscellaneous/IARCS_RankFraud.cpp.i
 
-CMakeFiles/IARCS_RankFraud.dir/IARCS_RankFraud.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/IARCS_RankFraud.dir/IARCS_RankFraud.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/IARCS_RankFraud.cpp -o CMakeFiles/IARCS_RankFraud.dir/IARCS_RankFraud.cpp.s
+CMakeFiles/IARCS_RankFraud.dir/Miscellaneous/IARCS_RankFraud.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/IARCS_RankFraud.dir/Miscellaneous/IARCS_RankFraud.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/IARCS_RankFraud.cpp -o CMakeFiles/IARCS_RankFraud.dir/Miscellaneous/IARCS_RankFraud.cpp.s
 
-CMakeFiles/IARCS_RankFraud.dir/IARCS_RankFraud.cpp.o.requires:
+CMakeFiles/IARCS_RankFraud.dir/Miscellaneous/IARCS_RankFraud.cpp.o.requires:
 
-.PHONY : CMakeFiles/IARCS_RankFraud.dir/IARCS_RankFraud.cpp.o.requires
+.PHONY : CMakeFiles/IARCS_RankFraud.dir/Miscellaneous/IARCS_RankFraud.cpp.o.requires
 
-CMakeFiles/IARCS_RankFraud.dir/IARCS_RankFraud.cpp.o.provides: CMakeFiles/IARCS_RankFraud.dir/IARCS_RankFraud.cpp.o.requires
-	$(MAKE) -f CMakeFiles/IARCS_RankFraud.dir/build.make CMakeFiles/IARCS_RankFraud.dir/IARCS_RankFraud.cpp.o.provides.build
-.PHONY : CMakeFiles/IARCS_RankFraud.dir/IARCS_RankFraud.cpp.o.provides
+CMakeFiles/IARCS_RankFraud.dir/Miscellaneous/IARCS_RankFraud.cpp.o.provides: CMakeFiles/IARCS_RankFraud.dir/Miscellaneous/IARCS_RankFraud.cpp.o.requires
+	$(MAKE) -f CMakeFiles/IARCS_RankFraud.dir/build.make CMakeFiles/IARCS_RankFraud.dir/Miscellaneous/IARCS_RankFraud.cpp.o.provides.build
+.PHONY : CMakeFiles/IARCS_RankFraud.dir/Miscellaneous/IARCS_RankFraud.cpp.o.provides
 
-CMakeFiles/IARCS_RankFraud.dir/IARCS_RankFraud.cpp.o.provides.build: CMakeFiles/IARCS_RankFraud.dir/IARCS_RankFraud.cpp.o
+CMakeFiles/IARCS_RankFraud.dir/Miscellaneous/IARCS_RankFraud.cpp.o.provides.build: CMakeFiles/IARCS_RankFraud.dir/Miscellaneous/IARCS_RankFraud.cpp.o
 
 
 # Object files for target IARCS_RankFraud
 IARCS_RankFraud_OBJECTS = \
-"CMakeFiles/IARCS_RankFraud.dir/IARCS_RankFraud.cpp.o"
+"CMakeFiles/IARCS_RankFraud.dir/Miscellaneous/IARCS_RankFraud.cpp.o"
 
 # External object files for target IARCS_RankFraud
 IARCS_RankFraud_EXTERNAL_OBJECTS =
 
-IARCS_RankFraud: CMakeFiles/IARCS_RankFraud.dir/IARCS_RankFraud.cpp.o
+IARCS_RankFraud: CMakeFiles/IARCS_RankFraud.dir/Miscellaneous/IARCS_RankFraud.cpp.o
 IARCS_RankFraud: CMakeFiles/IARCS_RankFraud.dir/build.make
 IARCS_RankFraud: CMakeFiles/IARCS_RankFraud.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable IARCS_RankFraud"
@@ -99,7 +99,7 @@ CMakeFiles/IARCS_RankFraud.dir/build: IARCS_RankFraud
 
 .PHONY : CMakeFiles/IARCS_RankFraud.dir/build
 
-CMakeFiles/IARCS_RankFraud.dir/requires: CMakeFiles/IARCS_RankFraud.dir/IARCS_RankFraud.cpp.o.requires
+CMakeFiles/IARCS_RankFraud.dir/requires: CMakeFiles/IARCS_RankFraud.dir/Miscellaneous/IARCS_RankFraud.cpp.o.requires
 
 .PHONY : CMakeFiles/IARCS_RankFraud.dir/requires
 

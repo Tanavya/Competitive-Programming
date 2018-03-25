@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/CF688E_TheValuesYouCanMake.dir/CF688E_TheValuesYouCanMake.cpp.o"
+  "CMakeFiles/CF688E_TheValuesYouCanMake.dir/Miscellaneous/CF688E_TheValuesYouCanMake.cpp.o"
   "CF688E_TheValuesYouCanMake.pdb"
   "CF688E_TheValuesYouCanMake"
 )

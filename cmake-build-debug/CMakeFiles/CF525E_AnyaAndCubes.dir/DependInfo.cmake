@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/tanavya.dimri/Desktop/Competitive-Programming/CF525E_AnyaAndCubes.cpp" "/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles/CF525E_AnyaAndCubes.dir/CF525E_AnyaAndCubes.cpp.o"
+  "/Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/CF525E_AnyaAndCubes.cpp" "/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles/CF525E_AnyaAndCubes.dir/Miscellaneous/CF525E_AnyaAndCubes.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

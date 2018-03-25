@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/IARCS_PayingThePrice.dir/IARCS_PayingThePrice.cpp.o"
+  "CMakeFiles/IARCS_PayingThePrice.dir/Miscellaneous/IARCS_PayingThePrice.cpp.o"
   "IARCS_PayingThePrice.pdb"
   "IARCS_PayingThePrice"
 )

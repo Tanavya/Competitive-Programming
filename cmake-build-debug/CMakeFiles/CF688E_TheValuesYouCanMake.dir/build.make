@@ -57,38 +57,38 @@ include CMakeFiles/CF688E_TheValuesYouCanMake.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/CF688E_TheValuesYouCanMake.dir/flags.make
 
-CMakeFiles/CF688E_TheValuesYouCanMake.dir/CF688E_TheValuesYouCanMake.cpp.o: CMakeFiles/CF688E_TheValuesYouCanMake.dir/flags.make
-CMakeFiles/CF688E_TheValuesYouCanMake.dir/CF688E_TheValuesYouCanMake.cpp.o: ../CF688E_TheValuesYouCanMake.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CF688E_TheValuesYouCanMake.dir/CF688E_TheValuesYouCanMake.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CF688E_TheValuesYouCanMake.dir/CF688E_TheValuesYouCanMake.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CF688E_TheValuesYouCanMake.cpp
+CMakeFiles/CF688E_TheValuesYouCanMake.dir/Miscellaneous/CF688E_TheValuesYouCanMake.cpp.o: CMakeFiles/CF688E_TheValuesYouCanMake.dir/flags.make
+CMakeFiles/CF688E_TheValuesYouCanMake.dir/Miscellaneous/CF688E_TheValuesYouCanMake.cpp.o: ../Miscellaneous/CF688E_TheValuesYouCanMake.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CF688E_TheValuesYouCanMake.dir/Miscellaneous/CF688E_TheValuesYouCanMake.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CF688E_TheValuesYouCanMake.dir/Miscellaneous/CF688E_TheValuesYouCanMake.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/CF688E_TheValuesYouCanMake.cpp
 
-CMakeFiles/CF688E_TheValuesYouCanMake.dir/CF688E_TheValuesYouCanMake.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CF688E_TheValuesYouCanMake.dir/CF688E_TheValuesYouCanMake.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CF688E_TheValuesYouCanMake.cpp > CMakeFiles/CF688E_TheValuesYouCanMake.dir/CF688E_TheValuesYouCanMake.cpp.i
+CMakeFiles/CF688E_TheValuesYouCanMake.dir/Miscellaneous/CF688E_TheValuesYouCanMake.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CF688E_TheValuesYouCanMake.dir/Miscellaneous/CF688E_TheValuesYouCanMake.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/CF688E_TheValuesYouCanMake.cpp > CMakeFiles/CF688E_TheValuesYouCanMake.dir/Miscellaneous/CF688E_TheValuesYouCanMake.cpp.i
 
-CMakeFiles/CF688E_TheValuesYouCanMake.dir/CF688E_TheValuesYouCanMake.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CF688E_TheValuesYouCanMake.dir/CF688E_TheValuesYouCanMake.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CF688E_TheValuesYouCanMake.cpp -o CMakeFiles/CF688E_TheValuesYouCanMake.dir/CF688E_TheValuesYouCanMake.cpp.s
+CMakeFiles/CF688E_TheValuesYouCanMake.dir/Miscellaneous/CF688E_TheValuesYouCanMake.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CF688E_TheValuesYouCanMake.dir/Miscellaneous/CF688E_TheValuesYouCanMake.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/CF688E_TheValuesYouCanMake.cpp -o CMakeFiles/CF688E_TheValuesYouCanMake.dir/Miscellaneous/CF688E_TheValuesYouCanMake.cpp.s
 
-CMakeFiles/CF688E_TheValuesYouCanMake.dir/CF688E_TheValuesYouCanMake.cpp.o.requires:
+CMakeFiles/CF688E_TheValuesYouCanMake.dir/Miscellaneous/CF688E_TheValuesYouCanMake.cpp.o.requires:
 
-.PHONY : CMakeFiles/CF688E_TheValuesYouCanMake.dir/CF688E_TheValuesYouCanMake.cpp.o.requires
+.PHONY : CMakeFiles/CF688E_TheValuesYouCanMake.dir/Miscellaneous/CF688E_TheValuesYouCanMake.cpp.o.requires
 
-CMakeFiles/CF688E_TheValuesYouCanMake.dir/CF688E_TheValuesYouCanMake.cpp.o.provides: CMakeFiles/CF688E_TheValuesYouCanMake.dir/CF688E_TheValuesYouCanMake.cpp.o.requires
-	$(MAKE) -f CMakeFiles/CF688E_TheValuesYouCanMake.dir/build.make CMakeFiles/CF688E_TheValuesYouCanMake.dir/CF688E_TheValuesYouCanMake.cpp.o.provides.build
-.PHONY : CMakeFiles/CF688E_TheValuesYouCanMake.dir/CF688E_TheValuesYouCanMake.cpp.o.provides
+CMakeFiles/CF688E_TheValuesYouCanMake.dir/Miscellaneous/CF688E_TheValuesYouCanMake.cpp.o.provides: CMakeFiles/CF688E_TheValuesYouCanMake.dir/Miscellaneous/CF688E_TheValuesYouCanMake.cpp.o.requires
+	$(MAKE) -f CMakeFiles/CF688E_TheValuesYouCanMake.dir/build.make CMakeFiles/CF688E_TheValuesYouCanMake.dir/Miscellaneous/CF688E_TheValuesYouCanMake.cpp.o.provides.build
+.PHONY : CMakeFiles/CF688E_TheValuesYouCanMake.dir/Miscellaneous/CF688E_TheValuesYouCanMake.cpp.o.provides
 
-CMakeFiles/CF688E_TheValuesYouCanMake.dir/CF688E_TheValuesYouCanMake.cpp.o.provides.build: CMakeFiles/CF688E_TheValuesYouCanMake.dir/CF688E_TheValuesYouCanMake.cpp.o
+CMakeFiles/CF688E_TheValuesYouCanMake.dir/Miscellaneous/CF688E_TheValuesYouCanMake.cpp.o.provides.build: CMakeFiles/CF688E_TheValuesYouCanMake.dir/Miscellaneous/CF688E_TheValuesYouCanMake.cpp.o
 
 
 # Object files for target CF688E_TheValuesYouCanMake
 CF688E_TheValuesYouCanMake_OBJECTS = \
-"CMakeFiles/CF688E_TheValuesYouCanMake.dir/CF688E_TheValuesYouCanMake.cpp.o"
+"CMakeFiles/CF688E_TheValuesYouCanMake.dir/Miscellaneous/CF688E_TheValuesYouCanMake.cpp.o"
 
 # External object files for target CF688E_TheValuesYouCanMake
 CF688E_TheValuesYouCanMake_EXTERNAL_OBJECTS =
 
-CF688E_TheValuesYouCanMake: CMakeFiles/CF688E_TheValuesYouCanMake.dir/CF688E_TheValuesYouCanMake.cpp.o
+CF688E_TheValuesYouCanMake: CMakeFiles/CF688E_TheValuesYouCanMake.dir/Miscellaneous/CF688E_TheValuesYouCanMake.cpp.o
 CF688E_TheValuesYouCanMake: CMakeFiles/CF688E_TheValuesYouCanMake.dir/build.make
 CF688E_TheValuesYouCanMake: CMakeFiles/CF688E_TheValuesYouCanMake.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable CF688E_TheValuesYouCanMake"
@@ -99,7 +99,7 @@ CMakeFiles/CF688E_TheValuesYouCanMake.dir/build: CF688E_TheValuesYouCanMake
 
 .PHONY : CMakeFiles/CF688E_TheValuesYouCanMake.dir/build
 
-CMakeFiles/CF688E_TheValuesYouCanMake.dir/requires: CMakeFiles/CF688E_TheValuesYouCanMake.dir/CF688E_TheValuesYouCanMake.cpp.o.requires
+CMakeFiles/CF688E_TheValuesYouCanMake.dir/requires: CMakeFiles/CF688E_TheValuesYouCanMake.dir/Miscellaneous/CF688E_TheValuesYouCanMake.cpp.o.requires
 
 .PHONY : CMakeFiles/CF688E_TheValuesYouCanMake.dir/requires
 

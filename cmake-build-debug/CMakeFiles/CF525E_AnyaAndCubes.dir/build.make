@@ -57,38 +57,38 @@ include CMakeFiles/CF525E_AnyaAndCubes.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/CF525E_AnyaAndCubes.dir/flags.make
 
-CMakeFiles/CF525E_AnyaAndCubes.dir/CF525E_AnyaAndCubes.cpp.o: CMakeFiles/CF525E_AnyaAndCubes.dir/flags.make
-CMakeFiles/CF525E_AnyaAndCubes.dir/CF525E_AnyaAndCubes.cpp.o: ../CF525E_AnyaAndCubes.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CF525E_AnyaAndCubes.dir/CF525E_AnyaAndCubes.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CF525E_AnyaAndCubes.dir/CF525E_AnyaAndCubes.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/CF525E_AnyaAndCubes.cpp
+CMakeFiles/CF525E_AnyaAndCubes.dir/Miscellaneous/CF525E_AnyaAndCubes.cpp.o: CMakeFiles/CF525E_AnyaAndCubes.dir/flags.make
+CMakeFiles/CF525E_AnyaAndCubes.dir/Miscellaneous/CF525E_AnyaAndCubes.cpp.o: ../Miscellaneous/CF525E_AnyaAndCubes.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CF525E_AnyaAndCubes.dir/Miscellaneous/CF525E_AnyaAndCubes.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CF525E_AnyaAndCubes.dir/Miscellaneous/CF525E_AnyaAndCubes.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/CF525E_AnyaAndCubes.cpp
 
-CMakeFiles/CF525E_AnyaAndCubes.dir/CF525E_AnyaAndCubes.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CF525E_AnyaAndCubes.dir/CF525E_AnyaAndCubes.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/CF525E_AnyaAndCubes.cpp > CMakeFiles/CF525E_AnyaAndCubes.dir/CF525E_AnyaAndCubes.cpp.i
+CMakeFiles/CF525E_AnyaAndCubes.dir/Miscellaneous/CF525E_AnyaAndCubes.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CF525E_AnyaAndCubes.dir/Miscellaneous/CF525E_AnyaAndCubes.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/CF525E_AnyaAndCubes.cpp > CMakeFiles/CF525E_AnyaAndCubes.dir/Miscellaneous/CF525E_AnyaAndCubes.cpp.i
 
-CMakeFiles/CF525E_AnyaAndCubes.dir/CF525E_AnyaAndCubes.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CF525E_AnyaAndCubes.dir/CF525E_AnyaAndCubes.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/CF525E_AnyaAndCubes.cpp -o CMakeFiles/CF525E_AnyaAndCubes.dir/CF525E_AnyaAndCubes.cpp.s
+CMakeFiles/CF525E_AnyaAndCubes.dir/Miscellaneous/CF525E_AnyaAndCubes.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CF525E_AnyaAndCubes.dir/Miscellaneous/CF525E_AnyaAndCubes.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/CF525E_AnyaAndCubes.cpp -o CMakeFiles/CF525E_AnyaAndCubes.dir/Miscellaneous/CF525E_AnyaAndCubes.cpp.s
 
-CMakeFiles/CF525E_AnyaAndCubes.dir/CF525E_AnyaAndCubes.cpp.o.requires:
+CMakeFiles/CF525E_AnyaAndCubes.dir/Miscellaneous/CF525E_AnyaAndCubes.cpp.o.requires:
 
-.PHONY : CMakeFiles/CF525E_AnyaAndCubes.dir/CF525E_AnyaAndCubes.cpp.o.requires
+.PHONY : CMakeFiles/CF525E_AnyaAndCubes.dir/Miscellaneous/CF525E_AnyaAndCubes.cpp.o.requires
 
-CMakeFiles/CF525E_AnyaAndCubes.dir/CF525E_AnyaAndCubes.cpp.o.provides: CMakeFiles/CF525E_AnyaAndCubes.dir/CF525E_AnyaAndCubes.cpp.o.requires
-	$(MAKE) -f CMakeFiles/CF525E_AnyaAndCubes.dir/build.make CMakeFiles/CF525E_AnyaAndCubes.dir/CF525E_AnyaAndCubes.cpp.o.provides.build
-.PHONY : CMakeFiles/CF525E_AnyaAndCubes.dir/CF525E_AnyaAndCubes.cpp.o.provides
+CMakeFiles/CF525E_AnyaAndCubes.dir/Miscellaneous/CF525E_AnyaAndCubes.cpp.o.provides: CMakeFiles/CF525E_AnyaAndCubes.dir/Miscellaneous/CF525E_AnyaAndCubes.cpp.o.requires
+	$(MAKE) -f CMakeFiles/CF525E_AnyaAndCubes.dir/build.make CMakeFiles/CF525E_AnyaAndCubes.dir/Miscellaneous/CF525E_AnyaAndCubes.cpp.o.provides.build
+.PHONY : CMakeFiles/CF525E_AnyaAndCubes.dir/Miscellaneous/CF525E_AnyaAndCubes.cpp.o.provides
 
-CMakeFiles/CF525E_AnyaAndCubes.dir/CF525E_AnyaAndCubes.cpp.o.provides.build: CMakeFiles/CF525E_AnyaAndCubes.dir/CF525E_AnyaAndCubes.cpp.o
+CMakeFiles/CF525E_AnyaAndCubes.dir/Miscellaneous/CF525E_AnyaAndCubes.cpp.o.provides.build: CMakeFiles/CF525E_AnyaAndCubes.dir/Miscellaneous/CF525E_AnyaAndCubes.cpp.o
 
 
 # Object files for target CF525E_AnyaAndCubes
 CF525E_AnyaAndCubes_OBJECTS = \
-"CMakeFiles/CF525E_AnyaAndCubes.dir/CF525E_AnyaAndCubes.cpp.o"
+"CMakeFiles/CF525E_AnyaAndCubes.dir/Miscellaneous/CF525E_AnyaAndCubes.cpp.o"
 
 # External object files for target CF525E_AnyaAndCubes
 CF525E_AnyaAndCubes_EXTERNAL_OBJECTS =
 
-CF525E_AnyaAndCubes: CMakeFiles/CF525E_AnyaAndCubes.dir/CF525E_AnyaAndCubes.cpp.o
+CF525E_AnyaAndCubes: CMakeFiles/CF525E_AnyaAndCubes.dir/Miscellaneous/CF525E_AnyaAndCubes.cpp.o
 CF525E_AnyaAndCubes: CMakeFiles/CF525E_AnyaAndCubes.dir/build.make
 CF525E_AnyaAndCubes: CMakeFiles/CF525E_AnyaAndCubes.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable CF525E_AnyaAndCubes"
@@ -99,7 +99,7 @@ CMakeFiles/CF525E_AnyaAndCubes.dir/build: CF525E_AnyaAndCubes
 
 .PHONY : CMakeFiles/CF525E_AnyaAndCubes.dir/build
 
-CMakeFiles/CF525E_AnyaAndCubes.dir/requires: CMakeFiles/CF525E_AnyaAndCubes.dir/CF525E_AnyaAndCubes.cpp.o.requires
+CMakeFiles/CF525E_AnyaAndCubes.dir/requires: CMakeFiles/CF525E_AnyaAndCubes.dir/Miscellaneous/CF525E_AnyaAndCubes.cpp.o.requires
 
 .PHONY : CMakeFiles/CF525E_AnyaAndCubes.dir/requires
 

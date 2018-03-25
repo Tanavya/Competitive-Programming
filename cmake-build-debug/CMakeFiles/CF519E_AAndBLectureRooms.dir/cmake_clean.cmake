@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/CF519E_AAndBLectureRooms.dir/CF519E_AAndBLectureRooms.cpp.o"
+  "CMakeFiles/CF519E_AAndBLectureRooms.dir/Miscellaneous/CF519E_AAndBLectureRooms.cpp.o"
   "CF519E_AAndBLectureRooms.pdb"
   "CF519E_AAndBLectureRooms"
 )
