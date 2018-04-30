@@ -18,7 +18,7 @@ using namespace std;
 
 
 //The modular multiplicative inverse is an integer ‘x’ such that.
-//a^x ≡ 1 (mod m)
+//ax ≡ 1 (mod m)
 int gcdExtended(int a, int b, int *x, int *y)
 {
     // Base Case

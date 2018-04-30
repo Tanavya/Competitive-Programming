@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/IOITC2014_HyperSpacePaths.cpp
+vector
+-
+algorithm
+-
+stdio.h
+-
+

@@ -249,28 +249,28 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/SegmentTree
 CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/SegmentTree_RMQ.cpp.o.provides.build: CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/SegmentTree_RMQ.cpp.o
 
 
-CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)HackerEarth_LittleDeepuAndArray.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
-CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)HackerEarth_LittleDeepuAndArray.cpp.o: ../DataStructures/(TODO)HackerEarth_LittleDeepuAndArray.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)HackerEarth_LittleDeepuAndArray.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)HackerEarth_LittleDeepuAndArray.cpp.o" -c "/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/(TODO)HackerEarth_LittleDeepuAndArray.cpp"
+CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_LittleDeepuAndArray.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
+CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_LittleDeepuAndArray.cpp.o: ../DataStructures/HackerEarth_LittleDeepuAndArray.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_LittleDeepuAndArray.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_LittleDeepuAndArray.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/HackerEarth_LittleDeepuAndArray.cpp
 
-CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)HackerEarth_LittleDeepuAndArray.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)HackerEarth_LittleDeepuAndArray.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/(TODO)HackerEarth_LittleDeepuAndArray.cpp" > "CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)HackerEarth_LittleDeepuAndArray.cpp.i"
+CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_LittleDeepuAndArray.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_LittleDeepuAndArray.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/HackerEarth_LittleDeepuAndArray.cpp > CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_LittleDeepuAndArray.cpp.i
 
-CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)HackerEarth_LittleDeepuAndArray.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)HackerEarth_LittleDeepuAndArray.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/(TODO)HackerEarth_LittleDeepuAndArray.cpp" -o "CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)HackerEarth_LittleDeepuAndArray.cpp.s"
+CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_LittleDeepuAndArray.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_LittleDeepuAndArray.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/HackerEarth_LittleDeepuAndArray.cpp -o CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_LittleDeepuAndArray.cpp.s
 
-CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)HackerEarth_LittleDeepuAndArray.cpp.o.requires:
+CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_LittleDeepuAndArray.cpp.o.requires:
 
-.PHONY : CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)HackerEarth_LittleDeepuAndArray.cpp.o.requires
+.PHONY : CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_LittleDeepuAndArray.cpp.o.requires
 
-CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)HackerEarth_LittleDeepuAndArray.cpp.o.provides: CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)HackerEarth_LittleDeepuAndArray.cpp.o.requires
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make "CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)HackerEarth_LittleDeepuAndArray.cpp.o.provides.build"
-.PHONY : CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)HackerEarth_LittleDeepuAndArray.cpp.o.provides
+CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_LittleDeepuAndArray.cpp.o.provides: CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_LittleDeepuAndArray.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_LittleDeepuAndArray.cpp.o.provides.build
+.PHONY : CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_LittleDeepuAndArray.cpp.o.provides
 
-CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)HackerEarth_LittleDeepuAndArray.cpp.o.provides.build: CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)HackerEarth_LittleDeepuAndArray.cpp.o
+CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_LittleDeepuAndArray.cpp.o.provides.build: CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_LittleDeepuAndArray.cpp.o
 
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)OPC_FindThePermutation.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
@@ -2313,28 +2313,28 @@ CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/LowestCommonAn
 CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/LowestCommonAncestor.cpp.o.provides.build: CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/LowestCommonAncestor.cpp.o
 
 
-CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/SCCTarjan.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
-CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/SCCTarjan.cpp.o: ../GraphTheory/Implementation/SCCTarjan.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_95) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/SCCTarjan.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/SCCTarjan.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/SCCTarjan.cpp
+CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/SCC.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
+CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/SCC.cpp.o: ../GraphTheory/Implementation/SCC.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_95) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/SCC.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/SCC.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/SCC.cpp
 
-CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/SCCTarjan.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/SCCTarjan.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/SCCTarjan.cpp > CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/SCCTarjan.cpp.i
+CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/SCC.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/SCC.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/SCC.cpp > CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/SCC.cpp.i
 
-CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/SCCTarjan.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/SCCTarjan.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/SCCTarjan.cpp -o CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/SCCTarjan.cpp.s
+CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/SCC.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/SCC.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/SCC.cpp -o CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/SCC.cpp.s
 
-CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/SCCTarjan.cpp.o.requires:
+CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/SCC.cpp.o.requires:
 
-.PHONY : CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/SCCTarjan.cpp.o.requires
+.PHONY : CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/SCC.cpp.o.requires
 
-CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/SCCTarjan.cpp.o.provides: CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/SCCTarjan.cpp.o.requires
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/SCCTarjan.cpp.o.provides.build
-.PHONY : CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/SCCTarjan.cpp.o.provides
+CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/SCC.cpp.o.provides: CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/SCC.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/SCC.cpp.o.provides.build
+.PHONY : CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/SCC.cpp.o.provides
 
-CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/SCCTarjan.cpp.o.provides.build: CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/SCCTarjan.cpp.o
+CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/SCC.cpp.o.provides.build: CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/SCC.cpp.o
 
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/TopologicalSort.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
@@ -4377,33 +4377,9 @@ CMakeFiles/Competitive_Programming.dir/Miscellaneous/INOI_WealthDisparity.cpp.o.
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/INOI_WealthDisparity.cpp.o.provides.build: CMakeFiles/Competitive_Programming.dir/Miscellaneous/INOI_WealthDisparity.cpp.o
 
 
-CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC_BabaAndBitmasks.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
-CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC_BabaAndBitmasks.cpp.o: ../Miscellaneous/IOITC_BabaAndBitmasks.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_181) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC_BabaAndBitmasks.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC_BabaAndBitmasks.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/IOITC_BabaAndBitmasks.cpp
-
-CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC_BabaAndBitmasks.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC_BabaAndBitmasks.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/IOITC_BabaAndBitmasks.cpp > CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC_BabaAndBitmasks.cpp.i
-
-CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC_BabaAndBitmasks.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC_BabaAndBitmasks.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/IOITC_BabaAndBitmasks.cpp -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC_BabaAndBitmasks.cpp.s
-
-CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC_BabaAndBitmasks.cpp.o.requires:
-
-.PHONY : CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC_BabaAndBitmasks.cpp.o.requires
-
-CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC_BabaAndBitmasks.cpp.o.provides: CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC_BabaAndBitmasks.cpp.o.requires
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC_BabaAndBitmasks.cpp.o.provides.build
-.PHONY : CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC_BabaAndBitmasks.cpp.o.provides
-
-CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC_BabaAndBitmasks.cpp.o.provides.build: CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC_BabaAndBitmasks.cpp.o
-
-
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/kthDivisor.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/kthDivisor.cpp.o: ../Miscellaneous/kthDivisor.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_182) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/kthDivisor.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_181) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/kthDivisor.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/kthDivisor.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/kthDivisor.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/kthDivisor.cpp.i: cmake_force
@@ -4427,7 +4403,7 @@ CMakeFiles/Competitive_Programming.dir/Miscellaneous/kthDivisor.cpp.o.provides.b
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/LazyLoading.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/LazyLoading.cpp.o: ../Miscellaneous/LazyLoading.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_183) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/LazyLoading.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_182) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/LazyLoading.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/LazyLoading.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/LazyLoading.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/LazyLoading.cpp.i: cmake_force
@@ -4451,7 +4427,7 @@ CMakeFiles/Competitive_Programming.dir/Miscellaneous/LazyLoading.cpp.o.provides.
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/ManicMoving.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/ManicMoving.cpp.o: ../Miscellaneous/ManicMoving.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_184) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/ManicMoving.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_183) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/ManicMoving.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/ManicMoving.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/ManicMoving.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/ManicMoving.cpp.i: cmake_force
@@ -4475,7 +4451,7 @@ CMakeFiles/Competitive_Programming.dir/Miscellaneous/ManicMoving.cpp.o.provides.
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/MaxPath.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/MaxPath.cpp.o: ../Miscellaneous/MaxPath.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_185) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/MaxPath.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_184) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/MaxPath.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/MaxPath.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/MaxPath.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/MaxPath.cpp.i: cmake_force
@@ -4499,7 +4475,7 @@ CMakeFiles/Competitive_Programming.dir/Miscellaneous/MaxPath.cpp.o.provides.buil
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/OPC_EqualGifts.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/OPC_EqualGifts.cpp.o: ../Miscellaneous/OPC_EqualGifts.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_186) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/OPC_EqualGifts.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_185) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/OPC_EqualGifts.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/OPC_EqualGifts.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/OPC_EqualGifts.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/OPC_EqualGifts.cpp.i: cmake_force
@@ -4523,7 +4499,7 @@ CMakeFiles/Competitive_Programming.dir/Miscellaneous/OPC_EqualGifts.cpp.o.provid
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/OPC_IndPyramid.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/OPC_IndPyramid.cpp.o: ../Miscellaneous/OPC_IndPyramid.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_187) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/OPC_IndPyramid.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_186) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/OPC_IndPyramid.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/OPC_IndPyramid.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/OPC_IndPyramid.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/OPC_IndPyramid.cpp.i: cmake_force
@@ -4547,7 +4523,7 @@ CMakeFiles/Competitive_Programming.dir/Miscellaneous/OPC_IndPyramid.cpp.o.provid
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/OPC_LeadGame.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/OPC_LeadGame.cpp.o: ../Miscellaneous/OPC_LeadGame.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_188) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/OPC_LeadGame.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_187) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/OPC_LeadGame.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/OPC_LeadGame.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/OPC_LeadGame.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/OPC_LeadGame.cpp.i: cmake_force
@@ -4571,7 +4547,7 @@ CMakeFiles/Competitive_Programming.dir/Miscellaneous/OPC_LeadGame.cpp.o.provides
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/OPC_MinimumTurnRoute.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/OPC_MinimumTurnRoute.cpp.o: ../Miscellaneous/OPC_MinimumTurnRoute.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_189) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/OPC_MinimumTurnRoute.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_188) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/OPC_MinimumTurnRoute.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/OPC_MinimumTurnRoute.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/OPC_MinimumTurnRoute.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/OPC_MinimumTurnRoute.cpp.i: cmake_force
@@ -4595,7 +4571,7 @@ CMakeFiles/Competitive_Programming.dir/Miscellaneous/OPC_MinimumTurnRoute.cpp.o.
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/OPC_RailwayCateringContacts.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/OPC_RailwayCateringContacts.cpp.o: ../Miscellaneous/OPC_RailwayCateringContacts.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_190) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/OPC_RailwayCateringContacts.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_189) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/OPC_RailwayCateringContacts.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/OPC_RailwayCateringContacts.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/OPC_RailwayCateringContacts.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/OPC_RailwayCateringContacts.cpp.i: cmake_force
@@ -4619,7 +4595,7 @@ CMakeFiles/Competitive_Programming.dir/Miscellaneous/OPC_RailwayCateringContacts
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/OPC_SiruseriMetro.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/OPC_SiruseriMetro.cpp.o: ../Miscellaneous/OPC_SiruseriMetro.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_191) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/OPC_SiruseriMetro.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_190) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/OPC_SiruseriMetro.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/OPC_SiruseriMetro.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/OPC_SiruseriMetro.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/OPC_SiruseriMetro.cpp.i: cmake_force
@@ -4643,7 +4619,7 @@ CMakeFiles/Competitive_Programming.dir/Miscellaneous/OPC_SiruseriMetro.cpp.o.pro
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/Parquet.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/Parquet.cpp.o: ../Miscellaneous/Parquet.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_192) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/Parquet.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_191) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/Parquet.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/Parquet.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/Parquet.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/Parquet.cpp.i: cmake_force
@@ -4667,7 +4643,7 @@ CMakeFiles/Competitive_Programming.dir/Miscellaneous/Parquet.cpp.o.provides.buil
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/PROC17_Traffic.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/PROC17_Traffic.cpp.o: ../Miscellaneous/PROC17_Traffic.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_193) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/PROC17_Traffic.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_192) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/PROC17_Traffic.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/PROC17_Traffic.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/PROC17_Traffic.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/PROC17_Traffic.cpp.i: cmake_force
@@ -4691,7 +4667,7 @@ CMakeFiles/Competitive_Programming.dir/Miscellaneous/PROC17_Traffic.cpp.o.provid
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/ProgressPie.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/ProgressPie.cpp.o: ../Miscellaneous/ProgressPie.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_194) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/ProgressPie.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_193) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/ProgressPie.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/ProgressPie.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/ProgressPie.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/ProgressPie.cpp.i: cmake_force
@@ -4715,7 +4691,7 @@ CMakeFiles/Competitive_Programming.dir/Miscellaneous/ProgressPie.cpp.o.provides.
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/race.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/race.cpp.o: ../Miscellaneous/race.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_195) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/race.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_194) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/race.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/race.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/race.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/race.cpp.i: cmake_force
@@ -4739,7 +4715,7 @@ CMakeFiles/Competitive_Programming.dir/Miscellaneous/race.cpp.o.provides.build: 
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/RustAndMurderer.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/RustAndMurderer.cpp.o: ../Miscellaneous/RustAndMurderer.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_196) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/RustAndMurderer.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_195) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/RustAndMurderer.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/RustAndMurderer.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/RustAndMurderer.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/RustAndMurderer.cpp.i: cmake_force
@@ -4763,7 +4739,7 @@ CMakeFiles/Competitive_Programming.dir/Miscellaneous/RustAndMurderer.cpp.o.provi
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/SIS.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/SIS.cpp.o: ../Miscellaneous/SIS.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_197) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/SIS.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_196) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/SIS.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/SIS.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/SIS.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/SIS.cpp.i: cmake_force
@@ -4787,7 +4763,7 @@ CMakeFiles/Competitive_Programming.dir/Miscellaneous/SIS.cpp.o.provides.build: C
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/SPOJ_DNASequences.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/SPOJ_DNASequences.cpp.o: ../Miscellaneous/SPOJ_DNASequences.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_198) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/SPOJ_DNASequences.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_197) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/SPOJ_DNASequences.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/SPOJ_DNASequences.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/SPOJ_DNASequences.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/SPOJ_DNASequences.cpp.i: cmake_force
@@ -4811,7 +4787,7 @@ CMakeFiles/Competitive_Programming.dir/Miscellaneous/SPOJ_DNASequences.cpp.o.pro
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/SPOJ_DNASequencesCopy.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/SPOJ_DNASequencesCopy.cpp.o: ../Miscellaneous/SPOJ_DNASequencesCopy.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_199) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/SPOJ_DNASequencesCopy.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_198) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/SPOJ_DNASequencesCopy.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/SPOJ_DNASequencesCopy.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/SPOJ_DNASequencesCopy.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/SPOJ_DNASequencesCopy.cpp.i: cmake_force
@@ -4835,7 +4811,7 @@ CMakeFiles/Competitive_Programming.dir/Miscellaneous/SPOJ_DNASequencesCopy.cpp.o
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/SPOJ_SubArrays.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/SPOJ_SubArrays.cpp.o: ../Miscellaneous/SPOJ_SubArrays.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_200) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/SPOJ_SubArrays.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_199) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/SPOJ_SubArrays.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/SPOJ_SubArrays.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/SPOJ_SubArrays.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/SPOJ_SubArrays.cpp.i: cmake_force
@@ -4859,7 +4835,7 @@ CMakeFiles/Competitive_Programming.dir/Miscellaneous/SPOJ_SubArrays.cpp.o.provid
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/SynchronousShopping.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/SynchronousShopping.cpp.o: ../Miscellaneous/SynchronousShopping.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_201) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/SynchronousShopping.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_200) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/SynchronousShopping.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/SynchronousShopping.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/SynchronousShopping.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/SynchronousShopping.cpp.i: cmake_force
@@ -4883,7 +4859,7 @@ CMakeFiles/Competitive_Programming.dir/Miscellaneous/SynchronousShopping.cpp.o.p
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/TwoStrings.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/TwoStrings.cpp.o: ../Miscellaneous/TwoStrings.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_202) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/TwoStrings.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_201) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/TwoStrings.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/TwoStrings.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/TwoStrings.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/TwoStrings.cpp.i: cmake_force
@@ -4907,7 +4883,7 @@ CMakeFiles/Competitive_Programming.dir/Miscellaneous/TwoStrings.cpp.o.provides.b
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/untitled.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/untitled.cpp.o: ../Miscellaneous/untitled.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_203) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/untitled.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_202) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/untitled.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/untitled.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/untitled.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/untitled.cpp.i: cmake_force
@@ -4931,7 +4907,7 @@ CMakeFiles/Competitive_Programming.dir/Miscellaneous/untitled.cpp.o.provides.bui
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/USBvsPS2.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/USBvsPS2.cpp.o: ../Miscellaneous/USBvsPS2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_204) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/USBvsPS2.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_203) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/USBvsPS2.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/USBvsPS2.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/USBvsPS2.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/USBvsPS2.cpp.i: cmake_force
@@ -4955,7 +4931,7 @@ CMakeFiles/Competitive_Programming.dir/Miscellaneous/USBvsPS2.cpp.o.provides.bui
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa10684_Jackpot.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa10684_Jackpot.cpp.o: ../Miscellaneous/UVa10684_Jackpot.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_205) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa10684_Jackpot.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_204) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa10684_Jackpot.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa10684_Jackpot.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/UVa10684_Jackpot.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa10684_Jackpot.cpp.i: cmake_force
@@ -4979,7 +4955,7 @@ CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa10684_Jackpot.cpp.o.prov
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa10755_GarbageHeap.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa10755_GarbageHeap.cpp.o: ../Miscellaneous/UVa10755_GarbageHeap.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_206) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa10755_GarbageHeap.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_205) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa10755_GarbageHeap.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa10755_GarbageHeap.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/UVa10755_GarbageHeap.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa10755_GarbageHeap.cpp.i: cmake_force
@@ -5003,7 +4979,7 @@ CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa10755_GarbageHeap.cpp.o.
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa11456_Trainsorting.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa11456_Trainsorting.cpp.o: ../Miscellaneous/UVa11456_Trainsorting.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_207) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa11456_Trainsorting.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_206) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa11456_Trainsorting.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa11456_Trainsorting.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/UVa11456_Trainsorting.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa11456_Trainsorting.cpp.i: cmake_force
@@ -5027,7 +5003,7 @@ CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa11456_Trainsorting.cpp.o
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa1177_AGeneralRecurrenceRelation.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa1177_AGeneralRecurrenceRelation.cpp.o: ../Miscellaneous/UVa1177_AGeneralRecurrenceRelation.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_208) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa1177_AGeneralRecurrenceRelation.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_207) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa1177_AGeneralRecurrenceRelation.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa1177_AGeneralRecurrenceRelation.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/UVa1177_AGeneralRecurrenceRelation.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa1177_AGeneralRecurrenceRelation.cpp.i: cmake_force
@@ -5051,7 +5027,7 @@ CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa1177_AGeneralRecurrenceR
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa12405_Scarecrow.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa12405_Scarecrow.cpp.o: ../Miscellaneous/UVa12405_Scarecrow.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_209) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa12405_Scarecrow.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_208) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa12405_Scarecrow.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa12405_Scarecrow.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/UVa12405_Scarecrow.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa12405_Scarecrow.cpp.i: cmake_force
@@ -5075,7 +5051,7 @@ CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa12405_Scarecrow.cpp.o.pr
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa787_MaxSubSequenceProduct.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa787_MaxSubSequenceProduct.cpp.o: ../Miscellaneous/UVa787_MaxSubSequenceProduct.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_210) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa787_MaxSubSequenceProduct.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_209) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa787_MaxSubSequenceProduct.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa787_MaxSubSequenceProduct.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/UVa787_MaxSubSequenceProduct.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa787_MaxSubSequenceProduct.cpp.i: cmake_force
@@ -5099,7 +5075,7 @@ CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa787_MaxSubSequenceProduc
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa927.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa927.cpp.o: ../Miscellaneous/UVa927.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_211) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa927.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_210) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa927.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa927.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/UVa927.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa927.cpp.i: cmake_force
@@ -5123,7 +5099,7 @@ CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa927.cpp.o.provides.build
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_8Queens.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_8Queens.cpp.o: ../Miscellaneous/UVa_8Queens.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_212) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_8Queens.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_211) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_8Queens.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_8Queens.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/UVa_8Queens.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_8Queens.cpp.i: cmake_force
@@ -5147,7 +5123,7 @@ CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_8Queens.cpp.o.provides.
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_AnotherNQueenProblem.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_AnotherNQueenProblem.cpp.o: ../Miscellaneous/UVa_AnotherNQueenProblem.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_213) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_AnotherNQueenProblem.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_212) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_AnotherNQueenProblem.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_AnotherNQueenProblem.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/UVa_AnotherNQueenProblem.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_AnotherNQueenProblem.cpp.i: cmake_force
@@ -5171,7 +5147,7 @@ CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_AnotherNQueenProblem.cp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_BackToThe8Queens.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_BackToThe8Queens.cpp.o: ../Miscellaneous/UVa_BackToThe8Queens.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_214) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_BackToThe8Queens.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_213) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_BackToThe8Queens.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_BackToThe8Queens.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/UVa_BackToThe8Queens.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_BackToThe8Queens.cpp.i: cmake_force
@@ -5195,7 +5171,7 @@ CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_BackToThe8Queens.cpp.o.
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_Bars.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_Bars.cpp.o: ../Miscellaneous/UVa_Bars.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_215) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_Bars.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_214) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_Bars.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_Bars.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/UVa_Bars.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_Bars.cpp.i: cmake_force
@@ -5219,7 +5195,7 @@ CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_Bars.cpp.o.provides.bui
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_BusDriverProblem.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_BusDriverProblem.cpp.o: ../Miscellaneous/UVa_BusDriverProblem.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_216) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_BusDriverProblem.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_215) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_BusDriverProblem.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_BusDriverProblem.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/UVa_BusDriverProblem.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_BusDriverProblem.cpp.i: cmake_force
@@ -5243,7 +5219,7 @@ CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_BusDriverProblem.cpp.o.
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_CD.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_CD.cpp.o: ../Miscellaneous/UVa_CD.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_217) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_CD.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_216) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_CD.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_CD.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/UVa_CD.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_CD.cpp.i: cmake_force
@@ -5267,7 +5243,7 @@ CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_CD.cpp.o.provides.build
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_CitizenAttentionOffices.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_CitizenAttentionOffices.cpp.o: ../Miscellaneous/UVa_CitizenAttentionOffices.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_218) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_CitizenAttentionOffices.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_217) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_CitizenAttentionOffices.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_CitizenAttentionOffices.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/UVa_CitizenAttentionOffices.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_CitizenAttentionOffices.cpp.i: cmake_force
@@ -5291,7 +5267,7 @@ CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_CitizenAttentionOffices
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_ClosestSums.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_ClosestSums.cpp.o: ../Miscellaneous/UVa_ClosestSums.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_219) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_ClosestSums.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_218) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_ClosestSums.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_ClosestSums.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/UVa_ClosestSums.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_ClosestSums.cpp.i: cmake_force
@@ -5315,7 +5291,7 @@ CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_ClosestSums.cpp.o.provi
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_CoinCollector.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_CoinCollector.cpp.o: ../Miscellaneous/UVa_CoinCollector.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_220) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_CoinCollector.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_219) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_CoinCollector.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_CoinCollector.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/UVa_CoinCollector.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_CoinCollector.cpp.i: cmake_force
@@ -5339,7 +5315,7 @@ CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_CoinCollector.cpp.o.pro
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_DartAMania.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_DartAMania.cpp.o: ../Miscellaneous/UVa_DartAMania.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_221) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_DartAMania.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_220) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_DartAMania.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_DartAMania.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/UVa_DartAMania.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_DartAMania.cpp.i: cmake_force
@@ -5363,7 +5339,7 @@ CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_DartAMania.cpp.o.provid
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_ExactSum.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_ExactSum.cpp.o: ../Miscellaneous/UVa_ExactSum.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_222) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_ExactSum.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_221) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_ExactSum.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_ExactSum.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/UVa_ExactSum.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_ExactSum.cpp.i: cmake_force
@@ -5387,7 +5363,7 @@ CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_ExactSum.cpp.o.provides
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_ExpertEnough.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_ExpertEnough.cpp.o: ../Miscellaneous/UVa_ExpertEnough.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_223) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_ExpertEnough.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_222) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_ExpertEnough.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_ExpertEnough.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/UVa_ExpertEnough.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_ExpertEnough.cpp.i: cmake_force
@@ -5411,7 +5387,7 @@ CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_ExpertEnough.cpp.o.prov
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_FillTheContainers.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_FillTheContainers.cpp.o: ../Miscellaneous/UVa_FillTheContainers.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_224) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_FillTheContainers.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_223) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_FillTheContainers.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_FillTheContainers.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/UVa_FillTheContainers.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_FillTheContainers.cpp.i: cmake_force
@@ -5435,7 +5411,7 @@ CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_FillTheContainers.cpp.o
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_FractionsAgain.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_FractionsAgain.cpp.o: ../Miscellaneous/UVa_FractionsAgain.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_225) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_FractionsAgain.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_224) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_FractionsAgain.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_FractionsAgain.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/UVa_FractionsAgain.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_FractionsAgain.cpp.i: cmake_force
@@ -5459,7 +5435,7 @@ CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_FractionsAgain.cpp.o.pr
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_Grapevine.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_Grapevine.cpp.o: ../Miscellaneous/UVa_Grapevine.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_226) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_Grapevine.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_225) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_Grapevine.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_Grapevine.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/UVa_Grapevine.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_Grapevine.cpp.i: cmake_force
@@ -5483,7 +5459,7 @@ CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_Grapevine.cpp.o.provide
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_GraphColoring.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_GraphColoring.cpp.o: ../Miscellaneous/UVa_GraphColoring.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_227) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_GraphColoring.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_226) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_GraphColoring.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_GraphColoring.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/UVa_GraphColoring.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_GraphColoring.cpp.i: cmake_force
@@ -5507,7 +5483,7 @@ CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_GraphColoring.cpp.o.pro
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_GraphColoring2.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_GraphColoring2.cpp.o: ../Miscellaneous/UVa_GraphColoring2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_228) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_GraphColoring2.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_227) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_GraphColoring2.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_GraphColoring2.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/UVa_GraphColoring2.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_GraphColoring2.cpp.i: cmake_force
@@ -5531,7 +5507,7 @@ CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_GraphColoring2.cpp.o.pr
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_GridGame.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_GridGame.cpp.o: ../Miscellaneous/UVa_GridGame.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_229) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_GridGame.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_228) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_GridGame.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_GridGame.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/UVa_GridGame.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_GridGame.cpp.i: cmake_force
@@ -5555,7 +5531,7 @@ CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_GridGame.cpp.o.provides
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_GroceryStore.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_GroceryStore.cpp.o: ../Miscellaneous/UVa_GroceryStore.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_230) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_GroceryStore.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_229) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_GroceryStore.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_GroceryStore.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/UVa_GroceryStore.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_GroceryStore.cpp.i: cmake_force
@@ -5579,7 +5555,7 @@ CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_GroceryStore.cpp.o.prov
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_HelpingFillBates.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_HelpingFillBates.cpp.o: ../Miscellaneous/UVa_HelpingFillBates.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_231) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_HelpingFillBates.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_230) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_HelpingFillBates.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_HelpingFillBates.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/UVa_HelpingFillBates.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_HelpingFillBates.cpp.i: cmake_force
@@ -5603,7 +5579,7 @@ CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_HelpingFillBates.cpp.o.
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_LEDTest.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_LEDTest.cpp.o: ../Miscellaneous/UVa_LEDTest.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_232) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_LEDTest.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_231) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_LEDTest.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_LEDTest.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/UVa_LEDTest.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_LEDTest.cpp.i: cmake_force
@@ -5627,7 +5603,7 @@ CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_LEDTest.cpp.o.provides.
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_Lotto.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_Lotto.cpp.o: ../Miscellaneous/UVa_Lotto.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_233) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_Lotto.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_232) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_Lotto.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_Lotto.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/UVa_Lotto.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_Lotto.cpp.i: cmake_force
@@ -5651,7 +5627,7 @@ CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_Lotto.cpp.o.provides.bu
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_MonkeyAndOiledBamboo.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_MonkeyAndOiledBamboo.cpp.o: ../Miscellaneous/UVa_MonkeyAndOiledBamboo.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_234) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_MonkeyAndOiledBamboo.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_233) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_MonkeyAndOiledBamboo.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_MonkeyAndOiledBamboo.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/UVa_MonkeyAndOiledBamboo.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_MonkeyAndOiledBamboo.cpp.i: cmake_force
@@ -5675,7 +5651,7 @@ CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_MonkeyAndOiledBamboo.cp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_Password.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_Password.cpp.o: ../Miscellaneous/UVa_Password.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_235) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_Password.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_234) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_Password.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_Password.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/UVa_Password.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_Password.cpp.i: cmake_force
@@ -5699,7 +5675,7 @@ CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_Password.cpp.o.provides
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_PathInColouredField.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_PathInColouredField.cpp.o: ../Miscellaneous/UVa_PathInColouredField.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_236) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_PathInColouredField.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_235) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_PathInColouredField.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_PathInColouredField.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/UVa_PathInColouredField.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_PathInColouredField.cpp.i: cmake_force
@@ -5723,7 +5699,7 @@ CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_PathInColouredField.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_PrimeRingProblem.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_PrimeRingProblem.cpp.o: ../Miscellaneous/UVa_PrimeRingProblem.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_237) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_PrimeRingProblem.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_236) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_PrimeRingProblem.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_PrimeRingProblem.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/UVa_PrimeRingProblem.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_PrimeRingProblem.cpp.i: cmake_force
@@ -5747,7 +5723,7 @@ CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_PrimeRingProblem.cpp.o.
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_RatAttack.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_RatAttack.cpp.o: ../Miscellaneous/UVa_RatAttack.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_238) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_RatAttack.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_237) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_RatAttack.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_RatAttack.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/UVa_RatAttack.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_RatAttack.cpp.i: cmake_force
@@ -5771,7 +5747,7 @@ CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_RatAttack.cpp.o.provide
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_Sales.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_Sales.cpp.o: ../Miscellaneous/UVa_Sales.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_239) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_Sales.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_238) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_Sales.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_Sales.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/UVa_Sales.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_Sales.cpp.i: cmake_force
@@ -5795,7 +5771,7 @@ CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_Sales.cpp.o.provides.bu
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_SolveIt.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_SolveIt.cpp.o: ../Miscellaneous/UVa_SolveIt.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_240) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_SolveIt.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_239) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_SolveIt.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_SolveIt.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/UVa_SolveIt.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_SolveIt.cpp.i: cmake_force
@@ -5819,7 +5795,7 @@ CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_SolveIt.cpp.o.provides.
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_SumItUp.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_SumItUp.cpp.o: ../Miscellaneous/UVa_SumItUp.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_241) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_SumItUp.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_240) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_SumItUp.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_SumItUp.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/UVa_SumItUp.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_SumItUp.cpp.i: cmake_force
@@ -5843,7 +5819,7 @@ CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_SumItUp.cpp.o.provides.
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_TourDeFrance.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_TourDeFrance.cpp.o: ../Miscellaneous/UVa_TourDeFrance.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_242) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_TourDeFrance.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_241) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_TourDeFrance.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_TourDeFrance.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/UVa_TourDeFrance.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_TourDeFrance.cpp.i: cmake_force
@@ -5867,7 +5843,7 @@ CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_TourDeFrance.cpp.o.prov
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_Y2KAccountingBug.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_Y2KAccountingBug.cpp.o: ../Miscellaneous/UVa_Y2KAccountingBug.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_243) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_Y2KAccountingBug.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_242) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_Y2KAccountingBug.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_Y2KAccountingBug.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/UVa_Y2KAccountingBug.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_Y2KAccountingBug.cpp.i: cmake_force
@@ -5891,7 +5867,7 @@ CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_Y2KAccountingBug.cpp.o.
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_Zones.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_Zones.cpp.o: ../Miscellaneous/UVa_Zones.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_244) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_Zones.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_243) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_Zones.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_Zones.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/UVa_Zones.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_Zones.cpp.i: cmake_force
@@ -5915,7 +5891,7 @@ CMakeFiles/Competitive_Programming.dir/Miscellaneous/UVa_Zones.cpp.o.provides.bu
 
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/Knuth-Morris-Pratt-Algorithm.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/Knuth-Morris-Pratt-Algorithm.cpp.o: ../OtherAlgorithms/Knuth-Morris-Pratt-Algorithm.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_245) "Building CXX object CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/Knuth-Morris-Pratt-Algorithm.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_244) "Building CXX object CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/Knuth-Morris-Pratt-Algorithm.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/Knuth-Morris-Pratt-Algorithm.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/Knuth-Morris-Pratt-Algorithm.cpp
 
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/Knuth-Morris-Pratt-Algorithm.cpp.i: cmake_force
@@ -5939,7 +5915,7 @@ CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/Knuth-Morris-Pratt-Algori
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/CC_ChefGoesLeftRight.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/CC_ChefGoesLeftRight.cpp.o: ../Miscellaneous/CC_ChefGoesLeftRight.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_246) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/CC_ChefGoesLeftRight.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_245) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/CC_ChefGoesLeftRight.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/CC_ChefGoesLeftRight.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/CC_ChefGoesLeftRight.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/CC_ChefGoesLeftRight.cpp.i: cmake_force
@@ -5963,7 +5939,7 @@ CMakeFiles/Competitive_Programming.dir/Miscellaneous/CC_ChefGoesLeftRight.cpp.o.
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndSubarrayQueries.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndSubarrayQueries.cpp.o: ../DataStructures/CC_ChefAndSubarrayQueries.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_247) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndSubarrayQueries.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_246) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndSubarrayQueries.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndSubarrayQueries.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_ChefAndSubarrayQueries.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndSubarrayQueries.cpp.i: cmake_force
@@ -5987,7 +5963,7 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndSubarrayQueries.
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndSubarrayQueries2.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndSubarrayQueries2.cpp.o: ../DataStructures/CC_ChefAndSubarrayQueries2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_248) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndSubarrayQueries2.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_247) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndSubarrayQueries2.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndSubarrayQueries2.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_ChefAndSubarrayQueries2.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndSubarrayQueries2.cpp.i: cmake_force
@@ -6011,7 +5987,7 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndSubarrayQueries2
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_GSS1.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_GSS1.cpp.o: ../DataStructures/SPOJ_GSS1.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_249) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_GSS1.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_248) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_GSS1.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_GSS1.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_GSS1.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_GSS1.cpp.i: cmake_force
@@ -6035,7 +6011,7 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_GSS1.cpp.o.provides.b
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/DFSConnectedComponents.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/DFSConnectedComponents.cpp.o: ../GraphTheory/Implementation/DFSConnectedComponents.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_250) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/DFSConnectedComponents.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_249) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/DFSConnectedComponents.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/DFSConnectedComponents.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/DFSConnectedComponents.cpp
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/DFSConnectedComponents.cpp.i: cmake_force
@@ -6059,7 +6035,7 @@ CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/DFSConnectedCo
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/CC_ProductOnSegment.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/CC_ProductOnSegment.cpp.o: ../Miscellaneous/CC_ProductOnSegment.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_251) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/CC_ProductOnSegment.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_250) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/CC_ProductOnSegment.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/CC_ProductOnSegment.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/CC_ProductOnSegment.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/CC_ProductOnSegment.cpp.i: cmake_force
@@ -6083,7 +6059,7 @@ CMakeFiles/Competitive_Programming.dir/Miscellaneous/CC_ProductOnSegment.cpp.o.p
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_QTREE1.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_QTREE1.cpp.o: ../DataStructures/SPOJ_QTREE1.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_252) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_QTREE1.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_251) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_QTREE1.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_QTREE1.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_QTREE1.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_QTREE1.cpp.i: cmake_force
@@ -6107,7 +6083,7 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_QTREE1.cpp.o.provides
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CC_LoversGift.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/CC_LoversGift.cpp.o: ../DataStructures/CC_LoversGift.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_253) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/CC_LoversGift.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_252) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/CC_LoversGift.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/CC_LoversGift.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_LoversGift.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CC_LoversGift.cpp.i: cmake_force
@@ -6131,7 +6107,7 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/CC_LoversGift.cpp.o.provid
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF495D_ObsessiveString.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF495D_ObsessiveString.cpp.o: ../DynamicProgramming/CF495D_ObsessiveString.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_254) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF495D_ObsessiveString.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_253) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF495D_ObsessiveString.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF495D_ObsessiveString.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF495D_ObsessiveString.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF495D_ObsessiveString.cpp.i: cmake_force
@@ -6155,7 +6131,7 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF495D_ObsessiveString
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF383D_Antimatter.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF383D_Antimatter.cpp.o: ../DynamicProgramming/CF383D_Antimatter.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_255) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF383D_Antimatter.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_254) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF383D_Antimatter.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF383D_Antimatter.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF383D_Antimatter.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF383D_Antimatter.cpp.i: cmake_force
@@ -6179,7 +6155,7 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF383D_Antimatter.cpp.
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/CF525E_AnyaAndCubes.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/CF525E_AnyaAndCubes.cpp.o: ../Miscellaneous/CF525E_AnyaAndCubes.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_256) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/CF525E_AnyaAndCubes.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_255) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/CF525E_AnyaAndCubes.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/CF525E_AnyaAndCubes.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/CF525E_AnyaAndCubes.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/CF525E_AnyaAndCubes.cpp.i: cmake_force
@@ -6203,7 +6179,7 @@ CMakeFiles/Competitive_Programming.dir/Miscellaneous/CF525E_AnyaAndCubes.cpp.o.p
 
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/Bitmasks.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/Bitmasks.cpp.o: ../OtherAlgorithms/Bitmasks.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_257) "Building CXX object CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/Bitmasks.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_256) "Building CXX object CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/Bitmasks.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/Bitmasks.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/Bitmasks.cpp
 
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/Bitmasks.cpp.i: cmake_force
@@ -6227,7 +6203,7 @@ CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/Bitmasks.cpp.o.provides.b
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/CF688E_TheValuesYouCanMake.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/CF688E_TheValuesYouCanMake.cpp.o: ../Miscellaneous/CF688E_TheValuesYouCanMake.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_258) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/CF688E_TheValuesYouCanMake.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_257) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/CF688E_TheValuesYouCanMake.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/CF688E_TheValuesYouCanMake.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/CF688E_TheValuesYouCanMake.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/CF688E_TheValuesYouCanMake.cpp.i: cmake_force
@@ -6251,7 +6227,7 @@ CMakeFiles/Competitive_Programming.dir/Miscellaneous/CF688E_TheValuesYouCanMake.
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/CF659E_NewReform.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/GraphTheory/CF659E_NewReform.cpp.o: ../GraphTheory/CF659E_NewReform.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_259) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/CF659E_NewReform.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_258) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/CF659E_NewReform.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/GraphTheory/CF659E_NewReform.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/CF659E_NewReform.cpp
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/CF659E_NewReform.cpp.i: cmake_force
@@ -6275,7 +6251,7 @@ CMakeFiles/Competitive_Programming.dir/GraphTheory/CF659E_NewReform.cpp.o.provid
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CC_LoversGift2.cpp.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/CC_LoversGift2.cpp.cpp.o: ../DataStructures/CC_LoversGift2.cpp.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_260) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/CC_LoversGift2.cpp.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_259) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/CC_LoversGift2.cpp.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/CC_LoversGift2.cpp.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_LoversGift2.cpp.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CC_LoversGift2.cpp.cpp.i: cmake_force
@@ -6299,7 +6275,7 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/CC_LoversGift2.cpp.cpp.o.p
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF479D_RidingInALift.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF479D_RidingInALift.cpp.o: ../DynamicProgramming/CF479D_RidingInALift.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_261) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF479D_RidingInALift.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_260) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF479D_RidingInALift.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF479D_RidingInALift.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF479D_RidingInALift.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF479D_RidingInALift.cpp.i: cmake_force
@@ -6323,7 +6299,7 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF479D_RidingInALift.c
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/CF340D_BubbleSortGraph.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/CF340D_BubbleSortGraph.cpp.o: ../Miscellaneous/CF340D_BubbleSortGraph.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_262) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/CF340D_BubbleSortGraph.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_261) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/CF340D_BubbleSortGraph.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/CF340D_BubbleSortGraph.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/CF340D_BubbleSortGraph.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/CF340D_BubbleSortGraph.cpp.i: cmake_force
@@ -6347,7 +6323,7 @@ CMakeFiles/Competitive_Programming.dir/Miscellaneous/CF340D_BubbleSortGraph.cpp.
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndMediumProblem2.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndMediumProblem2.cpp.o: ../DataStructures/CC_ChefAndMediumProblem2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_263) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndMediumProblem2.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_262) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndMediumProblem2.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndMediumProblem2.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_ChefAndMediumProblem2.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndMediumProblem2.cpp.i: cmake_force
@@ -6371,7 +6347,7 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndMediumProblem2.c
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/ExunPrelimsP2.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/ExunPrelimsP2.cpp.o: ../DynamicProgramming/ExunPrelimsP2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_264) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/ExunPrelimsP2.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_263) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/ExunPrelimsP2.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/ExunPrelimsP2.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/ExunPrelimsP2.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/ExunPrelimsP2.cpp.i: cmake_force
@@ -6395,7 +6371,7 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/ExunPrelimsP2.cpp.o.pr
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/CF892E_Envy.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/GraphTheory/CF892E_Envy.cpp.o: ../GraphTheory/CF892E_Envy.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_265) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/CF892E_Envy.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_264) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/CF892E_Envy.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/GraphTheory/CF892E_Envy.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/CF892E_Envy.cpp
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/CF892E_Envy.cpp.i: cmake_force
@@ -6419,7 +6395,7 @@ CMakeFiles/Competitive_Programming.dir/GraphTheory/CF892E_Envy.cpp.o.provides.bu
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CF686D_KayAndSnowflake.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/CF686D_KayAndSnowflake.cpp.o: ../DataStructures/CF686D_KayAndSnowflake.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_266) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/CF686D_KayAndSnowflake.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_265) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/CF686D_KayAndSnowflake.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/CF686D_KayAndSnowflake.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CF686D_KayAndSnowflake.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CF686D_KayAndSnowflake.cpp.i: cmake_force
@@ -6443,7 +6419,7 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/CF686D_KayAndSnowflake.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/CF519E_AAndBLectureRooms.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/CF519E_AAndBLectureRooms.cpp.o: ../Miscellaneous/CF519E_AAndBLectureRooms.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_267) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/CF519E_AAndBLectureRooms.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_266) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/CF519E_AAndBLectureRooms.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/CF519E_AAndBLectureRooms.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/CF519E_AAndBLectureRooms.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/CF519E_AAndBLectureRooms.cpp.i: cmake_force
@@ -6467,7 +6443,7 @@ CMakeFiles/Competitive_Programming.dir/Miscellaneous/CF519E_AAndBLectureRooms.cp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/Exun2017_Digex.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/Exun2017_Digex.cpp.o: ../DynamicProgramming/Exun2017_Digex.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_268) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/Exun2017_Digex.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_267) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/Exun2017_Digex.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/Exun2017_Digex.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/Exun2017_Digex.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/Exun2017_Digex.cpp.i: cmake_force
@@ -6491,7 +6467,7 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/Exun2017_Digex.cpp.o.p
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/Exun2017_DigexReturns.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/Exun2017_DigexReturns.cpp.o: ../DynamicProgramming/Exun2017_DigexReturns.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_269) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/Exun2017_DigexReturns.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_268) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/Exun2017_DigexReturns.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/Exun2017_DigexReturns.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/Exun2017_DigexReturns.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/Exun2017_DigexReturns.cpp.i: cmake_force
@@ -6515,7 +6491,7 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/Exun2017_DigexReturns.
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOI96_AGame.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOI96_AGame.cpp.o: ../DynamicProgramming/IOI96_AGame.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_270) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOI96_AGame.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_269) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOI96_AGame.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOI96_AGame.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/IOI96_AGame.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOI96_AGame.cpp.i: cmake_force
@@ -6539,7 +6515,7 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOI96_AGame.cpp.o.prov
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOI2000_PostOffices.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOI2000_PostOffices.cpp.o: ../DynamicProgramming/IOI2000_PostOffices.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_271) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOI2000_PostOffices.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_270) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOI2000_PostOffices.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOI2000_PostOffices.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/IOI2000_PostOffices.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOI2000_PostOffices.cpp.i: cmake_force
@@ -6563,7 +6539,7 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOI2000_PostOffices.cp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CF342E_XeniaAndTree.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/CF342E_XeniaAndTree.cpp.o: ../DataStructures/CF342E_XeniaAndTree.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_272) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/CF342E_XeniaAndTree.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_271) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/CF342E_XeniaAndTree.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/CF342E_XeniaAndTree.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CF342E_XeniaAndTree.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CF342E_XeniaAndTree.cpp.i: cmake_force
@@ -6587,7 +6563,7 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/CF342E_XeniaAndTree.cpp.o.
 
 CMakeFiles/Competitive_Programming.dir/ComputationalGeometry/Implementation/GeometryStuff.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/ComputationalGeometry/Implementation/GeometryStuff.cpp.o: ../ComputationalGeometry/Implementation/GeometryStuff.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_273) "Building CXX object CMakeFiles/Competitive_Programming.dir/ComputationalGeometry/Implementation/GeometryStuff.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_272) "Building CXX object CMakeFiles/Competitive_Programming.dir/ComputationalGeometry/Implementation/GeometryStuff.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/ComputationalGeometry/Implementation/GeometryStuff.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/ComputationalGeometry/Implementation/GeometryStuff.cpp
 
 CMakeFiles/Competitive_Programming.dir/ComputationalGeometry/Implementation/GeometryStuff.cpp.i: cmake_force
@@ -6611,7 +6587,7 @@ CMakeFiles/Competitive_Programming.dir/ComputationalGeometry/Implementation/Geom
 
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/Sieve.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/Sieve.cpp.o: ../OtherAlgorithms/Sieve.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_274) "Building CXX object CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/Sieve.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_273) "Building CXX object CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/Sieve.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/Sieve.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/Sieve.cpp
 
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/Sieve.cpp.i: cmake_force
@@ -6635,7 +6611,7 @@ CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/Sieve.cpp.o.provides.buil
 
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/ModularInverse.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/ModularInverse.cpp.o: ../OtherAlgorithms/ModularInverse.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_275) "Building CXX object CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/ModularInverse.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_274) "Building CXX object CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/ModularInverse.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/ModularInverse.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/ModularInverse.cpp
 
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/ModularInverse.cpp.i: cmake_force
@@ -6659,7 +6635,7 @@ CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/ModularInverse.cpp.o.prov
 
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/MosAlgorithm.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/MosAlgorithm.cpp.o: ../OtherAlgorithms/MosAlgorithm.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_276) "Building CXX object CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/MosAlgorithm.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_275) "Building CXX object CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/MosAlgorithm.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/MosAlgorithm.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/MosAlgorithm.cpp
 
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/MosAlgorithm.cpp.i: cmake_force
@@ -6683,7 +6659,7 @@ CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/MosAlgorithm.cpp.o.provid
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/Tries.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/Tries.cpp.o: ../DataStructures/Implementation/Tries.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_277) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/Tries.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_276) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/Tries.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/Tries.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/Implementation/Tries.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/Tries.cpp.i: cmake_force
@@ -6707,7 +6683,7 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/Tries.cpp.o
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_Trie.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_Trie.cpp.o: ../DataStructures/HackerEarth_Trie.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_278) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_Trie.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_277) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_Trie.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_Trie.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/HackerEarth_Trie.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_Trie.cpp.i: cmake_force
@@ -6731,7 +6707,7 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_Trie.cpp.o.pro
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/LiveArchive_XorSum.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/LiveArchive_XorSum.cpp.o: ../DataStructures/LiveArchive_XorSum.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_279) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/LiveArchive_XorSum.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_278) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/LiveArchive_XorSum.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/LiveArchive_XorSum.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/LiveArchive_XorSum.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/LiveArchive_XorSum.cpp.i: cmake_force
@@ -6755,7 +6731,7 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/LiveArchive_XorSum.cpp.o.p
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CF617E_XORAndFavouriteNumber.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/CF617E_XORAndFavouriteNumber.cpp.o: ../DataStructures/CF617E_XORAndFavouriteNumber.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_280) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/CF617E_XORAndFavouriteNumber.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_279) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/CF617E_XORAndFavouriteNumber.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/CF617E_XORAndFavouriteNumber.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CF617E_XORAndFavouriteNumber.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CF617E_XORAndFavouriteNumber.cpp.i: cmake_force
@@ -6779,7 +6755,7 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/CF617E_XORAndFavouriteNumb
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CF589G_Hiring.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/CF589G_Hiring.cpp.o: ../DataStructures/CF589G_Hiring.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_281) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/CF589G_Hiring.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_280) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/CF589G_Hiring.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/CF589G_Hiring.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CF589G_Hiring.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CF589G_Hiring.cpp.i: cmake_force
@@ -6803,7 +6779,7 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/CF589G_Hiring.cpp.o.provid
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/SqrtDecomposition_IntervalSum.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/SqrtDecomposition_IntervalSum.cpp.o: ../DataStructures/Implementation/SqrtDecomposition_IntervalSum.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_282) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/SqrtDecomposition_IntervalSum.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_281) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/SqrtDecomposition_IntervalSum.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/SqrtDecomposition_IntervalSum.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/Implementation/SqrtDecomposition_IntervalSum.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/SqrtDecomposition_IntervalSum.cpp.i: cmake_force
@@ -6827,7 +6803,7 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/SqrtDecompo
 
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/SPOJ_DynamicGraphConnectivity2.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/SPOJ_DynamicGraphConnectivity2.cpp.o: ../OtherAlgorithms/SPOJ_DynamicGraphConnectivity2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_283) "Building CXX object CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/SPOJ_DynamicGraphConnectivity2.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_282) "Building CXX object CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/SPOJ_DynamicGraphConnectivity2.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/SPOJ_DynamicGraphConnectivity2.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/SPOJ_DynamicGraphConnectivity2.cpp
 
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/SPOJ_DynamicGraphConnectivity2.cpp.i: cmake_force
@@ -6851,7 +6827,7 @@ CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/SPOJ_DynamicGraphConnecti
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/SPOJ_DynamicGraphConnectivity2.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/GraphTheory/SPOJ_DynamicGraphConnectivity2.cpp.o: ../GraphTheory/SPOJ_DynamicGraphConnectivity2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_284) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/SPOJ_DynamicGraphConnectivity2.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_283) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/SPOJ_DynamicGraphConnectivity2.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/GraphTheory/SPOJ_DynamicGraphConnectivity2.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/SPOJ_DynamicGraphConnectivity2.cpp
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/SPOJ_DynamicGraphConnectivity2.cpp.i: cmake_force
@@ -6875,7 +6851,7 @@ CMakeFiles/Competitive_Programming.dir/GraphTheory/SPOJ_DynamicGraphConnectivity
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/CF257B_JzzhuAndCities.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/GraphTheory/CF257B_JzzhuAndCities.cpp.o: ../GraphTheory/CF257B_JzzhuAndCities.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_285) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/CF257B_JzzhuAndCities.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_284) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/CF257B_JzzhuAndCities.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/GraphTheory/CF257B_JzzhuAndCities.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/CF257B_JzzhuAndCities.cpp
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/CF257B_JzzhuAndCities.cpp.i: cmake_force
@@ -6899,7 +6875,7 @@ CMakeFiles/Competitive_Programming.dir/GraphTheory/CF257B_JzzhuAndCities.cpp.o.p
 
 CMakeFiles/Competitive_Programming.dir/Misc.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/Misc.cpp.o: ../Misc.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_286) "Building CXX object CMakeFiles/Competitive_Programming.dir/Misc.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_285) "Building CXX object CMakeFiles/Competitive_Programming.dir/Misc.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Misc.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Misc.cpp
 
 CMakeFiles/Competitive_Programming.dir/Misc.cpp.i: cmake_force
@@ -6923,7 +6899,7 @@ CMakeFiles/Competitive_Programming.dir/Misc.cpp.o.provides.build: CMakeFiles/Com
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CF899F_LettersRemoving.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/CF899F_LettersRemoving.cpp.o: ../DataStructures/CF899F_LettersRemoving.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_287) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/CF899F_LettersRemoving.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_286) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/CF899F_LettersRemoving.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/CF899F_LettersRemoving.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CF899F_LettersRemoving.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CF899F_LettersRemoving.cpp.i: cmake_force
@@ -6947,7 +6923,7 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/CF899F_LettersRemoving.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_KthNumber_Persistence.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_KthNumber_Persistence.cpp.o: ../DataStructures/SPOJ_KthNumber_Persistence.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_288) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_KthNumber_Persistence.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_287) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_KthNumber_Persistence.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_KthNumber_Persistence.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_KthNumber_Persistence.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_KthNumber_Persistence.cpp.i: cmake_force
@@ -6971,7 +6947,7 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_KthNumber_Persistence
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CF899E_SegmentsRemoval.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/CF899E_SegmentsRemoval.cpp.o: ../DataStructures/CF899E_SegmentsRemoval.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_289) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/CF899E_SegmentsRemoval.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_288) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/CF899E_SegmentsRemoval.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/CF899E_SegmentsRemoval.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CF899E_SegmentsRemoval.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CF899E_SegmentsRemoval.cpp.i: cmake_force
@@ -6995,7 +6971,7 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/CF899E_SegmentsRemoval.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/IARCS_PayingThePrice.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/IARCS_PayingThePrice.cpp.o: ../Miscellaneous/IARCS_PayingThePrice.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_290) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/IARCS_PayingThePrice.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_289) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/IARCS_PayingThePrice.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/IARCS_PayingThePrice.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/IARCS_PayingThePrice.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/IARCS_PayingThePrice.cpp.i: cmake_force
@@ -7019,7 +6995,7 @@ CMakeFiles/Competitive_Programming.dir/Miscellaneous/IARCS_PayingThePrice.cpp.o.
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/USACO_Relocation.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/GraphTheory/USACO_Relocation.cpp.o: ../GraphTheory/USACO_Relocation.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_291) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/USACO_Relocation.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_290) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/USACO_Relocation.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/GraphTheory/USACO_Relocation.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/USACO_Relocation.cpp
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/USACO_Relocation.cpp.i: cmake_force
@@ -7043,7 +7019,7 @@ CMakeFiles/Competitive_Programming.dir/GraphTheory/USACO_Relocation.cpp.o.provid
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/USACO_CowIDs.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/USACO_CowIDs.cpp.o: ../Miscellaneous/USACO_CowIDs.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_292) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/USACO_CowIDs.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_291) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/USACO_CowIDs.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/USACO_CowIDs.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/USACO_CowIDs.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/USACO_CowIDs.cpp.i: cmake_force
@@ -7067,7 +7043,7 @@ CMakeFiles/Competitive_Programming.dir/Miscellaneous/USACO_CowIDs.cpp.o.provides
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/USACO_BalancedCowBreeds.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/USACO_BalancedCowBreeds.cpp.o: ../DynamicProgramming/USACO_BalancedCowBreeds.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_293) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/USACO_BalancedCowBreeds.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_292) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/USACO_BalancedCowBreeds.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/USACO_BalancedCowBreeds.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/USACO_BalancedCowBreeds.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/USACO_BalancedCowBreeds.cpp.i: cmake_force
@@ -7091,7 +7067,7 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/USACO_BalancedCowBreed
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CC_TooMuchSweetness.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CC_TooMuchSweetness.cpp.o: ../DynamicProgramming/CC_TooMuchSweetness.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_294) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CC_TooMuchSweetness.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_293) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CC_TooMuchSweetness.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CC_TooMuchSweetness.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CC_TooMuchSweetness.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CC_TooMuchSweetness.cpp.i: cmake_force
@@ -7115,7 +7091,7 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CC_TooMuchSweetness.cp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/GCJ_LastHit.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/GCJ_LastHit.cpp.o: ../DynamicProgramming/GCJ_LastHit.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_295) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/GCJ_LastHit.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_294) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/GCJ_LastHit.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/GCJ_LastHit.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/GCJ_LastHit.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/GCJ_LastHit.cpp.i: cmake_force
@@ -7139,7 +7115,7 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/GCJ_LastHit.cpp.o.prov
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/CF115A_Party.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/GraphTheory/CF115A_Party.cpp.o: ../GraphTheory/CF115A_Party.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_296) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/CF115A_Party.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_295) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/CF115A_Party.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/GraphTheory/CF115A_Party.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/CF115A_Party.cpp
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/CF115A_Party.cpp.i: cmake_force
@@ -7163,7 +7139,7 @@ CMakeFiles/Competitive_Programming.dir/GraphTheory/CF115A_Party.cpp.o.provides.b
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/IARCS_RankFraud.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/IARCS_RankFraud.cpp.o: ../Miscellaneous/IARCS_RankFraud.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_297) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/IARCS_RankFraud.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_296) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/IARCS_RankFraud.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/IARCS_RankFraud.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/IARCS_RankFraud.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/IARCS_RankFraud.cpp.i: cmake_force
@@ -7187,7 +7163,7 @@ CMakeFiles/Competitive_Programming.dir/Miscellaneous/IARCS_RankFraud.cpp.o.provi
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_TheCourier.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_TheCourier.cpp.o: ../DynamicProgramming/SPOJ_TheCourier.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_298) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_TheCourier.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_297) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_TheCourier.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_TheCourier.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/SPOJ_TheCourier.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_TheCourier.cpp.i: cmake_force
@@ -7211,7 +7187,7 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_TheCourier.cpp.o.
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/AIO_CoreysParty.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/AIO_CoreysParty.cpp.o: ../Miscellaneous/AIO_CoreysParty.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_299) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/AIO_CoreysParty.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_298) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/AIO_CoreysParty.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/AIO_CoreysParty.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/AIO_CoreysParty.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/AIO_CoreysParty.cpp.i: cmake_force
@@ -7235,7 +7211,7 @@ CMakeFiles/Competitive_Programming.dir/Miscellaneous/AIO_CoreysParty.cpp.o.provi
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/GFG_ShortestCommonSupersequence.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/GFG_ShortestCommonSupersequence.cpp.o: ../DynamicProgramming/GFG_ShortestCommonSupersequence.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_300) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/GFG_ShortestCommonSupersequence.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_299) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/GFG_ShortestCommonSupersequence.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/GFG_ShortestCommonSupersequence.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/GFG_ShortestCommonSupersequence.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/GFG_ShortestCommonSupersequence.cpp.i: cmake_force
@@ -7259,7 +7235,7 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/GFG_ShortestCommonSupe
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_KRECT.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_KRECT.cpp.o: ../DynamicProgramming/SPOJ_KRECT.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_301) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_KRECT.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_300) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_KRECT.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_KRECT.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/SPOJ_KRECT.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_KRECT.cpp.i: cmake_force
@@ -7283,7 +7259,7 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_KRECT.cpp.o.provi
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF864E_Fire.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF864E_Fire.cpp.o: ../DynamicProgramming/CF864E_Fire.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_302) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF864E_Fire.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_301) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF864E_Fire.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF864E_Fire.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF864E_Fire.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF864E_Fire.cpp.i: cmake_force
@@ -7307,7 +7283,7 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF864E_Fire.cpp.o.prov
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/HackerRank_Troyangles.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/HackerRank_Troyangles.cpp.o: ../DynamicProgramming/HackerRank_Troyangles.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_303) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/HackerRank_Troyangles.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_302) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/HackerRank_Troyangles.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/HackerRank_Troyangles.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/HackerRank_Troyangles.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/HackerRank_Troyangles.cpp.i: cmake_force
@@ -7331,7 +7307,7 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/HackerRank_Troyangles.
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/SPOJ_OTOCI.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/GraphTheory/SPOJ_OTOCI.cpp.o: ../GraphTheory/SPOJ_OTOCI.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_304) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/SPOJ_OTOCI.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_303) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/SPOJ_OTOCI.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/GraphTheory/SPOJ_OTOCI.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/SPOJ_OTOCI.cpp
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/SPOJ_OTOCI.cpp.i: cmake_force
@@ -7355,7 +7331,7 @@ CMakeFiles/Competitive_Programming.dir/GraphTheory/SPOJ_OTOCI.cpp.o.provides.bui
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CC_PartitionCount.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CC_PartitionCount.cpp.o: ../DynamicProgramming/CC_PartitionCount.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_305) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CC_PartitionCount.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_304) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CC_PartitionCount.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CC_PartitionCount.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CC_PartitionCount.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CC_PartitionCount.cpp.i: cmake_force
@@ -7379,7 +7355,7 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CC_PartitionCount.cpp.
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/CF716D_CompleteTheGraph.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/GraphTheory/CF716D_CompleteTheGraph.cpp.o: ../GraphTheory/CF716D_CompleteTheGraph.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_306) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/CF716D_CompleteTheGraph.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_305) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/CF716D_CompleteTheGraph.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/GraphTheory/CF716D_CompleteTheGraph.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/CF716D_CompleteTheGraph.cpp
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/CF716D_CompleteTheGraph.cpp.i: cmake_force
@@ -7403,7 +7379,7 @@ CMakeFiles/Competitive_Programming.dir/GraphTheory/CF716D_CompleteTheGraph.cpp.o
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/CSA_TriangularMatrix.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/GraphTheory/CSA_TriangularMatrix.cpp.o: ../GraphTheory/CSA_TriangularMatrix.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_307) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/CSA_TriangularMatrix.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_306) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/CSA_TriangularMatrix.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/GraphTheory/CSA_TriangularMatrix.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/CSA_TriangularMatrix.cpp
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/CSA_TriangularMatrix.cpp.i: cmake_force
@@ -7427,7 +7403,7 @@ CMakeFiles/Competitive_Programming.dir/GraphTheory/CSA_TriangularMatrix.cpp.o.pr
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF407B_LongPath.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF407B_LongPath.cpp.o: ../DynamicProgramming/CF407B_LongPath.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_308) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF407B_LongPath.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_307) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF407B_LongPath.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF407B_LongPath.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF407B_LongPath.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF407B_LongPath.cpp.i: cmake_force
@@ -7451,7 +7427,7 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF407B_LongPath.cpp.o.
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF118D_CaesarsLegions.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF118D_CaesarsLegions.cpp.o: ../DynamicProgramming/CF118D_CaesarsLegions.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_309) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF118D_CaesarsLegions.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_308) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF118D_CaesarsLegions.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF118D_CaesarsLegions.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF118D_CaesarsLegions.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF118D_CaesarsLegions.cpp.i: cmake_force
@@ -7475,7 +7451,7 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF118D_CaesarsLegions.
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/UVa10342_AlwaysLate.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/GraphTheory/UVa10342_AlwaysLate.cpp.o: ../GraphTheory/UVa10342_AlwaysLate.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_310) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/UVa10342_AlwaysLate.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_309) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/UVa10342_AlwaysLate.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/GraphTheory/UVa10342_AlwaysLate.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/UVa10342_AlwaysLate.cpp
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/UVa10342_AlwaysLate.cpp.i: cmake_force
@@ -7499,7 +7475,7 @@ CMakeFiles/Competitive_Programming.dir/GraphTheory/UVa10342_AlwaysLate.cpp.o.pro
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/CF567E_PresidentAndRoads.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/GraphTheory/CF567E_PresidentAndRoads.cpp.o: ../GraphTheory/CF567E_PresidentAndRoads.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_311) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/CF567E_PresidentAndRoads.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_310) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/CF567E_PresidentAndRoads.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/GraphTheory/CF567E_PresidentAndRoads.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/CF567E_PresidentAndRoads.cpp
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/CF567E_PresidentAndRoads.cpp.i: cmake_force
@@ -7523,7 +7499,7 @@ CMakeFiles/Competitive_Programming.dir/GraphTheory/CF567E_PresidentAndRoads.cpp.
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CC_PishtyAndTree.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/CC_PishtyAndTree.cpp.o: ../DataStructures/CC_PishtyAndTree.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_312) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/CC_PishtyAndTree.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_311) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/CC_PishtyAndTree.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/CC_PishtyAndTree.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_PishtyAndTree.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CC_PishtyAndTree.cpp.i: cmake_force
@@ -7547,7 +7523,7 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/CC_PishtyAndTree.cpp.o.pro
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_GSS2.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_GSS2.cpp.o: ../DataStructures/SPOJ_GSS2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_313) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_GSS2.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_312) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_GSS2.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_GSS2.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_GSS2.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_GSS2.cpp.i: cmake_force
@@ -7571,7 +7547,7 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_GSS2.cpp.o.provides.b
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_KQueryo.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_KQueryo.cpp.o: ../DataStructures/SPOJ_KQueryo.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_314) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_KQueryo.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_313) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_KQueryo.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_KQueryo.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_KQueryo.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_KQueryo.cpp.i: cmake_force
@@ -7595,7 +7571,7 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_KQueryo.cpp.o.provide
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/RangeQueryAndUpdates_PrefixTrick.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/RangeQueryAndUpdates_PrefixTrick.cpp.o: ../DataStructures/Implementation/RangeQueryAndUpdates_PrefixTrick.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_315) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/RangeQueryAndUpdates_PrefixTrick.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_314) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/RangeQueryAndUpdates_PrefixTrick.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/RangeQueryAndUpdates_PrefixTrick.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/Implementation/RangeQueryAndUpdates_PrefixTrick.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/RangeQueryAndUpdates_PrefixTrick.cpp.i: cmake_force
@@ -7619,7 +7595,7 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/RangeQueryA
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_GSS3.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_GSS3.cpp.o: ../DataStructures/SPOJ_GSS3.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_316) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_GSS3.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_315) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_GSS3.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_GSS3.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_GSS3.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_GSS3.cpp.i: cmake_force
@@ -7643,7 +7619,7 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_GSS3.cpp.o.provides.b
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_GSS4.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_GSS4.cpp.o: ../DataStructures/SPOJ_GSS4.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_317) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_GSS4.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_316) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_GSS4.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_GSS4.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_GSS4.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_GSS4.cpp.i: cmake_force
@@ -7667,7 +7643,7 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_GSS4.cpp.o.provides.b
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_GSS5.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_GSS5.cpp.o: ../DataStructures/SPOJ_GSS5.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_318) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_GSS5.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_317) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_GSS5.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_GSS5.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_GSS5.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_GSS5.cpp.i: cmake_force
@@ -7691,7 +7667,7 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_GSS5.cpp.o.provides.b
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CC_GiveAway.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/CC_GiveAway.cpp.o: ../DataStructures/CC_GiveAway.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_319) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/CC_GiveAway.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_318) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/CC_GiveAway.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/CC_GiveAway.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_GiveAway.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CC_GiveAway.cpp.i: cmake_force
@@ -7715,7 +7691,7 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/CC_GiveAway.cpp.o.provides
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/PersistentSegmentTreeWithoutPointers.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/PersistentSegmentTreeWithoutPointers.cpp.o: ../DataStructures/Implementation/PersistentSegmentTreeWithoutPointers.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_320) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/PersistentSegmentTreeWithoutPointers.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_319) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/PersistentSegmentTreeWithoutPointers.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/PersistentSegmentTreeWithoutPointers.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/Implementation/PersistentSegmentTreeWithoutPointers.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/PersistentSegmentTreeWithoutPointers.cpp.i: cmake_force
@@ -7739,7 +7715,7 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/PersistentS
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/KQuery2_alternate.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/KQuery2_alternate.cpp.o: ../DataStructures/KQuery2_alternate.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_321) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/KQuery2_alternate.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_320) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/KQuery2_alternate.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/KQuery2_alternate.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/KQuery2_alternate.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/KQuery2_alternate.cpp.i: cmake_force
@@ -7763,7 +7739,7 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/KQuery2_alternate.cpp.o.pr
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CC_Sorting.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/CC_Sorting.cpp.o: ../DataStructures/CC_Sorting.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_322) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/CC_Sorting.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_321) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/CC_Sorting.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/CC_Sorting.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_Sorting.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CC_Sorting.cpp.i: cmake_force
@@ -7787,7 +7763,7 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/CC_Sorting.cpp.o.provides.
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_DQuery_MosAlgo.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_DQuery_MosAlgo.cpp.o: ../DataStructures/SPOJ_DQuery_MosAlgo.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_323) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_DQuery_MosAlgo.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_322) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_DQuery_MosAlgo.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_DQuery_MosAlgo.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_DQuery_MosAlgo.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_DQuery_MosAlgo.cpp.i: cmake_force
@@ -7811,7 +7787,7 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_DQuery_MosAlgo.cpp.o.
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_DQuery_Persistence.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_DQuery_Persistence.cpp.o: ../DataStructures/SPOJ_DQuery_Persistence.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_324) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_DQuery_Persistence.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_323) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_DQuery_Persistence.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_DQuery_Persistence.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_DQuery_Persistence.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_DQuery_Persistence.cpp.i: cmake_force
@@ -7835,7 +7811,7 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_DQuery_Persistence.cp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CC_XorQueries.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/CC_XorQueries.cpp.o: ../DataStructures/CC_XorQueries.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_325) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/CC_XorQueries.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_324) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/CC_XorQueries.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/CC_XorQueries.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_XorQueries.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CC_XorQueries.cpp.i: cmake_force
@@ -7859,7 +7835,7 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/CC_XorQueries.cpp.o.provid
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CC_SubInversing.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/CC_SubInversing.cpp.o: ../DataStructures/CC_SubInversing.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_326) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/CC_SubInversing.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_325) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/CC_SubInversing.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/CC_SubInversing.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_SubInversing.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CC_SubInversing.cpp.i: cmake_force
@@ -7883,7 +7859,7 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/CC_SubInversing.cpp.o.prov
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CC_CloneMe.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/CC_CloneMe.cpp.o: ../DataStructures/CC_CloneMe.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_327) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/CC_CloneMe.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_326) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/CC_CloneMe.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/CC_CloneMe.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_CloneMe.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CC_CloneMe.cpp.i: cmake_force
@@ -7907,7 +7883,7 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/CC_CloneMe.cpp.o.provides.
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_RPAR.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_RPAR.cpp.o: ../DataStructures/SPOJ_RPAR.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_328) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_RPAR.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_327) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_RPAR.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_RPAR.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_RPAR.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_RPAR.cpp.i: cmake_force
@@ -7931,7 +7907,7 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_RPAR.cpp.o.provides.b
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CF145E_LuckyQueries.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/CF145E_LuckyQueries.cpp.o: ../DataStructures/CF145E_LuckyQueries.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_329) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/CF145E_LuckyQueries.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_328) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/CF145E_LuckyQueries.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/CF145E_LuckyQueries.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CF145E_LuckyQueries.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CF145E_LuckyQueries.cpp.i: cmake_force
@@ -7955,7 +7931,7 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/CF145E_LuckyQueries.cpp.o.
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CF446C_DZYLovesFibonacciNumbers.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/CF446C_DZYLovesFibonacciNumbers.cpp.o: ../DataStructures/CF446C_DZYLovesFibonacciNumbers.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_330) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/CF446C_DZYLovesFibonacciNumbers.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_329) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/CF446C_DZYLovesFibonacciNumbers.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/CF446C_DZYLovesFibonacciNumbers.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CF446C_DZYLovesFibonacciNumbers.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CF446C_DZYLovesFibonacciNumbers.cpp.i: cmake_force
@@ -7979,7 +7955,7 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/CF446C_DZYLovesFibonacciNu
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_SEGSQRSS.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_SEGSQRSS.cpp.o: ../DataStructures/SPOJ_SEGSQRSS.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_331) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_SEGSQRSS.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_330) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_SEGSQRSS.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_SEGSQRSS.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_SEGSQRSS.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_SEGSQRSS.cpp.i: cmake_force
@@ -8003,7 +7979,7 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_SEGSQRSS.cpp.o.provid
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_COT.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_COT.cpp.o: ../DataStructures/SPOJ_COT.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_332) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_COT.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_331) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_COT.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_COT.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_COT.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_COT.cpp.i: cmake_force
@@ -8027,7 +8003,7 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_COT.cpp.o.provides.bu
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_COT2.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_COT2.cpp.o: ../DataStructures/SPOJ_COT2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_333) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_COT2.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_332) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_COT2.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_COT2.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_COT2.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_COT2.cpp.i: cmake_force
@@ -8051,7 +8027,7 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_COT2.cpp.o.provides.b
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/CC_VasyaAndLittleBear.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/GraphTheory/CC_VasyaAndLittleBear.cpp.o: ../GraphTheory/CC_VasyaAndLittleBear.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_334) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/CC_VasyaAndLittleBear.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_333) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/CC_VasyaAndLittleBear.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/GraphTheory/CC_VasyaAndLittleBear.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/CC_VasyaAndLittleBear.cpp
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/CC_VasyaAndLittleBear.cpp.i: cmake_force
@@ -8075,7 +8051,7 @@ CMakeFiles/Competitive_Programming.dir/GraphTheory/CC_VasyaAndLittleBear.cpp.o.p
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF915F_ImbalanceValueOfTree.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF915F_ImbalanceValueOfTree.cpp.o: ../DynamicProgramming/OnTrees/CF915F_ImbalanceValueOfTree.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_335) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF915F_ImbalanceValueOfTree.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_334) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF915F_ImbalanceValueOfTree.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF915F_ImbalanceValueOfTree.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/CF915F_ImbalanceValueOfTree.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF915F_ImbalanceValueOfTree.cpp.i: cmake_force
@@ -8099,7 +8075,7 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF915F_Imbalan
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndQueries.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndQueries.cpp.o: ../DataStructures/CC_ChefAndQueries.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_336) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndQueries.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_335) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndQueries.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndQueries.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_ChefAndQueries.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndQueries.cpp.i: cmake_force
@@ -8123,7 +8099,7 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndQueries.cpp.o.pr
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CF226E_NobleKnightsPath.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/CF226E_NobleKnightsPath.cpp.o: ../DataStructures/CF226E_NobleKnightsPath.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_337) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/CF226E_NobleKnightsPath.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_336) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/CF226E_NobleKnightsPath.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/CF226E_NobleKnightsPath.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CF226E_NobleKnightsPath.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CF226E_NobleKnightsPath.cpp.i: cmake_force
@@ -8147,7 +8123,7 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/CF226E_NobleKnightsPath.cp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/CF220B_LittleElephantAndArray.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/CF220B_LittleElephantAndArray.cpp.o: ../Miscellaneous/CF220B_LittleElephantAndArray.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_338) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/CF220B_LittleElephantAndArray.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_337) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/CF220B_LittleElephantAndArray.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/CF220B_LittleElephantAndArray.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/CF220B_LittleElephantAndArray.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/CF220B_LittleElephantAndArray.cpp.i: cmake_force
@@ -8171,7 +8147,7 @@ CMakeFiles/Competitive_Programming.dir/Miscellaneous/CF220B_LittleElephantAndArr
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/CF919D_Substring.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/GraphTheory/CF919D_Substring.cpp.o: ../GraphTheory/CF919D_Substring.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_339) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/CF919D_Substring.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_338) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/CF919D_Substring.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/GraphTheory/CF919D_Substring.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/CF919D_Substring.cpp
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/CF919D_Substring.cpp.i: cmake_force
@@ -8195,7 +8171,7 @@ CMakeFiles/Competitive_Programming.dir/GraphTheory/CF919D_Substring.cpp.o.provid
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/CC_ChefAndXorQueries.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/CC_ChefAndXorQueries.cpp.o: ../Miscellaneous/CC_ChefAndXorQueries.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_340) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/CC_ChefAndXorQueries.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_339) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/CC_ChefAndXorQueries.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/CC_ChefAndXorQueries.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/CC_ChefAndXorQueries.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/CC_ChefAndXorQueries.cpp.i: cmake_force
@@ -8219,7 +8195,7 @@ CMakeFiles/Competitive_Programming.dir/Miscellaneous/CC_ChefAndXorQueries.cpp.o.
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/CF13E_Holes.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/CF13E_Holes.cpp.o: ../Miscellaneous/CF13E_Holes.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_341) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/CF13E_Holes.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_340) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/CF13E_Holes.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/CF13E_Holes.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/CF13E_Holes.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/CF13E_Holes.cpp.i: cmake_force
@@ -8243,7 +8219,7 @@ CMakeFiles/Competitive_Programming.dir/Miscellaneous/CF13E_Holes.cpp.o.provides.
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CF86D_PowerfulArray.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/CF86D_PowerfulArray.cpp.o: ../DataStructures/CF86D_PowerfulArray.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_342) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/CF86D_PowerfulArray.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_341) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/CF86D_PowerfulArray.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/CF86D_PowerfulArray.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CF86D_PowerfulArray.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CF86D_PowerfulArray.cpp.i: cmake_force
@@ -8267,7 +8243,7 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/CF86D_PowerfulArray.cpp.o.
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndGraphQueries.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndGraphQueries.cpp.o: ../DataStructures/CC_ChefAndGraphQueries.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_343) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndGraphQueries.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_342) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndGraphQueries.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndGraphQueries.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_ChefAndGraphQueries.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndGraphQueries.cpp.i: cmake_force
@@ -8291,7 +8267,7 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndGraphQueries.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/CC_BrokenClock.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/CC_BrokenClock.cpp.o: ../Miscellaneous/CC_BrokenClock.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_344) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/CC_BrokenClock.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_343) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/CC_BrokenClock.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/CC_BrokenClock.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/CC_BrokenClock.cpp
 
 CMakeFiles/Competitive_Programming.dir/Miscellaneous/CC_BrokenClock.cpp.i: cmake_force
@@ -8315,7 +8291,7 @@ CMakeFiles/Competitive_Programming.dir/Miscellaneous/CC_BrokenClock.cpp.o.provid
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndOddQueries.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndOddQueries.cpp.o: ../DataStructures/CC_ChefAndOddQueries.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_345) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndOddQueries.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_344) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndOddQueries.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndOddQueries.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_ChefAndOddQueries.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndOddQueries.cpp.i: cmake_force
@@ -8339,7 +8315,7 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/CC_ChefAndOddQueries.cpp.o
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CC_StrangeQueries.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/CC_StrangeQueries.cpp.o: ../DataStructures/CC_StrangeQueries.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_346) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/CC_StrangeQueries.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_345) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/CC_StrangeQueries.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/CC_StrangeQueries.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_StrangeQueries.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CC_StrangeQueries.cpp.i: cmake_force
@@ -8363,7 +8339,7 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/CC_StrangeQueries.cpp.o.pr
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/Treap.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/Treap.cpp.o: ../DataStructures/Implementation/Treap.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_347) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/Treap.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_346) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/Treap.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/Treap.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/Implementation/Treap.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/Treap.cpp.i: cmake_force
@@ -8387,7 +8363,7 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/Treap.cpp.o
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_OrderStatisticSet_Treap.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_OrderStatisticSet_Treap.cpp.o: ../DataStructures/SPOJ_OrderStatisticSet_Treap.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_348) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_OrderStatisticSet_Treap.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_347) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_OrderStatisticSet_Treap.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_OrderStatisticSet_Treap.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_OrderStatisticSet_Treap.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_OrderStatisticSet_Treap.cpp.i: cmake_force
@@ -8411,7 +8387,7 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_OrderStatisticSet_Tre
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_GSS6.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_GSS6.cpp.o: ../DataStructures/SPOJ_GSS6.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_349) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_GSS6.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_348) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_GSS6.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_GSS6.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_GSS6.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_GSS6.cpp.i: cmake_force
@@ -8435,7 +8411,7 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_GSS6.cpp.o.provides.b
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/ImplicitTreap.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/ImplicitTreap.cpp.o: ../DataStructures/Implementation/ImplicitTreap.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_350) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/ImplicitTreap.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_349) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/ImplicitTreap.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/ImplicitTreap.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/Implementation/ImplicitTreap.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/ImplicitTreap.cpp.i: cmake_force
@@ -8459,7 +8435,7 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/ImplicitTre
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CF375D_TreeAndQueries.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/CF375D_TreeAndQueries.cpp.o: ../DataStructures/CF375D_TreeAndQueries.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_351) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/CF375D_TreeAndQueries.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_350) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/CF375D_TreeAndQueries.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/CF375D_TreeAndQueries.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CF375D_TreeAndQueries.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CF375D_TreeAndQueries.cpp.i: cmake_force
@@ -8483,7 +8459,7 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/CF375D_TreeAndQueries.cpp.
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CF506_MrKutayutasColorfulGraph.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/CF506_MrKutayutasColorfulGraph.cpp.o: ../DataStructures/CF506_MrKutayutasColorfulGraph.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_352) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/CF506_MrKutayutasColorfulGraph.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_351) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/CF506_MrKutayutasColorfulGraph.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/CF506_MrKutayutasColorfulGraph.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CF506_MrKutayutasColorfulGraph.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CF506_MrKutayutasColorfulGraph.cpp.i: cmake_force
@@ -8507,7 +8483,7 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/CF506_MrKutayutasColorfulG
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CF348C_SubsetSums.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/CF348C_SubsetSums.cpp.o: ../DataStructures/CF348C_SubsetSums.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_353) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/CF348C_SubsetSums.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_352) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/CF348C_SubsetSums.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/CF348C_SubsetSums.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CF348C_SubsetSums.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CF348C_SubsetSums.cpp.i: cmake_force
@@ -8531,7 +8507,7 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/CF348C_SubsetSums.cpp.o.pr
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CF398D_InstantMessenger.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/CF398D_InstantMessenger.cpp.o: ../DataStructures/CF398D_InstantMessenger.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_354) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/CF398D_InstantMessenger.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_353) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/CF398D_InstantMessenger.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/CF398D_InstantMessenger.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CF398D_InstantMessenger.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CF398D_InstantMessenger.cpp.i: cmake_force
@@ -8555,7 +8531,7 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/CF398D_InstantMessenger.cp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/Exun2017_ArrayStudy.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/Exun2017_ArrayStudy.cpp.o: ../DataStructures/Exun2017_ArrayStudy.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_355) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/Exun2017_ArrayStudy.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_354) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/Exun2017_ArrayStudy.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/Exun2017_ArrayStudy.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/Exun2017_ArrayStudy.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/Exun2017_ArrayStudy.cpp.i: cmake_force
@@ -8579,7 +8555,7 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/Exun2017_ArrayStudy.cpp.o.
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/CC_TALCA.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/GraphTheory/CC_TALCA.cpp.o: ../GraphTheory/CC_TALCA.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_356) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/CC_TALCA.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_355) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/CC_TALCA.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/GraphTheory/CC_TALCA.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/CC_TALCA.cpp
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/CC_TALCA.cpp.i: cmake_force
@@ -8603,7 +8579,7 @@ CMakeFiles/Competitive_Programming.dir/GraphTheory/CC_TALCA.cpp.o.provides.build
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF816C_KarenAndSupermarket.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF816C_KarenAndSupermarket.cpp.o: ../DynamicProgramming/OnTrees/CF816C_KarenAndSupermarket.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_357) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF816C_KarenAndSupermarket.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_356) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF816C_KarenAndSupermarket.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF816C_KarenAndSupermarket.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/CF816C_KarenAndSupermarket.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF816C_KarenAndSupermarket.cpp.i: cmake_force
@@ -8627,7 +8603,7 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF816C_KarenAn
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/CF932D_Tree.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/GraphTheory/CF932D_Tree.cpp.o: ../GraphTheory/CF932D_Tree.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_358) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/CF932D_Tree.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_357) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/CF932D_Tree.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/GraphTheory/CF932D_Tree.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/CF932D_Tree.cpp
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/CF932D_Tree.cpp.i: cmake_force
@@ -8649,33 +8625,33 @@ CMakeFiles/Competitive_Programming.dir/GraphTheory/CF932D_Tree.cpp.o.provides: C
 CMakeFiles/Competitive_Programming.dir/GraphTheory/CF932D_Tree.cpp.o.provides.build: CMakeFiles/Competitive_Programming.dir/GraphTheory/CF932D_Tree.cpp.o
 
 
-CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC_GraphLIS.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
-CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC_GraphLIS.cpp.o: ../GraphTheory/IOITC_GraphLIS.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_359) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC_GraphLIS.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC_GraphLIS.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/IOITC_GraphLIS.cpp
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2017_GraphLIS.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2017_GraphLIS.cpp.o: ../GraphTheory/IOITC2017_GraphLIS.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_358) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2017_GraphLIS.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2017_GraphLIS.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/IOITC2017_GraphLIS.cpp
 
-CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC_GraphLIS.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC_GraphLIS.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/IOITC_GraphLIS.cpp > CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC_GraphLIS.cpp.i
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2017_GraphLIS.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2017_GraphLIS.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/IOITC2017_GraphLIS.cpp > CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2017_GraphLIS.cpp.i
 
-CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC_GraphLIS.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC_GraphLIS.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/IOITC_GraphLIS.cpp -o CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC_GraphLIS.cpp.s
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2017_GraphLIS.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2017_GraphLIS.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/IOITC2017_GraphLIS.cpp -o CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2017_GraphLIS.cpp.s
 
-CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC_GraphLIS.cpp.o.requires:
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2017_GraphLIS.cpp.o.requires:
 
-.PHONY : CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC_GraphLIS.cpp.o.requires
+.PHONY : CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2017_GraphLIS.cpp.o.requires
 
-CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC_GraphLIS.cpp.o.provides: CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC_GraphLIS.cpp.o.requires
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC_GraphLIS.cpp.o.provides.build
-.PHONY : CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC_GraphLIS.cpp.o.provides
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2017_GraphLIS.cpp.o.provides: CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2017_GraphLIS.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2017_GraphLIS.cpp.o.provides.build
+.PHONY : CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2017_GraphLIS.cpp.o.provides
 
-CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC_GraphLIS.cpp.o.provides.build: CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC_GraphLIS.cpp.o
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2017_GraphLIS.cpp.o.provides.build: CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2017_GraphLIS.cpp.o
 
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF81E_Pairs.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF81E_Pairs.cpp.o: ../DynamicProgramming/CF81E_Pairs.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_360) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF81E_Pairs.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_359) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF81E_Pairs.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF81E_Pairs.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF81E_Pairs.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF81E_Pairs.cpp.i: cmake_force
@@ -8699,7 +8675,7 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF81E_Pairs.cpp.o.prov
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/SPOJ_AMR10J.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/GraphTheory/SPOJ_AMR10J.cpp.o: ../GraphTheory/SPOJ_AMR10J.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_361) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/SPOJ_AMR10J.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_360) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/SPOJ_AMR10J.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/GraphTheory/SPOJ_AMR10J.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/SPOJ_AMR10J.cpp
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/SPOJ_AMR10J.cpp.i: cmake_force
@@ -8723,7 +8699,7 @@ CMakeFiles/Competitive_Programming.dir/GraphTheory/SPOJ_AMR10J.cpp.o.provides.bu
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/SPOJ_TwoPaths.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/SPOJ_TwoPaths.cpp.o: ../DynamicProgramming/OnTrees/SPOJ_TwoPaths.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_362) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/SPOJ_TwoPaths.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_361) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/SPOJ_TwoPaths.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/SPOJ_TwoPaths.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/SPOJ_TwoPaths.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/SPOJ_TwoPaths.cpp.i: cmake_force
@@ -8747,7 +8723,7 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/SPOJ_TwoPaths.
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF868E_PolicemanAndTree.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF868E_PolicemanAndTree.cpp.o: ../DynamicProgramming/OnTrees/CF868E_PolicemanAndTree.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_363) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF868E_PolicemanAndTree.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_362) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF868E_PolicemanAndTree.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF868E_PolicemanAndTree.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/CF868E_PolicemanAndTree.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF868E_PolicemanAndTree.cpp.i: cmake_force
@@ -8771,7 +8747,7 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF868E_Policem
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/CF505D_KitayutasTechnology.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/GraphTheory/CF505D_KitayutasTechnology.cpp.o: ../GraphTheory/CF505D_KitayutasTechnology.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_364) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/CF505D_KitayutasTechnology.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_363) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/CF505D_KitayutasTechnology.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/GraphTheory/CF505D_KitayutasTechnology.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/CF505D_KitayutasTechnology.cpp
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/CF505D_KitayutasTechnology.cpp.i: cmake_force
@@ -8795,7 +8771,7 @@ CMakeFiles/Competitive_Programming.dir/GraphTheory/CF505D_KitayutasTechnology.cp
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/DetectingCyclesDirectedGraph.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/DetectingCyclesDirectedGraph.cpp.o: ../GraphTheory/Implementation/DetectingCyclesDirectedGraph.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_365) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/DetectingCyclesDirectedGraph.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_364) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/DetectingCyclesDirectedGraph.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/DetectingCyclesDirectedGraph.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/DetectingCyclesDirectedGraph.cpp
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/DetectingCyclesDirectedGraph.cpp.i: cmake_force
@@ -8819,7 +8795,7 @@ CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/DetectingCycle
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/HeavyLightDecomposition.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/HeavyLightDecomposition.cpp.o: ../DataStructures/Implementation/HeavyLightDecomposition.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_366) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/HeavyLightDecomposition.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_365) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/HeavyLightDecomposition.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/HeavyLightDecomposition.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/Implementation/HeavyLightDecomposition.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/HeavyLightDecomposition.cpp.i: cmake_force
@@ -8843,7 +8819,7 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/HeavyLightD
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_COT2_HLD.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_COT2_HLD.cpp.o: ../DataStructures/SPOJ_COT2_HLD.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_367) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_COT2_HLD.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_366) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_COT2_HLD.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_COT2_HLD.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_COT2_HLD.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_COT2_HLD.cpp.i: cmake_force
@@ -8867,7 +8843,7 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_COT2_HLD.cpp.o.provid
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_QTREE4.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_QTREE4.cpp.o: ../DataStructures/SPOJ_QTREE4.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_368) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_QTREE4.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_367) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_QTREE4.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_QTREE4.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_QTREE4.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_QTREE4.cpp.i: cmake_force
@@ -8891,7 +8867,7 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_QTREE4.cpp.o.provides
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_COT2_ALT.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_COT2_ALT.cpp.o: ../DataStructures/SPOJ_COT2_ALT.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_369) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_COT2_ALT.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_368) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_COT2_ALT.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_COT2_ALT.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_COT2_ALT.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_COT2_ALT.cpp.i: cmake_force
@@ -8915,7 +8891,7 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_COT2_ALT.cpp.o.provid
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_QTREE5.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_QTREE5.cpp.o: ../DataStructures/SPOJ_QTREE5.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_370) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_QTREE5.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_369) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_QTREE5.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_QTREE5.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_QTREE5.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_QTREE5.cpp.i: cmake_force
@@ -8939,7 +8915,7 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_QTREE5.cpp.o.provides
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CF342E_XeniaAndTree_Centroid.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/CF342E_XeniaAndTree_Centroid.cpp.o: ../DataStructures/CF342E_XeniaAndTree_Centroid.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_371) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/CF342E_XeniaAndTree_Centroid.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_370) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/CF342E_XeniaAndTree_Centroid.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/CF342E_XeniaAndTree_Centroid.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CF342E_XeniaAndTree_Centroid.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CF342E_XeniaAndTree_Centroid.cpp.i: cmake_force
@@ -8963,7 +8939,7 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/CF342E_XeniaAndTree_Centro
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/IOI2011_Race.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/IOI2011_Race.cpp.o: ../DataStructures/IOI2011_Race.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_372) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/IOI2011_Race.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_371) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/IOI2011_Race.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/IOI2011_Race.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/IOI2011_Race.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/IOI2011_Race.cpp.i: cmake_force
@@ -8987,7 +8963,7 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/IOI2011_Race.cpp.o.provide
 
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/FastIO.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/FastIO.cpp.o: ../OtherAlgorithms/FastIO.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_373) "Building CXX object CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/FastIO.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_372) "Building CXX object CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/FastIO.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/FastIO.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/FastIO.cpp
 
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/FastIO.cpp.i: cmake_force
@@ -9011,7 +8987,7 @@ CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/FastIO.cpp.o.provides.bui
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_ACQUIRE.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_ACQUIRE.cpp.o: ../DataStructures/SPOJ_ACQUIRE.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_374) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_ACQUIRE.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_373) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_ACQUIRE.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_ACQUIRE.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/SPOJ_ACQUIRE.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_ACQUIRE.cpp.i: cmake_force
@@ -9035,7 +9011,7 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/SPOJ_ACQUIRE.cpp.o.provide
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/LiChaoSegmentTree.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/LiChaoSegmentTree.cpp.o: ../DataStructures/Implementation/LiChaoSegmentTree.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_375) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/LiChaoSegmentTree.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_374) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/LiChaoSegmentTree.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/LiChaoSegmentTree.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/Implementation/LiChaoSegmentTree.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/LiChaoSegmentTree.cpp.i: cmake_force
@@ -9059,7 +9035,7 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/LiChaoSegme
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/ConvexHullTrick.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/ConvexHullTrick.cpp.o: ../DataStructures/Implementation/ConvexHullTrick.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_376) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/ConvexHullTrick.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_375) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/ConvexHullTrick.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/ConvexHullTrick.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/Implementation/ConvexHullTrick.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/ConvexHullTrick.cpp.i: cmake_force
@@ -9083,7 +9059,7 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/ConvexHullT
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CC_CyclistRace.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/CC_CyclistRace.cpp.o: ../DataStructures/CC_CyclistRace.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_377) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/CC_CyclistRace.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_376) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/CC_CyclistRace.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/CC_CyclistRace.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_CyclistRace.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CC_CyclistRace.cpp.i: cmake_force
@@ -9107,7 +9083,7 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/CC_CyclistRace.cpp.o.provi
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10304_OptimalBST.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10304_OptimalBST.cpp.o: ../DynamicProgramming/UVa10304_OptimalBST.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_378) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10304_OptimalBST.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_377) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10304_OptimalBST.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10304_OptimalBST.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/UVa10304_OptimalBST.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10304_OptimalBST.cpp.i: cmake_force
@@ -9131,7 +9107,7 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/UVa10304_OptimalBST.cp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_ACQUIRE_1D1D.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_ACQUIRE_1D1D.cpp.o: ../DynamicProgramming/SPOJ_ACQUIRE_1D1D.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_379) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_ACQUIRE_1D1D.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_378) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_ACQUIRE_1D1D.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_ACQUIRE_1D1D.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/SPOJ_ACQUIRE_1D1D.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_ACQUIRE_1D1D.cpp.i: cmake_force
@@ -9155,7 +9131,7 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_ACQUIRE_1D1D.cpp.
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/HR_GuardiansOfTheLunatics.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/HR_GuardiansOfTheLunatics.cpp.o: ../DynamicProgramming/HR_GuardiansOfTheLunatics.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_380) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/HR_GuardiansOfTheLunatics.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_379) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/HR_GuardiansOfTheLunatics.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/HR_GuardiansOfTheLunatics.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/HR_GuardiansOfTheLunatics.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/HR_GuardiansOfTheLunatics.cpp.i: cmake_force
@@ -9179,7 +9155,7 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/HR_GuardiansOfTheLunat
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF319C_KalilaAndDimna.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF319C_KalilaAndDimna.cpp.o: ../DynamicProgramming/CF319C_KalilaAndDimna.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_381) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF319C_KalilaAndDimna.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_380) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF319C_KalilaAndDimna.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF319C_KalilaAndDimna.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF319C_KalilaAndDimna.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF319C_KalilaAndDimna.cpp.i: cmake_force
@@ -9203,7 +9179,7 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF319C_KalilaAndDimna.
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_NKLeaves.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_NKLeaves.cpp.o: ../DynamicProgramming/SPOJ_NKLeaves.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_382) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_NKLeaves.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_381) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_NKLeaves.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_NKLeaves.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/SPOJ_NKLeaves.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_NKLeaves.cpp.i: cmake_force
@@ -9227,7 +9203,7 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_NKLeaves.cpp.o.pr
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF311B_CatsTransport.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF311B_CatsTransport.cpp.o: ../DynamicProgramming/CF311B_CatsTransport.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_383) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF311B_CatsTransport.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_382) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF311B_CatsTransport.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF311B_CatsTransport.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF311B_CatsTransport.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF311B_CatsTransport.cpp.i: cmake_force
@@ -9251,7 +9227,7 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF311B_CatsTransport.c
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF321E_CielAndGondolas.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF321E_CielAndGondolas.cpp.o: ../DynamicProgramming/CF321E_CielAndGondolas.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_384) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF321E_CielAndGondolas.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_383) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF321E_CielAndGondolas.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF321E_CielAndGondolas.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF321E_CielAndGondolas.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF321E_CielAndGondolas.cpp.i: cmake_force
@@ -9275,7 +9251,7 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF321E_CielAndGondolas
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_BRKSTRING.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_BRKSTRING.cpp.o: ../DynamicProgramming/SPOJ_BRKSTRING.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_385) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_BRKSTRING.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_384) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_BRKSTRING.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_BRKSTRING.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/SPOJ_BRKSTRING.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_BRKSTRING.cpp.i: cmake_force
@@ -9299,7 +9275,7 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/SPOJ_BRKSTRING.cpp.o.p
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/HR_AlienLanguages.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/HR_AlienLanguages.cpp.o: ../DynamicProgramming/HR_AlienLanguages.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_386) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/HR_AlienLanguages.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_385) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/HR_AlienLanguages.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/HR_AlienLanguages.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/HR_AlienLanguages.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/HR_AlienLanguages.cpp.i: cmake_force
@@ -9323,7 +9299,7 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/HR_AlienLanguages.cpp.
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CF600E_LomsatGelral.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/CF600E_LomsatGelral.cpp.o: ../DataStructures/CF600E_LomsatGelral.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_387) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/CF600E_LomsatGelral.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_386) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/CF600E_LomsatGelral.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/CF600E_LomsatGelral.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CF600E_LomsatGelral.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CF600E_LomsatGelral.cpp.i: cmake_force
@@ -9347,7 +9323,7 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/CF600E_LomsatGelral.cpp.o.
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/CF950E_DataCenterMaintenance.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/GraphTheory/CF950E_DataCenterMaintenance.cpp.o: ../GraphTheory/CF950E_DataCenterMaintenance.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_388) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/CF950E_DataCenterMaintenance.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_387) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/CF950E_DataCenterMaintenance.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/GraphTheory/CF950E_DataCenterMaintenance.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/CF950E_DataCenterMaintenance.cpp
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/CF950E_DataCenterMaintenance.cpp.i: cmake_force
@@ -9371,7 +9347,7 @@ CMakeFiles/Competitive_Programming.dir/GraphTheory/CF950E_DataCenterMaintenance.
 
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/SlopeTrick.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/SlopeTrick.cpp.o: ../OtherAlgorithms/SlopeTrick.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_389) "Building CXX object CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/SlopeTrick.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_388) "Building CXX object CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/SlopeTrick.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/SlopeTrick.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/SlopeTrick.cpp
 
 CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/SlopeTrick.cpp.i: cmake_force
@@ -9395,7 +9371,7 @@ CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/SlopeTrick.cpp.o.provides
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF626F_GroupProjects.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF626F_GroupProjects.cpp.o: ../DynamicProgramming/CF626F_GroupProjects.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_390) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF626F_GroupProjects.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_389) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF626F_GroupProjects.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF626F_GroupProjects.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF626F_GroupProjects.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF626F_GroupProjects.cpp.i: cmake_force
@@ -9419,7 +9395,7 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF626F_GroupProjects.c
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF466D_IncreaseSequence.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF466D_IncreaseSequence.cpp.o: ../DynamicProgramming/CF466D_IncreaseSequence.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_391) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF466D_IncreaseSequence.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_390) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF466D_IncreaseSequence.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF466D_IncreaseSequence.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/CF466D_IncreaseSequence.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF466D_IncreaseSequence.cpp.i: cmake_force
@@ -9443,7 +9419,7 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF466D_IncreaseSequenc
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2014_Compilation.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2014_Compilation.cpp.o: ../GraphTheory/IOITC2014_Compilation.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_392) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2014_Compilation.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_391) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2014_Compilation.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2014_Compilation.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/IOITC2014_Compilation.cpp
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2014_Compilation.cpp.i: cmake_force
@@ -9467,7 +9443,7 @@ CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2014_Compilation.cpp.o.p
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2014_DemolitionMan.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2014_DemolitionMan.cpp.o: ../DynamicProgramming/IOITC2014_DemolitionMan.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_393) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2014_DemolitionMan.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_392) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2014_DemolitionMan.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2014_DemolitionMan.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/IOITC2014_DemolitionMan.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2014_DemolitionMan.cpp.i: cmake_force
@@ -9491,7 +9467,7 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2014_DemolitionMa
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2015_SherlockAndWatson.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2015_SherlockAndWatson.cpp.o: ../DynamicProgramming/IOITC2015_SherlockAndWatson.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_394) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2015_SherlockAndWatson.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_393) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2015_SherlockAndWatson.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2015_SherlockAndWatson.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/IOITC2015_SherlockAndWatson.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2015_SherlockAndWatson.cpp.i: cmake_force
@@ -9515,7 +9491,7 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2015_SherlockAndW
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2015_Hospital.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2015_Hospital.cpp.o: ../GraphTheory/IOITC2015_Hospital.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_395) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2015_Hospital.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_394) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2015_Hospital.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2015_Hospital.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/IOITC2015_Hospital.cpp
 
 CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2015_Hospital.cpp.i: cmake_force
@@ -9539,7 +9515,7 @@ CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2015_Hospital.cpp.o.prov
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2014_SwordsOfGilgamesh.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2014_SwordsOfGilgamesh.cpp.o: ../DynamicProgramming/IOITC2014_SwordsOfGilgamesh.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_396) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2014_SwordsOfGilgamesh.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_395) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2014_SwordsOfGilgamesh.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2014_SwordsOfGilgamesh.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/IOITC2014_SwordsOfGilgamesh.cpp
 
 CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2014_SwordsOfGilgamesh.cpp.i: cmake_force
@@ -9563,7 +9539,7 @@ CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2014_SwordsOfGilg
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/SegmentTreeBeats.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/SegmentTreeBeats.cpp.o: ../DataStructures/Implementation/SegmentTreeBeats.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_397) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/SegmentTreeBeats.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_396) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/SegmentTreeBeats.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/SegmentTreeBeats.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/Implementation/SegmentTreeBeats.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/SegmentTreeBeats.cpp.i: cmake_force
@@ -9587,7 +9563,7 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/SegmentTree
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CF438D_TheChildAndSequence.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/CF438D_TheChildAndSequence.cpp.o: ../DataStructures/CF438D_TheChildAndSequence.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_398) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/CF438D_TheChildAndSequence.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_397) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/CF438D_TheChildAndSequence.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/CF438D_TheChildAndSequence.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CF438D_TheChildAndSequence.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/CF438D_TheChildAndSequence.cpp.i: cmake_force
@@ -9611,7 +9587,7 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/CF438D_TheChildAndSequence
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_ChandraguptaBST.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_ChandraguptaBST.cpp.o: ../DataStructures/IOITC2015_ChandraguptaBST.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_399) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_ChandraguptaBST.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_398) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_ChandraguptaBST.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_ChandraguptaBST.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/IOITC2015_ChandraguptaBST.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_ChandraguptaBST.cpp.i: cmake_force
@@ -9635,7 +9611,7 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_ChandraguptaBST.
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_ChandraguptaAndTransport.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_ChandraguptaAndTransport.cpp.o: ../DataStructures/IOITC2015_ChandraguptaAndTransport.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_400) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_ChandraguptaAndTransport.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_399) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_ChandraguptaAndTransport.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_ChandraguptaAndTransport.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/IOITC2015_ChandraguptaAndTransport.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_ChandraguptaAndTransport.cpp.i: cmake_force
@@ -9659,7 +9635,7 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_ChandraguptaAndT
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_ChandraguptaInsurgents.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
 CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_ChandraguptaInsurgents.cpp.o: ../DataStructures/IOITC2015_ChandraguptaInsurgents.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_401) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_ChandraguptaInsurgents.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_400) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_ChandraguptaInsurgents.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_ChandraguptaInsurgents.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/IOITC2015_ChandraguptaInsurgents.cpp
 
 CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_ChandraguptaInsurgents.cpp.i: cmake_force
@@ -9681,28 +9657,1252 @@ CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_ChandraguptaInsu
 CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_ChandraguptaInsurgents.cpp.o.provides.build: CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_ChandraguptaInsurgents.cpp.o
 
 
-CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2015_DArray.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
-CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2015_DArray.cpp.o: ../Miscellaneous/IOITC2015_DArray.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_402) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2015_DArray.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2015_DArray.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/IOITC2015_DArray.cpp
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_Grid.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_Grid.cpp.o: ../DataStructures/IOITC2015_Grid.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_401) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_Grid.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_Grid.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/IOITC2015_Grid.cpp
 
-CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2015_DArray.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2015_DArray.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/IOITC2015_DArray.cpp > CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2015_DArray.cpp.i
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_Grid.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_Grid.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/IOITC2015_Grid.cpp > CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_Grid.cpp.i
 
-CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2015_DArray.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2015_DArray.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/IOITC2015_DArray.cpp -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2015_DArray.cpp.s
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_Grid.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_Grid.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/IOITC2015_Grid.cpp -o CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_Grid.cpp.s
 
-CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2015_DArray.cpp.o.requires:
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_Grid.cpp.o.requires:
 
-.PHONY : CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2015_DArray.cpp.o.requires
+.PHONY : CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_Grid.cpp.o.requires
 
-CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2015_DArray.cpp.o.provides: CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2015_DArray.cpp.o.requires
-	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2015_DArray.cpp.o.provides.build
-.PHONY : CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2015_DArray.cpp.o.provides
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_Grid.cpp.o.provides: CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_Grid.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_Grid.cpp.o.provides.build
+.PHONY : CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_Grid.cpp.o.provides
 
-CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2015_DArray.cpp.o.provides.build: CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2015_DArray.cpp.o
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_Grid.cpp.o.provides.build: CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_Grid.cpp.o
+
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_Coloring.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_Coloring.cpp.o: ../DataStructures/IOITC2015_Coloring.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_402) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_Coloring.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_Coloring.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/IOITC2015_Coloring.cpp
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_Coloring.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_Coloring.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/IOITC2015_Coloring.cpp > CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_Coloring.cpp.i
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_Coloring.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_Coloring.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/IOITC2015_Coloring.cpp -o CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_Coloring.cpp.s
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_Coloring.cpp.o.requires:
+
+.PHONY : CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_Coloring.cpp.o.requires
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_Coloring.cpp.o.provides: CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_Coloring.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_Coloring.cpp.o.provides.build
+.PHONY : CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_Coloring.cpp.o.provides
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_Coloring.cpp.o.provides.build: CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_Coloring.cpp.o
+
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_RandomWalks.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_RandomWalks.cpp.o: ../DataStructures/IOITC2015_RandomWalks.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_403) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_RandomWalks.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_RandomWalks.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/IOITC2015_RandomWalks.cpp
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_RandomWalks.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_RandomWalks.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/IOITC2015_RandomWalks.cpp > CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_RandomWalks.cpp.i
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_RandomWalks.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_RandomWalks.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/IOITC2015_RandomWalks.cpp -o CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_RandomWalks.cpp.s
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_RandomWalks.cpp.o.requires:
+
+.PHONY : CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_RandomWalks.cpp.o.requires
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_RandomWalks.cpp.o.provides: CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_RandomWalks.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_RandomWalks.cpp.o.provides.build
+.PHONY : CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_RandomWalks.cpp.o.provides
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_RandomWalks.cpp.o.provides.build: CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_RandomWalks.cpp.o
+
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/CentroidDecomposition.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
+CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/CentroidDecomposition.cpp.o: ../DataStructures/Implementation/CentroidDecomposition.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_404) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/CentroidDecomposition.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/CentroidDecomposition.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/Implementation/CentroidDecomposition.cpp
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/CentroidDecomposition.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/CentroidDecomposition.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/Implementation/CentroidDecomposition.cpp > CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/CentroidDecomposition.cpp.i
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/CentroidDecomposition.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/CentroidDecomposition.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/Implementation/CentroidDecomposition.cpp -o CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/CentroidDecomposition.cpp.s
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/CentroidDecomposition.cpp.o.requires:
+
+.PHONY : CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/CentroidDecomposition.cpp.o.requires
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/CentroidDecomposition.cpp.o.provides: CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/CentroidDecomposition.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/CentroidDecomposition.cpp.o.provides.build
+.PHONY : CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/CentroidDecomposition.cpp.o.provides
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/CentroidDecomposition.cpp.o.provides.build: CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/CentroidDecomposition.cpp.o
+
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_RandomWalks_Brute.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_RandomWalks_Brute.cpp.o: ../DataStructures/IOITC2015_RandomWalks_Brute.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_405) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_RandomWalks_Brute.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_RandomWalks_Brute.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/IOITC2015_RandomWalks_Brute.cpp
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_RandomWalks_Brute.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_RandomWalks_Brute.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/IOITC2015_RandomWalks_Brute.cpp > CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_RandomWalks_Brute.cpp.i
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_RandomWalks_Brute.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_RandomWalks_Brute.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/IOITC2015_RandomWalks_Brute.cpp -o CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_RandomWalks_Brute.cpp.s
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_RandomWalks_Brute.cpp.o.requires:
+
+.PHONY : CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_RandomWalks_Brute.cpp.o.requires
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_RandomWalks_Brute.cpp.o.provides: CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_RandomWalks_Brute.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_RandomWalks_Brute.cpp.o.provides.build
+.PHONY : CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_RandomWalks_Brute.cpp.o.provides
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_RandomWalks_Brute.cpp.o.provides.build: CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_RandomWalks_Brute.cpp.o
+
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/CF796D_PoliceStations.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
+CMakeFiles/Competitive_Programming.dir/GraphTheory/CF796D_PoliceStations.cpp.o: ../GraphTheory/CF796D_PoliceStations.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_406) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/CF796D_PoliceStations.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/GraphTheory/CF796D_PoliceStations.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/CF796D_PoliceStations.cpp
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/CF796D_PoliceStations.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/GraphTheory/CF796D_PoliceStations.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/CF796D_PoliceStations.cpp > CMakeFiles/Competitive_Programming.dir/GraphTheory/CF796D_PoliceStations.cpp.i
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/CF796D_PoliceStations.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/GraphTheory/CF796D_PoliceStations.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/CF796D_PoliceStations.cpp -o CMakeFiles/Competitive_Programming.dir/GraphTheory/CF796D_PoliceStations.cpp.s
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/CF796D_PoliceStations.cpp.o.requires:
+
+.PHONY : CMakeFiles/Competitive_Programming.dir/GraphTheory/CF796D_PoliceStations.cpp.o.requires
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/CF796D_PoliceStations.cpp.o.provides: CMakeFiles/Competitive_Programming.dir/GraphTheory/CF796D_PoliceStations.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/CF796D_PoliceStations.cpp.o.provides.build
+.PHONY : CMakeFiles/Competitive_Programming.dir/GraphTheory/CF796D_PoliceStations.cpp.o.provides
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/CF796D_PoliceStations.cpp.o.provides.build: CMakeFiles/Competitive_Programming.dir/GraphTheory/CF796D_PoliceStations.cpp.o
+
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2015_MonsterChallenge.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2015_MonsterChallenge.cpp.o: ../GraphTheory/IOITC2015_MonsterChallenge.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_407) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2015_MonsterChallenge.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2015_MonsterChallenge.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/IOITC2015_MonsterChallenge.cpp
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2015_MonsterChallenge.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2015_MonsterChallenge.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/IOITC2015_MonsterChallenge.cpp > CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2015_MonsterChallenge.cpp.i
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2015_MonsterChallenge.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2015_MonsterChallenge.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/IOITC2015_MonsterChallenge.cpp -o CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2015_MonsterChallenge.cpp.s
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2015_MonsterChallenge.cpp.o.requires:
+
+.PHONY : CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2015_MonsterChallenge.cpp.o.requires
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2015_MonsterChallenge.cpp.o.provides: CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2015_MonsterChallenge.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2015_MonsterChallenge.cpp.o.provides.build
+.PHONY : CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2015_MonsterChallenge.cpp.o.provides
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2015_MonsterChallenge.cpp.o.provides.build: CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2015_MonsterChallenge.cpp.o
+
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_Magic.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_Magic.cpp.o: ../DataStructures/IOITC2015_Magic.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_408) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_Magic.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_Magic.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/IOITC2015_Magic.cpp
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_Magic.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_Magic.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/IOITC2015_Magic.cpp > CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_Magic.cpp.i
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_Magic.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_Magic.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/IOITC2015_Magic.cpp -o CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_Magic.cpp.s
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_Magic.cpp.o.requires:
+
+.PHONY : CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_Magic.cpp.o.requires
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_Magic.cpp.o.provides: CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_Magic.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_Magic.cpp.o.provides.build
+.PHONY : CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_Magic.cpp.o.provides
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_Magic.cpp.o.provides.build: CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_Magic.cpp.o
+
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2015_TreeMan.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2015_TreeMan.cpp.o: ../DynamicProgramming/OnTrees/IOITC2015_TreeMan.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_409) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2015_TreeMan.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2015_TreeMan.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/IOITC2015_TreeMan.cpp
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2015_TreeMan.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2015_TreeMan.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/IOITC2015_TreeMan.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2015_TreeMan.cpp.i
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2015_TreeMan.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2015_TreeMan.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/IOITC2015_TreeMan.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2015_TreeMan.cpp.s
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2015_TreeMan.cpp.o.requires:
+
+.PHONY : CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2015_TreeMan.cpp.o.requires
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2015_TreeMan.cpp.o.provides: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2015_TreeMan.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2015_TreeMan.cpp.o.provides.build
+.PHONY : CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2015_TreeMan.cpp.o.provides
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2015_TreeMan.cpp.o.provides.build: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2015_TreeMan.cpp.o
+
+
+CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2015_BirthdayPresent.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
+CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2015_BirthdayPresent.cpp.o: ../Miscellaneous/IOITC2015_BirthdayPresent.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_410) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2015_BirthdayPresent.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2015_BirthdayPresent.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/IOITC2015_BirthdayPresent.cpp
+
+CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2015_BirthdayPresent.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2015_BirthdayPresent.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/IOITC2015_BirthdayPresent.cpp > CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2015_BirthdayPresent.cpp.i
+
+CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2015_BirthdayPresent.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2015_BirthdayPresent.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/IOITC2015_BirthdayPresent.cpp -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2015_BirthdayPresent.cpp.s
+
+CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2015_BirthdayPresent.cpp.o.requires:
+
+.PHONY : CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2015_BirthdayPresent.cpp.o.requires
+
+CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2015_BirthdayPresent.cpp.o.provides: CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2015_BirthdayPresent.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2015_BirthdayPresent.cpp.o.provides.build
+.PHONY : CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2015_BirthdayPresent.cpp.o.provides
+
+CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2015_BirthdayPresent.cpp.o.provides.build: CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2015_BirthdayPresent.cpp.o
+
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2015_IslandsAndBridges.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2015_IslandsAndBridges.cpp.o: ../GraphTheory/IOITC2015_IslandsAndBridges.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_411) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2015_IslandsAndBridges.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2015_IslandsAndBridges.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/IOITC2015_IslandsAndBridges.cpp
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2015_IslandsAndBridges.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2015_IslandsAndBridges.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/IOITC2015_IslandsAndBridges.cpp > CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2015_IslandsAndBridges.cpp.i
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2015_IslandsAndBridges.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2015_IslandsAndBridges.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/IOITC2015_IslandsAndBridges.cpp -o CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2015_IslandsAndBridges.cpp.s
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2015_IslandsAndBridges.cpp.o.requires:
+
+.PHONY : CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2015_IslandsAndBridges.cpp.o.requires
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2015_IslandsAndBridges.cpp.o.provides: CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2015_IslandsAndBridges.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2015_IslandsAndBridges.cpp.o.provides.build
+.PHONY : CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2015_IslandsAndBridges.cpp.o.provides
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2015_IslandsAndBridges.cpp.o.provides.build: CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2015_IslandsAndBridges.cpp.o
+
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2012_Facebook.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2012_Facebook.cpp.o: ../GraphTheory/IOITC2012_Facebook.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_412) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2012_Facebook.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2012_Facebook.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/IOITC2012_Facebook.cpp
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2012_Facebook.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2012_Facebook.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/IOITC2012_Facebook.cpp > CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2012_Facebook.cpp.i
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2012_Facebook.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2012_Facebook.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/IOITC2012_Facebook.cpp -o CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2012_Facebook.cpp.s
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2012_Facebook.cpp.o.requires:
+
+.PHONY : CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2012_Facebook.cpp.o.requires
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2012_Facebook.cpp.o.provides: CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2012_Facebook.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2012_Facebook.cpp.o.provides.build
+.PHONY : CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2012_Facebook.cpp.o.provides
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2012_Facebook.cpp.o.provides.build: CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2012_Facebook.cpp.o
+
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2013_TriangleEquality.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2013_TriangleEquality.cpp.o: ../DataStructures/IOITC2013_TriangleEquality.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_413) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2013_TriangleEquality.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2013_TriangleEquality.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/IOITC2013_TriangleEquality.cpp
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2013_TriangleEquality.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2013_TriangleEquality.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/IOITC2013_TriangleEquality.cpp > CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2013_TriangleEquality.cpp.i
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2013_TriangleEquality.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2013_TriangleEquality.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/IOITC2013_TriangleEquality.cpp -o CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2013_TriangleEquality.cpp.s
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2013_TriangleEquality.cpp.o.requires:
+
+.PHONY : CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2013_TriangleEquality.cpp.o.requires
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2013_TriangleEquality.cpp.o.provides: CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2013_TriangleEquality.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2013_TriangleEquality.cpp.o.provides.build
+.PHONY : CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2013_TriangleEquality.cpp.o.provides
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2013_TriangleEquality.cpp.o.provides.build: CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2013_TriangleEquality.cpp.o
+
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2010_AmusementPark.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2010_AmusementPark.cpp.o: ../GraphTheory/IOITC2010_AmusementPark.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_414) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2010_AmusementPark.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2010_AmusementPark.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/IOITC2010_AmusementPark.cpp
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2010_AmusementPark.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2010_AmusementPark.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/IOITC2010_AmusementPark.cpp > CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2010_AmusementPark.cpp.i
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2010_AmusementPark.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2010_AmusementPark.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/IOITC2010_AmusementPark.cpp -o CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2010_AmusementPark.cpp.s
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2010_AmusementPark.cpp.o.requires:
+
+.PHONY : CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2010_AmusementPark.cpp.o.requires
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2010_AmusementPark.cpp.o.provides: CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2010_AmusementPark.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2010_AmusementPark.cpp.o.provides.build
+.PHONY : CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2010_AmusementPark.cpp.o.provides
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2010_AmusementPark.cpp.o.provides.build: CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2010_AmusementPark.cpp.o
+
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2010_CableThieves.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2010_CableThieves.cpp.o: ../DynamicProgramming/OnTrees/IOITC2010_CableThieves.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_415) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2010_CableThieves.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2010_CableThieves.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/IOITC2010_CableThieves.cpp
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2010_CableThieves.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2010_CableThieves.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/IOITC2010_CableThieves.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2010_CableThieves.cpp.i
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2010_CableThieves.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2010_CableThieves.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/IOITC2010_CableThieves.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2010_CableThieves.cpp.s
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2010_CableThieves.cpp.o.requires:
+
+.PHONY : CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2010_CableThieves.cpp.o.requires
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2010_CableThieves.cpp.o.provides: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2010_CableThieves.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2010_CableThieves.cpp.o.provides.build
+.PHONY : CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2010_CableThieves.cpp.o.provides
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2010_CableThieves.cpp.o.provides.build: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2010_CableThieves.cpp.o
+
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2010_Police.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2010_Police.cpp.o: ../GraphTheory/IOITC2010_Police.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_416) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2010_Police.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2010_Police.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/IOITC2010_Police.cpp
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2010_Police.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2010_Police.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/IOITC2010_Police.cpp > CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2010_Police.cpp.i
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2010_Police.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2010_Police.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/IOITC2010_Police.cpp -o CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2010_Police.cpp.s
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2010_Police.cpp.o.requires:
+
+.PHONY : CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2010_Police.cpp.o.requires
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2010_Police.cpp.o.provides: CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2010_Police.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2010_Police.cpp.o.provides.build
+.PHONY : CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2010_Police.cpp.o.provides
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2010_Police.cpp.o.provides.build: CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2010_Police.cpp.o
+
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/BlockCutTree.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
+CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/BlockCutTree.cpp.o: ../GraphTheory/Implementation/BlockCutTree.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_417) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/BlockCutTree.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/BlockCutTree.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/BlockCutTree.cpp
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/BlockCutTree.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/BlockCutTree.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/BlockCutTree.cpp > CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/BlockCutTree.cpp.i
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/BlockCutTree.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/BlockCutTree.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/BlockCutTree.cpp -o CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/BlockCutTree.cpp.s
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/BlockCutTree.cpp.o.requires:
+
+.PHONY : CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/BlockCutTree.cpp.o.requires
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/BlockCutTree.cpp.o.provides: CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/BlockCutTree.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/BlockCutTree.cpp.o.provides.build
+.PHONY : CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/BlockCutTree.cpp.o.provides
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/BlockCutTree.cpp.o.provides.build: CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/BlockCutTree.cpp.o
+
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/CC_TULIPS.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
+CMakeFiles/Competitive_Programming.dir/DataStructures/CC_TULIPS.cpp.o: ../DataStructures/CC_TULIPS.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_418) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/CC_TULIPS.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/CC_TULIPS.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_TULIPS.cpp
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/CC_TULIPS.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DataStructures/CC_TULIPS.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_TULIPS.cpp > CMakeFiles/Competitive_Programming.dir/DataStructures/CC_TULIPS.cpp.i
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/CC_TULIPS.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DataStructures/CC_TULIPS.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/CC_TULIPS.cpp -o CMakeFiles/Competitive_Programming.dir/DataStructures/CC_TULIPS.cpp.s
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/CC_TULIPS.cpp.o.requires:
+
+.PHONY : CMakeFiles/Competitive_Programming.dir/DataStructures/CC_TULIPS.cpp.o.requires
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/CC_TULIPS.cpp.o.provides: CMakeFiles/Competitive_Programming.dir/DataStructures/CC_TULIPS.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/CC_TULIPS.cpp.o.provides.build
+.PHONY : CMakeFiles/Competitive_Programming.dir/DataStructures/CC_TULIPS.cpp.o.provides
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/CC_TULIPS.cpp.o.provides.build: CMakeFiles/Competitive_Programming.dir/DataStructures/CC_TULIPS.cpp.o
+
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_Circulation.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_Circulation.cpp.o: ../GraphTheory/IOITC2011_Circulation.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_419) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_Circulation.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_Circulation.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/IOITC2011_Circulation.cpp
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_Circulation.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_Circulation.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/IOITC2011_Circulation.cpp > CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_Circulation.cpp.i
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_Circulation.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_Circulation.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/IOITC2011_Circulation.cpp -o CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_Circulation.cpp.s
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_Circulation.cpp.o.requires:
+
+.PHONY : CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_Circulation.cpp.o.requires
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_Circulation.cpp.o.provides: CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_Circulation.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_Circulation.cpp.o.provides.build
+.PHONY : CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_Circulation.cpp.o.provides
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_Circulation.cpp.o.provides.build: CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_Circulation.cpp.o
+
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_Dilemma.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_Dilemma.cpp.o: ../GraphTheory/IOITC2011_Dilemma.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_420) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_Dilemma.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_Dilemma.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/IOITC2011_Dilemma.cpp
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_Dilemma.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_Dilemma.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/IOITC2011_Dilemma.cpp > CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_Dilemma.cpp.i
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_Dilemma.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_Dilemma.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/IOITC2011_Dilemma.cpp -o CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_Dilemma.cpp.s
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_Dilemma.cpp.o.requires:
+
+.PHONY : CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_Dilemma.cpp.o.requires
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_Dilemma.cpp.o.provides: CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_Dilemma.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_Dilemma.cpp.o.provides.build
+.PHONY : CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_Dilemma.cpp.o.provides
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_Dilemma.cpp.o.provides.build: CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_Dilemma.cpp.o
+
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_Passports.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_Passports.cpp.o: ../GraphTheory/IOITC2011_Passports.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_421) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_Passports.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_Passports.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/IOITC2011_Passports.cpp
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_Passports.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_Passports.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/IOITC2011_Passports.cpp > CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_Passports.cpp.i
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_Passports.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_Passports.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/IOITC2011_Passports.cpp -o CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_Passports.cpp.s
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_Passports.cpp.o.requires:
+
+.PHONY : CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_Passports.cpp.o.requires
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_Passports.cpp.o.provides: CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_Passports.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_Passports.cpp.o.provides.build
+.PHONY : CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_Passports.cpp.o.provides
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_Passports.cpp.o.provides.build: CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_Passports.cpp.o
+
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2011_Carnival.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2011_Carnival.cpp.o: ../DynamicProgramming/IOITC2011_Carnival.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_422) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2011_Carnival.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2011_Carnival.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/IOITC2011_Carnival.cpp
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2011_Carnival.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2011_Carnival.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/IOITC2011_Carnival.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2011_Carnival.cpp.i
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2011_Carnival.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2011_Carnival.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/IOITC2011_Carnival.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2011_Carnival.cpp.s
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2011_Carnival.cpp.o.requires:
+
+.PHONY : CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2011_Carnival.cpp.o.requires
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2011_Carnival.cpp.o.provides: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2011_Carnival.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2011_Carnival.cpp.o.provides.build
+.PHONY : CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2011_Carnival.cpp.o.provides
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2011_Carnival.cpp.o.provides.build: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2011_Carnival.cpp.o
+
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_FairSelection.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_FairSelection.cpp.o: ../GraphTheory/IOITC2011_FairSelection.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_423) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_FairSelection.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_FairSelection.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/IOITC2011_FairSelection.cpp
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_FairSelection.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_FairSelection.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/IOITC2011_FairSelection.cpp > CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_FairSelection.cpp.i
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_FairSelection.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_FairSelection.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/IOITC2011_FairSelection.cpp -o CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_FairSelection.cpp.s
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_FairSelection.cpp.o.requires:
+
+.PHONY : CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_FairSelection.cpp.o.requires
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_FairSelection.cpp.o.provides: CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_FairSelection.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_FairSelection.cpp.o.provides.build
+.PHONY : CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_FairSelection.cpp.o.provides
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_FairSelection.cpp.o.provides.build: CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_FairSelection.cpp.o
+
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2012_FloweryGraphs.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2012_FloweryGraphs.cpp.o: ../DynamicProgramming/OnTrees/IOITC2012_FloweryGraphs.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_424) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2012_FloweryGraphs.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2012_FloweryGraphs.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/IOITC2012_FloweryGraphs.cpp
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2012_FloweryGraphs.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2012_FloweryGraphs.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/IOITC2012_FloweryGraphs.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2012_FloweryGraphs.cpp.i
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2012_FloweryGraphs.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2012_FloweryGraphs.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/IOITC2012_FloweryGraphs.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2012_FloweryGraphs.cpp.s
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2012_FloweryGraphs.cpp.o.requires:
+
+.PHONY : CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2012_FloweryGraphs.cpp.o.requires
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2012_FloweryGraphs.cpp.o.provides: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2012_FloweryGraphs.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2012_FloweryGraphs.cpp.o.provides.build
+.PHONY : CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2012_FloweryGraphs.cpp.o.provides
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2012_FloweryGraphs.cpp.o.provides.build: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2012_FloweryGraphs.cpp.o
+
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2012_CrazyWalks.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2012_CrazyWalks.cpp.o: ../DynamicProgramming/IOITC2012_CrazyWalks.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_425) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2012_CrazyWalks.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2012_CrazyWalks.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/IOITC2012_CrazyWalks.cpp
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2012_CrazyWalks.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2012_CrazyWalks.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/IOITC2012_CrazyWalks.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2012_CrazyWalks.cpp.i
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2012_CrazyWalks.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2012_CrazyWalks.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/IOITC2012_CrazyWalks.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2012_CrazyWalks.cpp.s
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2012_CrazyWalks.cpp.o.requires:
+
+.PHONY : CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2012_CrazyWalks.cpp.o.requires
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2012_CrazyWalks.cpp.o.provides: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2012_CrazyWalks.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2012_CrazyWalks.cpp.o.provides.build
+.PHONY : CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2012_CrazyWalks.cpp.o.provides
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2012_CrazyWalks.cpp.o.provides.build: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2012_CrazyWalks.cpp.o
+
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IPLBettingStrategy.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IPLBettingStrategy.cpp.o: ../DynamicProgramming/IPLBettingStrategy.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_426) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IPLBettingStrategy.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IPLBettingStrategy.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/IPLBettingStrategy.cpp
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IPLBettingStrategy.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IPLBettingStrategy.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/IPLBettingStrategy.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IPLBettingStrategy.cpp.i
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IPLBettingStrategy.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IPLBettingStrategy.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/IPLBettingStrategy.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IPLBettingStrategy.cpp.s
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IPLBettingStrategy.cpp.o.requires:
+
+.PHONY : CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IPLBettingStrategy.cpp.o.requires
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IPLBettingStrategy.cpp.o.provides: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IPLBettingStrategy.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IPLBettingStrategy.cpp.o.provides.build
+.PHONY : CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IPLBettingStrategy.cpp.o.provides
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IPLBettingStrategy.cpp.o.provides.build: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IPLBettingStrategy.cpp.o
+
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2012_Cars.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2012_Cars.cpp.o: ../DynamicProgramming/IOITC2012_Cars.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_427) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2012_Cars.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2012_Cars.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/IOITC2012_Cars.cpp
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2012_Cars.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2012_Cars.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/IOITC2012_Cars.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2012_Cars.cpp.i
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2012_Cars.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2012_Cars.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/IOITC2012_Cars.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2012_Cars.cpp.s
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2012_Cars.cpp.o.requires:
+
+.PHONY : CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2012_Cars.cpp.o.requires
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2012_Cars.cpp.o.provides: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2012_Cars.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2012_Cars.cpp.o.provides.build
+.PHONY : CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2012_Cars.cpp.o.provides
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2012_Cars.cpp.o.provides.build: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2012_Cars.cpp.o
+
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2013_HappyJourney.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2013_HappyJourney.cpp.o: ../GraphTheory/IOITC2013_HappyJourney.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_428) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2013_HappyJourney.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2013_HappyJourney.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/IOITC2013_HappyJourney.cpp
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2013_HappyJourney.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2013_HappyJourney.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/IOITC2013_HappyJourney.cpp > CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2013_HappyJourney.cpp.i
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2013_HappyJourney.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2013_HappyJourney.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/IOITC2013_HappyJourney.cpp -o CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2013_HappyJourney.cpp.s
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2013_HappyJourney.cpp.o.requires:
+
+.PHONY : CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2013_HappyJourney.cpp.o.requires
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2013_HappyJourney.cpp.o.provides: CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2013_HappyJourney.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2013_HappyJourney.cpp.o.provides.build
+.PHONY : CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2013_HappyJourney.cpp.o.provides
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2013_HappyJourney.cpp.o.provides.build: CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2013_HappyJourney.cpp.o
+
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2008_CateringContracts2pi.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2008_CateringContracts2pi.cpp.o: ../DynamicProgramming/OnTrees/IOITC2008_CateringContracts2pi.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_429) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2008_CateringContracts2pi.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2008_CateringContracts2pi.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/IOITC2008_CateringContracts2pi.cpp
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2008_CateringContracts2pi.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2008_CateringContracts2pi.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/IOITC2008_CateringContracts2pi.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2008_CateringContracts2pi.cpp.i
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2008_CateringContracts2pi.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2008_CateringContracts2pi.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/IOITC2008_CateringContracts2pi.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2008_CateringContracts2pi.cpp.s
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2008_CateringContracts2pi.cpp.o.requires:
+
+.PHONY : CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2008_CateringContracts2pi.cpp.o.requires
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2008_CateringContracts2pi.cpp.o.provides: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2008_CateringContracts2pi.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2008_CateringContracts2pi.cpp.o.provides.build
+.PHONY : CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2008_CateringContracts2pi.cpp.o.provides
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2008_CateringContracts2pi.cpp.o.provides.build: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2008_CateringContracts2pi.cpp.o
+
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2013_PetrolTank.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2013_PetrolTank.cpp.o: ../DataStructures/IOITC2013_PetrolTank.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_430) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2013_PetrolTank.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2013_PetrolTank.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/IOITC2013_PetrolTank.cpp
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2013_PetrolTank.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2013_PetrolTank.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/IOITC2013_PetrolTank.cpp > CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2013_PetrolTank.cpp.i
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2013_PetrolTank.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2013_PetrolTank.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/IOITC2013_PetrolTank.cpp -o CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2013_PetrolTank.cpp.s
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2013_PetrolTank.cpp.o.requires:
+
+.PHONY : CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2013_PetrolTank.cpp.o.requires
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2013_PetrolTank.cpp.o.provides: CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2013_PetrolTank.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2013_PetrolTank.cpp.o.provides.build
+.PHONY : CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2013_PetrolTank.cpp.o.provides
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2013_PetrolTank.cpp.o.provides.build: CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2013_PetrolTank.cpp.o
+
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2013_MeetingPoint.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2013_MeetingPoint.cpp.o: ../GraphTheory/IOITC2013_MeetingPoint.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_431) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2013_MeetingPoint.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2013_MeetingPoint.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/IOITC2013_MeetingPoint.cpp
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2013_MeetingPoint.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2013_MeetingPoint.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/IOITC2013_MeetingPoint.cpp > CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2013_MeetingPoint.cpp.i
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2013_MeetingPoint.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2013_MeetingPoint.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/IOITC2013_MeetingPoint.cpp -o CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2013_MeetingPoint.cpp.s
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2013_MeetingPoint.cpp.o.requires:
+
+.PHONY : CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2013_MeetingPoint.cpp.o.requires
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2013_MeetingPoint.cpp.o.provides: CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2013_MeetingPoint.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2013_MeetingPoint.cpp.o.provides.build
+.PHONY : CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2013_MeetingPoint.cpp.o.provides
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2013_MeetingPoint.cpp.o.provides.build: CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2013_MeetingPoint.cpp.o
+
+
+CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/RandomNumbers.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
+CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/RandomNumbers.cpp.o: ../OtherAlgorithms/RandomNumbers.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_432) "Building CXX object CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/RandomNumbers.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/RandomNumbers.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/RandomNumbers.cpp
+
+CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/RandomNumbers.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/RandomNumbers.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/RandomNumbers.cpp > CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/RandomNumbers.cpp.i
+
+CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/RandomNumbers.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/RandomNumbers.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/OtherAlgorithms/RandomNumbers.cpp -o CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/RandomNumbers.cpp.s
+
+CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/RandomNumbers.cpp.o.requires:
+
+.PHONY : CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/RandomNumbers.cpp.o.requires
+
+CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/RandomNumbers.cpp.o.provides: CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/RandomNumbers.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/RandomNumbers.cpp.o.provides.build
+.PHONY : CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/RandomNumbers.cpp.o.provides
+
+CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/RandomNumbers.cpp.o.provides.build: CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/RandomNumbers.cpp.o
+
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2013_Stamps.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2013_Stamps.cpp.o: ../DataStructures/IOITC2013_Stamps.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_433) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2013_Stamps.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2013_Stamps.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/IOITC2013_Stamps.cpp
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2013_Stamps.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2013_Stamps.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/IOITC2013_Stamps.cpp > CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2013_Stamps.cpp.i
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2013_Stamps.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2013_Stamps.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/IOITC2013_Stamps.cpp -o CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2013_Stamps.cpp.s
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2013_Stamps.cpp.o.requires:
+
+.PHONY : CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2013_Stamps.cpp.o.requires
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2013_Stamps.cpp.o.provides: CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2013_Stamps.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2013_Stamps.cpp.o.provides.build
+.PHONY : CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2013_Stamps.cpp.o.provides
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2013_Stamps.cpp.o.provides.build: CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2013_Stamps.cpp.o
+
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2013_Kindergarten.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2013_Kindergarten.cpp.o: ../DynamicProgramming/IOITC2013_Kindergarten.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_434) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2013_Kindergarten.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2013_Kindergarten.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/IOITC2013_Kindergarten.cpp
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2013_Kindergarten.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2013_Kindergarten.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/IOITC2013_Kindergarten.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2013_Kindergarten.cpp.i
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2013_Kindergarten.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2013_Kindergarten.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/IOITC2013_Kindergarten.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2013_Kindergarten.cpp.s
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2013_Kindergarten.cpp.o.requires:
+
+.PHONY : CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2013_Kindergarten.cpp.o.requires
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2013_Kindergarten.cpp.o.provides: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2013_Kindergarten.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2013_Kindergarten.cpp.o.provides.build
+.PHONY : CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2013_Kindergarten.cpp.o.provides
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2013_Kindergarten.cpp.o.provides.build: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2013_Kindergarten.cpp.o
+
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2013_MacVsPC.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2013_MacVsPC.cpp.o: ../DynamicProgramming/IOITC2013_MacVsPC.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_435) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2013_MacVsPC.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2013_MacVsPC.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/IOITC2013_MacVsPC.cpp
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2013_MacVsPC.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2013_MacVsPC.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/IOITC2013_MacVsPC.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2013_MacVsPC.cpp.i
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2013_MacVsPC.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2013_MacVsPC.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/IOITC2013_MacVsPC.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2013_MacVsPC.cpp.s
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2013_MacVsPC.cpp.o.requires:
+
+.PHONY : CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2013_MacVsPC.cpp.o.requires
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2013_MacVsPC.cpp.o.provides: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2013_MacVsPC.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2013_MacVsPC.cpp.o.provides.build
+.PHONY : CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2013_MacVsPC.cpp.o.provides
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2013_MacVsPC.cpp.o.provides.build: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2013_MacVsPC.cpp.o
+
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2013_CateringContractsRemix.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2013_CateringContractsRemix.cpp.o: ../GraphTheory/IOITC2013_CateringContractsRemix.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_436) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2013_CateringContractsRemix.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2013_CateringContractsRemix.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/IOITC2013_CateringContractsRemix.cpp
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2013_CateringContractsRemix.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2013_CateringContractsRemix.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/IOITC2013_CateringContractsRemix.cpp > CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2013_CateringContractsRemix.cpp.i
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2013_CateringContractsRemix.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2013_CateringContractsRemix.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/IOITC2013_CateringContractsRemix.cpp -o CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2013_CateringContractsRemix.cpp.s
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2013_CateringContractsRemix.cpp.o.requires:
+
+.PHONY : CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2013_CateringContractsRemix.cpp.o.requires
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2013_CateringContractsRemix.cpp.o.provides: CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2013_CateringContractsRemix.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2013_CateringContractsRemix.cpp.o.provides.build
+.PHONY : CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2013_CateringContractsRemix.cpp.o.provides
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2013_CateringContractsRemix.cpp.o.provides.build: CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2013_CateringContractsRemix.cpp.o
+
+
+CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2013_MeetingPointAgain.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
+CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2013_MeetingPointAgain.cpp.o: ../Miscellaneous/IOITC2013_MeetingPointAgain.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_437) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2013_MeetingPointAgain.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2013_MeetingPointAgain.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/IOITC2013_MeetingPointAgain.cpp
+
+CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2013_MeetingPointAgain.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2013_MeetingPointAgain.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/IOITC2013_MeetingPointAgain.cpp > CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2013_MeetingPointAgain.cpp.i
+
+CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2013_MeetingPointAgain.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2013_MeetingPointAgain.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/IOITC2013_MeetingPointAgain.cpp -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2013_MeetingPointAgain.cpp.s
+
+CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2013_MeetingPointAgain.cpp.o.requires:
+
+.PHONY : CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2013_MeetingPointAgain.cpp.o.requires
+
+CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2013_MeetingPointAgain.cpp.o.provides: CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2013_MeetingPointAgain.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2013_MeetingPointAgain.cpp.o.provides.build
+.PHONY : CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2013_MeetingPointAgain.cpp.o.provides
+
+CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2013_MeetingPointAgain.cpp.o.provides.build: CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2013_MeetingPointAgain.cpp.o
+
+
+CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2014_Transform.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
+CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2014_Transform.cpp.o: ../Miscellaneous/IOITC2014_Transform.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_438) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2014_Transform.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2014_Transform.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/IOITC2014_Transform.cpp
+
+CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2014_Transform.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2014_Transform.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/IOITC2014_Transform.cpp > CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2014_Transform.cpp.i
+
+CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2014_Transform.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2014_Transform.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/IOITC2014_Transform.cpp -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2014_Transform.cpp.s
+
+CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2014_Transform.cpp.o.requires:
+
+.PHONY : CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2014_Transform.cpp.o.requires
+
+CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2014_Transform.cpp.o.provides: CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2014_Transform.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2014_Transform.cpp.o.provides.build
+.PHONY : CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2014_Transform.cpp.o.provides
+
+CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2014_Transform.cpp.o.provides.build: CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2014_Transform.cpp.o
+
+
+CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2014_HyperSpacePaths.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
+CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2014_HyperSpacePaths.cpp.o: ../Miscellaneous/IOITC2014_HyperSpacePaths.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_439) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2014_HyperSpacePaths.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2014_HyperSpacePaths.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/IOITC2014_HyperSpacePaths.cpp
+
+CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2014_HyperSpacePaths.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2014_HyperSpacePaths.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/IOITC2014_HyperSpacePaths.cpp > CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2014_HyperSpacePaths.cpp.i
+
+CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2014_HyperSpacePaths.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2014_HyperSpacePaths.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/IOITC2014_HyperSpacePaths.cpp -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2014_HyperSpacePaths.cpp.s
+
+CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2014_HyperSpacePaths.cpp.o.requires:
+
+.PHONY : CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2014_HyperSpacePaths.cpp.o.requires
+
+CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2014_HyperSpacePaths.cpp.o.provides: CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2014_HyperSpacePaths.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2014_HyperSpacePaths.cpp.o.provides.build
+.PHONY : CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2014_HyperSpacePaths.cpp.o.provides
+
+CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2014_HyperSpacePaths.cpp.o.provides.build: CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2014_HyperSpacePaths.cpp.o
+
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2014_Granularity.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2014_Granularity.cpp.o: ../DataStructures/IOITC2014_Granularity.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_440) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2014_Granularity.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2014_Granularity.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/IOITC2014_Granularity.cpp
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2014_Granularity.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2014_Granularity.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/IOITC2014_Granularity.cpp > CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2014_Granularity.cpp.i
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2014_Granularity.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2014_Granularity.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/IOITC2014_Granularity.cpp -o CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2014_Granularity.cpp.s
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2014_Granularity.cpp.o.requires:
+
+.PHONY : CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2014_Granularity.cpp.o.requires
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2014_Granularity.cpp.o.provides: CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2014_Granularity.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2014_Granularity.cpp.o.provides.build
+.PHONY : CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2014_Granularity.cpp.o.provides
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2014_Granularity.cpp.o.provides.build: CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2014_Granularity.cpp.o
+
+
+CMakeFiles/Competitive_Programming.dir/ComputationalGeometry/IOITC2014_Crystals.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
+CMakeFiles/Competitive_Programming.dir/ComputationalGeometry/IOITC2014_Crystals.cpp.o: ../ComputationalGeometry/IOITC2014_Crystals.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_441) "Building CXX object CMakeFiles/Competitive_Programming.dir/ComputationalGeometry/IOITC2014_Crystals.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/ComputationalGeometry/IOITC2014_Crystals.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/ComputationalGeometry/IOITC2014_Crystals.cpp
+
+CMakeFiles/Competitive_Programming.dir/ComputationalGeometry/IOITC2014_Crystals.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/ComputationalGeometry/IOITC2014_Crystals.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/ComputationalGeometry/IOITC2014_Crystals.cpp > CMakeFiles/Competitive_Programming.dir/ComputationalGeometry/IOITC2014_Crystals.cpp.i
+
+CMakeFiles/Competitive_Programming.dir/ComputationalGeometry/IOITC2014_Crystals.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/ComputationalGeometry/IOITC2014_Crystals.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/ComputationalGeometry/IOITC2014_Crystals.cpp -o CMakeFiles/Competitive_Programming.dir/ComputationalGeometry/IOITC2014_Crystals.cpp.s
+
+CMakeFiles/Competitive_Programming.dir/ComputationalGeometry/IOITC2014_Crystals.cpp.o.requires:
+
+.PHONY : CMakeFiles/Competitive_Programming.dir/ComputationalGeometry/IOITC2014_Crystals.cpp.o.requires
+
+CMakeFiles/Competitive_Programming.dir/ComputationalGeometry/IOITC2014_Crystals.cpp.o.provides: CMakeFiles/Competitive_Programming.dir/ComputationalGeometry/IOITC2014_Crystals.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/ComputationalGeometry/IOITC2014_Crystals.cpp.o.provides.build
+.PHONY : CMakeFiles/Competitive_Programming.dir/ComputationalGeometry/IOITC2014_Crystals.cpp.o.provides
+
+CMakeFiles/Competitive_Programming.dir/ComputationalGeometry/IOITC2014_Crystals.cpp.o.provides.build: CMakeFiles/Competitive_Programming.dir/ComputationalGeometry/IOITC2014_Crystals.cpp.o
+
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2016_BFSTree.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2016_BFSTree.cpp.o: ../GraphTheory/IOITC2016_BFSTree.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_442) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2016_BFSTree.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2016_BFSTree.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/IOITC2016_BFSTree.cpp
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2016_BFSTree.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2016_BFSTree.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/IOITC2016_BFSTree.cpp > CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2016_BFSTree.cpp.i
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2016_BFSTree.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2016_BFSTree.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/IOITC2016_BFSTree.cpp -o CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2016_BFSTree.cpp.s
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2016_BFSTree.cpp.o.requires:
+
+.PHONY : CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2016_BFSTree.cpp.o.requires
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2016_BFSTree.cpp.o.provides: CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2016_BFSTree.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2016_BFSTree.cpp.o.provides.build
+.PHONY : CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2016_BFSTree.cpp.o.provides
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2016_BFSTree.cpp.o.provides.build: CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2016_BFSTree.cpp.o
+
+
+CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2016_AliceAndPermutations.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
+CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2016_AliceAndPermutations.cpp.o: ../Miscellaneous/IOITC2016_AliceAndPermutations.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_443) "Building CXX object CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2016_AliceAndPermutations.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2016_AliceAndPermutations.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/IOITC2016_AliceAndPermutations.cpp
+
+CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2016_AliceAndPermutations.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2016_AliceAndPermutations.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/IOITC2016_AliceAndPermutations.cpp > CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2016_AliceAndPermutations.cpp.i
+
+CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2016_AliceAndPermutations.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2016_AliceAndPermutations.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/IOITC2016_AliceAndPermutations.cpp -o CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2016_AliceAndPermutations.cpp.s
+
+CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2016_AliceAndPermutations.cpp.o.requires:
+
+.PHONY : CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2016_AliceAndPermutations.cpp.o.requires
+
+CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2016_AliceAndPermutations.cpp.o.provides: CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2016_AliceAndPermutations.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2016_AliceAndPermutations.cpp.o.provides.build
+.PHONY : CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2016_AliceAndPermutations.cpp.o.provides
+
+CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2016_AliceAndPermutations.cpp.o.provides.build: CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2016_AliceAndPermutations.cpp.o
+
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2016_CentralNodes.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2016_CentralNodes.cpp.o: ../GraphTheory/IOITC2016_CentralNodes.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_444) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2016_CentralNodes.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2016_CentralNodes.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/IOITC2016_CentralNodes.cpp
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2016_CentralNodes.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2016_CentralNodes.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/IOITC2016_CentralNodes.cpp > CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2016_CentralNodes.cpp.i
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2016_CentralNodes.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2016_CentralNodes.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/IOITC2016_CentralNodes.cpp -o CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2016_CentralNodes.cpp.s
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2016_CentralNodes.cpp.o.requires:
+
+.PHONY : CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2016_CentralNodes.cpp.o.requires
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2016_CentralNodes.cpp.o.provides: CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2016_CentralNodes.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2016_CentralNodes.cpp.o.provides.build
+.PHONY : CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2016_CentralNodes.cpp.o.provides
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2016_CentralNodes.cpp.o.provides.build: CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2016_CentralNodes.cpp.o
+
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2016_GoodArrays.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2016_GoodArrays.cpp.o: ../DataStructures/IOITC2016_GoodArrays.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_445) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2016_GoodArrays.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2016_GoodArrays.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/IOITC2016_GoodArrays.cpp
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2016_GoodArrays.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2016_GoodArrays.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/IOITC2016_GoodArrays.cpp > CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2016_GoodArrays.cpp.i
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2016_GoodArrays.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2016_GoodArrays.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/IOITC2016_GoodArrays.cpp -o CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2016_GoodArrays.cpp.s
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2016_GoodArrays.cpp.o.requires:
+
+.PHONY : CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2016_GoodArrays.cpp.o.requires
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2016_GoodArrays.cpp.o.provides: CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2016_GoodArrays.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2016_GoodArrays.cpp.o.provides.build
+.PHONY : CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2016_GoodArrays.cpp.o.provides
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2016_GoodArrays.cpp.o.provides.build: CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2016_GoodArrays.cpp.o
+
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2016_DecomposingTree.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2016_DecomposingTree.cpp.o: ../GraphTheory/IOITC2016_DecomposingTree.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_446) "Building CXX object CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2016_DecomposingTree.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2016_DecomposingTree.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/IOITC2016_DecomposingTree.cpp
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2016_DecomposingTree.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2016_DecomposingTree.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/IOITC2016_DecomposingTree.cpp > CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2016_DecomposingTree.cpp.i
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2016_DecomposingTree.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2016_DecomposingTree.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/IOITC2016_DecomposingTree.cpp -o CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2016_DecomposingTree.cpp.s
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2016_DecomposingTree.cpp.o.requires:
+
+.PHONY : CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2016_DecomposingTree.cpp.o.requires
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2016_DecomposingTree.cpp.o.provides: CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2016_DecomposingTree.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2016_DecomposingTree.cpp.o.provides.build
+.PHONY : CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2016_DecomposingTree.cpp.o.provides
+
+CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2016_DecomposingTree.cpp.o.provides.build: CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2016_DecomposingTree.cpp.o
+
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2016_CorrectingHeaps.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2016_CorrectingHeaps.cpp.o: ../DynamicProgramming/OnTrees/IOITC2016_CorrectingHeaps.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_447) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2016_CorrectingHeaps.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2016_CorrectingHeaps.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/IOITC2016_CorrectingHeaps.cpp
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2016_CorrectingHeaps.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2016_CorrectingHeaps.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/IOITC2016_CorrectingHeaps.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2016_CorrectingHeaps.cpp.i
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2016_CorrectingHeaps.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2016_CorrectingHeaps.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/IOITC2016_CorrectingHeaps.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2016_CorrectingHeaps.cpp.s
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2016_CorrectingHeaps.cpp.o.requires:
+
+.PHONY : CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2016_CorrectingHeaps.cpp.o.requires
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2016_CorrectingHeaps.cpp.o.provides: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2016_CorrectingHeaps.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2016_CorrectingHeaps.cpp.o.provides.build
+.PHONY : CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2016_CorrectingHeaps.cpp.o.provides
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2016_CorrectingHeaps.cpp.o.provides.build: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2016_CorrectingHeaps.cpp.o
+
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2016_BlackAndWhiteTree_HLD.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2016_BlackAndWhiteTree_HLD.cpp.o: ../DataStructures/IOITC2016_BlackAndWhiteTree_HLD.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_448) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2016_BlackAndWhiteTree_HLD.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2016_BlackAndWhiteTree_HLD.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/IOITC2016_BlackAndWhiteTree_HLD.cpp
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2016_BlackAndWhiteTree_HLD.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2016_BlackAndWhiteTree_HLD.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/IOITC2016_BlackAndWhiteTree_HLD.cpp > CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2016_BlackAndWhiteTree_HLD.cpp.i
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2016_BlackAndWhiteTree_HLD.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2016_BlackAndWhiteTree_HLD.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/IOITC2016_BlackAndWhiteTree_HLD.cpp -o CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2016_BlackAndWhiteTree_HLD.cpp.s
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2016_BlackAndWhiteTree_HLD.cpp.o.requires:
+
+.PHONY : CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2016_BlackAndWhiteTree_HLD.cpp.o.requires
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2016_BlackAndWhiteTree_HLD.cpp.o.provides: CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2016_BlackAndWhiteTree_HLD.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2016_BlackAndWhiteTree_HLD.cpp.o.provides.build
+.PHONY : CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2016_BlackAndWhiteTree_HLD.cpp.o.provides
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2016_BlackAndWhiteTree_HLD.cpp.o.provides.build: CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2016_BlackAndWhiteTree_HLD.cpp.o
+
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2017_SubarrayMedians.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2017_SubarrayMedians.cpp.o: ../DataStructures/IOITC2017_SubarrayMedians.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_449) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2017_SubarrayMedians.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2017_SubarrayMedians.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/IOITC2017_SubarrayMedians.cpp
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2017_SubarrayMedians.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2017_SubarrayMedians.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/IOITC2017_SubarrayMedians.cpp > CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2017_SubarrayMedians.cpp.i
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2017_SubarrayMedians.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2017_SubarrayMedians.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/IOITC2017_SubarrayMedians.cpp -o CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2017_SubarrayMedians.cpp.s
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2017_SubarrayMedians.cpp.o.requires:
+
+.PHONY : CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2017_SubarrayMedians.cpp.o.requires
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2017_SubarrayMedians.cpp.o.provides: CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2017_SubarrayMedians.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2017_SubarrayMedians.cpp.o.provides.build
+.PHONY : CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2017_SubarrayMedians.cpp.o.provides
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2017_SubarrayMedians.cpp.o.provides.build: CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2017_SubarrayMedians.cpp.o
+
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2017_CollectingCoins.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2017_CollectingCoins.cpp.o: ../DynamicProgramming/OnTrees/IOITC2017_CollectingCoins.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_450) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2017_CollectingCoins.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2017_CollectingCoins.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/IOITC2017_CollectingCoins.cpp
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2017_CollectingCoins.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2017_CollectingCoins.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/IOITC2017_CollectingCoins.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2017_CollectingCoins.cpp.i
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2017_CollectingCoins.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2017_CollectingCoins.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/IOITC2017_CollectingCoins.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2017_CollectingCoins.cpp.s
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2017_CollectingCoins.cpp.o.requires:
+
+.PHONY : CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2017_CollectingCoins.cpp.o.requires
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2017_CollectingCoins.cpp.o.provides: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2017_CollectingCoins.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2017_CollectingCoins.cpp.o.provides.build
+.PHONY : CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2017_CollectingCoins.cpp.o.provides
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2017_CollectingCoins.cpp.o.provides.build: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2017_CollectingCoins.cpp.o
+
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2017_CollectingCoins_brute.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2017_CollectingCoins_brute.cpp.o: ../DynamicProgramming/OnTrees/IOITC2017_CollectingCoins_brute.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_451) "Building CXX object CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2017_CollectingCoins_brute.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2017_CollectingCoins_brute.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/IOITC2017_CollectingCoins_brute.cpp
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2017_CollectingCoins_brute.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2017_CollectingCoins_brute.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/IOITC2017_CollectingCoins_brute.cpp > CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2017_CollectingCoins_brute.cpp.i
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2017_CollectingCoins_brute.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2017_CollectingCoins_brute.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/IOITC2017_CollectingCoins_brute.cpp -o CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2017_CollectingCoins_brute.cpp.s
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2017_CollectingCoins_brute.cpp.o.requires:
+
+.PHONY : CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2017_CollectingCoins_brute.cpp.o.requires
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2017_CollectingCoins_brute.cpp.o.provides: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2017_CollectingCoins_brute.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2017_CollectingCoins_brute.cpp.o.provides.build
+.PHONY : CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2017_CollectingCoins_brute.cpp.o.provides
+
+CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2017_CollectingCoins_brute.cpp.o.provides.build: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2017_CollectingCoins_brute.cpp.o
+
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2017_WalledInversions.cpp.o: CMakeFiles/Competitive_Programming.dir/flags.make
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2017_WalledInversions.cpp.o: ../DataStructures/IOITC2017_WalledInversions.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_452) "Building CXX object CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2017_WalledInversions.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2017_WalledInversions.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/IOITC2017_WalledInversions.cpp
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2017_WalledInversions.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2017_WalledInversions.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/IOITC2017_WalledInversions.cpp > CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2017_WalledInversions.cpp.i
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2017_WalledInversions.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2017_WalledInversions.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/IOITC2017_WalledInversions.cpp -o CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2017_WalledInversions.cpp.s
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2017_WalledInversions.cpp.o.requires:
+
+.PHONY : CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2017_WalledInversions.cpp.o.requires
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2017_WalledInversions.cpp.o.provides: CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2017_WalledInversions.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Competitive_Programming.dir/build.make CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2017_WalledInversions.cpp.o.provides.build
+.PHONY : CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2017_WalledInversions.cpp.o.provides
+
+CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2017_WalledInversions.cpp.o.provides.build: CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2017_WalledInversions.cpp.o
 
 
 # Object files for target Competitive_Programming
@@ -9715,7 +10915,7 @@ Competitive_Programming_OBJECTS = \
 "CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/PersistentSegmentTree.cpp.o" \
 "CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/Pointers.cpp.o" \
 "CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/SegmentTree_RMQ.cpp.o" \
-"CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)HackerEarth_LittleDeepuAndArray.cpp.o" \
+"CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_LittleDeepuAndArray.cpp.o" \
 "CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)OPC_FindThePermutation.cpp.o" \
 "CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)SPOJ_DynamicGraphConnectivity.cpp.o" \
 "CMakeFiles/Competitive_Programming.dir/DataStructures/CC_BlockedWebsites.cpp.o" \
@@ -9801,7 +11001,7 @@ Competitive_Programming_OBJECTS = \
 "CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/ArticulationPointsAndBridges.cpp.o" \
 "CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/LowestCommonAncestor(BinaryLifting).cpp.o" \
 "CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/LowestCommonAncestor.cpp.o" \
-"CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/SCCTarjan.cpp.o" \
+"CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/SCC.cpp.o" \
 "CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/TopologicalSort.cpp.o" \
 "CMakeFiles/Competitive_Programming.dir/GraphTheory/APIO2009_ATMRobbery.cpp.o" \
 "CMakeFiles/Competitive_Programming.dir/GraphTheory/CC_KingdomUnity.cpp.o" \
@@ -9887,7 +11087,6 @@ Competitive_Programming_OBJECTS = \
 "CMakeFiles/Competitive_Programming.dir/Miscellaneous/INOI_TableSum.cpp.o" \
 "CMakeFiles/Competitive_Programming.dir/Miscellaneous/INOI_Triathlon.cpp.o" \
 "CMakeFiles/Competitive_Programming.dir/Miscellaneous/INOI_WealthDisparity.cpp.o" \
-"CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC_BabaAndBitmasks.cpp.o" \
 "CMakeFiles/Competitive_Programming.dir/Miscellaneous/kthDivisor.cpp.o" \
 "CMakeFiles/Competitive_Programming.dir/Miscellaneous/LazyLoading.cpp.o" \
 "CMakeFiles/Competitive_Programming.dir/Miscellaneous/ManicMoving.cpp.o" \
@@ -10065,7 +11264,7 @@ Competitive_Programming_OBJECTS = \
 "CMakeFiles/Competitive_Programming.dir/GraphTheory/CC_TALCA.cpp.o" \
 "CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF816C_KarenAndSupermarket.cpp.o" \
 "CMakeFiles/Competitive_Programming.dir/GraphTheory/CF932D_Tree.cpp.o" \
-"CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC_GraphLIS.cpp.o" \
+"CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2017_GraphLIS.cpp.o" \
 "CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF81E_Pairs.cpp.o" \
 "CMakeFiles/Competitive_Programming.dir/GraphTheory/SPOJ_AMR10J.cpp.o" \
 "CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/SPOJ_TwoPaths.cpp.o" \
@@ -10108,7 +11307,58 @@ Competitive_Programming_OBJECTS = \
 "CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_ChandraguptaBST.cpp.o" \
 "CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_ChandraguptaAndTransport.cpp.o" \
 "CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_ChandraguptaInsurgents.cpp.o" \
-"CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2015_DArray.cpp.o"
+"CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_Grid.cpp.o" \
+"CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_Coloring.cpp.o" \
+"CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_RandomWalks.cpp.o" \
+"CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/CentroidDecomposition.cpp.o" \
+"CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_RandomWalks_Brute.cpp.o" \
+"CMakeFiles/Competitive_Programming.dir/GraphTheory/CF796D_PoliceStations.cpp.o" \
+"CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2015_MonsterChallenge.cpp.o" \
+"CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_Magic.cpp.o" \
+"CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2015_TreeMan.cpp.o" \
+"CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2015_BirthdayPresent.cpp.o" \
+"CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2015_IslandsAndBridges.cpp.o" \
+"CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2012_Facebook.cpp.o" \
+"CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2013_TriangleEquality.cpp.o" \
+"CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2010_AmusementPark.cpp.o" \
+"CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2010_CableThieves.cpp.o" \
+"CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2010_Police.cpp.o" \
+"CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/BlockCutTree.cpp.o" \
+"CMakeFiles/Competitive_Programming.dir/DataStructures/CC_TULIPS.cpp.o" \
+"CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_Circulation.cpp.o" \
+"CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_Dilemma.cpp.o" \
+"CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_Passports.cpp.o" \
+"CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2011_Carnival.cpp.o" \
+"CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_FairSelection.cpp.o" \
+"CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2012_FloweryGraphs.cpp.o" \
+"CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2012_CrazyWalks.cpp.o" \
+"CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IPLBettingStrategy.cpp.o" \
+"CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2012_Cars.cpp.o" \
+"CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2013_HappyJourney.cpp.o" \
+"CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2008_CateringContracts2pi.cpp.o" \
+"CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2013_PetrolTank.cpp.o" \
+"CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2013_MeetingPoint.cpp.o" \
+"CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/RandomNumbers.cpp.o" \
+"CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2013_Stamps.cpp.o" \
+"CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2013_Kindergarten.cpp.o" \
+"CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2013_MacVsPC.cpp.o" \
+"CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2013_CateringContractsRemix.cpp.o" \
+"CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2013_MeetingPointAgain.cpp.o" \
+"CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2014_Transform.cpp.o" \
+"CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2014_HyperSpacePaths.cpp.o" \
+"CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2014_Granularity.cpp.o" \
+"CMakeFiles/Competitive_Programming.dir/ComputationalGeometry/IOITC2014_Crystals.cpp.o" \
+"CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2016_BFSTree.cpp.o" \
+"CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2016_AliceAndPermutations.cpp.o" \
+"CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2016_CentralNodes.cpp.o" \
+"CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2016_GoodArrays.cpp.o" \
+"CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2016_DecomposingTree.cpp.o" \
+"CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2016_CorrectingHeaps.cpp.o" \
+"CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2016_BlackAndWhiteTree_HLD.cpp.o" \
+"CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2017_SubarrayMedians.cpp.o" \
+"CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2017_CollectingCoins.cpp.o" \
+"CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2017_CollectingCoins_brute.cpp.o" \
+"CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2017_WalledInversions.cpp.o"
 
 # External object files for target Competitive_Programming
 Competitive_Programming_EXTERNAL_OBJECTS =
@@ -10121,7 +11371,7 @@ Competitive_Programming: CMakeFiles/Competitive_Programming.dir/DataStructures/I
 Competitive_Programming: CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/PersistentSegmentTree.cpp.o
 Competitive_Programming: CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/Pointers.cpp.o
 Competitive_Programming: CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/SegmentTree_RMQ.cpp.o
-Competitive_Programming: CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)HackerEarth_LittleDeepuAndArray.cpp.o
+Competitive_Programming: CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_LittleDeepuAndArray.cpp.o
 Competitive_Programming: CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)OPC_FindThePermutation.cpp.o
 Competitive_Programming: CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)SPOJ_DynamicGraphConnectivity.cpp.o
 Competitive_Programming: CMakeFiles/Competitive_Programming.dir/DataStructures/CC_BlockedWebsites.cpp.o
@@ -10207,7 +11457,7 @@ Competitive_Programming: CMakeFiles/Competitive_Programming.dir/GraphTheory/Impl
 Competitive_Programming: CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/ArticulationPointsAndBridges.cpp.o
 Competitive_Programming: CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/LowestCommonAncestor(BinaryLifting).cpp.o
 Competitive_Programming: CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/LowestCommonAncestor.cpp.o
-Competitive_Programming: CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/SCCTarjan.cpp.o
+Competitive_Programming: CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/SCC.cpp.o
 Competitive_Programming: CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/TopologicalSort.cpp.o
 Competitive_Programming: CMakeFiles/Competitive_Programming.dir/GraphTheory/APIO2009_ATMRobbery.cpp.o
 Competitive_Programming: CMakeFiles/Competitive_Programming.dir/GraphTheory/CC_KingdomUnity.cpp.o
@@ -10293,7 +11543,6 @@ Competitive_Programming: CMakeFiles/Competitive_Programming.dir/Miscellaneous/IN
 Competitive_Programming: CMakeFiles/Competitive_Programming.dir/Miscellaneous/INOI_TableSum.cpp.o
 Competitive_Programming: CMakeFiles/Competitive_Programming.dir/Miscellaneous/INOI_Triathlon.cpp.o
 Competitive_Programming: CMakeFiles/Competitive_Programming.dir/Miscellaneous/INOI_WealthDisparity.cpp.o
-Competitive_Programming: CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC_BabaAndBitmasks.cpp.o
 Competitive_Programming: CMakeFiles/Competitive_Programming.dir/Miscellaneous/kthDivisor.cpp.o
 Competitive_Programming: CMakeFiles/Competitive_Programming.dir/Miscellaneous/LazyLoading.cpp.o
 Competitive_Programming: CMakeFiles/Competitive_Programming.dir/Miscellaneous/ManicMoving.cpp.o
@@ -10471,7 +11720,7 @@ Competitive_Programming: CMakeFiles/Competitive_Programming.dir/DataStructures/E
 Competitive_Programming: CMakeFiles/Competitive_Programming.dir/GraphTheory/CC_TALCA.cpp.o
 Competitive_Programming: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF816C_KarenAndSupermarket.cpp.o
 Competitive_Programming: CMakeFiles/Competitive_Programming.dir/GraphTheory/CF932D_Tree.cpp.o
-Competitive_Programming: CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC_GraphLIS.cpp.o
+Competitive_Programming: CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2017_GraphLIS.cpp.o
 Competitive_Programming: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF81E_Pairs.cpp.o
 Competitive_Programming: CMakeFiles/Competitive_Programming.dir/GraphTheory/SPOJ_AMR10J.cpp.o
 Competitive_Programming: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/SPOJ_TwoPaths.cpp.o
@@ -10514,10 +11763,61 @@ Competitive_Programming: CMakeFiles/Competitive_Programming.dir/DataStructures/C
 Competitive_Programming: CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_ChandraguptaBST.cpp.o
 Competitive_Programming: CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_ChandraguptaAndTransport.cpp.o
 Competitive_Programming: CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_ChandraguptaInsurgents.cpp.o
-Competitive_Programming: CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2015_DArray.cpp.o
+Competitive_Programming: CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_Grid.cpp.o
+Competitive_Programming: CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_Coloring.cpp.o
+Competitive_Programming: CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_RandomWalks.cpp.o
+Competitive_Programming: CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/CentroidDecomposition.cpp.o
+Competitive_Programming: CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_RandomWalks_Brute.cpp.o
+Competitive_Programming: CMakeFiles/Competitive_Programming.dir/GraphTheory/CF796D_PoliceStations.cpp.o
+Competitive_Programming: CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2015_MonsterChallenge.cpp.o
+Competitive_Programming: CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_Magic.cpp.o
+Competitive_Programming: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2015_TreeMan.cpp.o
+Competitive_Programming: CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2015_BirthdayPresent.cpp.o
+Competitive_Programming: CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2015_IslandsAndBridges.cpp.o
+Competitive_Programming: CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2012_Facebook.cpp.o
+Competitive_Programming: CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2013_TriangleEquality.cpp.o
+Competitive_Programming: CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2010_AmusementPark.cpp.o
+Competitive_Programming: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2010_CableThieves.cpp.o
+Competitive_Programming: CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2010_Police.cpp.o
+Competitive_Programming: CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/BlockCutTree.cpp.o
+Competitive_Programming: CMakeFiles/Competitive_Programming.dir/DataStructures/CC_TULIPS.cpp.o
+Competitive_Programming: CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_Circulation.cpp.o
+Competitive_Programming: CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_Dilemma.cpp.o
+Competitive_Programming: CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_Passports.cpp.o
+Competitive_Programming: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2011_Carnival.cpp.o
+Competitive_Programming: CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_FairSelection.cpp.o
+Competitive_Programming: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2012_FloweryGraphs.cpp.o
+Competitive_Programming: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2012_CrazyWalks.cpp.o
+Competitive_Programming: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IPLBettingStrategy.cpp.o
+Competitive_Programming: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2012_Cars.cpp.o
+Competitive_Programming: CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2013_HappyJourney.cpp.o
+Competitive_Programming: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2008_CateringContracts2pi.cpp.o
+Competitive_Programming: CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2013_PetrolTank.cpp.o
+Competitive_Programming: CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2013_MeetingPoint.cpp.o
+Competitive_Programming: CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/RandomNumbers.cpp.o
+Competitive_Programming: CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2013_Stamps.cpp.o
+Competitive_Programming: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2013_Kindergarten.cpp.o
+Competitive_Programming: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2013_MacVsPC.cpp.o
+Competitive_Programming: CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2013_CateringContractsRemix.cpp.o
+Competitive_Programming: CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2013_MeetingPointAgain.cpp.o
+Competitive_Programming: CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2014_Transform.cpp.o
+Competitive_Programming: CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2014_HyperSpacePaths.cpp.o
+Competitive_Programming: CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2014_Granularity.cpp.o
+Competitive_Programming: CMakeFiles/Competitive_Programming.dir/ComputationalGeometry/IOITC2014_Crystals.cpp.o
+Competitive_Programming: CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2016_BFSTree.cpp.o
+Competitive_Programming: CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2016_AliceAndPermutations.cpp.o
+Competitive_Programming: CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2016_CentralNodes.cpp.o
+Competitive_Programming: CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2016_GoodArrays.cpp.o
+Competitive_Programming: CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2016_DecomposingTree.cpp.o
+Competitive_Programming: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2016_CorrectingHeaps.cpp.o
+Competitive_Programming: CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2016_BlackAndWhiteTree_HLD.cpp.o
+Competitive_Programming: CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2017_SubarrayMedians.cpp.o
+Competitive_Programming: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2017_CollectingCoins.cpp.o
+Competitive_Programming: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2017_CollectingCoins_brute.cpp.o
+Competitive_Programming: CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2017_WalledInversions.cpp.o
 Competitive_Programming: CMakeFiles/Competitive_Programming.dir/build.make
 Competitive_Programming: CMakeFiles/Competitive_Programming.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_403) "Linking CXX executable Competitive_Programming"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_453) "Linking CXX executable Competitive_Programming"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Competitive_Programming.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -10533,7 +11833,7 @@ CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programm
 CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/PersistentSegmentTree.cpp.o.requires
 CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/Pointers.cpp.o.requires
 CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/SegmentTree_RMQ.cpp.o.requires
-CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)HackerEarth_LittleDeepuAndArray.cpp.o.requires
+CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/DataStructures/HackerEarth_LittleDeepuAndArray.cpp.o.requires
 CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)OPC_FindThePermutation.cpp.o.requires
 CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/DataStructures/(TODO)SPOJ_DynamicGraphConnectivity.cpp.o.requires
 CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/DataStructures/CC_BlockedWebsites.cpp.o.requires
@@ -10619,7 +11919,7 @@ CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programm
 CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/ArticulationPointsAndBridges.cpp.o.requires
 CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/LowestCommonAncestor(BinaryLifting).cpp.o.requires
 CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/LowestCommonAncestor.cpp.o.requires
-CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/SCCTarjan.cpp.o.requires
+CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/SCC.cpp.o.requires
 CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/TopologicalSort.cpp.o.requires
 CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/GraphTheory/APIO2009_ATMRobbery.cpp.o.requires
 CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/GraphTheory/CC_KingdomUnity.cpp.o.requires
@@ -10705,7 +12005,6 @@ CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programm
 CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/Miscellaneous/INOI_TableSum.cpp.o.requires
 CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/Miscellaneous/INOI_Triathlon.cpp.o.requires
 CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/Miscellaneous/INOI_WealthDisparity.cpp.o.requires
-CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC_BabaAndBitmasks.cpp.o.requires
 CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/Miscellaneous/kthDivisor.cpp.o.requires
 CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/Miscellaneous/LazyLoading.cpp.o.requires
 CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/Miscellaneous/ManicMoving.cpp.o.requires
@@ -10883,7 +12182,7 @@ CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programm
 CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/GraphTheory/CC_TALCA.cpp.o.requires
 CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/CF816C_KarenAndSupermarket.cpp.o.requires
 CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/GraphTheory/CF932D_Tree.cpp.o.requires
-CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC_GraphLIS.cpp.o.requires
+CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2017_GraphLIS.cpp.o.requires
 CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/CF81E_Pairs.cpp.o.requires
 CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/GraphTheory/SPOJ_AMR10J.cpp.o.requires
 CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/SPOJ_TwoPaths.cpp.o.requires
@@ -10926,7 +12225,58 @@ CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programm
 CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_ChandraguptaBST.cpp.o.requires
 CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_ChandraguptaAndTransport.cpp.o.requires
 CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_ChandraguptaInsurgents.cpp.o.requires
-CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2015_DArray.cpp.o.requires
+CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_Grid.cpp.o.requires
+CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_Coloring.cpp.o.requires
+CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_RandomWalks.cpp.o.requires
+CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/DataStructures/Implementation/CentroidDecomposition.cpp.o.requires
+CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_RandomWalks_Brute.cpp.o.requires
+CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/GraphTheory/CF796D_PoliceStations.cpp.o.requires
+CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2015_MonsterChallenge.cpp.o.requires
+CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2015_Magic.cpp.o.requires
+CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2015_TreeMan.cpp.o.requires
+CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2015_BirthdayPresent.cpp.o.requires
+CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2015_IslandsAndBridges.cpp.o.requires
+CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2012_Facebook.cpp.o.requires
+CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2013_TriangleEquality.cpp.o.requires
+CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2010_AmusementPark.cpp.o.requires
+CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2010_CableThieves.cpp.o.requires
+CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2010_Police.cpp.o.requires
+CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/GraphTheory/Implementation/BlockCutTree.cpp.o.requires
+CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/DataStructures/CC_TULIPS.cpp.o.requires
+CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_Circulation.cpp.o.requires
+CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_Dilemma.cpp.o.requires
+CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_Passports.cpp.o.requires
+CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2011_Carnival.cpp.o.requires
+CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2011_FairSelection.cpp.o.requires
+CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2012_FloweryGraphs.cpp.o.requires
+CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2012_CrazyWalks.cpp.o.requires
+CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IPLBettingStrategy.cpp.o.requires
+CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2012_Cars.cpp.o.requires
+CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2013_HappyJourney.cpp.o.requires
+CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2008_CateringContracts2pi.cpp.o.requires
+CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2013_PetrolTank.cpp.o.requires
+CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2013_MeetingPoint.cpp.o.requires
+CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/OtherAlgorithms/RandomNumbers.cpp.o.requires
+CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2013_Stamps.cpp.o.requires
+CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2013_Kindergarten.cpp.o.requires
+CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/IOITC2013_MacVsPC.cpp.o.requires
+CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2013_CateringContractsRemix.cpp.o.requires
+CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2013_MeetingPointAgain.cpp.o.requires
+CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2014_Transform.cpp.o.requires
+CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2014_HyperSpacePaths.cpp.o.requires
+CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2014_Granularity.cpp.o.requires
+CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/ComputationalGeometry/IOITC2014_Crystals.cpp.o.requires
+CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2016_BFSTree.cpp.o.requires
+CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/Miscellaneous/IOITC2016_AliceAndPermutations.cpp.o.requires
+CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2016_CentralNodes.cpp.o.requires
+CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2016_GoodArrays.cpp.o.requires
+CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/GraphTheory/IOITC2016_DecomposingTree.cpp.o.requires
+CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2016_CorrectingHeaps.cpp.o.requires
+CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2016_BlackAndWhiteTree_HLD.cpp.o.requires
+CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2017_SubarrayMedians.cpp.o.requires
+CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2017_CollectingCoins.cpp.o.requires
+CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/DynamicProgramming/OnTrees/IOITC2017_CollectingCoins_brute.cpp.o.requires
+CMakeFiles/Competitive_Programming.dir/requires: CMakeFiles/Competitive_Programming.dir/DataStructures/IOITC2017_WalledInversions.cpp.o.requires
 
 .PHONY : CMakeFiles/Competitive_Programming.dir/requires
 

@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/IOITC2017_WalledInversions.dir/DataStructures/IOITC2017_WalledInversions.cpp.o  -o IOITC2017_WalledInversions 

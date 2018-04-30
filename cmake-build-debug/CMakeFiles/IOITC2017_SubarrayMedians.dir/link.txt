@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/IOITC2017_SubarrayMedians.dir/DataStructures/IOITC2017_SubarrayMedians.cpp.o  -o IOITC2017_SubarrayMedians 

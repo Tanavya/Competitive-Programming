@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/IOITC_GraphLIS.cpp" "/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles/IOITC_GraphLIS.dir/GraphTheory/IOITC_GraphLIS.cpp.o"
+  "/Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/IOITC2017_GraphLIS.cpp" "/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles/IOITC_GraphLIS.dir/GraphTheory/IOITC2017_GraphLIS.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

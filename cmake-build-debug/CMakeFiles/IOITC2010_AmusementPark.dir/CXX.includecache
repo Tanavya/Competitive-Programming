@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/IOITC2010_AmusementPark.cpp
+vector
+-
+stdio.h
+-
+queue
+-
+iostream
+-
+map
+-
+assert.h
+-
+set
+-
+bitset
+-
+algorithm
+-
+cstring
+-
+

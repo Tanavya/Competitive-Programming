@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/OnTrees/IOITC2015_TreeMan.cpp
+iostream
+-
+vector
+-
+stdio.h
+-
+set
+-
+queue
+-
+assert.h
+-
+

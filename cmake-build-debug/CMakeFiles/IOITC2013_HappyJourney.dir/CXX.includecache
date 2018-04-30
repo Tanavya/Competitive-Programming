@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/IOITC2013_HappyJourney.cpp
+vector
+-
+algorithm
+-
+stdio.h
+-
+assert.h
+-
+bitset
+-
+queue
+-
+

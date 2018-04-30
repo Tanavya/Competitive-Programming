@@ -36,7 +36,7 @@ typedef std::vector <ll> vll;
 typedef std::vector <ld> vld;
 
 const ll INF64 = ll(1e18);
-const PI = 3.1415926535897932384626433832795;
+const ld PI = 3.1415926535897932384626433832795;
 using namespace std;
 
 double INF = 1e100; double EPS = 1e-12;

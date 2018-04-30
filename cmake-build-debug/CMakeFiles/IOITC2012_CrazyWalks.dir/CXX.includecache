@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/IOITC2012_CrazyWalks.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+stdio.h
+-
+cmath
+-
+assert.h
+-
+map
+-
+queue
+-
+set
+-
+

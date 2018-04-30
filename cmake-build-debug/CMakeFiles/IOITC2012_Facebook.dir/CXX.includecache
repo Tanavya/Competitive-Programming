@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/IOITC2012_Facebook.cpp
+iostream
+-
+vector
+-
+stdio.h
+-
+queue
+-
+set
+-
+assert.h
+-
+bitset
+-
+algorithm
+-
+cstring
+-
+

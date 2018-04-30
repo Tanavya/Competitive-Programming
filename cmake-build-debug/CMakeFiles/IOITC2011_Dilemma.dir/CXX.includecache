@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/IOITC2011_Dilemma.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+stdio.h
+-
+cmath
+-
+assert.h
+-
+map
+-
+stack
+-
+

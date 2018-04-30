@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/IOITC_GraphLIS.dir/GraphTheory/IOITC_GraphLIS.cpp.o"
+  "CMakeFiles/IOITC_GraphLIS.dir/GraphTheory/IOITC2017_GraphLIS.cpp.o"
   "IOITC_GraphLIS.pdb"
   "IOITC_GraphLIS"
 )

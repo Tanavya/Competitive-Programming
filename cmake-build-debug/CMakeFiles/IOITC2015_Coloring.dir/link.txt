@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/IOITC2015_Coloring.dir/DataStructures/IOITC2015_Coloring.cpp.o  -o IOITC2015_Coloring 

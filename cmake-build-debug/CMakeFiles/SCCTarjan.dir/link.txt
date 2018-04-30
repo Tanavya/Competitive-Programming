@@ -1,1 +1,1 @@
-/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/SCCTarjan.dir/GraphTheory/Implementation/SCCTarjan.cpp.o  -o SCCTarjan 
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/SCCTarjan.dir/GraphTheory/Implementation/SCC.cpp.o  -o SCCTarjan 

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/tanavya.dimri/Desktop/Competitive-Programming/DynamicProgramming/IOITC2013_Kindergarten.cpp
+vector
+-
+algorithm
+-
+stdio.h
+-
+cmath
+-
+assert.h
+-
+queue
+-
+bitset
+-
+map
+-
+iostream
+-
+

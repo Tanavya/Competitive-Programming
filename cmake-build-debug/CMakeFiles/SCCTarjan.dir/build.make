@@ -57,38 +57,38 @@ include CMakeFiles/SCCTarjan.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/SCCTarjan.dir/flags.make
 
-CMakeFiles/SCCTarjan.dir/GraphTheory/Implementation/SCCTarjan.cpp.o: CMakeFiles/SCCTarjan.dir/flags.make
-CMakeFiles/SCCTarjan.dir/GraphTheory/Implementation/SCCTarjan.cpp.o: ../GraphTheory/Implementation/SCCTarjan.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/SCCTarjan.dir/GraphTheory/Implementation/SCCTarjan.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/SCCTarjan.dir/GraphTheory/Implementation/SCCTarjan.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/SCCTarjan.cpp
+CMakeFiles/SCCTarjan.dir/GraphTheory/Implementation/SCC.cpp.o: CMakeFiles/SCCTarjan.dir/flags.make
+CMakeFiles/SCCTarjan.dir/GraphTheory/Implementation/SCC.cpp.o: ../GraphTheory/Implementation/SCC.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/SCCTarjan.dir/GraphTheory/Implementation/SCC.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/SCCTarjan.dir/GraphTheory/Implementation/SCC.cpp.o -c /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/SCC.cpp
 
-CMakeFiles/SCCTarjan.dir/GraphTheory/Implementation/SCCTarjan.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SCCTarjan.dir/GraphTheory/Implementation/SCCTarjan.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/SCCTarjan.cpp > CMakeFiles/SCCTarjan.dir/GraphTheory/Implementation/SCCTarjan.cpp.i
+CMakeFiles/SCCTarjan.dir/GraphTheory/Implementation/SCC.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SCCTarjan.dir/GraphTheory/Implementation/SCC.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/SCC.cpp > CMakeFiles/SCCTarjan.dir/GraphTheory/Implementation/SCC.cpp.i
 
-CMakeFiles/SCCTarjan.dir/GraphTheory/Implementation/SCCTarjan.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SCCTarjan.dir/GraphTheory/Implementation/SCCTarjan.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/SCCTarjan.cpp -o CMakeFiles/SCCTarjan.dir/GraphTheory/Implementation/SCCTarjan.cpp.s
+CMakeFiles/SCCTarjan.dir/GraphTheory/Implementation/SCC.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SCCTarjan.dir/GraphTheory/Implementation/SCC.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/Implementation/SCC.cpp -o CMakeFiles/SCCTarjan.dir/GraphTheory/Implementation/SCC.cpp.s
 
-CMakeFiles/SCCTarjan.dir/GraphTheory/Implementation/SCCTarjan.cpp.o.requires:
+CMakeFiles/SCCTarjan.dir/GraphTheory/Implementation/SCC.cpp.o.requires:
 
-.PHONY : CMakeFiles/SCCTarjan.dir/GraphTheory/Implementation/SCCTarjan.cpp.o.requires
+.PHONY : CMakeFiles/SCCTarjan.dir/GraphTheory/Implementation/SCC.cpp.o.requires
 
-CMakeFiles/SCCTarjan.dir/GraphTheory/Implementation/SCCTarjan.cpp.o.provides: CMakeFiles/SCCTarjan.dir/GraphTheory/Implementation/SCCTarjan.cpp.o.requires
-	$(MAKE) -f CMakeFiles/SCCTarjan.dir/build.make CMakeFiles/SCCTarjan.dir/GraphTheory/Implementation/SCCTarjan.cpp.o.provides.build
-.PHONY : CMakeFiles/SCCTarjan.dir/GraphTheory/Implementation/SCCTarjan.cpp.o.provides
+CMakeFiles/SCCTarjan.dir/GraphTheory/Implementation/SCC.cpp.o.provides: CMakeFiles/SCCTarjan.dir/GraphTheory/Implementation/SCC.cpp.o.requires
+	$(MAKE) -f CMakeFiles/SCCTarjan.dir/build.make CMakeFiles/SCCTarjan.dir/GraphTheory/Implementation/SCC.cpp.o.provides.build
+.PHONY : CMakeFiles/SCCTarjan.dir/GraphTheory/Implementation/SCC.cpp.o.provides
 
-CMakeFiles/SCCTarjan.dir/GraphTheory/Implementation/SCCTarjan.cpp.o.provides.build: CMakeFiles/SCCTarjan.dir/GraphTheory/Implementation/SCCTarjan.cpp.o
+CMakeFiles/SCCTarjan.dir/GraphTheory/Implementation/SCC.cpp.o.provides.build: CMakeFiles/SCCTarjan.dir/GraphTheory/Implementation/SCC.cpp.o
 
 
 # Object files for target SCCTarjan
 SCCTarjan_OBJECTS = \
-"CMakeFiles/SCCTarjan.dir/GraphTheory/Implementation/SCCTarjan.cpp.o"
+"CMakeFiles/SCCTarjan.dir/GraphTheory/Implementation/SCC.cpp.o"
 
 # External object files for target SCCTarjan
 SCCTarjan_EXTERNAL_OBJECTS =
 
-SCCTarjan: CMakeFiles/SCCTarjan.dir/GraphTheory/Implementation/SCCTarjan.cpp.o
+SCCTarjan: CMakeFiles/SCCTarjan.dir/GraphTheory/Implementation/SCC.cpp.o
 SCCTarjan: CMakeFiles/SCCTarjan.dir/build.make
 SCCTarjan: CMakeFiles/SCCTarjan.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/tanavya.dimri/Desktop/Competitive-Programming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable SCCTarjan"
@@ -99,7 +99,7 @@ CMakeFiles/SCCTarjan.dir/build: SCCTarjan
 
 .PHONY : CMakeFiles/SCCTarjan.dir/build
 
-CMakeFiles/SCCTarjan.dir/requires: CMakeFiles/SCCTarjan.dir/GraphTheory/Implementation/SCCTarjan.cpp.o.requires
+CMakeFiles/SCCTarjan.dir/requires: CMakeFiles/SCCTarjan.dir/GraphTheory/Implementation/SCC.cpp.o.requires
 
 .PHONY : CMakeFiles/SCCTarjan.dir/requires
 

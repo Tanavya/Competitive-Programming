@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/tanavya.dimri/Desktop/Competitive-Programming/Miscellaneous/IOITC2015_BirthdayPresent.cpp
+iostream
+-
+vector
+-
+stdio.h
+-
+set
+-
+queue
+-
+assert.h
+-
+

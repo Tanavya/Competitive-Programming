@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/tanavya.dimri/Desktop/Competitive-Programming/GraphTheory/IOITC2016_BFSTree.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+stdio.h
+-
+queue
+-
+assert.h
+-
+bitset
+-
+set
+-
+

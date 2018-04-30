@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/IOITC2017_SubarrayMedians.cpp
+vector
+-
+algorithm
+-
+stdio.h
+-
+assert.h
+-
+cmath
+-
+iostream
+-
+

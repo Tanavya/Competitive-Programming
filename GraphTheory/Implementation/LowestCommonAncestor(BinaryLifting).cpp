@@ -39,44 +39,47 @@ const ld EPS = 1e-9, PI = 3.1415926535897932384626433832795;
 using namespace std;
 
 const int maxn = 1e5+7;
-int N, lvl[maxn], P[maxn][21];
+int N, depth[maxn], P[maxn][21];
 vector <vi> tree(maxn);
 
-void dfs(int node, int par) {
-
-	lvl[node] = lvl[par] + 1;
+void dfs0(int node, int par) {
+	depth[node] = depth[par] + 1;
 	P[node][0] = par;
 	for (int adj : tree[node]) {
 		if (adj != par) {
-			dfs(adj, node);
+			dfs0(adj, node);
 		}
 	}
-
 }
 
 int lca(int u, int v) {
-	if (lvl[u] < lvl[v]) swap(u, v);
-
-	int k;
-	for(k = 0; (1<<k) <= lvl[u]; k++);
-	k--;
-
-	for (int i = k; i >= 0; i--) {
-		if (P[u][i] != -1 && lvl[u] - (1 << i) >= lvl[v]) {
+	if (depth[u] < depth[v])
+		swap(u, v);
+	int d = depth[u] - depth[v];
+	for (int i = 0; i < 20; i++) {
+		if (d & (1 << i)) {
 			u = P[u][i];
 		}
 	}
 	if (u == v)
 		return u;
-
-	for (int i = k; i >= 0; i--) {
-		if (P[u][i] != -1 && P[u][i] != P[v][i]) {
+	for (int i = 19; i >= 0; i--) {
+		if (P[u][i] != P[v][i]) {
 			u = P[u][i];
 			v = P[v][i];
 		}
 	}
 	assert(P[u][0] == P[v][0]);
 	return P[u][0];
+}
+
+void preprocess() {
+	dfs0(1, 0);
+	for (int i = 1; i < 20; i++) {
+		for (int u = 1; u <= N; u++) {
+			P[u][i] = P[P[u][i-1]][i-1];
+		}
+	}
 }
 
 int getAncestor(int u, int dist) {
@@ -90,9 +93,8 @@ int getAncestor(int u, int dist) {
 	}
 	return u;
 }
+
 int main() {
-
-
 	#ifndef ONLINE_JUDGE
 		freopen("inp.txt", "r", stdin);
 	#endif
@@ -111,17 +113,7 @@ int main() {
 		}
 	}
 
-	lvl[0] = -1;
-	dfs(1, 0);
-
-	for (int i = 1; i < 21; i++) {
-		for (int u = 1; u <= N; u++) {
-			if (P[u][i-1] != -1) {
-				P[u][i] = P[P[u][i-1]][i-1];
-			}
-		}
-	}
-
+	preprocess();
 	int Q;
 	scanf("%d", &Q);
 	int dist;

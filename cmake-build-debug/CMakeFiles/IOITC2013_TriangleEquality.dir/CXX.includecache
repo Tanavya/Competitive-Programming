@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/tanavya.dimri/Desktop/Competitive-Programming/DataStructures/IOITC2013_TriangleEquality.cpp
+vector
+-
+stdio.h
+-
+queue
+-
+iostream
+-
+map
+-
+set
+-
+bitset
+-
+algorithm
+-
+cstring
+-
+

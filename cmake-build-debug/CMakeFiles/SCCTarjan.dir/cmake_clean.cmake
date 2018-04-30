@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/SCCTarjan.dir/GraphTheory/Implementation/SCCTarjan.cpp.o"
+  "CMakeFiles/SCCTarjan.dir/GraphTheory/Implementation/SCC.cpp.o"
   "SCCTarjan.pdb"
   "SCCTarjan"
 )

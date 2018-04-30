@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/IOITC2016_CorrectingHeaps.dir/DynamicProgramming/OnTrees/IOITC2016_CorrectingHeaps.cpp.o  -o IOITC2016_CorrectingHeaps 

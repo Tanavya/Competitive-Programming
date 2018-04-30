@@ -56,7 +56,6 @@ void add(int i) {
     if (cnt[A[i]] >= 0)
         above[cnt[A[i]]]++;
     cnt[A[i]]++;
-
 }
 
 void rem(int i) {

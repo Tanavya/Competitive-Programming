@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/IOITC2016_DecomposingTree.dir/GraphTheory/IOITC2016_DecomposingTree.cpp.o  -o IOITC2016_DecomposingTree 
